@@ -1,0 +1,806 @@
+[
+  {
+    "translation": {
+      "en": "Operating instructions",
+      "nl": "Gebruiksaanwijzing"
+    }
+  },
+  {
+    "translation": {
+      "en": "This appliance is designed for domestic and not industrial use.",
+      "nl": "Dit apparaat is bedoeld voor huishoudelijk en niet voor zakelijk gebruik."
+    }
+  },
+  {
+    "translation": {
+      "en": "Please read the operating instructions carefully and keep them in a safe place.",
+      "nl": "Lees de gebruiksaanwijzing a.u.b. goed en bewaar deze zorgvuldig."
+    }
+  },
+  {
+    "translation": {
+      "en": "Use the appliance for processing normal quantities of food for domestic use.",
+      "nl": "Gebruik het apparaat uitsluitend voor verwerkingshoeveelheden en -tijden die gebruikelijk zijn in het huishouden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Safety instructions",
+      "nl": "Veiligheidsvoorschriften"
+    }
+  },
+  {
+    "translation": {
+      "en": "Risk of electric shock!",
+      "nl": "Gevaar van elektrische schok!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Render your redundant appliance unusable.",
+      "nl": "Oude apparaten onbruikbaar maken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Connect and operate the appliance only in accordance with the specifications on the rating plate.",
+      "nl": "Het apparaat uitsluitend volgens de gegevens op het typeplaatje op het stopcontact aansluiten en gebruiken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not connect the appliance if the power cord, the appliance or parts are damaged.",
+      "nl": "Het apparaat niet aansluiten wanneer het aansluitsnoer, het apparaat of delen daarvan beschadigd zijn."
+    }
+  },
+  {
+    "translation": {
+      "en": "Before using the appliance, always check the lid and filter for damage.",
+      "nl": "Voor elk gebruik het deksel en de zeef controleren op beschadiging."
+    }
+  },
+  {
+    "translation": {
+      "en": "To prevent injury, have a damaged power cord replaced by the manufacturer, his customer service or an equally qualified technician.",
+      "nl": "Om gevaren te vermijden mag een beschadigd aansluitsnoer uitsluitend worden vervangen door de fabrikant, diens klantenservice of een gelijkwaardige vakman."
+    }
+  },
+  {
+    "translation": {
+      "en": "The appliance may be repaired by our customer service only.",
+      "nl": "Reparaties aan het apparaat mogen uitsluitend worden uitgevoerd door onze klantenservice."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not bring the power cord into contact with hot parts, do not pull it over sharp ridges or carry the appliance by the power cord.",
+      "nl": "Het aansluitsnoer niet in contact brengen met hete onderdelen, niet langs scherpe randen trekken en niet gebruiken om het apparaat te dragen."
+    }
+  },
+  {
+    "translation": {
+      "en": "After using the appliance, before cleaning the appliance or if a fault occurs, always pull out the mains plug.",
+      "nl": "Trek de stekker altijd uit het stopcontact na gebruik van het apparaat voordat u het apparaat reinigt of indien er storing optreedt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not dismantle the appliance until the motor has stopped.",
+      "nl": "Neem het apparaat pas uit elkaar wanneer de motor stilstaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "Never immerse the appliance, power cord or mains plug in water or other liquids.",
+      "nl": "Apparaat, aansluitsnoer en netstekker nooit in water of andere vloeistof dompelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep children away from the appliance.",
+      "nl": "Houd kinderen uit de buurt van het apparaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "Risk of injury!",
+      "nl": "Verwondinggevaar!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not place fingers in the filing shaft.",
+      "nl": "Niet met de vingers in de vulopening grijpen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Use the supplied pusher only!",
+      "nl": "Altijd de bijgevoegde stopper gebruiken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Safety systems",
+      "nl": "Veiligheidssystemen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Switch-on safety feature",
+      "nl": "Inschakelbeveiliging"
+    }
+  },
+  {
+    "translation": {
+      "en": "The appliance cannot be switched on unless",
+      "nl": "Het apparaat kan alleen worden ingeschakeld wanneer"
+    }
+  },
+  {
+    "translation": {
+      "en": "-filter tray and lid have been attached correctly",
+      "nl": "- het zeefbakje en het deksel goed zijn aangebracht."
+    }
+  },
+  {
+    "translation": {
+      "en": "and",
+      "nl": "en"
+    }
+  },
+  {
+    "translation": {
+      "en": "-the pulp container has been inserted correctly.",
+      "nl": "- de pulpbak goed is aangebracht."
+    }
+  },
+  {
+    "translation": {
+      "en": "Before using the appliance, always check the lid lock by pulling on the filling shaft!",
+      "nl": "Voor elk gebruik de dekselvergrendeling controleren door aan de vulopening te trekken!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Overload protection",
+      "nl": "Overbelastingsbeveiliging"
+    }
+  },
+  {
+    "translation": {
+      "en": "If the motor switches itself off while the appliance is in use, the overload protection has been activated.",
+      "nl": "Wanneer de motor tijdens het gebruik automatisch uitschakelt, is de overbelastingsbeveiliging geactiveerd."
+    }
+  },
+  {
+    "translation": {
+      "en": "Possible causes:",
+      "nl": "Mogelijke oorzaken:"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Pulp container full",
+      "nl": "- pulpbak is vol;"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Excessive pressure on the pusher when adding fruit and vegetables",
+      "nl": "- er is te hard op de stopper gedrukt bij het toevoegen van fruit en groente."
+    }
+  },
+  {
+    "translation": {
+      "en": "In this case proceed as follows:",
+      "nl": "Ga in dit geval als volgt te werk:"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Switch off the appliance and pull out the mains plug.",
+      "nl": "- Schakel het apparaat uit en trek de stekker uit het stopcontact."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Release the lid and removed.",
+      "nl": "- Ontgrendel en verwijder het deksel."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Empty the filling shaft, filter and pulp container.",
+      "nl": "- Maak de vulopening, de zeef en de pulpbak leeg."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Leave the appliance to cool down for approx. 15 minutes in order to deactivate the overload protection.",
+      "nl": "- Het apparaat circa 15 minuten laten afkoelen om de overbelastingsbeveiliging te deactiveren."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Re-assemble the appliance.",
+      "nl": "- Het apparaat weer in elkaar zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "If the motor will not start subsequently, leave the appliance to cool down for longer.",
+      "nl": "Als de motor vervolgens niet start, dient u het apparaat langer te laten afkoelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Overview",
+      "nl": "In één oogopslag"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please fold out the illustrated page.",
+      "nl": "De pagina met afbeeldingen uitklappen a.u.b."
+    }
+  },
+  {
+    "translation": {
+      "en": "1 Motor unit (with cord store)",
+      "nl": "1 Motoreenheid (met snoeropbergvak)"
+    }
+  },
+  {
+    "translation": {
+      "en": "2 Switch",
+      "nl": "2 Schakelaar"
+    }
+  },
+  {
+    "translation": {
+      "en": "open R l as lid",
+      "nl": "Open Deksel ontgrendelen"
+    }
+  },
+  {
+    "translation": {
+      "en": "0/off Switch off the appliance",
+      "nl": "0/off Apparaat uitschakelen"
+    }
+  },
+  {
+    "translation": {
+      "en": "1 Switch on the appliance",
+      "nl": "1 Apparaat inschakelen"
+    }
+  },
+  {
+    "translation": {
+      "en": "3 Pulp container",
+      "nl": "3 Pulpbak"
+    }
+  },
+  {
+    "translation": {
+      "en": "4 Filter tray",
+      "nl": "4 Zeefbakje"
+    }
+  },
+  {
+    "translation": {
+      "en": "5 Filter",
+      "nl": "5 Zeef"
+    }
+  },
+  {
+    "translation": {
+      "en": "6 Lid",
+      "nl": "6 Deksel"
+    }
+  },
+  {
+    "translation": {
+      "en": "a Lock",
+      "nl": "a vergrendelen"
+    }
+  },
+  {
+    "translation": {
+      "en": "b Release",
+      "nl": "b ontgrendelen"
+    }
+  },
+  {
+    "translation": {
+      "en": "7 Filter tray",
+      "nl": "7 Vultrechter"
+    }
+  },
+  {
+    "translation": {
+      "en": "a For extracting juice",
+      "nl": "a uitpersen"
+    }
+  },
+  {
+    "translation": {
+      "en": "b For storage",
+      "nl": "b bewaren"
+    }
+  },
+  {
+    "translation": {
+      "en": "8 Pusher",
+      "nl": "8 Stopper"
+    }
+  },
+  {
+    "translation": {
+      "en": "9 Filling shaft",
+      "nl": "9 Vulopening"
+    }
+  },
+  {
+    "translation": {
+      "en": "10 Juice jug (with foam separator)",
+      "nl": "10 Sapbeker (met schuimafscheider)"
+    }
+  },
+  {
+    "translation": {
+      "en": "Assemble",
+      "nl": "In elkaar zetten"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Insert the pulp container into the motor unit (Fig. 3).",
+      "nl": "- Pulpbak in de motoreenheid steken (afb. 3)."
+    }
+  },
+  {
+    "translation": {
+      "en": "-First insert the filter tray with the outlet into the motor unit (Fig. 4).",
+      "nl": "- Zeefbakje in de motoreenheid steken (de uitloop eerst) (afb. 4)."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Insert the filter (Fig. 5).",
+      "nl": "- Zeef aanbrengen (afb. 5)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Check for damage before hand!",
+      "nl": "Eerst controleren op beschadiging!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Attach the lid and press down until it clicks into position (Fig. 6a).",
+      "nl": "- Deksel aanbrengen en aandrukken tot deze hoorbaar vastklikt (afb. 6a)."
+    }
+  },
+  {
+    "translation": {
+      "en": "When the lid has been locked into position, the switch must be in the 0/off position.",
+      "nl": "De schakelaar moet na het vastklikken op 0/off staan."
+    }
+  },
+  {
+    "translation": {
+      "en": "-If required, place the filter tray on the filling shaft (Fig. 7a).",
+      "nl": "- Eventueel vultrechter op de vulopening zetten (afb.7a)."
+    }
+  },
+  {
+    "translation": {
+      "en": "-To prevent froth, place juice jug with large opening under the outlet (Fig. 10).",
+      "nl": "- Sapkom met grote opening onder de uitloop zetten om het ontstaande schuim tegen te houden (afb. 10)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Operation",
+      "nl": "Bedienen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Preparing fruit and vegetables",
+      "nl": "Fruit en groente voorbereiden"
+    }
+  },
+  {
+    "translation": {
+      "en": "Attention:",
+      "nl": "Attentie:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Process ripe and unfrozen fruit and vegetables only.",
+      "nl": "Verwerk alleen rijp(e) en niet-bevroren fruit en groente."
+    }
+  },
+  {
+    "translation": {
+      "en": "Unripe fruit and vegetables will block the filter very quickly.",
+      "nl": "De zeef raakt zeer snel verstopt bij niet rijp fruit en groente."
+    }
+  },
+  {
+    "translation": {
+      "en": "First, wash the fruit and vegetables.",
+      "nl": "- Fruit en groente eerst wassen."
+    }
+  },
+  {
+    "translation": {
+      "en": "First, peel the fruit and vegetables with thick skins (e.g. kiwi, melons, lemons, oranges, beetroot).",
+      "nl": "- Fruit en groente met dikke schil (bijv. kiwi, meloen, citroen, sinaasappel, rode biet) eerst schillen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Chop up large fruit and vegetables so that they fit the filling shaft.",
+      "nl": "- Grote stukken fruit en groente eerst klein maken, zodat het in de vulopening past."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not process: Bananas, rhubarb, avocados.",
+      "nl": "Bananen, rabarber en avocado's kunnen niet worden verwerkt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Extracting juice",
+      "nl": "Uitpersen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Place the assembled appliance on a smooth, clean work surface.",
+      "nl": "- Het in elkaar opgezette apparaat op een gladde, schone ondergrond zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Switch on the appliance.",
+      "nl": "- Apparaat inschakelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Put fruit/vegetables into the filling shaft while the motor is running.",
+      "nl": "- Fruit/groente bij lopende motor in de vulschacht doen."
+    }
+  },
+  {
+    "translation": {
+      "en": "To add more fruit/vegetables, us the pusher only (Fig. 8).",
+      "nl": "- Voor het aandrukken alleen de stopper gebruiken (afb. 8)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Never grip the filling shaft with your fingers (Fig. 9).",
+      "nl": "Nooit uw vingers in de vulschacht steken (afb. 9)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Apply only gentle pressure to the pusher.",
+      "nl": "Slechts lichte druk uitoefenen op de stopper."
+    }
+  },
+  {
+    "translation": {
+      "en": "This increases juice yield and protects the appliance.",
+      "nl": "Dit levert meer sap op en ontziet het apparaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "Switching off the appliance:",
+      "nl": "- Apparaat uitschakelen:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Before switching off the appliance, wait until all the juice has run out.",
+      "nl": "Het apparaat pas uitschakelen wanneer er geen sap meer uitloopt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Attention!",
+      "nl": "Attentie!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Before opening the appliance, wait until the motor has stopped.",
+      "nl": "Altijd wachten met openen tot de motor stilstaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Set the switch to 0/off.",
+      "nl": "- Schakelaar op 0/off zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Wait until the motor stops (approx. 2-3 sec.).",
+      "nl": "- Wachten tot de motor stilstaat (ca.2-3 sec.)."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Open the cover by rotating the switch to open.",
+      "nl": "- Deksel openen, daartoe de schakelaar op open draaien."
+    }
+  },
+  {
+    "translation": {
+      "en": "Important Information",
+      "nl": "Attentie!"
+    }
+  },
+  {
+    "translation": {
+      "en": "-Empty the pulp container before the pulp has reached the upper edge of the recessed handle (Fig. 3a).",
+      "nl": "- Pulpbak leegmaken voordat de pulp de bovenrand van de handgreepuitholling heeft bereikt (afb. 3a)."
+    }
+  },
+  {
+    "translation": {
+      "en": "-Extract juice from a maximum 3 kg of fruit/vegetables in on cycle (Fig. 12).",
+      "nl": "- Per keer maximaal 3 kg fruit/groente uitpersen (afb. 12)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Emptying the pulp container and filter",
+      "nl": "Pulpbak en zeef leegmaken"
+    }
+  },
+  {
+    "translation": {
+      "en": "Empty the pulp container before the pulp has reached the upper edge of the recessed grip (Fig. 3a).",
+      "nl": "Maak de pulpbak leeg voordat de pulp de bovenkant van de handgreepuitholling heeft bereikt (afb. 3a)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Switch off the appliance: Move the switch to 0/off.",
+      "nl": "Schakel hiertoe het apparaat uit door de schakelaar op 0/off te zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "When removing the pulp container, grip it in the lower area (Fig. 3b).",
+      "nl": "Pulpbak onderaan vastpakken wanneer u deze verwijdert (afb. 3b)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Empty the filter if",
+      "nl": "Maak de zeef leeg wanneer"
+    }
+  },
+  {
+    "translation": {
+      "en": "-the motor speed drops significantly,",
+      "nl": "- het motortoerental aanzienlijk afneemt,"
+    }
+  },
+  {
+    "translation": {
+      "en": "-the juice becomes thick,",
+      "nl": "- het sap dikker wordt,"
+    }
+  },
+  {
+    "translation": {
+      "en": "-the appliance begins to vibrate noticeably.",
+      "nl": "- het apparaat aanmerkelijk begint te trillen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Recommendation: Empty the pulp container and filter at the same time.",
+      "nl": "Advies: maak de pulpbak en de zeef tegelijk leeg."
+    }
+  },
+  {
+    "translation": {
+      "en": "Dismantling the appliance",
+      "nl": "Uit elkaar nemen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Risk of electric shock!",
+      "nl": "Gevaar van elektrische schok!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Before working on the appliance, always pull out the mains plug.",
+      "nl": "Trek de stekker uit het stopcontact voordat u werkzaamheden uitvoert aan het apparaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "Switch off the appliance and pull out the mains plug.",
+      "nl": "- Het apparaat uitschakelen en de stekker uit het stopcontact trekken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove the pusher, filter tray and pulp container.",
+      "nl": "- Stopper, vultrechter en pulpbak verwijderen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Rotate switch to open and remove lid (Fig. 6b).",
+      "nl": "- De schakelaar op open draaien en het deksel verwijderen (afb. 6b)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Fig. 11",
+      "nl": "Afb. 11"
+    }
+  },
+  {
+    "translation": {
+      "en": "Lift the filter tray with both hands and take out of the motor unit.",
+      "nl": "- Het zeefbakje met beide handen uit de motoreenheid tillen en verwijderen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Take the filter out of the filter tray.",
+      "nl": "- De zeef uit het zeefbakje nemen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cleaning and care",
+      "nl": "Reinigen en onderhoud"
+    }
+  },
+  {
+    "translation": {
+      "en": "Risk of electric shock!",
+      "nl": "Gevaar van een elektrische schok!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never immerse the appliance in water or hold under flowing water.",
+      "nl": "Het apparaat nooit in water dompelen of onder stromend water houden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Attention!",
+      "nl": "Attentie!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Surfaces may be damaged",
+      "nl": "De oppervlakken kunnen beschadigd raken"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not use abrasive detergents.",
+      "nl": "Geen schurende reinigingsmiddelen gebruiken."
+    }
+  },
+  {
+    "translation": {
+      "en": "The filter is not dishwasher-proof.",
+      "nl": "De zeef is niet geschikt voor reiniging in de afwasautomaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "Rinse out the filter und reflowing water, if required use a brush.",
+      "nl": "- De zeef afspoelen onder stromend water, indien nodig een borstel gebruiken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Wipe the motor unit with a damp cloth, if required use a little washing-up liquid.",
+      "nl": "- De motoreenheid afvegen met een vochtige doek, indien nodig een beetje afwasmiddel gebruiken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Dry the motor unit immediately.",
+      "nl": "De motoreenheid direct afdrogen."
+    }
+  },
+  {
+    "translation": {
+      "en": "All other parts are dishwasher-proof.",
+      "nl": "- Alle andere onderdelen zijn geschikt voor de afwasautomaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "Discoloured plastic parts (e.g. caused by carrots, beetroot) can easily be removed with a few drops of vegetable oil.",
+      "nl": "Verkleuringen van de kunststofonderdelen (bijv. door wortels, rode bieten) kunnen eenvoudig worden verwijderd met een beetje plantaardige olie."
+    }
+  },
+  {
+    "translation": {
+      "en": "Put parts in the dishwasher (provided they are dishwasher-safe).",
+      "nl": "Onderdelen in de afwasautomaat doen (voor zover ze daarvoor geschikt zijn)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Replacing the filter",
+      "nl": "Zeef vervangen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Replace the filter at the first signs of wear or damage in order to prevent any risk of breakage.",
+      "nl": "Vervang de zeef bij het eerste teken van slijtage of beschadiging, om elk gevaar van breuk te voorkomen."
+    }
+  },
+  {
+    "translation": {
+      "en": "If the appliance is used daily, the filter should be replaced after approx. 5 years.",
+      "nl": "Bij dagelijks gebruik dient de zeef na ongeveer 5 jaar te worden vervangen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Waste disposal information",
+      "nl": "Afvoer van het oude apparaat"
+    }
+  },
+  {
+    "translation": {
+      "en": "This appliance has been identified in accordance with the European directive 2002/96/EG on Waste Electrical and Electronic Equipment 9 WEEE~.",
+      "nl": "Dit apparaat is geclassificeerd volgens de Europese richtlijn 2002/96/EG over oude elektrische en elektronische apparatuur (waste electrical and electronic equipment - WEEE)."
+    }
+  },
+  {
+    "translation": {
+      "en": "The directive specifies the framework for an EU-wide valid return and recycling of old appliances.",
+      "nl": "Deze richtlijn vormt voor de gehele EU een kader voor de terugname en recycling van oude apparaten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Please ask your dealer or inquire at your local authority about current means of disposal.",
+      "nl": "Vraag bij uw speciaalzaak of bij uw gemeente om actuele informatie over de recycling van de verpakking en van uw oude apparaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "Guarantee",
+      "nl": "Garantie"
+    }
+  },
+  {
+    "translation": {
+      "en": "Subject to changes.",
+      "nl": "Wijzigingen voorbehouden."
+    }
+  }
+]

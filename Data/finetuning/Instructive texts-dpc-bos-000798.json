@@ -1,0 +1,1262 @@
+[
+  {
+    "translation": {
+      "en": "BOSCH",
+      "nl": "BOSCH"
+    }
+  },
+  {
+    "translation": {
+      "en": "Operating instructions",
+      "nl": "Gebruiksaanwijzing"
+    }
+  },
+  {
+    "translation": {
+      "en": "This appliance is designed for domestic and not industrial use.",
+      "nl": "Dit apparaat is bedoeld voor huishoudelijk en niet voor zakelijk gebruik."
+    }
+  },
+  {
+    "translation": {
+      "en": "Use the appliance for processing normal quantities of food for domestic use.",
+      "nl": "Gebruik het apparaat uitsluitend voor verwerkingshoeveelheden eten die gebruikelijk zijn in het huishouden."
+    }
+  },
+  {
+    "translation": {
+      "en": "The appliance is maintenance-free.",
+      "nl": "Het apparaat is onderhoudsvrij."
+    }
+  },
+  {
+    "translation": {
+      "en": "The operating instructions refer to several models (see also enclosed overview of models, fig, 17), Please keep the operating instructions in a safe place.",
+      "nl": "De gebruiksaanwijzing beschrijft verschillende modellen (zie ook het bijgevoegde modeloverzicht, afb. 17)."
+    }
+  },
+  {
+    "translation": {
+      "en": "If passing on the appliance to a third party, always include the operating instructions.",
+      "nl": "De gebruiksaanwijzing bewaren a.u.b. Overhandig ook de gebruiksaanwijzing als u het apparaat doorgeeft aan derden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Use the appliance with original accessories only.",
+      "nl": "Gebruik het apparaat uitsluitend met het originele toebehoren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Overview",
+      "nl": "In een oogopslag"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please fold out the illustrated pages.",
+      "nl": "De pagina's met afbeeldingen uitklappen a.u.b."
+    }
+  },
+  {
+    "translation": {
+      "en": "Rotary switch",
+      "nl": "Draaischakelaar"
+    }
+  },
+  {
+    "translation": {
+      "en": "<!TABLE!>",
+      "nl": "<!TABLE!>"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hold rotary switch until the drive stops; tool is in the swivel position.",
+      "nl": "Draaischakelaar vasthouden tot de aandrijving stilstaat; het hulpstuk bevindt zich in parkeerpositie."
+    }
+  },
+  {
+    "translation": {
+      "en": "If the drive does not move, the swivel position has already been reached.",
+      "nl": "Als de aandrijving niet beweegt, is de parkeerpositie al bereikt."
+    }
+  },
+  {
+    "translation": {
+      "en": "<!TABLE!>",
+      "nl": "<!TABLE!>"
+    }
+  },
+  {
+    "translation": {
+      "en": "If the power is interrupted, the appliance remains switched on and restarts when the power is restored.",
+      "nl": "Bij een stroomonderbreking blijft het apparaat ingeschakeld en na de stroomonderbreking gaat het weer open."
+    }
+  },
+  {
+    "translation": {
+      "en": "<!TABLE!>",
+      "nl": "<!TABLE!>"
+    }
+  },
+  {
+    "translation": {
+      "en": "<!TABLE!>",
+      "nl": "<!TABLE!>"
+    }
+  },
+  {
+    "translation": {
+      "en": "The appliance features an auto-restart lockout in the event of an overload.",
+      "nl": "Het apparaat is voorzien van een beveiliging tegen opnieuw inschakelen bij overbelasting."
+    }
+  },
+  {
+    "translation": {
+      "en": "When not in use, attach the drive cover.",
+      "nl": "Het aandrijvings-beschermingsdeksel aanbrengen als de aandrijving niet wordt gebruikt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Drive cover",
+      "nl": "Aandrijvings-beschermingsdeksel"
+    }
+  },
+  {
+    "translation": {
+      "en": "To remove the drive cover, rotate until the locking feature has been released.",
+      "nl": "Het aandrijvings-beschermingsdeksel kunt u verwijderen door het te draaien tot de vergrendeling is ontgrendeld."
+    }
+  },
+  {
+    "translation": {
+      "en": "Drive",
+      "nl": "Aandrijving"
+    }
+  },
+  {
+    "translation": {
+      "en": "For stirrer, whisk, kneading hook and for mixing tool of the ice-cream maker, folded down for mincer, folded up for mill (stone)",
+      "nl": "Voor roergarde, garde, kneedhaak en het roerhulpstuk van de ijsbereider, neergeklapt voor vleesmolen, omhooggeklapt voor graanmolen (steen)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cord store",
+      "nl": "Opbergen van het snoer"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wind up the cord.",
+      "nl": "Snoer opwikkelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Stow the cord in the cord store.",
+      "nl": "Snoer opbergen in het snoeropbergvak."
+    }
+  },
+  {
+    "translation": {
+      "en": "Automatic cord winder",
+      "nl": "Automatische snoeropwikkeling"
+    }
+  },
+  {
+    "translation": {
+      "en": "Release button",
+      "nl": "Ontgrendelknop"
+    }
+  },
+  {
+    "translation": {
+      "en": "Press to move the swivel arm.",
+      "nl": "Indrukken om de draaiarm te bewegen."
+    }
+  },
+  {
+    "translation": {
+      "en": "When not in use, attach the blender drive cover.",
+      "nl": "Het mixeraandrijvings-beschermingsdeksel aanbrengen als de aandrijving niet wordt gebruikt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Indicator lights",
+      "nl": "Controlelampjes"
+    }
+  },
+  {
+    "translation": {
+      "en": "only model MUM 47...",
+      "nl": "uitsluitend bij model MUM 47"
+    }
+  },
+  {
+    "translation": {
+      "en": "Standby indicator",
+      "nl": "\"klaar voor gebruik\"-indicatie"
+    }
+  },
+  {
+    "translation": {
+      "en": "Indicator lights",
+      "nl": "controlelampjes"
+    }
+  },
+  {
+    "translation": {
+      "en": "Safety information",
+      "nl": "Veiligheidsvoorschriften"
+    }
+  },
+  {
+    "translation": {
+      "en": "Connect and operate the appliance only in accordance with the specifications on the rating plate.",
+      "nl": "Het apparaat uitsluitend aansluiten en gebruiken volgens de gegevens op het typeplaatje."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not use if the cord or appliance is damaged.",
+      "nl": "Gebruik het apparaat uitsluitend indien het aansluitsnoer en het apparaat geen beschadigingen vertonen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep children away from the appliance.",
+      "nl": "Houd kinderen uit de buurt van het apparaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "After using the appliance, before cleaning the appliance, if leaving the appliance unattended or if the appliance malfunctions, always pull out the plug.",
+      "nl": "Trek de stekker altijd uit het stopcontact na gebruik van het apparaat, voordat u het reinigt, wanneer u het vertrek verlaat of indien er storing optreedt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not pull the cord over sharp edges or hot surfaces.",
+      "nl": "Leid het aansluitsnoer niet langs scherpe randen of hete oppervlakken."
+    }
+  },
+  {
+    "translation": {
+      "en": "To prevent injury, repairs such as replacing a damaged cord, should only be carried out by our customer service.",
+      "nl": "Om gevaren te vermijden mogen reparaties aan het apparaat - bijvoorbeeld het vervangen van een beschadigd aansluitsnoer - uitsluitend worden uitgevoerd door een deskundige."
+    }
+  },
+  {
+    "translation": {
+      "en": "Change accessories and tools only when the drive is at a standstill.",
+      "nl": "Toebehoren en hulpstukken uitsluitend verwisselen als de aandrijving stilstaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not immerse the base unit in water or clean under running water.",
+      "nl": "Het basisapparaat niet onderdompelen in water of reinigen onder stromend water."
+    }
+  },
+  {
+    "translation": {
+      "en": "When switched off, the appliance continues running briefly.",
+      "nl": "Na het uitschakelen blijft de aandrijving nog korte tijd lopen."
+    }
+  },
+  {
+    "translation": {
+      "en": "When using the accessories, follow the enclosed operating instructions.",
+      "nl": "Lees bij gebruik van het toebehoren de bijgevoegde gebruiksaanwijzingen."
+    }
+  },
+  {
+    "translation": {
+      "en": "The appliance restarts following a power interruption.",
+      "nl": "Na een stroomonderbreking gaat het apparaat weer lopen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Information concerning waste disposal",
+      "nl": "Recycling van verpakking en oud apparaat"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please ask your dealer or inquire at your local authority about current means of disposal.",
+      "nl": "Vraag bij uw speciaalzaak of bij uw gemeente om actuele informatie over de recycling van de verpakking en van uw oude apparaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "Operating the appliance",
+      "nl": "Bedienen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Information about model MUM 47...",
+      "nl": "Aanwijzingen bij model MUM 47"
+    }
+  },
+  {
+    "translation": {
+      "en": "Model MUM 47... has additional indicator lights which indicate standby and switching positions while the drive is running.",
+      "nl": "Model MUM 47.. heeft extra controlelampjes die de \"klaar voor gebruik\"-stand en de schakelstanden bij lopende aandrijving aangeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "The standby indicator lights up red when the food processor is supplied with power (mains plug inserted).",
+      "nl": "De \"klaar voor gebruik\"-indicatie brandt rood wanneer de stroom van de keukenmachine is ingeschakeld (do stekker in het stopcontact is gestoken)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Set the appliance back to the desired setting.",
+      "nl": "Het apparaat opnieuw op de gewenste stand zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Model MUM 47... corresponds in all other functions to the following description.",
+      "nl": "Alle overige functies van model MUM 47 komen overeen met de onderstaande beschrijving."
+    }
+  },
+  {
+    "translation": {
+      "en": "Warning!",
+      "nl": "Attentie!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Operate the appliance with accessories/tools in the operating position only.",
+      "nl": "Het apparaat uitsluitend met toebehoren/hulpstuk gebruiken in de werkstand."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not operate at no load.",
+      "nl": "Niet gebruiken zonder vulling."
+    }
+  },
+  {
+    "translation": {
+      "en": "Before using the appliance and accessories for the first time, clean thoroughly; see \"Cleaning and servicing\".",
+      "nl": "Het apparaat en het toebehoren grondig reinigen voordat u het veer het eerst gebruikt, zie \"Reinigen en onderhoud\"."
+    }
+  },
+  {
+    "translation": {
+      "en": "Preparation",
+      "nl": "Voorbereiden"
+    }
+  },
+  {
+    "translation": {
+      "en": "Race the base unit on a smooth, clean surface.",
+      "nl": "Het basisapparaat op een gladde en schone ondergrond plaatsen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Unwind/pull out the cord.",
+      "nl": "Het snoer afwikkelen/uit do snoerhouder trekken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Appliances with automatic cord winder:",
+      "nl": "Bij apparaten met automatische snoeropwikkeling:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Pull out the cord in one stroke to the desired length (max. 1 metre/3.28 feet) and release slowly; the cord is locked.",
+      "nl": "Het snoer in een beweging tot de gewenste lengte (max 1 meter) uittrekken en loslaten; het snoer klemt zich vanzelf vast."
+    }
+  },
+  {
+    "translation": {
+      "en": "Reducing the working length of the cord: Pull gently on the cord and allow it to wind up to the desired length.",
+      "nl": "Werklengte van het snoer korter maken: Lichtjes aan het snoer trekken en laten opwikkelen tot de gewenste lengte."
+    }
+  },
+  {
+    "translation": {
+      "en": "Then pull gently on the cord again and release slowly; the cord is locked.",
+      "nl": "Daarna opnieuw lichtjes aan het snoer trekken en langzaam loslaten; het snoer klemt zich vanzelf vast."
+    }
+  },
+  {
+    "translation": {
+      "en": "Warning!",
+      "nl": "Attentie!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Warning!",
+      "nl": "Attentie!"
+    }
+  },
+  {
+    "translation": {
+      "en": "<!TABLE!>",
+      "nl": "<!TABLE!>"
+    }
+  },
+  {
+    "translation": {
+      "en": "Stirrer, whisk and kneading hook",
+      "nl": "Roergarde, garde en kneedhaak"
+    }
+  },
+  {
+    "translation": {
+      "en": "Risk of injury from the rotating tools!",
+      "nl": "Verwondingsgevaar door roterend hulpstuk!"
+    }
+  },
+  {
+    "translation": {
+      "en": "While the appliance is operating, keep fingers clear of the mixing bowl.",
+      "nl": "Tijdens het gebruik niet in de kom grijpen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not change tools until the appliance is at a standstill - when switched off, the drive continues running briefly.",
+      "nl": "Hulpstuk uitsluitend verwisselen wanneer de aandrijving stilstaat na het uitschakelen blijft de aandrijving nog korte tijd open."
+    }
+  },
+  {
+    "translation": {
+      "en": "The appliance may only be operated when the unused drives have been safeguarded with the drive covers.",
+      "nl": "Het apparaat mag uitsluitend worden gebruikt wanneer de niet-beschermde aandrijvingen zijn voorzien van de aandrijvingsbeschermingsdeksels."
+    }
+  },
+  {
+    "translation": {
+      "en": "If the appliance features a standby, set the rotary switch to P and hold until the drive stops.",
+      "nl": "Bij apparaten met een parkeerschakeling de draaischakelaar op P zetten en vasthouden tot de aandrijving stilstaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "If the drive does not move, the swivel position has already been reached.",
+      "nl": "Als de aandrijving niet beweegt, is de parkeerpositie at bereikt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the release button and move the swivel arm to position 6.",
+      "nl": "De ontgrendelknop indrukken en de draaiarm op bedrijfsstand 6 zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Insert the mixing bowl.",
+      "nl": "De kom plaatsen."
+    }
+  },
+  {
+    "translation": {
+      "en": "The base of the mixing bowl must be inserted into the recess of the base unit.",
+      "nl": "De sokkel van de kom moet in de uitsparing van het basisapparaat steken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Depending on the processing task, insert the stirrer, whisk or kneading hook into the drive, ensuring that the tool locks into position.",
+      "nl": "Het gewenste hulpstuk (roergarde, garde of kneedhaak) in de aandrijving steken tot het vastklikt."
+    }
+  },
+  {
+    "translation": {
+      "en": "If using the kneading hook, rotate the dough deflector until the kneading hook can lock into position.",
+      "nl": "Bij de kneedhaak de deegvanger draaien tot de kneedhaak kan worden vastgeklikt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Put the ingredients which are to be processed into the mixing bowl.",
+      "nl": "De ingrediënten in de kom doen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the release button and move the swivel arm to position 1.",
+      "nl": "De ontgrendelknop indrukken en de draaiarm in bedrijfsstand 1 zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Attach the lid.",
+      "nl": "Het deksel aanbrengen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Select desired setting with the rotary switch.",
+      "nl": "De draaischakelaar op de gewenste stand zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Adding more ingredients",
+      "nl": "Ingrediënten toevoegen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Switch off the appliance with the rotary switch.",
+      "nl": "Het apparaat uitschakelen met de draaischakelaar."
+    }
+  },
+  {
+    "translation": {
+      "en": "If the appliance features a standby, set the rotary switch to P and hold until the drive stops.",
+      "nl": "Bij apparaten met parkeerschakeling de draaischakelaar op P zetten en vasthouden tot de aandrijving stilstaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove the lid.",
+      "nl": "Het deksel verwijderen."
+    }
+  },
+  {
+    "translation": {
+      "en": "After blending",
+      "nl": "Na gebruik"
+    }
+  },
+  {
+    "translation": {
+      "en": "Switch off the appliance with the rotary switch.",
+      "nl": "Het apparaat uitschakelen met de draaischakelaar."
+    }
+  },
+  {
+    "translation": {
+      "en": "If the appliance features a standby, set the rotary switch to P and hold until the drive stops.",
+      "nl": "Bij apparaten met parkeerschakeling de draaischakelaar op P zetten en vasthouden tot de aandrijving stilstaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove the lid.",
+      "nl": "Het deksel verwijderen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the release button and move the swivel arm to position 6.",
+      "nl": "Ontgrendelknop indrukken en de draaiarm in bedrijfsstand 6 zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Take the tool out of the drive.",
+      "nl": "Hulpstuk uit de aandrijving nemen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove the mixing bowl.",
+      "nl": "Kom verwijderen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Clean all parts; see \"Cleaning and servicing\".",
+      "nl": "Alle onderdelen reinigen, zie \"Reinigen en onderhoud''."
+    }
+  },
+  {
+    "translation": {
+      "en": "Blender",
+      "nl": "Mixer"
+    }
+  },
+  {
+    "translation": {
+      "en": "Risk of injury from sharp blades/rotating drive!",
+      "nl": "Verwondingsgevaar door scherpe messenroterende aandrijving!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never place fingers in the attached blender!",
+      "nl": "Nooit in de aangebrachte mixer grijpen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Risk of scalding!",
+      "nl": "Verbrandingsgevaar!"
+    }
+  },
+  {
+    "translation": {
+      "en": "If processing hot liquids, steam escapes through the funnel in the lid.",
+      "nl": "Bil het verwerken van hete mixvloeistoffen komt er stoom uit de trechter in het deksel."
+    }
+  },
+  {
+    "translation": {
+      "en": "Add a max. 0.5 litres/ 18 fl. oz. of hot or frothing liquid.",
+      "nl": "Maximaal 0,5 liter hete of schuimende vloeistof in de mixer doen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Warning!",
+      "nl": "Attentie!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Processing liquids in the glass blender (available from specialist outlets): maximum setting 3.",
+      "nl": "Verwerken van vloeistof in de glazen mixer (verkrijgbaar in de speciaalzaak): maximaal op stand 3."
+    }
+  },
+  {
+    "translation": {
+      "en": "Add a max. 0.5 litres/ 18 fl. oz. of hot or frothing liquid.",
+      "nl": "Maximaal 0,5 liter hete of schuimende vloeistof in de mixer doen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the release button and move the swivel arm to position 3.",
+      "nl": "De ontgrendelknop indrukken en de draaiarm in bedrijfsstand 3 zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove the blender drive cover.",
+      "nl": "Mixeraandriivings-beschermingsdeksel verwijderen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Attach the blender jug (mark on the base of the blender jug on the mark on the base unit) and rotate as far as possible in an anti-clockwise direction (Fig. 6).",
+      "nl": "Mixkom plaatsen ( markering op de sokkel tegen de markering op het basisapparaat) en tegen de klok in tot aan de aanslag draaien (afb. 6)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Add ingredients.",
+      "nl": "ingrediënten toevoegen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Maximum capacity of liquid for plastic",
+      "nl": "Maximale hoeveelheid bij kunststof mixer, vloeibaar = 1 liter, bij glazen mixer,"
+    }
+  },
+  {
+    "translation": {
+      "en": "blender - 1 litre",
+      "nl": "vloeibaar = 0,75 liter"
+    }
+  },
+  {
+    "translation": {
+      "en": "Attach lid and press firmly.",
+      "nl": "Deksel aanbrengen en vastdrukken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Select desired setting with the rotary switch.",
+      "nl": "Draaischakelaar op de gewenste stand zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Add more ingredients",
+      "nl": "Ingrediënten toevoegen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Switch off the appliance with the rotary switch.",
+      "nl": "Apparaat uitschakelen met de draaischakelaar."
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove the lid and add ingredients or remove the funnel and gradually add solid ingredients through the feed tube or pour liquid through the funnel.",
+      "nl": "Deksel verwijderen en ingrediënten toevoegen of trechter verwijderen en vaste ingrediënten geleidelijk in de vulopening doen of vloeibare ingrediënten toevoegen via de trechter."
+    }
+  },
+  {
+    "translation": {
+      "en": "After blending",
+      "nl": "Na gebruik"
+    }
+  },
+  {
+    "translation": {
+      "en": "Switch off the appliance with the rotary switch.",
+      "nl": "Apparaat uitschakelen met de draaischakelaar."
+    }
+  },
+  {
+    "translation": {
+      "en": "Rotate the blender in a clockwise direction and remove.",
+      "nl": "Mixer met de klok meedraaien en verwijderen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Tip: It is recommended to clean the blender immediately after use,",
+      "nl": "Tip: U kunt de mixer het best direct na gebruik reinigen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cleaning and servicing",
+      "nl": "Reinigen en onderhoud"
+    }
+  },
+  {
+    "translation": {
+      "en": "Risk of electric shock!",
+      "nl": "Gevaar van elektrische schok!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never immerse the base unit in water or hold under running water.",
+      "nl": "Het basisapparaat nooit in water dompelen of onder stromend water houden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Warning!",
+      "nl": "Attentie!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not use abrasive cleaning agents.",
+      "nl": "Geen schurende reinigingsmiddelen gebruiken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Pull out the mains plug.",
+      "nl": "De stekker uit het stopcontact trekken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Wipe the base unit with a damp cloth.",
+      "nl": "Het basisapparaat schoonvegen met een vochtige doek."
+    }
+  },
+  {
+    "translation": {
+      "en": "If required, use a little washing-up liquid.",
+      "nl": "Zo nodig een beetje afwasmiddel gebruiken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Then wipe the base unit dry.",
+      "nl": "Daarna het apparaat droogwrijven."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cleaning the mixing bowl and accessories",
+      "nl": "Mengkom en toebehoren reinigen"
+    }
+  },
+  {
+    "translation": {
+      "en": "All parts are dishwasher-safe.",
+      "nl": "Alle delen kunnen in de afwasautomaat worden gereinigd."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not wedge plastic parts in the dishwasher as they could warp.",
+      "nl": "Kunststof onderdelen niet klemzetten in de afwasautomaat, ze kunnen vervormd raken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cleaning the blender .",
+      "nl": "Mixer reinigen"
+    }
+  },
+  {
+    "translation": {
+      "en": "The blender can be disassembled for cleaning.",
+      "nl": "De mixer kan uit elkaar worden genomen voor de reiniging."
+    }
+  },
+  {
+    "translation": {
+      "en": "Warning!",
+      "nl": "Attentie!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not use abrasive cleaning agents.",
+      "nl": "Geen schurende reinigingsmiddelen gebruiken."
+    }
+  },
+  {
+    "translation": {
+      "en": "The blade insert is not dishwasher-safe.",
+      "nl": "De meshouder kan niet worden gereinigd in de afwasautomaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "Clean the blade insert under running water only.",
+      "nl": "De meshouder uitsluitend reinigen onder stromend water."
+    }
+  },
+  {
+    "translation": {
+      "en": "Switch on the blender for several seconds (if the appliance features quick-action operation, select setting M).",
+      "nl": "Hiertoe doet u een beetje water met afwasmiddel in de gemonteerde mixer."
+    }
+  },
+  {
+    "translation": {
+      "en": "Pour out the water and rinse the blender with clean water.",
+      "nl": "De mixer enkele seconden inschakelen apparaten met momentschakeling op stand M)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Disassembling the blender",
+      "nl": "Het afwaswater weggieten en uitspoelen met schoon water."
+    }
+  },
+  {
+    "translation": {
+      "en": "Rotate the blade insert by the wings in an anti-clockwise direction.",
+      "nl": "De meshouder aan de vleugels tegen de klok in draaien."
+    }
+  },
+  {
+    "translation": {
+      "en": "The blade insert is loosened.",
+      "nl": "De meshouder komt los."
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove the blade insert and the sealing ring.",
+      "nl": "De meshouder verwijderen en de afdichtring verwijderen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Assembling the blender",
+      "nl": "Mixer in elkaar zetten"
+    }
+  },
+  {
+    "translation": {
+      "en": "Risk of injury!",
+      "nl": "Verwondingsgevaar!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never assemble the blender on the base unit.",
+      "nl": "De mixer nooit in elkaar zetten terwijl hij op het basisapparaat staat."
+    }
+  },
+  {
+    "translation": {
+      "en": "Attach the sealing ring to the blade insert.",
+      "nl": "Afdichtring aanbrengen op de meshouder."
+    }
+  },
+  {
+    "translation": {
+      "en": "Insert the blade insert from below into the blender jug.",
+      "nl": "Meshouder vanaf de onderkant in de mixkom plaatsen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Tighten the blade insert with the aid of the blender jug base.",
+      "nl": "Met behulp van de sokkel de meshouder vastschroeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "Tighten the base of the blender jug in a clockwise direction.",
+      "nl": "Sokkel van de mixkom met de klok mee vastdraaien."
+    }
+  },
+  {
+    "translation": {
+      "en": "Troubleshooting",
+      "nl": "Hulp bij storingen"
+    }
+  },
+  {
+    "translation": {
+      "en": "If the appliance malfunctions, please consult our customer service.",
+      "nl": "Bij storingen a.u.b. contact opnemen met de klantenservice."
+    }
+  },
+  {
+    "translation": {
+      "en": "Application examples",
+      "nl": "Toepassingsvoorbeelden"
+    }
+  },
+  {
+    "translation": {
+      "en": "Whipped cream",
+      "nl": "Slagroom"
+    }
+  },
+  {
+    "translation": {
+      "en": "100 g-600 g/31/2 oz-1 lb 5 oz",
+      "nl": "100 g-600 g"
+    }
+  },
+  {
+    "translation": {
+      "en": "Using the whisk, process cream for 11/2 to 4 minutes at setting 4 (depending on the quantity and properties of the cream).",
+      "nl": "Room 11/2 tot 4 minuten op stand 4 (afhankelijk van de hoeveelheid en de eigenschappen van de room) kloppen met de garde."
+    }
+  },
+  {
+    "translation": {
+      "en": "Using the whisk, process egg whites for 4 to 6 minutes at setting 4.",
+      "nl": "Eiwit 4 tot 6 minuten op stand 4 kloppen met de garde."
+    }
+  },
+  {
+    "translation": {
+      "en": "Sponge mixture",
+      "nl": "Biscuitdeeg"
+    }
+  },
+  {
+    "translation": {
+      "en": "Basic recipe",
+      "nl": "Basisrecept"
+    }
+  },
+  {
+    "translation": {
+      "en": "2 eggs",
+      "nl": "2 eieren"
+    }
+  },
+  {
+    "translation": {
+      "en": "2-3 tbs, hot water",
+      "nl": "2-3 eetlepels heet water"
+    }
+  },
+  {
+    "translation": {
+      "en": "100 g/31/2 of sugar",
+      "nl": "100 g suiker"
+    }
+  },
+  {
+    "translation": {
+      "en": "70 g/21/2 of flour",
+      "nl": "70 g meel"
+    }
+  },
+  {
+    "translation": {
+      "en": "Using the whisk, beat the ingredients (except flour and cornflour) for approx. 4-6 minutes at setting 4 until fluffy.",
+      "nl": "De ingrediënten (behalve het meel en het aardappelmeel) ca. 4-6 minuten tot een schuimend geheel kloppen met de garde."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cake mixture",
+      "nl": "Roerdeeg"
+    }
+  },
+  {
+    "translation": {
+      "en": "Basic recipe",
+      "nl": "Basisrecept"
+    }
+  },
+  {
+    "translation": {
+      "en": "3-4 eggs",
+      "nl": "3-4 eieren"
+    }
+  },
+  {
+    "translation": {
+      "en": "200-250 g/7 oz-9 of sugar",
+      "nl": "200-250 g suiker"
+    }
+  },
+  {
+    "translation": {
+      "en": "1 pinch of salt",
+      "nl": "snufje zout"
+    }
+  },
+  {
+    "translation": {
+      "en": "Using the stirrer, mix all ingredients for approx.' minute at setting 1, then for approx. 3-4 minutes at setting 3.",
+      "nl": "Alle ingrediënten ca. 1/2 minuut op stand 1, daarna 3-4 minuten op stand 3 met de roergarde doorroeren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Maximum quantity: 11/2-2 x basic recipe",
+      "nl": "Max. hoeveelheid: 11/2-2 x basisrecept"
+    }
+  },
+  {
+    "translation": {
+      "en": "Short pastry",
+      "nl": "Zandtaartdeeg"
+    }
+  },
+  {
+    "translation": {
+      "en": "Basic recipe",
+      "nl": "Basisrecept"
+    }
+  },
+  {
+    "translation": {
+      "en": "1 egg",
+      "nl": "1 ei"
+    }
+  },
+  {
+    "translation": {
+      "en": "1 pinch of salt",
+      "nl": "snufje zout"
+    }
+  },
+  {
+    "translation": {
+      "en": "A little lemon peel or a few drops of vanilla essence",
+      "nl": "een beetje citroenschil of vanillesuiker"
+    }
+  },
+  {
+    "translation": {
+      "en": "250 g/9 oz flour",
+      "nl": "250 g meel"
+    }
+  },
+  {
+    "translation": {
+      "en": "Baking powder (if required)",
+      "nl": "eventueel bakpoeder"
+    }
+  },
+  {
+    "translation": {
+      "en": "Using the stirrer or kneading hook, mix all ingredients for approx. 1/2 minute at setting 1, then for approx. 2-3 minutes at setting 2.",
+      "nl": "Alle ingrediënten ca. 1/2 minuut op stand 1, daarna 2-3 minuten op stand 2 met de roergarde of de kneedhaak verwerken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Maximum quantity: 2 x basic recipe",
+      "nl": "Max. hoeveelheid: 2 x basisrecept"
+    }
+  },
+  {
+    "translation": {
+      "en": "Yeast dough",
+      "nl": "Gistdeeg"
+    }
+  },
+  {
+    "translation": {
+      "en": "Basic recipe",
+      "nl": "Basisrecept"
+    }
+  },
+  {
+    "translation": {
+      "en": "500 g/1 lb 2of flour",
+      "nl": "500 g meel"
+    }
+  },
+  {
+    "translation": {
+      "en": "1 egg",
+      "nl": "1 ei"
+    }
+  },
+  {
+    "translation": {
+      "en": "80 g/3 oz sugar",
+      "nl": "80 g suiker"
+    }
+  },
+  {
+    "translation": {
+      "en": "200-250 m1/7 fl oz-9 fl of lukewarm milk",
+      "nl": "200-250 ml lauwe melk"
+    }
+  },
+  {
+    "translation": {
+      "en": "1 pinch of salt",
+      "nl": "snufje zout"
+    }
+  },
+  {
+    "translation": {
+      "en": "Maximum quantity: 1 x basic recipe",
+      "nl": "Max. hoeveelheid: 11/2 x basisrecept"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mayonnaise",
+      "nl": "Mayonaise"
+    }
+  },
+  {
+    "translation": {
+      "en": "2 eggs",
+      "nl": "2 eieren"
+    }
+  },
+  {
+    "translation": {
+      "en": "2 tsp. mustard",
+      "nl": "2 theelepels mosterd"
+    }
+  },
+  {
+    "translation": {
+      "en": "1/4 I/9 fl of oil",
+      "nl": "1/4 I olie"
+    }
+  },
+  {
+    "translation": {
+      "en": "1 pinch of salt",
+      "nl": "snufje zout"
+    }
+  },
+  {
+    "translation": {
+      "en": "I pinch of sugar",
+      "nl": "snufje suiker"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ingredients must be at the same temperature.",
+      "nl": "De ingrediënten moeten dezelfde temperatuur hebben."
+    }
+  },
+  {
+    "translation": {
+      "en": "Process the ingredients (except the oil) in the blender for several seconds at setting 2.",
+      "nl": "De ingrediënten (behalve de olie) enkele seconden mixen op stand 2."
+    }
+  },
+  {
+    "translation": {
+      "en": "Switch the blender to setting 4 and slowly pour the oil through the funnel and mix until the mayonnaise emulsifies.",
+      "nl": "De mixer op stand 4 zetten en de olie langzaam in de trechter gieten; mengen totdat de mayonaise emulgeert."
+    }
+  },
+  {
+    "translation": {
+      "en": "Accessories/Optional accessories",
+      "nl": "Toebehoren/extra toebehoren"
+    }
+  },
+  {
+    "translation": {
+      "en": "Other accessories enclosed with the packaging (see enclosed overview of models) are described in the separate operating instructions.",
+      "nl": "Overig toebehoren in de verpakking (zie het bijgevoegde modeloverzicht) is beschreven in de afzonderlijke gebruiksaanwijzingen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Enclosed accessories/optional accessories can also be purchased separately.",
+      "nl": "Het bijgevoegde toebehoren/extra toebehoren kan ook los worden gekocht."
+    }
+  },
+  {
+    "translation": {
+      "en": "The accessories for the MUM 45.. appliance are also suitable for the MUM 46.. and MUM 47.. appliances.",
+      "nl": "Het toebehoren bij het apparaat MUM 45 is ook geschikt voor de apparaten MUM 46 en MUM 47."
+    }
+  },
+  {
+    "translation": {
+      "en": "Continuous-feed shredder with 3 discs; also available: potato grating disc, chipper disc and julienne disc.",
+      "nl": "Doorloopsnijder met 3 schijven; afzonderlijk verkrijgbaar: aardappelmaanschijf, patates-fritesschijf en julienneschijf"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mincer; also available: fruit press attachment (a), grating attachment (b) and biscuit attachment (c); perforated discs 3 and 6 mm// in. and 1/4 in.",
+      "nl": "Vleesmolen; afzonderlijk verkrijgbaar: fruitpershulpstuk (a), maalhulpstuk (b) en spritshulpstuk (c); ponsschijven o 3 en 6 mm"
+    }
+  },
+  {
+    "translation": {
+      "en": "Citrus press",
+      "nl": "Citruspers"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mill with steel or stone grinding discs",
+      "nl": "Graanmolen met stalen of stenen maalwerk"
+    }
+  },
+  {
+    "translation": {
+      "en": "Multi-blender",
+      "nl": "Multimixer"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ice-cream maker",
+      "nl": "Ijsbereider"
+    }
+  },
+  {
+    "translation": {
+      "en": "Subject to alterations.",
+      "nl": "Wijzigingen voorbehouden."
+    }
+  }
+]
