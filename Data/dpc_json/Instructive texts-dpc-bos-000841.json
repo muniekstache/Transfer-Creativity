@@ -1,0 +1,1034 @@
+[
+  {
+    "translation": {
+      "en": "Wallpaper Remover PTL 1",
+      "nl": "Behangafstomer PTL 1"
+    }
+  },
+  {
+    "translation": {
+      "en": "The numbering of the machine elements refers to the illustration of the machine on the graphic page.",
+      "nl": "De onderdelen van de machine zijn genummerd zoals op de afbeelding van de machine op de pagina met afbeeldingen."
+    }
+  },
+  {
+    "translation": {
+      "en": "1 Steam shield",
+      "nl": "1 Stoomschild"
+    }
+  },
+  {
+    "translation": {
+      "en": "2 Water level indicator",
+      "nl": "2 Waterniveauaanduiding"
+    }
+  },
+  {
+    "translation": {
+      "en": "3 Rubber surge protector",
+      "nl": "3 Rubber stuwbeveiliging"
+    }
+  },
+  {
+    "translation": {
+      "en": "4 Tank cap with built-in safety valve",
+      "nl": "4 Tankdeksel met geïntegreerd veiligheidsventiel"
+    }
+  },
+  {
+    "translation": {
+      "en": "5 Handle",
+      "nl": "5 Machinehandgreep"
+    }
+  },
+  {
+    "translation": {
+      "en": "6 On/Off switch",
+      "nl": "6 Aan-/uit-schakelaar"
+    }
+  },
+  {
+    "translation": {
+      "en": "7 Hose connection",
+      "nl": "7 Slangaansluiting"
+    }
+  },
+  {
+    "translation": {
+      "en": "8 Bayonet connection",
+      "nl": "8 Bajonetsluiting"
+    }
+  },
+  {
+    "translation": {
+      "en": "9 Safety lock",
+      "nl": "9 Veiligheidsblokkering"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not all the accessories illustrated or described are included in standard delivery.",
+      "nl": "Afgebeeld en beschreven toebehoren wordt niet altijd standaard meegeleverd."
+    }
+  },
+  {
+    "translation": {
+      "en": "For your safety",
+      "nl": "Voor uw veiligheid"
+    }
+  },
+  {
+    "translation": {
+      "en": "Working safely with this machine is possible only when the operating and safety information are read completely and the instructions contained therein are strictly followed.",
+      "nl": "Veilig werken met de machine is alleen mogelijk indien u de gebruiksaanwijzing en de veiligheidsvoorschriften volledig leest en de daarin gegeven voorschriften strikt opvolgt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Working with hot steam can lead to severe scalding!",
+      "nl": "Werkzaamheden met stoom kunnen tot ernstige verbrandingen leiden!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not direct steam at your own body, at other persons or at animals!",
+      "nl": "Stoomstraal niet op het eigen lichaam of op andere personen en niet op dieren richten!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Danger of scalding!",
+      "nl": "Verbrandingsgevaar!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never work directly above your head.",
+      "nl": "Niet vlak boven uw hoofd werken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Wear protective gloves!",
+      "nl": "Werkhandschoenen dragen!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Steam can escape from the unit.",
+      "nl": "Uit de machine kan stoom ontsnappen."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Connect machines that are used in the open via a residual current device (RCD) with an actuating current of 30 mA maximum.",
+      "nl": "* Sluit gereedschap dat buitenshuis wordt gebruikt aan via een aardlekschakelaar met een inschakelstroom van maximaal 30 mA."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not operate the machine in rain or moisture.",
+      "nl": "Gebruik het gereedschap niet in de regen of in een vochtige omgeving."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Before each use of the machine, check the cable and plug.",
+      "nl": "* Controleer machine, kabel en stekker altijd voor gebruik."
+    }
+  },
+  {
+    "translation": {
+      "en": "If damage is detected, do not use the machine.",
+      "nl": "Gebruik de machine niet indien u een defect vaststelt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Have repairs performed only by a qualified technician.",
+      "nl": "Laat reparaties uitsluitend door een vakman uitvoeren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Never open the machine yourself.",
+      "nl": "Open de machine nooit zelf."
+    }
+  },
+  {
+    "translation": {
+      "en": "* If the cable is damaged or cut through while working, do not touch the cable but immediately pull the mains plug.",
+      "nl": "* Raak de kabel niet aan, maar trek onmiddellijk de stekker uit het stopcontact indien tijdens de werkzaamheden de stroomkabel wordt beschadigd of doorgesneden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Never use the machine with a damaged cable.",
+      "nl": "Gebruik de machine nooit met een beschadigde kabel."
+    }
+  },
+  {
+    "translation": {
+      "en": "* During pauses in the work, when not in use or during work on the machine itself (e.g., changing of the working tools, repairs, cleaning, adjustment), pull the mains plug.",
+      "nl": "* Trek de stekker uit het stopcontact tijdens werkonderbrekingen, wanneer de machine niet wordt gebruikt en altijd voor werkzaamheden aan de machine (zoals het wisselen van inzetgereedschappen, onderhoud, reiniging en instelling)."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Never switch on the unit without filling with water.",
+      "nl": "* Machine nooit inschakelen, wanneer deze niet met water gevuld is!"
+    }
+  },
+  {
+    "translation": {
+      "en": "* Never submerge the unit in fluids.",
+      "nl": "* Machine nooit in vloeistoffen onderdompelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Fill the unit only with tap water.",
+      "nl": "* Vul het apparaat alleen met leidingwater."
+    }
+  },
+  {
+    "translation": {
+      "en": "Never mix combustible, poisonous, caustic or other liquids with the filling.",
+      "nl": "Nooit mengen met brandbare, giftige, bijtende of andere vloeistoffen."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Do not exceed the maximum filling capacity (2.4 l).",
+      "nl": "* Maximale inhoud (2,4 l) niet overschrijden."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Before removing wallpaper, cover the switches and sockets on the walls so that they are water and steam tight.",
+      "nl": "* Dek vóór het behangafstomen schakelaars en stopcontacten in en op de muren water- en stoomdicht af."
+    }
+  },
+  {
+    "translation": {
+      "en": "* The machine may be connected only to a properly earthed power system.",
+      "nl": "* De machine mag alleen worden aangesloten op een volgens de voorschriften geaard stroomnet."
+    }
+  },
+  {
+    "translation": {
+      "en": "The socket and extension cable must have a functional protective conductor.",
+      "nl": "Stopcontact en verlengkabel moeten een correct werkende aardleiding bezitten."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Before each use, completely unwind the cable.",
+      "nl": "* Altijd vóór het gebruik de kabel volledig afwikkelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "When using an extension cable: The cable cross section should be at least 3 x 1 mm2.",
+      "nl": "Bij gebruik van een verlengkabel: kabeldiameter moet ten minste 3 x 1 mm2 bedragen."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Tightly close the tank and the bayonet connections before putting into operation (see Before Use).",
+      "nl": "* Tank- en bajonetsluitingen voor ingebruikname stevig sluiten (zie Voor de ingebruikneming)."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Danger of scalding!",
+      "nl": "* Verbrandingsgevaar!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never open the tank and the bayonet connections during operation.",
+      "nl": "Tank- en bajonetsluitingen tijdens het gebruik nooit openen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Before opening the tank and the bayonet connections, switch off the unit, pull the mains plug and allow the unit as well as the remaining water to cool.",
+      "nl": "Voor het openen van de tank- en bajonetsluitingen: machine uitschakelen, stekker uit het stopcontact trekken en machine en overgebleven water laten afkoelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Only then open the tank or the bayonet connections (see Filling or Refilling with Water).",
+      "nl": "Pas dan tank- en bajonetsluitingen openen (zie Vullen of bijvullen met water)."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Always provide for a secure stance when working.",
+      "nl": "* Zorg er bij het werken steeds voor dat u stevig staat."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Carry the unit only with the handle.",
+      "nl": "* Machine alleen aan de handgreep dragen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not pull on the cable or the hose.",
+      "nl": "Niet aan de kabel of de slang trekken."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Do not stretch or kink the hose.",
+      "nl": "* Trek niet te hard aan de slang en knik de slang niet."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Place the unit in a secure and stable manner on a level floor.",
+      "nl": "* Machine veilig en stabiel op een vlakke vloer opstellen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not overturn the unit.",
+      "nl": "Machine niet omstoten."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Danger of scalding!",
+      "nl": "* Verbrandingsgevaar!"
+    }
+  },
+  {
+    "translation": {
+      "en": "In case the unit falls over, hot water enters the hose and can run out the end of the hose.",
+      "nl": "Indien de machine omvalt, komt er heet water in de slang terecht dat aan het einde van de slang naar buiten kan lopen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Switch off the unit immediately, pull the mains plug, allow to cool and only then empty the hose.",
+      "nl": "Machine onmiddellijk uitschakelen, stekker uit het stopcontact trekken en pas dan slang leegmaken."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Take hold of the steam shield only by the handle.",
+      "nl": "* Stoomschild uitsluitend met de handgreep vastpakken."
+    }
+  },
+  {
+    "translation": {
+      "en": "* While working, keep other persons out of the working area!",
+      "nl": "* Houd tijdens de werkzaamheden andere personen uit de buurt van de werkomgeving."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Never leave the unit unattended when switched on.",
+      "nl": "* Machine in ingeschakelde toestand nooit onbeheerd laten."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Never allow children to use the machine.",
+      "nl": "* Laat kinderen de machine nooit gebruiken."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Do not make alterations or connect attachments to the unit.",
+      "nl": "* Verander het apparaat niet en bouw het niet om."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Bosch is able to ensure flawless functioning of the machine only if the original accessories intended for it are used.",
+      "nl": "* Bosch kan een juiste werking van de machine uitsluitend waarborgen wanneer voor deze machine bedoeld origineel toebehoren wordt gebruikt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Safety Devices",
+      "nl": "Veiligheidsvoorzieningen"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Rubber Surge Protector 3 in the filler opening of the tank serves as a check valve to hold back steam or boiling water when the tank cap is suddenly opened in an improper manner.",
+      "nl": "De rubber stuwbeveiliging (3) bij de vulopening van de tank dient als terugslagventiel om bij ongeoorloofd plotseling openen van het tankdeksel stoom en overkokend water tegen te houden."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Safety Valve in the tank cap allows steam to escape from the tank when the pressure is too high (e.g., when the hose is kinked).",
+      "nl": "Een veiligheidsventiel in het tankdeksel laat bij te sterke overdruk in de tank (bijvoorbeeld door een geknikte slang) stoom naar buiten ontwijken."
+    }
+  },
+  {
+    "translation": {
+      "en": "An additional Overpressure Valve in the unit allow steam to escape into the intermediate space between the tank wall and outer housing when the pressure is excessive.",
+      "nl": "Een extra overdrukventiel in de machine laat bij overdruk in de tank eveneens stoom in de tussenruimte tussen tankwand en huis ontwijken."
+    }
+  },
+  {
+    "translation": {
+      "en": "The condense water that results can run out of the housing at the bottom.",
+      "nl": "Het zich vormende condenswater kan naar beneden uit het huis ontwijken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Never open the tank and the bayonet connections during operation.",
+      "nl": "Tank- en bajonetsluitingen tijdens het gebruik nooit openen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Danger of scalding!",
+      "nl": "Verbrandingsgevaar!"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Overheating Protection built into the heating element switches the heating element off when water is not refilled in time.",
+      "nl": "De in de verwarming geïntegreerde beveiliging tegen oververhitting schakelt het verwarmingselement uit als niet op tijd water wordt bijgevuld."
+    }
+  },
+  {
+    "translation": {
+      "en": "The unit is still switched on and the red indicator in the On/Off switch 6 lights.",
+      "nl": "De machine is nog ingeschakeld, het rode lampje in de aan-/uit-schakelaar (6) brandt."
+    }
+  },
+  {
+    "translation": {
+      "en": "For further procedures, see Filling or Refilling with Water.",
+      "nl": "Voor overige handelingen zie \"Vullen of bijvullen met water.\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Before Use",
+      "nl": "Voor de ingebruikneming"
+    }
+  },
+  {
+    "translation": {
+      "en": "Mounting the Handle of the Steam Shield Screw the handle to the steam shield 1 with the Phillips head screws.",
+      "nl": "Handgreep van het stoomschild monteren Handgreep van het stoomschild met kruiskopschroeven aan het stoomschild (1) vastschroeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "Connecting the steam shield and the hose",
+      "nl": "Slang en stoomschild aansluiten"
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn the safety lock 9 upwards in the clockwise direction.",
+      "nl": "Veiligheidsblokkering (9) met de wijzers van de klok naar boven draaien."
+    }
+  },
+  {
+    "translation": {
+      "en": "Insert the bayonet connector 8 of the hose in the hose connection 7 of the unit and twist in the clockwise direction.",
+      "nl": "Bajonetsluiting (8) van de slang in de slangaansluiting (7) van de machine steken en met de wijzers van de klok naar binnen draaien."
+    }
+  },
+  {
+    "translation": {
+      "en": "The red marking must be aligned with the groove on the unit.",
+      "nl": "De rode markering moet zich op één lijn bevinden met de groef van de machine."
+    }
+  },
+  {
+    "translation": {
+      "en": "Release the safety lock 9.",
+      "nl": "Veiligheidsblokkering (9) loslaten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Never open the tank and the bayonet connections during operation.",
+      "nl": "Tank- en bajonetsluitingen tijdens het gebruik nooit openen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Filling or Refilling with Water",
+      "nl": "Vullen of bijvullen met water"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fill the unit with tap water only.",
+      "nl": "Machine uitsluitend met leidingwater vullen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Never mix combustible, poisonous, caustic or other liquids (e.g. cleaning agent) with the filling.",
+      "nl": "Nooit brandbare, giftige, bijtende of andere vloeistoffen (bijv. reinigingsmiddelen) met het water vermengen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Filling with Water",
+      "nl": "Vullen met water."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"When filling, take care that the grid over the rubber surge protector 3 is not pressed in by the filling container.",
+      "nl": "\"Er bij het vullen op letten dat het rooster boven de rubber stuwbeveiliging (3) niet door vulvoorwerpen wordt ingedrukt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Refilling with Water",
+      "nl": "Water bijvullen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take care when loosening the tank cap.",
+      "nl": "Voorzichtig bij het losdraaien van de tankdeksel."
+    }
+  },
+  {
+    "translation": {
+      "en": "Danger of scalding!",
+      "nl": "Verbrandingsgevaar!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Procedure:",
+      "nl": "Werkwijze:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait at least one minute.",
+      "nl": "Ten minste een minuut wachten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Only then open the tank.",
+      "nl": "Pas dan het reservoir openen:"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Turn the tank cap lightly counter clockwise to the first stop (position 2.).",
+      "nl": "- Tankdeksel voorzichtig tegen de wijzers van de klok in tot aan de eerste aanslag (stand 2.) opendraaien."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Allow steam to escape until no more steam is emitted.",
+      "nl": "- Stoom laten afblazen tot er geen stoom meer naar buiten komt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press down tank cap.",
+      "nl": "Tankdeksel naar beneden duwen."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Continue to turn counter clockwise to position 3 and remove.",
+      "nl": "- Verder naar links draaien tot stand 3 en optillen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Fill with water to the maximum marking on the water level indicator 2.",
+      "nl": "Vullen met water tot aan de maximummarkering van de waterniveauaanduiding 2."
+    }
+  },
+  {
+    "translation": {
+      "en": "If the unit is filled with warm water, the heating time is shortened.",
+      "nl": "Wanneer warm water wordt toegevoegd, wordt de opwarmtijd korter."
+    }
+  },
+  {
+    "translation": {
+      "en": "A correctly close tank cap is shown in the following illustration position 1.).",
+      "nl": "De volgende afbeelding toont de correct gesloten tankdeksel (stand 1.)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Putting into Operation",
+      "nl": "Ingebruikneming"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ensure that the mains voltage is correct!",
+      "nl": "Let op de netspanning."
+    }
+  },
+  {
+    "translation": {
+      "en": "The voltage of the power source must agree with the value given on the nameplate of the machine.",
+      "nl": "De spanning van de stroombron moet overeenkomen met de gegevens op het typeplaatje."
+    }
+  },
+  {
+    "translation": {
+      "en": "Machines designated for 230 V can also be operated with 220 V.",
+      "nl": "Met 230 V aangeduide machines kunnen ook worden gebruikt met een spanning van 220 V."
+    }
+  },
+  {
+    "translation": {
+      "en": "Before use, check that:",
+      "nl": "Voor ingebruikname controleren of"
+    }
+  },
+  {
+    "translation": {
+      "en": "- The unit is filled with water",
+      "nl": "- de tank met water is gevuld,"
+    }
+  },
+  {
+    "translation": {
+      "en": "- The tank is properly closed",
+      "nl": "- de tank goed is afgesloten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Connect the unit to the mains socket.",
+      "nl": "Stekker van de machine in het stopcontact steken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Switch on the unit.",
+      "nl": "Machine inschakelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "The red indicator lamp in the On/Off switch 6 lights.",
+      "nl": "Het rode lampje in de aan/uitschakelaar (6) gaat branden."
+    }
+  },
+  {
+    "translation": {
+      "en": "During the warm-up time, some amount of hot water can run out of the steam shield.",
+      "nl": "Tijdens de opwarmfase kan er een beetje heet water uit het stoomschild lopen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Place the steam shield in a bucket to catch the water that runs out.",
+      "nl": "Stoomschild op een emmer leggen om het er uit lopende water op te vangen."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Never leave the unit unattended when switched on.",
+      "nl": "* Machine in ingeschakelde toestand nooit onbeheerd laten."
+    }
+  },
+  {
+    "translation": {
+      "en": "After a few minutes, steam is emitted.",
+      "nl": "Na enkele minuten komt er stoom uit de machine."
+    }
+  },
+  {
+    "translation": {
+      "en": "The unit is ready for use.",
+      "nl": "De machine kan nu worden gebruikt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Working Instructions",
+      "nl": "Tips voor de werkzaamheden"
+    }
+  },
+  {
+    "translation": {
+      "en": "The unit can be used only for the removal of wallpaper.",
+      "nl": "De machine mag uitsluitend worden gebruikt voor het losweken van behang."
+    }
+  },
+  {
+    "translation": {
+      "en": "Preparations",
+      "nl": "Voorbereidingen"
+    }
+  },
+  {
+    "translation": {
+      "en": "* Before removing wallpaper, cover the switches and sockets so that they are water and steam tight.",
+      "nl": "* Dek vóór het behangafstomen schakelaars en stopcontacten in en op de muren water- en stoomdicht af."
+    }
+  },
+  {
+    "translation": {
+      "en": "Wallpaper that has been painted over several times or waterproof wallpaper is difficult to remove.",
+      "nl": "Afwasbaar behang of behang dat vaak is geschilderd, kan moeilijk worden verwijderd."
+    }
+  },
+  {
+    "translation": {
+      "en": "Perforate such wallpaper with a spiked roller so that the steam can reach and act on the paste layer.",
+      "nl": "Maak in dit soort behang met een penwiel gaatjes, zodat de stoom op het behangplaksel kan inwerken."
+    }
+  },
+  {
+    "translation": {
+      "en": "For vinyl foam wallpaper, it may be necessary to first pull off the vinyl layer and then work with the wallpaper remover.",
+      "nl": "Bij vinylbehang indien nodig eerst de bovenste vinyllaag lostrekken en dan pas met de behangafstomer werken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Removing Wallpaper",
+      "nl": "Behang losweken"
+    }
+  },
+  {
+    "translation": {
+      "en": "Take hold of the steam shield only by the handle.",
+      "nl": "Stoomschild uitsluitend met de handgreep vastpakken."
+    }
+  },
+  {
+    "translation": {
+      "en": "It is best to work from the ceiling to the floor.",
+      "nl": "U werkt het best van het plafond naar de vloer toe."
+    }
+  },
+  {
+    "translation": {
+      "en": "Place the steam shield on the wallpaper.",
+      "nl": "Stoomschild op het behang zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "After about 10 seconds depending on the type of wallpaper and the background, remove the steam shield and pull or scrape off the wallpaper.",
+      "nl": "Afhankelijk van het soort behang en de ondergrond, na ca. 10 seconden stoomschild weghalen en behang lostrekken of loskrabben."
+    }
+  },
+  {
+    "translation": {
+      "en": "During the scraping, place the steam shield again on the wallpaper.",
+      "nl": "Tijdens het loskrabben het stoomschild weer op het behang zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "For removing wallpaper in corners or recesses, use the steam nozzle (accessory).",
+      "nl": "Om behang in hoeken of nissen los te maken, stoomsproeier (toebehoren) gebruiken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Danger of scalding!",
+      "nl": "Verbrandingsgevaar!"
+    }
+  },
+  {
+    "translation": {
+      "en": "In case the unit falls over, hot water enters the hose and can run out the end of the hose.",
+      "nl": "Indien de machine omvalt, komt er heet water in de slang terecht dat aan het einde van de slang naar buiten kan lopen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Switch off the unit immediately, pull the main plug, allow to cool and only then empty the hose.",
+      "nl": "Machine onmiddellijk uitschakelen, stekker uit het stopcontact trekken en pas dan slang leegmaken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Pay attention to the minimum marking on the water level indicator 2 and refill with water in time (see Filling or Refilling with Water).",
+      "nl": "Minimummarkering van de waterniveauaanduiding 2 in acht nemen en op tijd water bijvullen (zie \"Vullen of bijvullen met water\")."
+    }
+  },
+  {
+    "translation": {
+      "en": "For interruptions in the work, switch off the unit and pull the plug.",
+      "nl": "Bij onderbrekingen van de werkzaamheden machine uitschakelen en stekker uit het stopcontact trekken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Place the steam shield in a bucket to catch water that runs out.",
+      "nl": "Stoomschild op een emmer leggen om uitlopend water op te vangen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Work Completion",
+      "nl": "Einde van de werkzaamheden"
+    }
+  },
+  {
+    "translation": {
+      "en": "Switch off the unit and pull the plug from the wall socket.",
+      "nl": "Machine uitschakelen en stekker uit het stopcontact trekken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Allow the unit and the remaining water to cool.",
+      "nl": "Machine en overgebleven water laten afkoelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Open the tank cap first and then the bayonet connections.",
+      "nl": "Daarna tankdeksel en vervolgens bajonetsluitingen openen."
+    }
+  },
+  {
+    "translation": {
+      "en": "For this purpose, turn the safety lock 9 on the hose connection 7 upward in the clockwise direction and the bayonet connector in the counter clockwise direction and pull out.",
+      "nl": "Daarvoor op de slangaansluiting (7) de veiligheidsblokkering (9) met de wijzers van de klok naar boven draaien en bajonetsluiting tegen de wijzers van de klok draaiend lostrekken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Ventilate the room thoroughly so that the background can dry out.",
+      "nl": "Daarvoor tankdeksel openen om druk te vereffenen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Storage",
+      "nl": "Bewaren"
+    }
+  },
+  {
+    "translation": {
+      "en": "The steam shield, hose and cable can be stored on the unit in a space saving manner (see folded page).",
+      "nl": "Stoomschild, slang en kabel kunnen ruimtebesparend op de machine worden aangebracht (zie de uitklapbare pagina)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Store the unit in a frost-free place.",
+      "nl": "Machine op een vorstvrije plaats bewaren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Store the unit and accessories such that they are not accessible to children.",
+      "nl": "Machine en toebehoren buiten het bereik van kinderen bewaren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Malfunctions",
+      "nl": "Storingen"
+    }
+  },
+  {
+    "translation": {
+      "en": "General",
+      "nl": "Algemeen"
+    }
+  },
+  {
+    "translation": {
+      "en": "For malfunctions while working (e.g., no steam emerges as a result of a kinked or pinched hose), always switch off the unit first, pull the mains plug and allow to cool.",
+      "nl": "Bij storingen tijdens de werkzaamheden (er komt bijvoorbeeld geen stoom uit het einde van de slang als gevolg van een geknikte of afgeklemde slang) altijd eerst de machine uitschakelen, stekker uit het stopcontact trekken en machine laten afkoelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Then open the tank cap (see Filling or Refilling with Water) and only then open the bayonet connector.",
+      "nl": "Vervolgens de tankdeksel (zie \"Vullen of bijvullen met water\") en pas daarna de bajonetsluitingen openen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Never open the bayonet connector first!",
+      "nl": "Nooit eerst de bajonetsluitingen openen!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Danger of scalding!",
+      "nl": "Verbrandingsgevaar!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Corrective action:",
+      "nl": "Oplossing:"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Switch off the unit and pull the mains plug.",
+      "nl": "- Machine uitschakelen en stekker uit stopcontact trekken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Allow to cool.",
+      "nl": "Laten afkoelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "- If the tank is empty (see minimum markering on the level indicator 2), refill with water (see Filling or Refilling with Water).",
+      "nl": "- Indien de tank leeg is (zie minimummarkering van de waterniveauaanduiding 2), water bijvullen (zie \"Vullen of bijvullen met water\")."
+    }
+  },
+  {
+    "translation": {
+      "en": "- If there is still water in the tank, the switching off and on can have been caused by calcium deposits on the heating plate.",
+      "nl": "- Indien zich nog water in de tank bevindt, kan het uit- of inschakelen veroorzaakt zijn door kalkaanslag op de verwarmingsplaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "Decalcify the unit (see Maintenance and Cleaning).",
+      "nl": "Machine ontkalken (zie \"Onderhoud en reiniging\")."
+    }
+  },
+  {
+    "translation": {
+      "en": "Maintenance and Cleaning",
+      "nl": "Onderhoud en reiniging"
+    }
+  },
+  {
+    "translation": {
+      "en": "* Before any work on the machine itself, pull the mains plug.",
+      "nl": "* Trek altijd voor werkzaamheden aan de machine de stekker uit het stopcontact."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Always keep the machine clean so that it functions properly and accurately.",
+      "nl": "* Houd de machine altijd schoon om goed en veilig te werken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Decalcifying",
+      "nl": "Ontkalken"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never mix combustible, poisonous, caustic or other liquids with the filling.",
+      "nl": "Nooit mengen met brandbare, giftige, bijtende of andere vloeistoffen!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Decalcify the unit as necessary depending on the hardness of the water and frequency of use.",
+      "nl": "Machine indien nodig ontkalken, afhankelijk van de hardheid van het water en de gebruiksfrequentie van de machine."
+    }
+  },
+  {
+    "translation": {
+      "en": "Use commercially available decalcifying agent preferably with a citric acid basis.",
+      "nl": "Gebruik normale ontkalkingsmiddelen, bij voorkeur citroenzuur."
+    }
+  },
+  {
+    "translation": {
+      "en": "Switch off the unit and pull the plug from the wall socket.",
+      "nl": "Machine uitschakelen en stekker uit het stopcontact trekken."
+    }
+  },
+  {
+    "translation": {
+      "en": "A half litre of solution is adequate for decalcifying.",
+      "nl": "Een halve liter oplossing is voldoende voor het ontkalken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove the hose and switch on.",
+      "nl": "Slang verwijderen en machine inschakelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Allow the decalcifying solution to boil for approx. five minutes.",
+      "nl": "Ontkalkingsoplossing ca. 5 minuten laten koken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Switch off the unit and pull the plug.",
+      "nl": "Machine uitschakelen en stekker uit het stopcontact trekken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Allow the solution to act for approx. 10 minutes.",
+      "nl": "Oplossing nog ca. 10 minuten laten inwerken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Allow the unit and the remaining solution to cool.",
+      "nl": "Machine en oplossing laten afkoelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Empty the unit, rinse with clear water and allow the unit to dry out.",
+      "nl": "Machine leegmaken, met schoon water naspoelen en goed laten drogen."
+    }
+  },
+  {
+    "translation": {
+      "en": "In order to avoid accidents",
+      "nl": "Ter voorkoming van ongevallen"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Never use the machine with a damaged cable.",
+      "nl": "- Machine nooit met beschadigde kabel gebruiken."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Never open the machine yourself.",
+      "nl": "- Machine nooit openen."
+    }
+  },
+  {
+    "translation": {
+      "en": "These instructions are printed on recycled paper manufactured without chlorine.",
+      "nl": "Deze gebruiksaanwijzing is vervaardigd van chloorvrij gebleekt kringlooppapier."
+    }
+  },
+  {
+    "translation": {
+      "en": "The plastic components are labelled for categorised recycling.",
+      "nl": "De kunststofdelen zijn gekenmerkt om ze per soort te kunnen recyclen."
+    }
+  }
+]

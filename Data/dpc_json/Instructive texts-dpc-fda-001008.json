@@ -1,0 +1,1082 @@
+[
+  {
+    "translation": {
+      "en": "ANNEX I",
+      "nl": "BIJLAGE I"
+    }
+  },
+  {
+    "translation": {
+      "en": "SUMMARY OF PRODUCT CHARACTERISTICS",
+      "nl": "SAMENVATTING VAN DE PRODUCTKENMERKEN"
+    }
+  },
+  {
+    "translation": {
+      "en": "1. NAME OF THE VETERINARY MEDICINAL PRODUCT Fevaxyn Pentofel, solution for injection, for cats",
+      "nl": "1. NAAM VAN HET DIERGENEESMIDDEL Fevaxyn Pentofel, oplossing voor injectie voor katten"
+    }
+  },
+  {
+    "translation": {
+      "en": "For a full list of excipients, see Section 6.1",
+      "nl": "Zie rubriek 6.1 voor de volledige lijst van hulpstoffen."
+    }
+  },
+  {
+    "translation": {
+      "en": "3. PHARMACEUTICAL FORM",
+      "nl": "3. FARMACEUTISCHE VORM"
+    }
+  },
+  {
+    "translation": {
+      "en": "Solution for injection.",
+      "nl": "Oplossing voor injectie."
+    }
+  },
+  {
+    "translation": {
+      "en": "4. CLINICAL PARTICULARS",
+      "nl": "4. KLINISCHE GEGEVENS"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cats",
+      "nl": "Katten."
+    }
+  },
+  {
+    "translation": {
+      "en": "4.2 Indications for use, specifying the target species",
+      "nl": "4.2 Indicaties voor gebruik met specificatie van de doeldiersoort"
+    }
+  },
+  {
+    "translation": {
+      "en": "For the active immunisation of healthy cats 9 weeks or older against Feline Panleukopenia and Feline Leukaemia and against respiratory diseases caused by Feline Rhinotracheitis virus, Feline Calicivirus and Feline Chlamydia psittaci.",
+      "nl": "Voor de actieve immunisatie van gezonde katten vanaf de leeftijd van 9 weken tegen kattenziekte en kattenleukemie, en tegen ademhalingsaandoeningen veroorzaakt door het feline rhinotracheïtis virus, het feline calicivirus en feline Chlamydia psittaci."
+    }
+  },
+  {
+    "translation": {
+      "en": "4.4 Special warnings",
+      "nl": "4.4 Speciale waarschuwingen voor elke diersoort waarvoor het diergeneesmiddel bestemd is"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cats positive at the second testing should be considered as being permanently infected with FeLV and should be handled accordingly.",
+      "nl": "Katten die bij de tweede test positief blijken te zijn, moeten worden beschouwd als katten die continu met het kattenleukemievirus zijn besmet en dienen als dusdanig te worden behandeld."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cats negative at second testing can be vaccinated since, in all likelihood, they have overcome the FeLV infection.",
+      "nl": "Katten die bij de tweede test negatief blijken te zijn, mogen worden gevaccineerd omdat ze de kattenleukemie-infectie hoogstwaarschijnlijk hebben overwonnen."
+    }
+  },
+  {
+    "translation": {
+      "en": "4.5 Special precautions for use Special precautions for use in animals",
+      "nl": "4.5 Speciale voorzorgsmaatregelen bij gebruik Speciale voorzorgsmaatregelen voor gebruik bij dieren"
+    }
+  },
+  {
+    "translation": {
+      "en": "In case of anaphylactoid reaction, adrenaline should be administered intramuscularly.",
+      "nl": "In geval van een overgevoeligheidsreactie dient adrenaline te worden toegediend langs intramusculaire weg."
+    }
+  },
+  {
+    "translation": {
+      "en": "Vaccination of FeLV positive cats is of no benefit.",
+      "nl": "Vaccinatie van FeLV positieve katten is niet zinvol."
+    }
+  },
+  {
+    "translation": {
+      "en": "See Section 4.4 for further details.",
+      "nl": "Zie voor meer informatie onder 4.4"
+    }
+  },
+  {
+    "translation": {
+      "en": "Special precautions to be taken by the person administering the veterinary medicinal product to animals",
+      "nl": "Speciale voorzorgsmaatregelen, te nemen door degene die het geneesmiddel aan de dieren toedient"
+    }
+  },
+  {
+    "translation": {
+      "en": "To the user:",
+      "nl": "Voor de gebruiker:"
+    }
+  },
+  {
+    "translation": {
+      "en": "This product contains mineral oil.",
+      "nl": "Dit geneesmiddel bevat minerale olie."
+    }
+  },
+  {
+    "translation": {
+      "en": "If pain persists for more than 12 hours after medical examination, seek medical advice again.",
+      "nl": "Consulteer opnieuw een arts, als de pijn meer dan 12 uur na het eerste medisch onderzoek aanhoudt."
+    }
+  },
+  {
+    "translation": {
+      "en": "To the physician:",
+      "nl": "Voor de arts:"
+    }
+  },
+  {
+    "translation": {
+      "en": "This product contains mineral oil.",
+      "nl": "Dit geneesmiddel bevat minerale olie."
+    }
+  },
+  {
+    "translation": {
+      "en": "Even if small amounts have been injected, accidental injection with this product can cause intense swelling, which may, for example, result in ischaemic necrosis and even the loss of a digit.",
+      "nl": "Accidentele injectie, zelfs met kleine hoeveelheden, kan hevige zwelling veroorzaken die bijvoorbeeld kan leiden tot ischemische necrose en zelfs tot verlies van een vinger."
+    }
+  },
+  {
+    "translation": {
+      "en": "4.6 Adverse reactions (frequency and seriousness)",
+      "nl": "4.6 Bijwerkingen (frequentie en ernst)"
+    }
+  },
+  {
+    "translation": {
+      "en": "In rare cases, vaccinated cats may develop post-vaccinal reactions including transient fever, vomiting, anorexia and/or depression which usually disappear within 24 hours.",
+      "nl": "In zeldzame gevallen kan bij gevaccineerde katten een entreactie optreden, zoals voorbijgaande koorts, braken, gebrek aan eetlust en/of lusteloosheid, die gewoonlijk binnen 24 uur verdwijnt."
+    }
+  },
+  {
+    "translation": {
+      "en": "A local reaction with swelling, pain, pruritis or hair loss at the injections site may occasionally be observed.",
+      "nl": "Een lokale reactie met zwelling, pijn, jeuk en haaruitval op de plaats van injectie kan zo nu en dan waargenomen worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "In very rare cases an anaphylactoid reaction with oedema, pruritis, respiratory and cardiac distress, severe gastrointestinal signs or shock have been seen during the first hours after vaccination.",
+      "nl": "In zeer zeldzame gevallen zijn overgevoeligheidsreacties met oedeem, jeuk, ademhalings- en hartproblemen, ernstige maagdarmstoornissen of shock waargenomen gedurende de eerste uren na vaccinatie."
+    }
+  },
+  {
+    "translation": {
+      "en": "See Section 4.5 for guidance about treatment.",
+      "nl": "Zie voor advies hoe te behandelen onder 5.5 (bijzondere voorzorgen voor gebruik)."
+    }
+  },
+  {
+    "translation": {
+      "en": "4.7 Use during pregnancy, lactation or lay",
+      "nl": "4.7 Gebruik tijdens dracht, lactatie of leg"
+    }
+  },
+  {
+    "translation": {
+      "en": "The safety of the vaccine in pregnant queens has not been investigated.",
+      "nl": "De veiligheid van het vaccin bij drachtige poezen is niet bewezen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Vaccination of pregnant queens is not recommended.",
+      "nl": "Vaccinatie van drachtige poezen wordt afgeraden."
+    }
+  },
+  {
+    "translation": {
+      "en": "4.8 Interaction with other medicinal products and other forms of interaction",
+      "nl": "4.8 Interactie(s) met andere geneesmiddelen en andere vormen van interactie"
+    }
+  },
+  {
+    "translation": {
+      "en": "No information is available on the safety and efficacy from the concurrent use of this vaccine with any other.",
+      "nl": "Er is met betrekking tot de veiligheid en werkzaamheid geen informatie beschikbaar van gebruik van dit vaccin samen met een ander middel."
+    }
+  },
+  {
+    "translation": {
+      "en": "It is therefore recommended that no other vaccines should be administered within 14 days before or after vaccination with this product.",
+      "nl": "Derhalve wordt aanbevolen geen andere vaccins toe te dienen binnen 14 dagen voor of na vaccinatie met dit middel."
+    }
+  },
+  {
+    "translation": {
+      "en": "4.9 Amounts to be administered and administration route",
+      "nl": "4.9 Dosering en toedieningsweg"
+    }
+  },
+  {
+    "translation": {
+      "en": "The contents of the single dose syringe should be shaken well and administered aseptically by subcutaneous injection.",
+      "nl": "De inhoud van de voorgevulde spuit dient goed geschud te worden en op een aseptische manier langs subcutane weg te worden toegediend."
+    }
+  },
+  {
+    "translation": {
+      "en": "When administering the product, care must be taken to attach the enclosed sterile needle aseptically to the syringe before use.",
+      "nl": "Bij toediening van het product moet men ervoor zorgen dat de bijgeleverde steriele naald op een aseptische manier op de spuit wordt bevestigd."
+    }
+  },
+  {
+    "translation": {
+      "en": "Basic vaccination of cats 9 weeks and older: two doses at an interval of 3 to 4 weeks.",
+      "nl": "Basisvaccinatie in katten van 9 weken en ouder: twee doses met een interval van 3 tot 4 weken."
+    }
+  },
+  {
+    "translation": {
+      "en": "An additional dose is recommended for kittens living in high-risk FeLV environments whose first dose was administered before 12 weeks of age.",
+      "nl": "Een extra dosis wordt aanbevolen voor katjes die in een omgeving met een verhoogd FeLV risico worden gehouden en die de eerste dosis voor de leeftijd van 12 weken hebben gekregen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Revaccination: one vaccination annually.",
+      "nl": "Herhalingsvaccinatie: jaarlijks één vaccinatie."
+    }
+  },
+  {
+    "translation": {
+      "en": "No undesirable effects other than those observed and mentioned in the \"Undesirable effects\" section have been observed.",
+      "nl": "Geen bijwerkingen anders dan waargenomen en genoemd onder \"Bijwerkingen\" zijn waargenomen."
+    }
+  },
+  {
+    "translation": {
+      "en": "4.11 Withdrawal period(s)",
+      "nl": "4.11 Wachttijd(en)"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not applicable.",
+      "nl": "Niet van toepassing."
+    }
+  },
+  {
+    "translation": {
+      "en": "5. IMMUNOLOGICAL PROPERTIES",
+      "nl": "5. IMMUNOLOGISCHE EIGENSCHAPPEN"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fevaxyn Pentofel stimulates the development of active immunity against Feline Panleukopenia Virus, Feline Rhinotracheitis Virus, Feline Calicivirus, Feline Chlamydia psittaci and Feline Leukaemia Virus.",
+      "nl": "Fevaxyn Pentofel stimuleert de ontwikkeling van actieve immuniteit tegen het kattenziektevirus, feline rhinotracheïtis virus, feline calicivirus, feline Chlamydia psittaci en kattenleukemievirus."
+    }
+  },
+  {
+    "translation": {
+      "en": "6. PHARMACEUTICAL PARTICULARS",
+      "nl": "6. FARMACEUTISCHE GEGEVENS"
+    }
+  },
+  {
+    "translation": {
+      "en": "6.1 List of excipients",
+      "nl": "6.1 Lijst van hulpstoffen"
+    }
+  },
+  {
+    "translation": {
+      "en": "6.2 Incompatibilities",
+      "nl": "6.2 Onverenigbaarheden"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not mix with any other vaccine or immunological product.",
+      "nl": "Niet vermengen met een ander vaccin of immunologisch middel."
+    }
+  },
+  {
+    "translation": {
+      "en": "6.3 Shelf life",
+      "nl": "6.3 Houdbaarheidstermijn"
+    }
+  },
+  {
+    "translation": {
+      "en": "1 year",
+      "nl": "1 jaar"
+    }
+  },
+  {
+    "translation": {
+      "en": "6.4 Special precautions for storage",
+      "nl": "6.4 Speciale voorzorgsmaatregelen bij bewaren"
+    }
+  },
+  {
+    "translation": {
+      "en": "Store and transport refrigerated (2 oC - 8 oC) Do not freeze.",
+      "nl": "Bewaren in een koelkast bij 2°C - 8°C Niet invriezen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Protect from light.",
+      "nl": "Bescherm tegen licht."
+    }
+  },
+  {
+    "translation": {
+      "en": "6.5 Nature and composition of immediate packaging",
+      "nl": "6.5 Aard en samenstelling van de primaire verpakking"
+    }
+  },
+  {
+    "translation": {
+      "en": "Single dose disposable polypropylene syringes containing one dose (l ml) of vaccine.",
+      "nl": "Polypropyleen wegwerpspuit van 3 ml die 1 ml vaccin bevat."
+    }
+  },
+  {
+    "translation": {
+      "en": "The syringes are sealed with rubber tips.",
+      "nl": "De spuiten zijn met rubberdopjes afgesloten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Packaging:",
+      "nl": "Verpakking"
+    }
+  },
+  {
+    "translation": {
+      "en": "One cardboard box containing 10, 20 or 25 single dose (1 ml) pre-filled syringes and 10, 20 or 25 sterile needles respectively.",
+      "nl": "Eén kartonnen doos met 10, 20 of 25 voorgevulde spuiten met een dosis van 1 ml + 10, 20 of 25 steriele naalden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Not all pack sizes may be marketed.",
+      "nl": "Het kan voorkomen dat niet alle verpakkingsgrootten in de handel worden gebracht."
+    }
+  },
+  {
+    "translation": {
+      "en": "6.6 Special precautions for the disposal of unused veterinary medicinal product or waste materials derived from the use of such products",
+      "nl": "6.6 Speciale voorzorgsmaatregelen voor de verwijdering van het ongebruikte diergeneesmiddel of eventueel uit het gebruik van een dergelijk middel voortvloeiend afvalmateriaal"
+    }
+  },
+  {
+    "translation": {
+      "en": "Any unused product or waste materials derived from such veterinary medicinal products should be disposed of in accordance with local requirements.",
+      "nl": "Ongebruikt diergeneesmiddel of restant hiervan dient in overeenstemming met de lokale vereisten te worden verwijderd."
+    }
+  },
+  {
+    "translation": {
+      "en": "7. MARKETING AUTHORISATION HOLDER",
+      "nl": "7. NAAM VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fort Dodge Laboratories Ireland Finisklin Industrial Estate",
+      "nl": "Fort Dodge Laboratories Ireland Finisklin Industrial Estate"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sligo",
+      "nl": "Sligo"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ireland",
+      "nl": "Ierland"
+    }
+  },
+  {
+    "translation": {
+      "en": "10 DATE OF REVISION OF THE TEXT",
+      "nl": "10. DATUM VAN HERZIENING VAN DE TEKST"
+    }
+  },
+  {
+    "translation": {
+      "en": "A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND> MANUFACTURING AUTHORISATION HOLDER(S) RESPONSIBLE FOR BATCH RELEASE",
+      "nl": "A. FABRIKANTEN VAN DE BIOLOGISCH WERKZAME BESTANDDELEN EN HOUDER VAN DE VERGUNNING VOOR DE VERVAARDIGING VERANTWOORDELIJK VOOR VRIJGIFTE"
+    }
+  },
+  {
+    "translation": {
+      "en": "Names and addresses of the manufacturers of the biological active substances",
+      "nl": "Naam en adres van de fabrikanten van de biologisch werkzame bestanddelen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fort Dodge Laboratories Ireland Finisklin Industrial Estate",
+      "nl": "Fort Dodge Laboratories Ireland Finisklin Industrial Estate"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sligo",
+      "nl": "Sligo"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ireland",
+      "nl": "Ireland"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fort Dodge Charles City 2000 Rockford Road Charles City",
+      "nl": "Fort Dodge Charles City 2000 Rockford Road Charles City"
+    }
+  },
+  {
+    "translation": {
+      "en": "Iowa 50616",
+      "nl": "Iowa 50616"
+    }
+  },
+  {
+    "translation": {
+      "en": "USA",
+      "nl": "USA"
+    }
+  },
+  {
+    "translation": {
+      "en": "Name and address of the manufacturer responsible for batch release",
+      "nl": "Naam en adres van de fabrikanten verantwoordelijk voor vrijgifte"
+    }
+  },
+  {
+    "translation": {
+      "en": "Finisklin Industrial Estate",
+      "nl": "Finisklin Industrial Estate"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ireland",
+      "nl": "Ireland"
+    }
+  },
+  {
+    "translation": {
+      "en": "B. CONDITIONS OR RESTRICTIONS OF THE MARKETING AUTHORISATION REGARDING SUPPLY OR USE",
+      "nl": "B. VOORWAARDEN VERBONDEN AAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN, INCLUSIEF BEPERKINGEN, TEN AANZIEN VAN DE LEVERING EN HET GEBRUIK"
+    }
+  },
+  {
+    "translation": {
+      "en": "To be supplied only on veterinary prescription.",
+      "nl": "Op recept verkrijgbaar diergeneesmiddel."
+    }
+  },
+  {
+    "translation": {
+      "en": "Not applicable.",
+      "nl": "Niet van toepassing"
+    }
+  },
+  {
+    "translation": {
+      "en": "PARTICULARS TO APPEAR ON THE OUTER PACKAGE",
+      "nl": "GEGEVENS DIE OP DE BUITENVERPAKKING MOETEN WORDEN VERMELD"
+    }
+  },
+  {
+    "translation": {
+      "en": "1. NAME OF THE VETERINARY MEDICINAL PRODUCT",
+      "nl": "1. BENAMING VAN HET DIERGENEESMIDDEL"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fevaxyn Pentofel",
+      "nl": "Fevaxyn Pentofel, oplossing voor injectie voor katten"
+    }
+  },
+  {
+    "translation": {
+      "en": "2. STATEMENT OF ACTIVE AND OTHER SUBSTANCES",
+      "nl": "2. GEHALTE AAN WERKZAME EN OVERIGE BESTANDDELEN"
+    }
+  },
+  {
+    "translation": {
+      "en": "Inactivated adjuvanted vaccine for cats.",
+      "nl": "Geïnactiveerd en geadjuveerd vaccin voor katten Per dosis van 1 ml:"
+    }
+  },
+  {
+    "translation": {
+      "en": "3. PHARMACEUTICAL FORM",
+      "nl": "3. FARMACEUTISCHE VORM"
+    }
+  },
+  {
+    "translation": {
+      "en": "Solution for injection.",
+      "nl": "Oplossing voor injectie."
+    }
+  },
+  {
+    "translation": {
+      "en": "4. PACKAGE SIZE",
+      "nl": "4. VERPAKKINGSGROOTTE"
+    }
+  },
+  {
+    "translation": {
+      "en": "5. TARGET SPECIES",
+      "nl": "5. DIER WAARVOOR HET DIERGENEESMIDDEL BESTEMD IS"
+    }
+  },
+  {
+    "translation": {
+      "en": "7. METHOD AND ROUTE(S) OF ADMINISTRATION",
+      "nl": "7. WIJZE VAN GEBRUIK EN TOEDIENINGSWEG(EN)"
+    }
+  },
+  {
+    "translation": {
+      "en": "Administer aseptically by subcutaneous injection.",
+      "nl": "subcutane injectie"
+    }
+  },
+  {
+    "translation": {
+      "en": "Accidental injection is dangerous - read package leaflet before use.",
+      "nl": "Accidentele injectie is gevaarlijk - zie bijsluiter vóór gebruik."
+    }
+  },
+  {
+    "translation": {
+      "en": "10. EXPIRY DATE",
+      "nl": "10. UITERSTE GEBRUIKSDATUM"
+    }
+  },
+  {
+    "translation": {
+      "en": "11. SPECIAL STORAGE CONDITIONS",
+      "nl": "11. SPECIALE VOORZORGSMAATREGELEN BIJ BEWAREN"
+    }
+  },
+  {
+    "translation": {
+      "en": "Store and transport refrigerated (2°C - 8°C).",
+      "nl": "Bewaren in een koelkast bij 2°C - 8°C"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not freeze.",
+      "nl": "Niet invriezen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep the syringes in the outer carton in order to protect from light.",
+      "nl": "Bewaar de spuiten in de buitenverpakking ter bescherming tegen licht."
+    }
+  },
+  {
+    "translation": {
+      "en": "12. SPECIAL PRECAUTIONS FOR THE DISPOSAL OF UNUSED PRODUCTS OR WASTE MATERIALS, IF ANY",
+      "nl": "12. SPECIALE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE DIERGENEESMIDDELEN OF EVENTUELE RESTANTEN HIERVAN"
+    }
+  },
+  {
+    "translation": {
+      "en": "13. THE WORDS \"FOR ANIMAL TREATMENT ONLY\" AND CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE, if applicable",
+      "nl": "13. VERMELDING \"UITSLUITEND VOOR DIERGENEESKUNDIG GEBRUIK\""
+    }
+  },
+  {
+    "translation": {
+      "en": "14. THE WORDS \"KEEP OUT OF THE REACH AND SIGHT OF CHILDREN\"",
+      "nl": "14. VERMELDING \"BUITEN HET BEREIK EN ZICHT VAN KINDEREN BEWAREN\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep out of the reach and sight of children.",
+      "nl": "Buiten het bereik en zicht van kinderen bewaren."
+    }
+  },
+  {
+    "translation": {
+      "en": "15. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER",
+      "nl": "15. NAAM EN ADRES VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN EN DE FABRIKANT VERANTWOORDELIJK VOOR VRIJGIFTE IN DE EER, INDIEN VERSCHILLEND"
+    }
+  },
+  {
+    "translation": {
+      "en": "Finisklin Industrial Estate",
+      "nl": "Finisklin Industrial Estate"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sligo",
+      "nl": "Sligo"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ireland",
+      "nl": "Ierland"
+    }
+  },
+  {
+    "translation": {
+      "en": "16. MARKETING AUTHORISATION NUMBER(S)",
+      "nl": "16. NUMMER(S) IN HET COMMUNAUTAIRE GENEESMIDDELENREGISTER"
+    }
+  },
+  {
+    "translation": {
+      "en": "17. MANUFACTURER'S BATCH NUMBER",
+      "nl": "17. PARTIJNUMMER FABRIKANT"
+    }
+  },
+  {
+    "translation": {
+      "en": "Batch",
+      "nl": "Chargenr :"
+    }
+  },
+  {
+    "translation": {
+      "en": "MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS 1 x 1 ml dose",
+      "nl": "GEGEVENS DIE TEN MINSTE OP KLEINE VERPAKKINGSEENHEDEN MOETEN WORDEN VERMELD"
+    }
+  },
+  {
+    "translation": {
+      "en": "1. NAME OF THE VETERINARY MEDICINAL PRODUCT",
+      "nl": "1. BENAMING VAN HET DIERGENEESMIDDEL"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fevaxyn Pentofel for cats",
+      "nl": "Fevaxyn Pentofel"
+    }
+  },
+  {
+    "translation": {
+      "en": "2. QUANTITY OF THE ACTIVE SUBSTANCE(S)",
+      "nl": "2. GEHALTE AAN WERKZA(A)M(E) BESTANDDE(E)L(EN)"
+    }
+  },
+  {
+    "translation": {
+      "en": "Inactivated FPV, FCV, FVR, FCP, FeLV",
+      "nl": "Geïnactiveerde FPV, FCV, FVR, FCP, FeLV"
+    }
+  },
+  {
+    "translation": {
+      "en": "3. CONTENTS BY WEIGHT, BY VOLUME OR BY NUMBER OF DOSES",
+      "nl": "3. SAMENSTELLING PER GEWICHT, PER VOLUME OF AANTAL EENHEDEN"
+    }
+  },
+  {
+    "translation": {
+      "en": "4. ROUTE(S) OF ADMINISTRATION",
+      "nl": "4. TOEDIENINGSWEG(EN):"
+    }
+  },
+  {
+    "translation": {
+      "en": "5. WITHDRAWAL PERIOD",
+      "nl": "5. WACHTTIJD"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not applicable",
+      "nl": "Niet van toepassing"
+    }
+  },
+  {
+    "translation": {
+      "en": "6. BATCH NUMBER",
+      "nl": "6. PARTIJNUMMER"
+    }
+  },
+  {
+    "translation": {
+      "en": "Batch",
+      "nl": "Partijnr :"
+    }
+  },
+  {
+    "translation": {
+      "en": "7. EXPIRY DATE",
+      "nl": "7. UITERSTE GEBRUIKSDATUM"
+    }
+  },
+  {
+    "translation": {
+      "en": "8. THE WORDS \"FOR ANIMAL TREATMENT ONLY\"",
+      "nl": "8. VERMELDING \"UITSLUITEND VOOR DIERGENEESKUNDIG GEBRUIK\""
+    }
+  },
+  {
+    "translation": {
+      "en": "For animal treatment only.",
+      "nl": "Uitsluitend voor diergeneeskundig gebruik."
+    }
+  },
+  {
+    "translation": {
+      "en": "B. PACKAGE LEAFLET",
+      "nl": "B. BIJSLUITER"
+    }
+  },
+  {
+    "translation": {
+      "en": "PACKAGE LEAFLET FOR:",
+      "nl": "BIJSLUITER"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fevaxyn Pentofel, solution for injection, for cats",
+      "nl": "Fevaxyn Pentofel, oplossing voor injectie, voor katten"
+    }
+  },
+  {
+    "translation": {
+      "en": "1. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER AND OF THE MANUFACTURING AUTHORISATION HOLDER RESPONSIBLE FOR BATCH RELEASE, IF DIFFERENT",
+      "nl": "1. NAAM EN ADRES VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN EN DE FABRIKANT VERANTWOORDELIJK VOOR VRIJGIFTE, INDIEN VERSCHILLEND"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fort Dodge Laboratories Ireland",
+      "nl": "Fort Dodge Laboratories Ireland"
+    }
+  },
+  {
+    "translation": {
+      "en": "Finisklin Industrial Estate",
+      "nl": "Finisklin Industrial Estate"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sligo",
+      "nl": "Sligo"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ireland",
+      "nl": "Ireland"
+    }
+  },
+  {
+    "translation": {
+      "en": "Sligo",
+      "nl": "Sligo"
+    }
+  },
+  {
+    "translation": {
+      "en": "Ireland",
+      "nl": "Ireland"
+    }
+  },
+  {
+    "translation": {
+      "en": "2. NAME OF THE VETERINARY MEDICINAL PRODUCT",
+      "nl": "2. BENAMING VAN HET DIERGENEESMIDDEL"
+    }
+  },
+  {
+    "translation": {
+      "en": "Fevaxyn Pentofel, solution for injection, for cats",
+      "nl": "Fevaxyn Pentofel oplossing voor injectie, voor katten"
+    }
+  },
+  {
+    "translation": {
+      "en": "Per dose of 1ml (single dose syringe):",
+      "nl": "Per dosis van 1 ml (1 dosis per spuit)"
+    }
+  },
+  {
+    "translation": {
+      "en": "4. INDICATION(S)",
+      "nl": "4. INDICATIE(S)"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not use in pregnant cats.",
+      "nl": "Vaccinatie van drachtige poezen wordt afgeraden"
+    }
+  },
+  {
+    "translation": {
+      "en": "6. ADVERSE REACTIONS",
+      "nl": "6. BIJWERKINGEN"
+    }
+  },
+  {
+    "translation": {
+      "en": "In rare cases, vaccinated cats may develop post-vaccinal reactions including transient fever, vomiting, anorexia and/or depression which usually disappear within 24 hours.",
+      "nl": "In zeldzame gevallen kan bij gevaccineerde katten een entreactie optreden, zoals voorbijgaande koorts, braken, gebrek aan eetlust en/of lusteloosheid, die gewoonlijk binnen 24 uur verdwijnt."
+    }
+  },
+  {
+    "translation": {
+      "en": "A local reaction with swelling, pain, pruritis or hair loss at the injections site may occasionally be observed.",
+      "nl": "Een lokale reactie met zwelling, pijn, jeuk en haaruitval op de plaats van injectie kan zo nu en dan waargenomen worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "In very rare cases an anaphylactoid reaction with oedema, pruritis, respiratory and cardiac distress, severe gastrointestinal signs or shock have been seen during the first hours after vaccination.",
+      "nl": "In zeer zeldzame gevallen zijn overgevoeligheidsreacties met oedeem, jeuk, ademhalings- en hartproblemen, ernstige maagdarmstoornissen of shock waargenomen gedurende de eerste uren na vaccinatie."
+    }
+  },
+  {
+    "translation": {
+      "en": "If you notice any serious effects or other effects not mentioned in this leaflet, please inform your veterinary surgeon.",
+      "nl": "Indien u andere bijwerkingen vaststelt, gelieve uw dierenarts hiervan in kennis te stellen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cats",
+      "nl": "Katten"
+    }
+  },
+  {
+    "translation": {
+      "en": "The contents of the single dose prefilled syringe should be shaken well and administered aseptically by subcutaneous injection.",
+      "nl": "De inhoud van de voorgevulde spuit dient goed te worden geschud en aseptisch te worden toegediend langs subcutane weg."
+    }
+  },
+  {
+    "translation": {
+      "en": "When administering the product, care must be taken to attach the enclosed sterile needle aseptically to the syringe before use.",
+      "nl": "Bij toediening van het product, dient men de bijgeleverde steriele naald aseptisch op de spuit te plaatsen voor gebruik."
+    }
+  },
+  {
+    "translation": {
+      "en": "Primary vaccination of cats 9 weeks and older: two doses at an interval of 3 to 4 weeks.",
+      "nl": "Basisvaccinatie in katten van 9 weken en ouder: twee doses met een interval van 3 tot 4 weken."
+    }
+  },
+  {
+    "translation": {
+      "en": "An additional dose is recommended for kittens living in high-risk FeLV environments whose first dose was administered before 12 weeks of age.",
+      "nl": "Een extra dosis wordt aanbevolen voor katjes die in een omgeving met een verhoogd FeLV risico worden gehouden en die de eerste dosis voor de leeftijd van 12 weken hebben gekregen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Revaccination: one vaccination annually.",
+      "nl": "Herhalingsvaccinatie : jaarlijks één vaccinatie."
+    }
+  },
+  {
+    "translation": {
+      "en": "9. ADVICE ON CORRECT ADMINISTRATION",
+      "nl": "9. AANWIJZINGEN VOOR EEN JUISTE TOEDIENING"
+    }
+  },
+  {
+    "translation": {
+      "en": "10. WITHDRAWAL PERIOD",
+      "nl": "10. WACHTTIJD"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not applicable.",
+      "nl": "Niet van toepassing."
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep out of the reach and sight of children.",
+      "nl": "Buiten het bereik en zicht van kinderen bewaren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Store and transport refrigerated (2°C - 8°C).",
+      "nl": "Bewaren en transporteren bij 2°C - 8°C."
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep the syringes in the outer carton in order to protect from light.",
+      "nl": "Bewaar de spuiten in de buitenverpakking ter bescherming tegen licht."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not freeze.",
+      "nl": "Niet bevriezen."
+    }
+  },
+  {
+    "translation": {
+      "en": "12. SPECIAL WARNING(S)",
+      "nl": "12. SPECIALE WAARSCHUWING(EN)"
+    }
+  },
+  {
+    "translation": {
+      "en": "It is therefore recommended that cats with a significant risk of having been exposed to FeLV be tested for FeLV antigen prior to vaccination.",
+      "nl": "Het verdient dan ook aanbeveling om katten bij wie het risico dat ze aan het kattenleukemievirus werden blootgesteld groot is, vóór de vaccinatie op kattenleukemievirus¬antigenen te testen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cats positive at the second testing should be considered as being permanently infected with FeLV and should be handled accordingly.",
+      "nl": "Katten die bij de tweede test positief blijken te zijn, moeten worden beschouwd als katten die continu met het kattenleukemievirus zijn besmet en dienen als dusdanig te worden behandeld."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cats negative at second testing can be vaccinated since, in all likelihood, they have overcome the FeLV infection.",
+      "nl": "Katten die bij de tweede test negatief blijken te zijn, mogen worden gevaccineerd omdat ze de kattenleukemie-infectie hoogstwaarschijnlijk hebben overwonnen."
+    }
+  },
+  {
+    "translation": {
+      "en": "No information is available on the safety and efficacy from the concurrent use of this vaccine with any other.",
+      "nl": "Er is met betrekking tot de veiligheid en werkzaamheid geen informatie beschikbaar van gebruik van dit vaccin samen met een ander middel."
+    }
+  },
+  {
+    "translation": {
+      "en": "It is therefore recommended that no other vaccines should be administered within 14 days before or after vaccination with this product.",
+      "nl": "Derhalve wordt aanbevolen geen andere vaccins toe te dienen binnen 14 dagen voor of na vaccinatie met dit middel."
+    }
+  },
+  {
+    "translation": {
+      "en": "In case of an anaphylactoid reaction, adrenaline should be administered intramuscularly.",
+      "nl": "In geval van een anafylactische reactie dient intramusculair adrenaline toegediend te worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "To the user:",
+      "nl": "Voor de gebruiker:"
+    }
+  },
+  {
+    "translation": {
+      "en": "This product contains mineral oil.",
+      "nl": "Dit geneesmiddel bevat minerale olie."
+    }
+  },
+  {
+    "translation": {
+      "en": "If pain persists for more than 12 hours after medical examination, seek medical advice again.",
+      "nl": "Consulteer opnieuw een arts, als de pijn meer dan 12 uur na het eerste medisch onderzoek aanhoudt."
+    }
+  },
+  {
+    "translation": {
+      "en": "To the physician:",
+      "nl": "Voor de arts:"
+    }
+  },
+  {
+    "translation": {
+      "en": "This product contains mineral oil.",
+      "nl": "Dit geneesmiddel bevat minerale olie."
+    }
+  },
+  {
+    "translation": {
+      "en": "Expert, PROMPT, surgical attention is required and may necessitate early incision and irrigation of the injected area, especially where there is involvement of finger pulp or tendon.",
+      "nl": "Het kan nodig zijn een vroege incisie te maken in het geïnjecteerde gebied en dit te irrigeren, met name wanneer de weke massa van de vinger of pezen aangetast zijn."
+    }
+  },
+  {
+    "translation": {
+      "en": "13. SPECIAL PRECAUTIONS FOR THE DISPOSAL OF UNUSED PRODUCT OR WASTE MATERIALS, IF ANY",
+      "nl": "13. SPECIALE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE DIERGENEESMIDDELEN OF EVENTUELE RESTANTEN HIERVAN"
+    }
+  },
+  {
+    "translation": {
+      "en": "Any unused product or waste material derived from such veterinary medicinal products should be disposed of in accordance with the local requirements.",
+      "nl": "Ongebruikt diergeneesmiddel of restant hiervan dient in overeenstemming met de lokale vereisten te worden verwijderd."
+    }
+  },
+  {
+    "translation": {
+      "en": "14. DATE ON WHICH THE PACKAGE LEAFLET WAS LAST APPROVED 27 February 2007",
+      "nl": "14. DE DATUM WAAROP DE BIJSLUITER VOOR HET LAATST IS HERZIEN"
+    }
+  },
+  {
+    "translation": {
+      "en": "Detailed information on this product is available on the website of the European Medicines Agency (EMEA) http://www.emea.europa.eu",
+      "nl": "Zie voor nadere bijzonderheden over dit diergeneesmiddel de website van het Europees Geneesmiddelenbureau (EMEA): http://www.emea.europa.eu/."
+    }
+  },
+  {
+    "translation": {
+      "en": "15. OTHER INFORMATION",
+      "nl": "15. OVERIGE INFORMATIE"
+    }
+  },
+  {
+    "translation": {
+      "en": "10 x 1 ml presentation: Box containing 10 single dose prefilled syringes and 10 sterile needles.",
+      "nl": "10 x 1 ml presentatie: Doos met 10 voorgevulde spuiten à 1 dosis en 10 steriele naalden"
+    }
+  },
+  {
+    "translation": {
+      "en": "20 x 1 ml presentation: Box containing 20 single dose prefilled syringes and 20 sterile needles.",
+      "nl": "20 x 1 ml presentatie: Doos met 20 voorgevulde spuiten à 1 dosis en 20 steriele naalden"
+    }
+  },
+  {
+    "translation": {
+      "en": "25 x 1 ml presentation: Box containing 25 single dose prefilled syringes and 25 sterile needles.",
+      "nl": "25 x 1 ml presentatie: Doos met 25 voorgevulde spuiten à 1 dosis en 25 steriele naalden"
+    }
+  },
+  {
+    "translation": {
+      "en": "Not all pack sizes may be marketed.",
+      "nl": "Het kan voorkomen dat niet alle verpakkingsgrootten in de handel worden gebracht."
+    }
+  },
+  {
+    "translation": {
+      "en": "For any information about this veterinary medicinal product, please contact the local representative of the marketing authorisation holder.",
+      "nl": "Gelieve voor alle informatie over dit diergeneesmiddel contact op te nemen met de lokale vertegenwoordiger van de houder van de vergunning voor het in de handel brengen."
+    }
+  }
+]

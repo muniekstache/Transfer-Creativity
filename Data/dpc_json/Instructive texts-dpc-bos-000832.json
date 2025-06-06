@@ -1,0 +1,4160 @@
+[
+  {
+    "translation": {
+      "en": "L GIXX 9 Washer",
+      "nl": "L GIXX 9 Wasmachine"
+    }
+  },
+  {
+    "translation": {
+      "en": "WBB24750AU",
+      "nl": "WBB24750NL"
+    }
+  },
+  {
+    "translation": {
+      "en": "Operating, Care and Installation Instructions",
+      "nl": "Gebruiksaanwijzing, onderhouds- en installatievoorschrift"
+    }
+  },
+  {
+    "translation": {
+      "en": "BOSCH",
+      "nl": "BOSCH"
+    }
+  },
+  {
+    "translation": {
+      "en": "Invented for life",
+      "nl": "Invented for life"
+    }
+  },
+  {
+    "translation": {
+      "en": "<!INDEX!>",
+      "nl": "<!INDEX!>"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your Bosch washing machine",
+      "nl": "Uw Bosch wasautomaat"
+    }
+  },
+  {
+    "translation": {
+      "en": "The new washing machine which you have just purchased is a modern, high quality domestic appliance.",
+      "nl": "Met de aankoop van uw nieuwe wasmachine hebt u gekozen voor een modern, kwalitatief hoogwaardig huishoudelijk apparaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "Your washing machine is distinguished by its economical consumption of energy, water and detergent.",
+      "nl": "Uw wasmachine onderscheidt zich door een spaarzaam verbruik van energie, water en wasmiddel."
+    }
+  },
+  {
+    "translation": {
+      "en": "Each washing machine which leaves our factory is checked carefully to ensure that it functions properly and is in perfect condition.",
+      "nl": "Elke wasmachine die de fabriek verlaat, wordt zorgvuldig gecontroleerd op functioneren en een onberispelijke staat."
+    }
+  },
+  {
+    "translation": {
+      "en": "If you have any questions -- especially with respect to installing and connecting your washing machine -- please do not hesitate to contact our customer service department.",
+      "nl": "Bij vragen - vooral met betrekking tot het installeren van de wasmachine - staat onze Servicedienst altijd tot uw beschikking."
+    }
+  },
+  {
+    "translation": {
+      "en": "Further information and a selection of our products can be found on our Internet page:",
+      "nl": "Verdere informatie en een overzicht van onze producten vindt u op onze website:"
+    }
+  },
+  {
+    "translation": {
+      "en": "http://www.bosch-hausgeraete.de",
+      "nl": "http://www.bosch-hausgeraete.de"
+    }
+  },
+  {
+    "translation": {
+      "en": "Please read these operating and installation instructions and all other information enclosed with the washing machine and act accordingly.",
+      "nl": "Lees a.u.b. de gebruiksaanwijzing, het installatievoorschrift en alle andere meegeleverde informatie over uw wasautomaat door en handel zoals is beschreven."
+    }
+  },
+  {
+    "translation": {
+      "en": "Retain all documentation for subsequent use or for the next owner of the appliance.",
+      "nl": "Bewaar alle gegevens voor later gebruik of voor een latere bezitter van het apparaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "General safety instructions",
+      "nl": "Algemene veiligheidsvoorschriften"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your washing machine is intended for",
+      "nl": "Uw wasautomaat is geschikt"
+    }
+  },
+  {
+    "translation": {
+      "en": "-- use in the household only,",
+      "nl": "-- voor huishoudelijk gebruik,"
+    }
+  },
+  {
+    "translation": {
+      "en": "-- washing machine-washable textiles in water,",
+      "nl": "-- voor het wassen van textiel dat in de wasmachine en in zeepsop gewassen mag worden,"
+    }
+  },
+  {
+    "translation": {
+      "en": "-- operation with cold drinking water and commercially available detergents and cleaning products which are suitable for use in washing machines.",
+      "nl": "-- voor gebruik met koud drinkwater en in de handel verkrijgbare was-en wasverzorgingsmiddelen die voor wasmachines geschikt zijn."
+    }
+  },
+  {
+    "translation": {
+      "en": "The appliance is not intended for use by young children or infirm persons without supervision.",
+      "nl": "Kinderen nooit zonder toezicht bij het apparaat laten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Information concerning waste disposal",
+      "nl": "Afvoeren van de verpakking en van uw oude apparaat"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your new appliance was delivered to you in protective packaging.",
+      "nl": "Uw nieuwe apparaat werd tijdens het transport naar u door de verpakking beschermd."
+    }
+  },
+  {
+    "translation": {
+      "en": "All utilised materials are ecologically harmless and recyclable.",
+      "nl": "Alle gebruikte materialen zijn milieuvriendelijk en geschikt voor hergebruik."
+    }
+  },
+  {
+    "translation": {
+      "en": "Please ask your dealer or inquire at your local authority about current means of disposal.",
+      "nl": "Over de laatste voorschriften voor het afvoeren van de verpakking kunt u informeren bij uw leverancier of bij de gemeentelijke reinigingsdienst."
+    }
+  },
+  {
+    "translation": {
+      "en": "Risk of choking!",
+      "nl": "Kans op stikken!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not Iet children play with packaging and associated parts.",
+      "nl": "Laat geen kinderen met de verpakking of de onderdelen daarvan spelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Risk of choking on plastic film and collapsible cardboard boxes.",
+      "nl": "Kans op stikken door vouwkarton en folie."
+    }
+  },
+  {
+    "translation": {
+      "en": "Disposing of your old appliance",
+      "nl": "Afvoeren van het oude apparaat"
+    }
+  },
+  {
+    "translation": {
+      "en": "Old appliances are not worthless rubbish!",
+      "nl": "Oude apparaten zijn geen waardeloos afval!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Valuable raw materials can be reclaimed by recycling old appliances.",
+      "nl": "Door uw oude apparaat op een milieuvriendelijke wijze af te voeren kunnen waardevolle grondstoffen opnieuw gebruikt worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Danger of life!",
+      "nl": "Levensgevaar!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Destroy the lock on the door.",
+      "nl": "Sluiting van de vuldeur onklaar maken."
+    }
+  },
+  {
+    "translation": {
+      "en": "This will prevent children from locking themselves in the appliance and suffocating.",
+      "nl": "Hierdoor voorkomt u dat kinderen zichzelf tijdens het spelen in het apparaat opsluiten en in levensgevaar geraken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Installation instructions",
+      "nl": "Installatievoorschrift"
+    }
+  },
+  {
+    "translation": {
+      "en": "Introduction",
+      "nl": "Inleiding"
+    }
+  },
+  {
+    "translation": {
+      "en": "Observe and follow the warnings and instructions below:",
+      "nl": "Neem de hieronder aangegeven waarschuwingen en aanwijzing in acht."
+    }
+  },
+  {
+    "translation": {
+      "en": "These installation instructions are intended for qualified fitters.",
+      "nl": "Dit installatievoorschrift is bedoeld voor gekwalificeerde monteurs."
+    }
+  },
+  {
+    "translation": {
+      "en": "In addition to these installation instructions, observe the following when installing the appliance:",
+      "nl": "Naast dit installatievoorschrift bij het opstellen ook het volgende in acht nemen:"
+    }
+  },
+  {
+    "translation": {
+      "en": "If the washing machine is in a room exposed to low temperatures or if the washing machine is in a room which is not used over winter, the residual water must be removed from the water pump and the hoses.",
+      "nl": "Als de wasautomaat zich in een ruimte bevindt die is blootgesteld aan lage temperaturen of als de wasautomaat in een ruimte staat die in de winter niet gebruikt wordt, dan moet het resterende water uit de waterpomp en de slangen verwijderd worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not damage the washing machine.",
+      "nl": "De wasautomaat niet beschadigen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not lift the washing machine by its projecting parts (e. g. door).",
+      "nl": "Niet aan vooruitstekende onderdelen (bijv. de vuldeur) optillen."
+    }
+  },
+  {
+    "translation": {
+      "en": "In addition to the safety information listed here, the local water and electricity supplier may have special requirements.",
+      "nl": "Naast de hier vermelde aanwijzingen kunnen bijzondere voorschriften van het waterleiding- en energiebedrijf gelden."
+    }
+  },
+  {
+    "translation": {
+      "en": "If in doubt, have the appliance connected by a specialist.",
+      "nl": "In geval van twijfel door een vakkundig monteur laten aansluiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Information concerning waste disposal",
+      "nl": "Afvoeren van de verpakking en van uw oude apparaat"
+    }
+  },
+  {
+    "translation": {
+      "en": "Disposing of the packaging",
+      "nl": "Afvoeren van de verpakking van uw nieuwe apparaat"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your new appliance was delivered to you in protective packaging.",
+      "nl": "Uw nieuwe apparaat werd tijdens het transport naar u door de verpakking beschermd."
+    }
+  },
+  {
+    "translation": {
+      "en": "All utilised materials are ecologically harmless and recyclable.",
+      "nl": "Alle gebruikte materialen zijn milieuvriendelijk en geschikt voor hergebruik."
+    }
+  },
+  {
+    "translation": {
+      "en": "Please contribute to a better environment by disposing of packaging materials in an environmentally conscious manner.",
+      "nl": "Help daarom mee en Iaat het verpakkingsmateriaal volgens de bestaande milieuvoorschriften afvoeren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Please ask your dealer or inquire at your local authority about current means of disposal.",
+      "nl": "Over de laatste voorschriften voor het afvoeren van de verpakking kunt u informeren bij uw leverancier of bij de gemeentelijke reinigingsdienst."
+    }
+  },
+  {
+    "translation": {
+      "en": "-- Avoid using too much detergent.",
+      "nl": "-- niet te veel wasmiddel gebruiken."
+    }
+  },
+  {
+    "translation": {
+      "en": "-- Use an efficient detergent suitable for front loader washing machines.",
+      "nl": "-- gebruik een wasmiddel met een hogere werkingsgraad, geschikt voor voorladers."
+    }
+  },
+  {
+    "translation": {
+      "en": "Check that all the accessories for your model are enclosed.",
+      "nl": "Controleer of alle bij uw model behorende toebehoordelen aanwezig zijn."
+    }
+  },
+  {
+    "translation": {
+      "en": "If specific parts are missing, contact your dealer immediately.",
+      "nl": "Als bepaalde delen ontbreken, neem dan onmiddellijk contact met uw leverancier op."
+    }
+  },
+  {
+    "translation": {
+      "en": "Inside the drum:",
+      "nl": "In de wastrommel:"
+    }
+  },
+  {
+    "translation": {
+      "en": "-- Supply hose (blue mark)",
+      "nl": "-- Toevoerslang (blauwe markering)"
+    }
+  },
+  {
+    "translation": {
+      "en": "-- Water drainage hose.",
+      "nl": "-- Waterafvoerslang."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Aqua Secure hose prevents potential flooding if the hose leaks.",
+      "nl": "De Aqua-Secure-slang dient ter voorkoming van een eventuele overstroming door ondichtheden in de slang."
+    }
+  },
+  {
+    "translation": {
+      "en": "If the hose leaks, a red mark is displayed and the water inlet is blocked.",
+      "nl": "In geval van een ondichtheid in de slang wordt op het display een rode markering zichtbaar en wordt de watertoevoer geblokkeerd."
+    }
+  },
+  {
+    "translation": {
+      "en": "-- The bag contains:",
+      "nl": "- In het zakje:"
+    }
+  },
+  {
+    "translation": {
+      "en": "- 1 hose clip O 24-40 mm (DIY store) is also required for connection to a siphon.",
+      "nl": "- 1 slangklem O 24-40 mm (bij de ijzerhandel of bouwmarkt) om aan een sifon aan te sluiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Moisture in the drum is due to the final inspection which every washing machine undergoes before it leaves the factory.",
+      "nl": "Vocht in de wastrommel is te wijten aan de eindcontrole die elke wasmachine ondergaat alvorens de fabriek te verlaten."
+    }
+  },
+  {
+    "translation": {
+      "en": "On the rear of the appliance:",
+      "nl": "Aan de achterkant van het apparaat:"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Power cord with plug, C .... Connection for supply hose",
+      "nl": "- aansluitkabel met stekker, C .... aansluiting voor toevoerslang"
+    }
+  },
+  {
+    "translation": {
+      "en": "Useful tools",
+      "nl": "Nuttig gereedschap"
+    }
+  },
+  {
+    "translation": {
+      "en": "The following tools are helpful:",
+      "nl": "Het volgende gereedschap is nuttig:"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Screwdriver.",
+      "nl": "- Schroevendraaier."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Ring wrench (SW 13) for removing the transport bolts.",
+      "nl": "- Ringsleutel SW 13 om de transportbeveiliging te verwijderen."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Spirit level for adjustment.",
+      "nl": "- Waterpas voor het stellen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Stability is important to prevent the washing machine from \"wandering\" during the spin cycle.",
+      "nl": "Stabiliteit is belangrijk zodat de wasmachine tijdens het centrifugeren niet \"wegloopt\"."
+    }
+  },
+  {
+    "translation": {
+      "en": "The installation surface must be solid and level.",
+      "nl": "De ondergrond moet stevig en waterpas zijn."
+    }
+  },
+  {
+    "translation": {
+      "en": "Soft floor surfaces, such as carpets or surfaces with foam backing, are not suitable.",
+      "nl": "Niet geschikt is zachte vloerbedekking, bijv. tapijt of vloerbedekking met een foamrug."
+    }
+  },
+  {
+    "translation": {
+      "en": "If the washing machine is to be installed on a wooden floor:",
+      "nl": "Als de wasmachine op een houten vloer geplaatst moet worden:"
+    }
+  },
+  {
+    "translation": {
+      "en": "- If possible, install the washing machine in a corner.",
+      "nl": "- De wasmachine liefst in een hoek plaatsen."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Screw a water resistant wooden board (min. 30 mm thick) to the floor.",
+      "nl": "- Een watervaste houten plaat (min. 30 mm dik) op de vloer schroeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Secure the front feet of the washing machine with holding brackets.",
+      "nl": "- De voetjes aan de voorkant van het apparaat met beugels bevestigen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Holding brackets (set) can be obtained from a specialist store or the Customer Service (WMZ 2200).",
+      "nl": "Bevestigingsbeugels zijn tegen meerprijs bij uw leverancier of bij de Servicedienst verkrijgbaar (WMZ 2200)."
+    }
+  },
+  {
+    "translation": {
+      "en": "- The appliance cannot be top-mounted.",
+      "nl": "- Het apparaat is niet geschikt voor bovenbouw."
+    }
+  },
+  {
+    "translation": {
+      "en": "- The appliance cannot be built under.",
+      "nl": "- Het apparaat is niet geschikt voor onderbouw."
+    }
+  },
+  {
+    "translation": {
+      "en": "Installation of base",
+      "nl": "Montage van de sokkel"
+    }
+  },
+  {
+    "translation": {
+      "en": "Installation in a recess",
+      "nl": "Inbouw in een nis"
+    }
+  },
+  {
+    "translation": {
+      "en": "If the washing machine is to be installed in a recess, observe the minimum distances indicated in the following table:",
+      "nl": "Als de wasautomaat in een nis moet worden opgesteld, moeten de in de volgende tabel aangegeven minimumafstanden in acht worden genomen:"
+    }
+  },
+  {
+    "translation": {
+      "en": "<!TABLE!>",
+      "nl": "<!TABLE!>"
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove the transportation safety devices",
+      "nl": "Transportbeveiligingen verwijderen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Caution!",
+      "nl": "Attentie!"
+    }
+  },
+  {
+    "translation": {
+      "en": "The transport bolts must always be removed before using the appliance for the first time and must be retained for any subsequent transport (e. g. when moving).",
+      "nl": "Vóór het eerste gebruik beslist de transportbeveiligingen verwijderen en voor een later transport (bijv. verhuizing) bewaren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Release all screws and using the SW 13 wrench until they can be moved freely.",
+      "nl": "Alle schroeven van de transportbeveiliging met sleutel SW 13 losdraaien tot ze gemakkelijk te bewegen zijn."
+    }
+  },
+  {
+    "translation": {
+      "en": "Completely remove the transportation safety device (screw and spring, washer and bush).",
+      "nl": "Transportbeveiliging compleet (d.w.z. de schroef samen met veer, schijf en bus) verwijderen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Insert the covers.",
+      "nl": "Afdekkingen erin zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Storing the transportation protection devices",
+      "nl": "Transportbeveiligingen bewaren"
+    }
+  },
+  {
+    "translation": {
+      "en": "Always keep the transport bolts for subsequent transportation of the appliance (e. g. when moving house)",
+      "nl": "De transportbeveiligingen beslist voor een later transport (bijv. verhuizing) bewaren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Store transport bolts and (screw washer and bushing onto bolt).",
+      "nl": "Transportbeveiligingen compleet bewaren (d.w.z. bij beide de schroef door de schijf in de bus steken)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Aligning the washing machine",
+      "nl": "Stellen van het apparaat"
+    }
+  },
+  {
+    "translation": {
+      "en": "All four appliance feet must be firmly on the ground.",
+      "nl": "Alle vier de voetjes moeten stevig op de vloer staan."
+    }
+  },
+  {
+    "translation": {
+      "en": "The washing machine must not wobble.",
+      "nl": "De wasmachine mag niet wankelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Align the washing machine with the aid of the four height-adjustable feet and a spirit level:",
+      "nl": "De wasmachine met behulp van de vier verstelbare voetjes en met een waterpas stellen:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Loosen the lock nut 1 using the wrench.",
+      "nl": "Contramoer 1 met een schroefsleutel met de wijzers van de klok mee losdraaien."
+    }
+  },
+  {
+    "translation": {
+      "en": "Connecting the power",
+      "nl": "Elektrische aansluiting"
+    }
+  },
+  {
+    "translation": {
+      "en": "Attention",
+      "nl": "Attentie"
+    }
+  },
+  {
+    "translation": {
+      "en": "Connect the washing machine only to an alternating current via a correctly installed earthed socket.",
+      "nl": "Het apparaat uitsluitend via een volgens de voorschriften aangebracht, randgeaard stopcontact op wisselstroom aansluiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "The mains voltage must correspond to the voltage specification on the washing machine (nameplate).",
+      "nl": "De netspanning moet overeenkomen met de op het typeplaatje aangegeven spanning."
+    }
+  },
+  {
+    "translation": {
+      "en": "Connected load and the required fuse are indicated on the rating plate.",
+      "nl": "De aansluitwaarde alsmede de vereiste zekering zijn op het typeplaatje aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "Ensure that:",
+      "nl": "Overtuig u ervan dat:"
+    }
+  },
+  {
+    "translation": {
+      "en": "- The mains plug and socket are compatible,",
+      "nl": "de stekker in het stopcontact past,"
+    }
+  },
+  {
+    "translation": {
+      "en": "- The cable cross-section is adequate,",
+      "nl": "de diameter van de elektrische leiding groot genoeg is,"
+    }
+  },
+  {
+    "translation": {
+      "en": "- The earthing system has been installed correctly.",
+      "nl": "het aardingssysteem volgens de voorschriften geïnstalleerd is."
+    }
+  },
+  {
+    "translation": {
+      "en": "The mains cable may be changed (if required) by an electrician only.",
+      "nl": "Vervanging van de aansluitkabel (indien nodig) alleen door een vakkundig monteur."
+    }
+  },
+  {
+    "translation": {
+      "en": "A replacement mains cable can be obtained from customer service.",
+      "nl": "Een nieuwe kabel is bij de Servicedienst tegen meerprijs verkrijgbaar:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not use multiple plugs / connectors or extension cables.",
+      "nl": "Geen meervoudige stekkers/ contactdozen en verlengkabels gebruiken."
+    }
+  },
+  {
+    "translation": {
+      "en": "<!TABLE!>",
+      "nl": "<!TABLE!>"
+    }
+  },
+  {
+    "translation": {
+      "en": "Caution!",
+      "nl": "Attentie!"
+    }
+  },
+  {
+    "translation": {
+      "en": "If in doubt, have the appliance connected by a specialist.",
+      "nl": "In geval van twijfel door een vakkundig monteur laten aansluiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "After connecting the supply hose, turn on the tap and check that water comes out.",
+      "nl": "Na het aansluiten de kraan opendraaien en controleren of er nog water lekt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Water drainage hose",
+      "nl": "Let op de waterdruk in de waterleiding."
+    }
+  },
+  {
+    "translation": {
+      "en": "Drainage into a siphon:",
+      "nl": "Afvoer in een sifon"
+    }
+  },
+  {
+    "translation": {
+      "en": "Secure connection point with O 24-40 mm hose clip (specialist outlet).",
+      "nl": "De aansluiting met een slangklem O 24-40 mm (bij de ijzerhandel of bouwmarkt) vastzetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "When the water is being pumped out of the washing machine, check that the water drains away quickly enough.",
+      "nl": "Tijdens het afpompen controleren of het water snel genoeg wegloopt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Pour in detergent and/or cleaning product... close the washing machine door.",
+      "nl": "Vullen met wasmiddel/ wasverzorgingsmiddelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Additional option selected: Indicator light is lit red",
+      "nl": "Programmaverfijning gekozen: Indicatielampje rood"
+    }
+  },
+  {
+    "translation": {
+      "en": "Press button again.",
+      "nl": "Toets opnieuw indrukken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Indicator light goes out.",
+      "nl": "Het indicatielampje gaat uit."
+    }
+  },
+  {
+    "translation": {
+      "en": "Display",
+      "nl": "Indicatie"
+    }
+  },
+  {
+    "translation": {
+      "en": "Indicates the settings which have been selected or which are to be changed (e.g. spin speed, end time, intensity, signal, childproof lock, time) as well as the programme sequence.",
+      "nl": "Geeft de gekozen of te wijzigen instellingen (bijv. centrifugetoerental, eindtijd, intensiteit, signaal, kinderbeveiliging, dagtijd) en het programmaverloop aan."
+    }
+  },
+  {
+    "translation": {
+      "en": "Programme selector",
+      "nl": "Programmakiezer"
+    }
+  },
+  {
+    "translation": {
+      "en": "For switching the machine on and off and for selecting the programme.",
+      "nl": "Om de machine in en uit te schakelen en om het programma te kiezen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Can be rotated in either direction.",
+      "nl": "Draaien in beide richtingen mogelijk."
+    }
+  },
+  {
+    "translation": {
+      "en": "The programme selector does not rotate while the programme is running - the programme sequence is electronically controlled.",
+      "nl": "De programmakiezer kan niet gedraaid worden als het programma loopt - het programmaverloop wordt elektronisch gestuurd."
+    }
+  },
+  {
+    "translation": {
+      "en": "Start/Pause < button",
+      "nl": "Toets Start/Pauze"
+    }
+  },
+  {
+    "translation": {
+      "en": "For starting or interrupting the washing process (programme must be selected).",
+      "nl": "Om het wasproces te starten of te onderbreken (er moet wel een programma zijn gekozen)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Indicator light",
+      "nl": "Indicatielampje"
+    }
+  },
+  {
+    "translation": {
+      "en": "Settings can be changed or the wash cycle can be started.",
+      "nl": "De instellingen kunnen gewijzigd of het wasprogramma kan gestart worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "The door is locked for safety reasons, childproof lock is active or the programme is in \"Pause\" mode.",
+      "nl": "De vuldeur is om veiligheidsredenen gesloten, de kinderbeveiliging is actief of het programma staat in de \"Pauze\"-modus."
+    }
+  },
+  {
+    "translation": {
+      "en": "Indicator light is lit red:",
+      "nl": "Als het indicatielampje rood brandt:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Programme is running and \"Pause\" mode can be activated.",
+      "nl": "Het programma loopt en de \"Pauze\"- modus kan geactiveerd worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Indicator light goes out:",
+      "nl": "Het indicatielampje gaat uit:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Programme has ended or no programme was selected.",
+      "nl": "het programma is afgelopen of er werd geen programma gekozen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Menu",
+      "nl": "Menu"
+    }
+  },
+  {
+    "translation": {
+      "en": "For selecting settings which are to be changed.",
+      "nl": "Om de instellingen te kiezen die u wijzigen wilt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Select",
+      "nl": "Wijzigen"
+    }
+  },
+  {
+    "translation": {
+      "en": "For changing all the settings in the display field.",
+      "nl": "Om alle instellingen op het display te wijzigen."
+    }
+  },
+  {
+    "translation": {
+      "en": "The washing machine must have been installed and connected properly refer to Page 5.",
+      "nl": "De wasmachine moet vakkundig geplaatst en aangesloten zijn, zie blz. 5 en verder."
+    }
+  },
+  {
+    "translation": {
+      "en": "Before using your washing machine for the first time:",
+      "nl": "Vóór het eerste gebruik:"
+    }
+  },
+  {
+    "translation": {
+      "en": "- The mains voltage and the voltage specifications on the washing machine (rating plate) must correspond.",
+      "nl": "De netspanning moet overeenkomen met de op het typeplaatje aangegeven spanning."
+    }
+  },
+  {
+    "translation": {
+      "en": "- The washing machine must have been installed and connected properly.",
+      "nl": "De wasmachine moet vakkundig geplaatst en aangesloten zijn."
+    }
+  },
+  {
+    "translation": {
+      "en": "The language must be selected before a programme is started.",
+      "nl": "Vóór het starten van een programma moet u de door u gewenste taal kiezen."
+    }
+  },
+  {
+    "translation": {
+      "en": "First wash cycle (without laundry)",
+      "nl": "De eerste was (zonder wasgoed)"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your appliance was tested before leaving the factory.",
+      "nl": "In de fabriek is uw apparaat getest."
+    }
+  },
+  {
+    "translation": {
+      "en": "To remove any water left over from testing procedures, the first washing cycle should be carried out without laundry in the machine.",
+      "nl": "Om eventuele tijdens de test achtergebleven restjes water te verwijderen de eerste keer zonder wasgoed wassen."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Do not load any washing.",
+      "nl": "- Trommel niet vullen met wasgoed."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Turn the tap on.",
+      "nl": "- Kraan opendraaien."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Open the cover on the detergent drawer.",
+      "nl": "- Afdekking van de wasmiddellade openen."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Pour approx. 1 litre of water into dispenser II; see Page 16.",
+      "nl": "- Ca. 1 liter water in wasmiddelbakje II gieten, zie blz. 15."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Half fill the measuring beaker with detergent and pour into chamber II.",
+      "nl": "- Bakje II met ca. 1/2 maatbeker wasmiddel vullen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not use woollens or mild detergent (foam formation).",
+      "nl": "Geen wasmiddel voor fijne was of wol gebruiken (schuimontwikkeling)."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Close the cover on the detergent drawer.",
+      "nl": "- Afdekking van de wasmiddellade sluiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Close the door.",
+      "nl": "- Deur sluiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Set the programme selector to Cottons + Linens ~Q0 90 °C.",
+      "nl": "- Programmakiezer op Witte was 90 °C zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Start/Pause < indicator light flashes (red).",
+      "nl": "Het indicatielampje Start/Pauze knippert (rood)."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Press the Start/Pause < button.",
+      "nl": "Toets Start/Pauze indrukken."
+    }
+  },
+  {
+    "translation": {
+      "en": "The programme starts.",
+      "nl": "Het programma start."
+    }
+  },
+  {
+    "translation": {
+      "en": "The indicator light is on (red).",
+      "nl": "Het indicatielampje brandt (rood)"
+    }
+  },
+  {
+    "translation": {
+      "en": "The individual programme steps are indicated in the display field.",
+      "nl": "Op het display verschijnen stap voor stap de onderdelen van het programmaverloop."
+    }
+  },
+  {
+    "translation": {
+      "en": "When \"Remove washing\" is displayed:",
+      "nl": "Als op het display \"Wasgoed eruit halen\" verschijnt:"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Open the door.",
+      "nl": "Deur openen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Preparing the washing",
+      "nl": "Wasgoed voorbereiden"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Trousers, knitwear and knitted textiles, e.g. jersey garments, T-shirts or sweatshirts should be turned inside out.",
+      "nl": "- Broeken, gebreide kleding en tricot binnenstebuiten keren, bijv. truien, T-shirts of sweatshirts."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Pretreat stains.",
+      "nl": "- Vlekken voorbehandelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Underwired bras (wire may become loose during washing and cause damage), small items (socks and handkerchiefs), tights and belts should be washed in a bag to prevent them from \"getting lost\".",
+      "nl": "B- H's met beugel (de beugels kunnen tijdens het wassen loslaten en daardoor schade veroorzaken), klein wasgoed zoals sokjes of zakdoeken, panty's en gordels in een wasnet wassen om te voorkomen dat ze \"verloren gaan\"."
+    }
+  },
+  {
+    "translation": {
+      "en": "White items may become grey.",
+      "nl": "Witte was kan grauw worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "lightly soiled",
+      "nl": "licht vervuild"
+    }
+  },
+  {
+    "translation": {
+      "en": "No visible soiling or stains.",
+      "nl": "Geen vuil en vlekken te zien."
+    }
+  },
+  {
+    "translation": {
+      "en": "Washing has probably absorbed body odour.",
+      "nl": "Het wasgoed heeft eventueel de lichaamsgeur aangenomen."
+    }
+  },
+  {
+    "translation": {
+      "en": "-- Light weight summer clothing",
+      "nl": "-- Lichte zomerkleding."
+    }
+  },
+  {
+    "translation": {
+      "en": "-- T-shirts, shirts, blouses worn for up to one day.",
+      "nl": "-- T-shirts, overhemden, blouses die maar één dag zijn gedragen."
+    }
+  },
+  {
+    "translation": {
+      "en": "-- Bed linen, guest towels used for one day.",
+      "nl": "-- Beddegoed, gasthanddoekjes die maar één dag zijn gebruikt."
+    }
+  },
+  {
+    "translation": {
+      "en": "normally soiled",
+      "nl": "normaal vervuild"
+    }
+  },
+  {
+    "translation": {
+      "en": "Visible soiling and/or a few light stains.",
+      "nl": "Vervuiling en/of een paar lichte vlekken te zien."
+    }
+  },
+  {
+    "translation": {
+      "en": "-- T-shirts, shirts, blouses soaked in sweat or worn several times.",
+      "nl": "-- T-shirts, overhemden, blouses die bezweet resp. vaker gedragen zijn."
+    }
+  },
+  {
+    "translation": {
+      "en": "-- Tea towels, hand towels, bed linen used for up to one week.",
+      "nl": "-- Theedoeken,handdoeken, beddegoed, tot één week zijn gebruikt."
+    }
+  },
+  {
+    "translation": {
+      "en": "-- Net curtains (without nicotine staining) that have not been washed for up to 1/2 year.",
+      "nl": "-- Vitrage (zonder nicotine-aanslag) die tot '/2 jaar gehangen heeft."
+    }
+  },
+  {
+    "translation": {
+      "en": "very soiled",
+      "nl": "erg vervuild"
+    }
+  },
+  {
+    "translation": {
+      "en": "Visible soiling and/or stains.",
+      "nl": "Vuil en/of vlekken te zien."
+    }
+  },
+  {
+    "translation": {
+      "en": "-- Kitchen towels used for up to one week.",
+      "nl": "-- Keukenhanddoeken die één week zijn gebruikt."
+    }
+  },
+  {
+    "translation": {
+      "en": "-- Fabric serviettes.",
+      "nl": "-- Linnen servetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "-- Baby bibs.",
+      "nl": "-- Baby-slabbetjes."
+    }
+  },
+  {
+    "translation": {
+      "en": "-- Children's outer clothing or football jerseys and shorts soiled with grass and/or earth.",
+      "nl": "-- Kinderkleding of voetbalhemdjes en -broekjes bevuild met gras of aarde."
+    }
+  },
+  {
+    "translation": {
+      "en": "-- Working clothes such as overalls or baker's and butcher's coats.",
+      "nl": "-- Beroepskleding zoals monteurs-, bakkers- en slagerskleding."
+    }
+  },
+  {
+    "translation": {
+      "en": "Typical stains",
+      "nl": "typische vlekken"
+    }
+  },
+  {
+    "translation": {
+      "en": "-- Skin grease, cooking oil/fat, sauces, mineral oil, wax (containing fat/oil).",
+      "nl": "-- Huidvet, slaolie/braadvet, sausen, minerallolie, was (bevatten vet/ olie)."
+    }
+  },
+  {
+    "translation": {
+      "en": "-- Tea, coffee, red wine, fruit, vegetables.",
+      "nl": "-- Thee, koffie, rode wijn, fruit, groente."
+    }
+  },
+  {
+    "translation": {
+      "en": "-- Blood, egg, milk, starch (containing protein, carbohydrate).",
+      "nl": "-- Bloed, ei, melk, zetmeel (bevatten eiwit/koolhydraten)."
+    }
+  },
+  {
+    "translation": {
+      "en": "-- Soot, earth, sand (pigments), tennis clothing soiled with red clay.",
+      "nl": "-- Roet, aarde, zand (pigmenten), tenniskleding bevuild met gravel."
+    }
+  },
+  {
+    "translation": {
+      "en": "Removing stains",
+      "nl": "Verwijderen van vlekken"
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove/pretreat stains as soon as possible after they have occurred.",
+      "nl": "Vlekken liefst onmiddellijk nadat ze gemaakt zijn, verwijderen of voorbehandelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "First dab with a soapy solution.",
+      "nl": "Daarna met zeepsop betten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not rub.",
+      "nl": "Niet wrijven."
+    }
+  },
+  {
+    "translation": {
+      "en": "Then select the appropriate programme and wash the item.",
+      "nl": "Het wasgoed vervolgens in een daarvoor geschikt programma wassen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Several washing cycles may sometimes be required in order to remove stubborn / dried in stains.",
+      "nl": "Hardnekkige/ingedroogde vlekken kunnen soms pas na een aantal keren wassen verwijderd worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Sorting washing according to the instructions on the care labels",
+      "nl": "Wasgoed sorteren aan de hand van de gegevens op de wasmerkjes"
+    }
+  },
+  {
+    "translation": {
+      "en": "Only wash laundry items which bear the following care labels.",
+      "nl": "Alleen wasgoed met de hieronder aangegeven textielbehandelingssymbolen wassen:"
+    }
+  },
+  {
+    "translation": {
+      "en": "<!TABLE!>",
+      "nl": "<!TABLE!>"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hand-washable and machine-washable silk and woollens, Gold, 30 °C",
+      "nl": "Zijde en wol die met de hand en in de wasmachine gewassen mogen worden, koud, 30 °C"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not wash laundry items which bear the following care label in the washing machine:",
+      "nl": "Wasgoed met het volgende textielbehandelingssymbool mag niet in de wasmachine gewassen worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "X = do not wash",
+      "nl": "x = niet wassen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Risk of explosion !",
+      "nl": "Kans op explosie !"
+    }
+  },
+  {
+    "translation": {
+      "en": "Before loading the laundry, rinse thoroughly by hand.",
+      "nl": "Wasgoed tevoren grondig met de hand uitspoelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Attention",
+      "nl": "Attentie"
+    }
+  },
+  {
+    "translation": {
+      "en": "Foreign objects in the drum may damage the laundry.",
+      "nl": "Vreemde voorwerpen in de wastrommel kunnen het wasgoed beschadigen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Before inserting the laundry, ensure that there are no foreign objects in the drum.",
+      "nl": "Voordat u de trommel met wasgoed vult, erop letten dat zich in de trommel geen vreemde voorwerpen bevinden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Mix large and small items.",
+      "nl": "Grote en kleine stukken door elkaar."
+    }
+  },
+  {
+    "translation": {
+      "en": "Washing items of different size distribute themselves better during the spin cycle.",
+      "nl": "Hierdoor wordt het wasgoed tijdens het centrifugeren beter verdeeld."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not exceed the maximum load.",
+      "nl": "De maximale beladingscapaciteit benutten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Overloading will cause poor wash results and encourage creasing.",
+      "nl": "Overbelading vermindert het wasresultaat en bevordert kreukvorming."
+    }
+  },
+  {
+    "translation": {
+      "en": "The recommended wash load is displayed depending on the selected programme and additional functions, see from Page 32.",
+      "nl": "De aanbevolen hoeveelheid wasgoed wordt - afhankelijk van het gekozen programma en de programmaverfijningen - aangegeven, zie blz. 33 en verder."
+    }
+  },
+  {
+    "translation": {
+      "en": "Full load Cotton",
+      "nl": "Volle belading Katoen en linnen"
+    }
+  },
+  {
+    "translation": {
+      "en": "1/2 Load",
+      "nl": "1/3 Belading"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cotton, synthetic fibres or knitted textiles",
+      "nl": "Katoen synthetische weefsels of gebreid textiel"
+    }
+  },
+  {
+    "translation": {
+      "en": "1/3 Load",
+      "nl": "1/3 Belading"
+    }
+  },
+  {
+    "translation": {
+      "en": "Woollens, Delicates, Silk",
+      "nl": "Wol, fijne was, zijde"
+    }
+  },
+  {
+    "translation": {
+      "en": "Close the door.",
+      "nl": "Deur sluiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Take care not to trap any items of clothing between the loading door and rubber seal.",
+      "nl": "Let erop dat tussen de vuldeur en de rubber afdichting geen wasgoed beklemd is geraakt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Door must close easily and not forced close.",
+      "nl": "De vuldeur moet licht sluiten, niet onder grote druk."
+    }
+  },
+  {
+    "translation": {
+      "en": "Laundry Detergents and Additives",
+      "nl": "Wasmiddel/ wasverzorgingsmiddelen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Risk of poisoning!",
+      "nl": "Kans op vergiftiging!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep detergents and cleaning products out of the reach of children.",
+      "nl": "Wasmiddel en wasverzorgingsmiddelen buiten het bereik van kinderen bewaren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Dispensing the correct amount of detergent",
+      "nl": "Dosering van het wasmiddel"
+    }
+  },
+  {
+    "translation": {
+      "en": "Dose detergent according to",
+      "nl": "Wasmiddel doseren naar gelang"
+    }
+  },
+  {
+    "translation": {
+      "en": "- the water hardness.",
+      "nl": "- de waterhardheid."
+    }
+  },
+  {
+    "translation": {
+      "en": "This information can be obtained from your local water authority.",
+      "nl": "U kunt hiernaar informeren bij het waterleidingbedrijf in uw gemeente."
+    }
+  },
+  {
+    "translation": {
+      "en": "- the amount of laundry.",
+      "nl": "- De hoeveelheid wasgoed."
+    }
+  },
+  {
+    "translation": {
+      "en": "- the degree of soiling.",
+      "nl": "- De mate van vervuiling."
+    }
+  },
+  {
+    "translation": {
+      "en": "See from Page 14 for degrees of soiling.",
+      "nl": "Gegevens hierover vindt u op blz. 13 en verder."
+    }
+  },
+  {
+    "translation": {
+      "en": "- the specifications of the detergent manufacturer.",
+      "nl": "- De gegevens op de verpakking van het wasmiddel."
+    }
+  },
+  {
+    "translation": {
+      "en": "Dispensing the correct amount of detergent relieves the strain on the environment and ensures optimum washing results.",
+      "nl": "Een juiste dosering is vriendelijk voor het milieu en leidt tot een goed wasresultaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "Too little detergent:",
+      "nl": "Te weinig wasmiddel:"
+    }
+  },
+  {
+    "translation": {
+      "en": "the laundry is not washed clean and eventually becomes grey and hard.",
+      "nl": "het wasgoed wordt niet schoon en na verloop van tijd grauw en hard."
+    }
+  },
+  {
+    "translation": {
+      "en": "Greyish-brown dots (grease spots) may stain the laundry.",
+      "nl": "Het wasgoed kan puntvormige grijsbruine vlekken (\"vetluis\") vertonen."
+    }
+  },
+  {
+    "translation": {
+      "en": "The heating elements are calcifying.",
+      "nl": "De verwarmingselementen verkalken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Too much detergent:",
+      "nl": "Te veel wasmiddel:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Environmentally incompatible, excessive foam reduces wash agitation causing poor washing and rinsing results.",
+      "nl": "Belasting van het milieu, sterke schuimvorming, minder wasbewegingen, een slecht was- en spoelresultaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "Pour in to max. lower edge of the mark.",
+      "nl": "Hoogstens tot de onderkant van de markering max. vullen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Dilute concentrated and viscous fabric softener or fabric conditioner with a little water before pouring it in dispenser (prevents blockage of the overflow).",
+      "nl": "Geconcentreerde of dikvloeibare wasverzachter en textielversteviger eerst met wat water aanlengen (voorkomt verstopping van de overloop)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Close the cover on the detergent drawer.",
+      "nl": "Afdekking van de wasmiddellade sluiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "The programme duration is dependent on water pressure, water hardness, water inlet temperature, room temperature, type and amount of washing, fluctuations in the mains voltage and selected additional functions.",
+      "nl": "De programmaduur is afhankelijk waterdruk, waterhardheid, temperatuur van het instromende water, omgevingstemperatuur, soort en hoeveelheid wasgoed, gebruikte wasmiddelen, schommelingen in de netspanning en gekozen programmaverfijningen."
+    }
+  },
+  {
+    "translation": {
+      "en": "The maximum spin speeds are dependent on the selected programme.",
+      "nl": "De maximale centrifugetoerentallen zijn afhankelijk van het gekozen programma."
+    }
+  },
+  {
+    "translation": {
+      "en": "Setting the spin speed see Page 21.",
+      "nl": "Voor het instellen van het centrifugetoerental: zie blz. 20."
+    }
+  },
+  {
+    "translation": {
+      "en": "Basic programmes",
+      "nl": "Basisprogramma's"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cottons + Linens x 90 °C",
+      "nl": "Witte was 90 °C"
+    }
+  },
+  {
+    "translation": {
+      "en": "For boil-proof textiles which are heavily soiled or stained.",
+      "nl": "Voor kookvast textiel met sterke vervuiling en/of vlekken."
+    }
+  },
+  {
+    "translation": {
+      "en": "For heard-wearing textiles, e.g. made of cotton or linen, such as towels, bed linen or white sports socks.",
+      "nl": "Voor stevig textiel, bijv. van katoen of linnen zoals handdoeken, beddengoed of witte sportsokken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cottons + Linens x 60 °C",
+      "nl": "Bonte was 60 °C"
+    }
+  },
+  {
+    "translation": {
+      "en": "Recommended for colourfast, normally and/or heavily soiled washing.",
+      "nl": "Aanbevolen voor kleurecht, normaal en/of sterk vervuild wasgoed."
+    }
+  },
+  {
+    "translation": {
+      "en": "For hard-wearing textiles, e.g. made of cotton or linen, such as work clothes or underwear.",
+      "nl": "Voor stevig textiel, bijv. van katoen of linnen zoals werkkleding of ondergoed."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cottons + Linens x 60 °C 12",
+      "nl": "Bonte was 60 °C"
+    }
+  },
+  {
+    "translation": {
+      "en": "Deep-cleaning, stain removing programme for hard-wearing textiles made of cotton.",
+      "nl": "Intensief Vlekken Intensief reinigend, vlekken verwijderend programma voor stevig textiel van katoen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cottons + Linens x 40 °C",
+      "nl": "Bonte was 40 °C"
+    }
+  },
+  {
+    "translation": {
+      "en": "Recommended for colour sensitive, lightly and/or normally soiled washing.",
+      "nl": "Aanbevolen voor kleurecht, licht en/of normaal vervuild wasgoed."
+    }
+  },
+  {
+    "translation": {
+      "en": "For textiles, e.g. made of cotton or linen, such as jeans, T-shirts and sweatshirts.",
+      "nl": "Voor textiel, bijv. van katoen of linnen zoals jeans, T-shirts en sweatshirts."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cottons + Linens x 30 °C",
+      "nl": "Bonte was 30 °C"
+    }
+  },
+  {
+    "translation": {
+      "en": "Recommended for colour sensitive, lightly soiled washing.",
+      "nl": "Aanbevolen voor kleurecht, licht vervuild wasgoed."
+    }
+  },
+  {
+    "translation": {
+      "en": "For hard-wearing textiles, e.g. made of cotton or linen (if colours can fade or disappear).",
+      "nl": "Voor stevig textiel, bijv. van katoen of linnen (als de kleuren kunnen verbleken of verloren kunnen gaan)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Synthetics 4 60 °C",
+      "nl": "Kreukherstellend 60 °C"
+    }
+  },
+  {
+    "translation": {
+      "en": "For easy-care, normally soiled, colourfast textiles, e.g. made of cotton, linen, synthetic fibres or blended fabrics.",
+      "nl": "Voor kreukherstellend, normaal vervuild, kleurecht textiel, bijv. van katoen, linnen, synthetische of gemengde weefsels."
+    }
+  },
+  {
+    "translation": {
+      "en": "These types of washing require a special programme sequence and reduced spin speeds in order to reduce crease formation.",
+      "nl": "Deze soorten wasgoed vereisen een speciaal programmaverloop en lagere centrifugetoerentallen om kreukvorming te reduceren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Synthetics 4 40 °C",
+      "nl": "Kreukherstellend 40 °C"
+    }
+  },
+  {
+    "translation": {
+      "en": "For easy-care, lightly and/or normally soiled colour sensitive textiles, e.g. made of cotton, linen, synthetic fibres or blended fabrics.",
+      "nl": "Voor kreukherstellend, licht en/of normaal vervuild textiel, bijv. van katoen, linnen, synthetische of gemengde weefsels."
+    }
+  },
+  {
+    "translation": {
+      "en": "These types of washing (e.g. blouses, shirts and overalls) require a special programme sequence and reduced spin speeds in order to reduce crease formation.",
+      "nl": "Deze soorten wasgoed (bijv. blouses, shirts en overalls) vereisen een speciaal programmaverloop en lagere centrifugetallen om kreukvorming te reduceren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Synthetics 4 30 °C",
+      "nl": "Kreukherstellend 30 °C"
+    }
+  },
+  {
+    "translation": {
+      "en": "For easy-care, lightly and/or normally soiled colour sensitive textiles, e.g. made of cotton, linen, synthetic fibres or blended fabrics.",
+      "nl": "Voor kreukherstellend, licht en/of normaal vervuild textiel, bijv. van katoen, linnen, synthetische of gemengde weefsels."
+    }
+  },
+  {
+    "translation": {
+      "en": "These types of washing require a special programme sequence and reduced spin speeds in order to reduce crease formation.",
+      "nl": "Deze soorten wasgoed vereisen een speciaal programmaverloop en lagere centrifugetoerentallen om kreukvorming te reduceren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Special applications",
+      "nl": "Speciale gebruiksmogelijkheden"
+    }
+  },
+  {
+    "translation": {
+      "en": "Delicates/Silk x 30 °C",
+      "nl": "Fijn/Zijde x 30 °C"
+    }
+  },
+  {
+    "translation": {
+      "en": "For sensitive, washable textiles, e.g. made of silk, satin, synthetic fibres or blended fabrics (e.g. curtains, dresses, skirts and blouses).",
+      "nl": "Voor gevoelig, wasbaar textiel, bijv. van zijde, satijn, synthetische of gemengde weefsels (bijv. vitrage, jurken, rokken en blouses)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Large items, e.g. leisure suit, can be washed in this wash programme because the moves gently and an additional rinse programme is added automatically.",
+      "nl": "Grote stukken wasgoed, zoals huiskleding kunnen in dit programma gewassen worden omdat de wastrommel lichte bewegingen maakt en er automatisch een extra spoelbeurt wordt toegevoegd."
+    }
+  },
+  {
+    "translation": {
+      "en": "No spin between the rinse cycles.",
+      "nl": "Geen centrifugeren tussen de spoelbeurten."
+    }
+  },
+  {
+    "translation": {
+      "en": "X Wool x Cold 30 °C",
+      "nl": "X Wol koud 30 °C"
+    }
+  },
+  {
+    "translation": {
+      "en": "Hand wash is recommended for very sensitive items which are usually washed by hand.",
+      "nl": "Handwas wordt aanbevolen voor heel gevoelig wasgoed dat normaal gesproken met de hand gewassen wordt."
+    }
+  },
+  {
+    "translation": {
+      "en": "This wash programme was developed for particularly gentle treatment of the washing.",
+      "nl": "Dit wasprogramma werd ontwikkeld voor een bijzonder voorzichtige behandeling van het wasgoed."
+    }
+  },
+  {
+    "translation": {
+      "en": "Silk or other textiles with the \"hand wash\" instruction or x9i on the care labels can be washed safely with this programme.",
+      "nl": "Zijde of ander textiel met de aanwijzing \"hand wash\" of x op het wasmerkje kan veilig in dit programma gewassen worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Wool x 30 °C",
+      "nl": "x Wol 30 °C"
+    }
+  },
+  {
+    "translation": {
+      "en": "For hand and machine-washable textiles made of wool.",
+      "nl": "Voor textiel van wol dat met de hand en in de machine gewassen mag worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "X Mix 30 °C",
+      "nl": "Snel + Mix 30 °C"
+    }
+  },
+  {
+    "translation": {
+      "en": "For mixed laundry loads.",
+      "nl": "Voor stevig wasgoed van katoen en voor kreukherstellend textiel - verschillende soorten wasgoed kunnen samen gewassen worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Spin",
+      "nl": "Centrifugeren"
+    }
+  },
+  {
+    "translation": {
+      "en": "Spin cycle for spinning hand-washed items.",
+      "nl": "Een centrifugegang om met de hand gewassen wasgoed te centrifugeren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Washing water or rinsing water is drained before the spin cycle.",
+      "nl": "Sop of spoelwater wordt vóór het centrifugeren afgepompt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Rinse",
+      "nl": "Spoelen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Programme for rinsing unsoiled textiles, e.g. swimwear, and for removing detergent residue from textiles.",
+      "nl": "Programma voor het spoelen van niet vervuild textiel, bijv. badkleding, en voor het verwijderen van wasmiddelresten uit textiel."
+    }
+  },
+  {
+    "translation": {
+      "en": "Ends with a short rinse cycle.",
+      "nl": "Eindigt met kort centrifugeren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Water is drained.",
+      "nl": "Het water wordt afgepompt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Drain",
+      "nl": "Afpompen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Rinsing water is drained without a spin cycle.",
+      "nl": "Afpompen van het spoelwater zonder centrifugeren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Maximum spin speeds of the programmes",
+      "nl": "Maximale centrifugetoerentallen van de programma's"
+    }
+  },
+  {
+    "translation": {
+      "en": "<!TABLE!>",
+      "nl": "<!TABLE!>"
+    }
+  },
+  {
+    "translation": {
+      "en": "In the Cottons + Linens x 20 programme the fabrics will be spun at the maximum possible spin speed.",
+      "nl": "Het textiel wordt in het programma Witte was/Bonte was met het hoogste toerental gecentrifugeerd."
+    }
+  },
+  {
+    "translation": {
+      "en": "In the Synthetics x, Delicates/ Silk x, x Wool x and x Mix programmes the washing machine spins at a low speed - for gentle treatment of delicate laundry.",
+      "nl": "Bij de programma's Kreukherstellend, Fijn/Zijde, x Wol en Snel + Mix wordt met een lager toerental gecentrifugeerd - voorzichtige behandeling van gevoelig wasgoed."
+    }
+  },
+  {
+    "translation": {
+      "en": "If required, change the spin speed.",
+      "nl": "Indien gewenst het centrifugetoerental wijzigen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Minimum spin speed is 400 revolutions per minute.",
+      "nl": "Minimaal 400 omwentelingen per minuut."
+    }
+  },
+  {
+    "translation": {
+      "en": "Display",
+      "nl": "Indicatie"
+    }
+  },
+  {
+    "translation": {
+      "en": "The running programme and programme status are displayed on the left side of the first line.",
+      "nl": "Op de linker kant van de eerste regel worden het lopende programma en de programmastatus aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "The current time is displayed on the right side when \"Ready\" is displayed on the left side.",
+      "nl": "Op de rechter kant wordt de actuele tijd aangegeven als op de linker kant \"Startklaar\" is aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "Spin speeds and the expected end time of the programme as well as symbols for spin speed, wash mode, signal and childproof lock are displayed on the second line.",
+      "nl": "In de tweede regel worden centrifugetoerentallen en de vermoedelijke eindtijd van het programma evenals symbolen voor centrifugetal, wasmodus, signaal en kinderbeveiliging aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "Spin speed or \"Without final spin\"",
+      "nl": "Centrifugetoerental of \"Zonder eindcentrifuge.\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Maximum spin speeds of the programme are displayed.",
+      "nl": "Het maximale centrifugetoerental van het programma wordt aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"---\" is displayed during the Drain\" programme.",
+      "nl": "Tijdens het programma Afpompen wordt \"---\" aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "The speeds can be changed.",
+      "nl": "De toerentallen kunnen gewijzigd worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Without final spin\" can also be selected.",
+      "nl": "\"Zonder eindcentrifuge.\" kan ook gekozen worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "The laundry is left in the final rinsing water.",
+      "nl": "Het wasgoed blijft in het laatste spoelwater liggen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Recommended for sensitive washing.",
+      "nl": "Aanbevolen voor gevoelig wasgoed."
+    }
+  },
+  {
+    "translation": {
+      "en": "Use this additional function to prevent creasing if the washing cannot be taken out of the drum as soon as the programme ends.",
+      "nl": "Gebruik deze programmaverfijning om kreuken te voorkomen als het wasgoed niet onmiddellijk na afloop van het programma uit de trommel kan worden gehaald."
+    }
+  },
+  {
+    "translation": {
+      "en": "Programme finished at",
+      "nl": "\"Einde programma om\""
+    }
+  },
+  {
+    "translation": {
+      "en": "The time is displayed when the programme will end.",
+      "nl": "Aangegeven wordt de tijd waarop het Centrifugeren programma beëindigd wordt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Symbol for \"Normal Wash\"",
+      "nl": "Symbool voor \"Normale was\""
+    }
+  },
+  {
+    "translation": {
+      "en": "This symbol is on if \"Norma) Wash\" was selected.",
+      "nl": "Dit symbool verschijnt als \"Normale was\" werd gekozen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Symbol for \"Quick Wash\"",
+      "nl": "Symbool voor \"Snelle was\""
+    }
+  },
+  {
+    "translation": {
+      "en": "This symbol is on if \"Quick Wash\" was selected.",
+      "nl": "Dit symbool verschijnt als \"Snelle was\" werd gekozen."
+    }
+  },
+  {
+    "translation": {
+      "en": "x Symbol for \"Intensive Wash\"",
+      "nl": "X Symbool voor \"Intensieve was\""
+    }
+  },
+  {
+    "translation": {
+      "en": "This symbol is on if \"Intensive Wash\" was selected.",
+      "nl": "Dit symbool verschijnt als \"Intensieve was\" werd gekozen."
+    }
+  },
+  {
+    "translation": {
+      "en": "x Symbol for signal",
+      "nl": "X Symbool voor signaal"
+    }
+  },
+  {
+    "translation": {
+      "en": "This symbol is on if the signal volume was not set to \"Signal: off\".",
+      "nl": "Dit symbool is aan als de geluidssterkte van het signaal niet op \"Signaal: uit\" werd gezet."
+    }
+  },
+  {
+    "translation": {
+      "en": "x Symbol for childproof lock",
+      "nl": "X Symbool voor kinderbeveiliging"
+    }
+  },
+  {
+    "translation": {
+      "en": "This symbol is on if \"Child lock: on\" was selected in the menu.",
+      "nl": "Dit symbool is aan als in het menu \"Kinderbeveiliging aan\" werd gekozen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Additional options",
+      "nl": "Programmaverfijningen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Prewash x",
+      "nl": "Voorwas"
+    }
+  },
+  {
+    "translation": {
+      "en": "If the Prewash x button was pressed, a prewash cycle is run in addition to the selected programme.",
+      "nl": "Als de toets Voorwas werd ingedrukt, wordt aanvullend op een gekozen programma een voorwasbeurt doorgevoerd."
+    }
+  },
+  {
+    "translation": {
+      "en": "Programme for pretreatment of heavily soiled, stained textiles.",
+      "nl": "Programma om sterk vervuild textiel met vlekken voor te behandelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Water is drained.",
+      "nl": "Het water wordt afgepompt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Washing time is extended accordingly.",
+      "nl": "De wastijd wordt navenant verlengd."
+    }
+  },
+  {
+    "translation": {
+      "en": "Rinse Plus",
+      "nl": "Extra spoelen"
+    }
+  },
+  {
+    "translation": {
+      "en": "If the Rinse Plus x button was pressed, a rinse cycle is run in addition to the selected programme.",
+      "nl": "Als de toets Extra spoelen werd ingedrukt, wordt aanvullend op het gekozen programma een extra spoelbeurt doorgevoerd."
+    }
+  },
+  {
+    "translation": {
+      "en": "Washing time is extended accordingly.",
+      "nl": "De wastijd wordt navenant verlengd."
+    }
+  },
+  {
+    "translation": {
+      "en": "Reduced Ironing x",
+      "nl": "Licht strijken"
+    }
+  },
+  {
+    "translation": {
+      "en": "If the Reduced Ironing a button was pressed, a gentler, reduced spin cycle is run followed by fluffing up of clothes.",
+      "nl": "Als de toets Licht strijken werd ingedrukt, wordt voorzichtig gecentrifugeerd met een lager toerental met aansluitend losmaken van het wasgoed."
+    }
+  },
+  {
+    "translation": {
+      "en": "After the spin cycle, the laundry is loose in the drum - creasing is reduced.",
+      "nl": "Na het centrifugeren ligt het wasgoed luchtig in de trommel - minder kreukels."
+    }
+  },
+  {
+    "translation": {
+      "en": "Washing time is extended accordingly.",
+      "nl": "De wastijd wordt navenant verlengd."
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove the laundry as soon as the spin cycle is complete.",
+      "nl": "Het wasgoed direct na het centrifugeren uit de trommel halen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Indicator light in the Start/Pause button",
+      "nl": "Indicatielampje van de toets Start/Pauze"
+    }
+  },
+  {
+    "translation": {
+      "en": "The indicator light conveys the following information:",
+      "nl": "Het indicatielampje geeft de volgende informatie:"
+    }
+  },
+  {
+    "translation": {
+      "en": "- The Start/Pause indicator light flashes (red): Programme can be started.",
+      "nl": "- Het indicatielampje Start/Pauze knippert (rood): het programma kan gestart worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Top up possible.",
+      "nl": "Bijvullen mogelijk."
+    }
+  },
+  {
+    "translation": {
+      "en": "- The Start/Pause control light comes on (red): Programme is running.",
+      "nl": "- Het indicatielampje Start/Pauze brandt (rood): het programma loopt."
+    }
+  },
+  {
+    "translation": {
+      "en": "The door is locked for reasons of safety and cannot be opened.",
+      "nl": "Bijvullen met wasgoed niet mogelijk omdat de vuldeur om veiligheidsredenen is vergrendeld."
+    }
+  },
+  {
+    "translation": {
+      "en": "The door can be opened because the Start/Pause button was pressed.",
+      "nl": "Bijvullen is mogelijk nadat de toets Start/Pauze werd ingedrukt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Exception:",
+      "nl": "Uitzondering:"
+    }
+  },
+  {
+    "translation": {
+      "en": "When the childproof lock is activated, the Start/Pause indicator light is off.",
+      "nl": "Bij geactiveerde kinderbeveiliging is het indicatielampje Start/Pauze uit."
+    }
+  },
+  {
+    "translation": {
+      "en": "At the end of the programme the door remains locked.",
+      "nl": "Aan het einde van het programma blijft de vuldeur vergrendeld."
+    }
+  },
+  {
+    "translation": {
+      "en": "Special applications",
+      "nl": "Speciale gebruiksmogelijkheden"
+    }
+  },
+  {
+    "translation": {
+      "en": "Load adjust",
+      "nl": "Beladingsautomaat"
+    }
+  },
+  {
+    "translation": {
+      "en": "Load adjust adjusts the water and power consumption to each programme - according to the amount of laundry and type of textiles.",
+      "nl": "De beladingsautomaat past het water- en stroomverbruik aan elk programma aan - afhankelijk van de hoeveelheid wasgoed en het soort textiel."
+    }
+  },
+  {
+    "translation": {
+      "en": "The auto load function is a component of your washing machine and runs automatically.",
+      "nl": "De beladingsautomaat is een onderdeel van uw wasautomaat en functioneert automatisch."
+    }
+  },
+  {
+    "translation": {
+      "en": "This keeps the energy and water consumption as low as possible.",
+      "nl": "Hierdoor wordt het energie en waterverbruik zo laag mogelijk gehouden."
+    }
+  },
+  {
+    "translation": {
+      "en": "The flow sensor measures the water flow rate like an internal water gauge and meters the exact volume of water required by the amount of washing.",
+      "nl": "De doorstromingssensor registreert als een interne watermeter de toegevoerde hoeveelheid water en doseert precies zoveel water als benodigd voor de hoeveelheid wasgoed."
+    }
+  },
+  {
+    "translation": {
+      "en": "The stepless water level sensor ensures the correct water level required to wash your laundry in each programme.",
+      "nl": "De traploze waterniveausensor zorgt in elk programma voor het juiste waterniveau bij het wassen van het wasgoed."
+    }
+  },
+  {
+    "translation": {
+      "en": "Unbalanced load detection system",
+      "nl": "Onbalans-controlesysteem"
+    }
+  },
+  {
+    "translation": {
+      "en": "The automatic unbalanced load detection system spins the laundry several times to ensure even distribution.",
+      "nl": "Het automatische onbalans-controlesysteem zorgt door meermaals aanloopcentrifugeren voor een gelijkmatige verdeling van het wasgoed."
+    }
+  },
+  {
+    "translation": {
+      "en": "If the washing is very unevenly distributed, it is not spun for reasons of safety or the end speed is reduced.",
+      "nl": "Bij een heel ongunstige verdeling van het wasgoed wordt om veiligheidsredenen niet gecentrifugeerd resp. het eindtoerental verlaagd."
+    }
+  },
+  {
+    "translation": {
+      "en": "In the x Wool x programmes the spin cycle is attempted only twice in order to prevent felting.",
+      "nl": "Bij de programma's X Wol worden maar twee pogingen tot centrifugeren gedaan om vervilten te voorkomen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Time",
+      "nl": "Dagtijd"
+    }
+  },
+  {
+    "translation": {
+      "en": "When a programme has been selected, the expected programme duration is displayed.",
+      "nl": "Na de keuze van een programma wordt de vermoedelijke programmaduur aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "Time deviations are caused by:",
+      "nl": "Afwijkingen in de programmaduur ontstaan door:"
+    }
+  },
+  {
+    "translation": {
+      "en": "- load amount",
+      "nl": "- hoeveelheid wasgoed"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Multiple spinning if the laundry is distributed poorly in the drum.",
+      "nl": "- meermaals centrifugeren als het wasgoed slecht verdeeld is in de trommel,"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Additional rinse cycle if excessive foam is in the laundry.",
+      "nl": "- een extra spoelbeurt als er teveel schuim in het wasgoed is,"
+    }
+  },
+  {
+    "translation": {
+      "en": "- too low water pressure",
+      "nl": "- te lage waterdruk"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Selection of an additional option, e.g. Rinse Plus after the programme has started,",
+      "nl": "- keuze van een programmaverfijning, bijv. Extra spoelen na het starten van het programma,"
+    }
+  },
+  {
+    "translation": {
+      "en": "As a result of this and other properties, the wash time changes accordingly.",
+      "nl": "Tengevolge van deze en andere omstandigheden verandert de wastijd navenant."
+    }
+  },
+  {
+    "translation": {
+      "en": "If no additional options were selected and if no other changes occur, the wash cycle will end at the indicated time.",
+      "nl": "Als er geen programmaverfijningen werden gekozen en als er geen andere veranderingen optreden, dan zal het wasprogramma op het aangegeven tijdstip beëindigd zijn."
+    }
+  },
+  {
+    "translation": {
+      "en": "Washing with standard settings",
+      "nl": "Wassen met basisinstellingen"
+    }
+  },
+  {
+    "translation": {
+      "en": "The specified standard settings are optimally adjusted to the selected programme.",
+      "nl": "De basisinstellingen zijn optimaal afgestemd op elk gekozen programma."
+    }
+  },
+  {
+    "translation": {
+      "en": "If you do not want to change these standard settings:",
+      "nl": "Als u de basisinstellingen niet wilt wijzigen:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn the programme selector to the desired programme.",
+      "nl": "Programmakiezer op het gewenste programma zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Load the laundry and close the loading door.",
+      "nl": "Wasgoed in de trommel doen en de vuldeur sluiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Start/Pause indicator light flashes (red).",
+      "nl": "Het indicatielampje Start/Pauze knippert (rood)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Start/Pause button.",
+      "nl": "Indien per ongeluk een onlogische combinatie werd gekozen gaat het indicatielampje van de gekozen toets uit en klinkt er een signaal."
+    }
+  },
+  {
+    "translation": {
+      "en": "The programme starts.",
+      "nl": "Het programma start."
+    }
+  },
+  {
+    "translation": {
+      "en": "The programme progress is indicated in the display field.",
+      "nl": "Op het display wordt het programmaverloop aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "Programme Overview",
+      "nl": "Programmaoverzicht"
+    }
+  },
+  {
+    "translation": {
+      "en": "<!TABLE!>",
+      "nl": "<!TABLE!>"
+    }
+  },
+  {
+    "translation": {
+      "en": "Spin speed",
+      "nl": "Centrifugetoerental"
+    }
+  },
+  {
+    "translation": {
+      "en": "The speeds can be changed.",
+      "nl": "De toerentallen kunnen veranderd worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "The maximum displayed spin speed depends on the selected programme.",
+      "nl": "Het aangegeven maximale centrifugetoerental hangt steeds van het ingestelde programma af."
+    }
+  },
+  {
+    "translation": {
+      "en": "See also information on Page 17.",
+      "nl": "Zie hiervoor ook de aanwijzingen op blz. 16."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Turn the programme selector to the desired programme.",
+      "nl": "- Programmakiezer op het nieuw gekozen programma zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Load the laundry and close the loading door.",
+      "nl": "- Wasgoed in de trommel doen en de vuldeur sluiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Start/Pause indicator light flashes (red).",
+      "nl": "Het indicatielampje Start/Pauze knippert (rood)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Example:",
+      "nl": "Voorbeeld:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Menu button until \"Spin speed\" is displayed.",
+      "nl": "Toets Menu net zo vaak indrukken tot \"Centrifugetoerental\" wordt aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "Current spin speed flashes.",
+      "nl": "Het actuele centrifugetoerental knippert."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Start/Pause indicator light flashes (red).",
+      "nl": "Het indicatielampje Start/Pauze knippert (rood)."
+    }
+  },
+  {
+    "translation": {
+      "en": "The menu is left if a button is not pressed within 10 seconds.",
+      "nl": "Het menu wordt verlaten als er gedurende 10 seconden geen toets is ingedrukt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Changed settings are lost.",
+      "nl": "Gewijzigde instellingen gaan verloren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Select button until the desired spin speed or \"Without final spin\" is displayed.",
+      "nl": "Toets Wijzigen indrukken tot het gewenste centrifugetoerental of \"Zonder eindcentrifuge\" wordt aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "Other settings can be selected by pressing the Menu button; the same settings can be changed by pressing the Select button.",
+      "nl": "Verdere instellingen kunt u kiezen door de toets Menu in te drukken; u kunt ze wijzigen door de toets Wijzigen in te drukken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Start/Pause button.",
+      "nl": "Toets Start/Pauze indrukken."
+    }
+  },
+  {
+    "translation": {
+      "en": "The programme starts.",
+      "nl": "Het programma start."
+    }
+  },
+  {
+    "translation": {
+      "en": "The indicator light is on (red).",
+      "nl": "Het indicatielampje brandt (rood)"
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn the programme selector to the desired programme.",
+      "nl": "Programmakiezer op het gewenste programma zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Load the laundry and close the loading door.",
+      "nl": "Wasgoed in de trommel doen en de vuldeur sluiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Start/Pause indicator light flashes (red).",
+      "nl": "Start/Pauze knippert (rood)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Example:",
+      "nl": "Voorbeeld:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Menu button until \"Programme finished at\" is displayed.",
+      "nl": "Toets Menu net zo vaak indrukken tot \"Einde programma om\" wordt aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "Current end time flashes.",
+      "nl": "De actuele eindtijd knippert."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Start/Pause indicator light flashes (red).",
+      "nl": "Start/Pauze knippert (rood)."
+    }
+  },
+  {
+    "translation": {
+      "en": "The menu is left if a button is not pressed within 10 seconds.",
+      "nl": "Het menu wordt verlaten als er gedurende 10 seconden geen toets is ingedrukt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Changed settings are retained.",
+      "nl": "Gewijzigde instellingen blijven behouden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Select button until the programme end time is displayed.",
+      "nl": "Toets Wijzigen indrukken tot de tijd waarop het programma moet eindigen wordt aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "The programme end can be set in 30 minute steps.",
+      "nl": "Het einde van het programma kan in stappen van 30 minuten worden ingesteld."
+    }
+  },
+  {
+    "translation": {
+      "en": "The time can be programmed up to a maximum 24 hours in advance.",
+      "nl": "U kunt het programma tot maximaal 24 uur later laten beëindigen."
+    }
+  },
+  {
+    "translation": {
+      "en": "The end time must be reset if the programme, additional options or the current time is changed.",
+      "nl": "De eindtijd moet bij wijziging van het programma, van de programmaverfijningen of van de actuele tijd opnieuw worden ingesteld."
+    }
+  },
+  {
+    "translation": {
+      "en": "If there is a small load of lightly soiled washing, the programme may end well before the selected end time.",
+      "nl": "Bij licht vervuild wasgoed en geringe belading kan het programma een tijdje vóór de gekozen eindtijd beëindigd worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "If there is a large load of heavily soiled washing, the programme may end several minutes after the selected end time.",
+      "nl": "Bij erg vuil wasgoed en grote belading kan het programma een paar minuten na de gekozen eindtijd beëindigd worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Other settings can be selected by pressing the Menu button; the same settings can be changed by pressing the Select button.",
+      "nl": "Verdere instellingen kunt u kiezen door de toets Menu in te drukken; u kunt ze wijzigen door de toets Wijzigen in te drukken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Wash",
+      "nl": "Wassen"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can select among several wash options:",
+      "nl": "U kunt uit verschillende wasopties kiezen:"
+    }
+  },
+  {
+    "translation": {
+      "en": "These are:",
+      "nl": "Dit zijn:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn the programme selector to the desired programme.",
+      "nl": "Programmakiezer op het nieuw gekozen programma zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Load the laundry and close the loading door.",
+      "nl": "Wasgoed in de trommel doen en de vuldeur sluiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Start/Pause indicator light flashes (red).",
+      "nl": "Het indicatielampje Start/Pauze knippert (rood)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Example:",
+      "nl": "Voorbeeld:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Menu button until \"Mode: Normal Wash\" is displayed.",
+      "nl": "Toets Menu net zo vaak indrukken tot \"Normale was\" wordt aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "The \"4 \" symbol flashes.",
+      "nl": "Het symbool \"u \" knippert."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Start/Pause < indicator light flashes (red).",
+      "nl": "Het indicatielampje Start/Pauze knippert (rood)."
+    }
+  },
+  {
+    "translation": {
+      "en": "If \"Mode: Intensive Wash\" or \"Mode: Quick Wash\" was selected, symbol \"'3\" or 2> \" is permanently displayed when the menu is left.",
+      "nl": "Als \"Intensieve was\" of \"Snelle was\" gekozen werd, dan wordt na het verlaten van het menu het symbool \"'3\" of\" 2> \" voortdurend aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "Other settings can be selected by pressing the Menu button; the same settings can be changed by pressing the Select button.",
+      "nl": "Verdere instellingen kunt u kiezen door de toets Menu in te drukken; u kunt ze wijzigen door de toets Wijzigen in te drukken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Start/Pause button.",
+      "nl": "Toets Start/Pauze indrukken."
+    }
+  },
+  {
+    "translation": {
+      "en": "The programme starts.",
+      "nl": "Het programma start."
+    }
+  },
+  {
+    "translation": {
+      "en": "The indicator light is on.",
+      "nl": "Het indicatielampje brandt."
+    }
+  },
+  {
+    "translation": {
+      "en": "The individual programme steps are indicated in the display field.",
+      "nl": "Op het display verschijnen stap voor stap de onderdelen van het programmaverloop."
+    }
+  },
+  {
+    "translation": {
+      "en": "Signal",
+      "nl": "Signaal"
+    }
+  },
+  {
+    "translation": {
+      "en": "The acoustic signal indicates the start or end of the programme, operating errors or malfunctions.",
+      "nl": "Het akoestische signaal geeft de start van het programma, het einde van het programma, bedieningsfouten en storingen aan."
+    }
+  },
+  {
+    "translation": {
+      "en": "You can specify the volume of the acoustic signal.",
+      "nl": "U kunt de geluidssterkte van het akoestische signaal zelf bepalen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Switching on, setting the volume and switching off the acoustic signal",
+      "nl": "Inschakelen, instellen van de geluidssterkte en uitschakelen van het akoestische signaal"
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn the programme selector to the desired programme.",
+      "nl": "Programmakiezer op het nieuw gekozen programma zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Load the laundry and close the loading door.",
+      "nl": "Wasgoed in de trommel doen en de vuldeur sluiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Start/Pause indicator light flashes (red).",
+      "nl": "Het indicatielampje Start/Pauze knippert (rood)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Example:",
+      "nl": "Voorbeeld:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Menu button until \"Signal: off\" is displayed.",
+      "nl": "Toets Menu net zo vaak indrukken tot \"Signaal: uit\" wordt aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "The \"x\" symbol flashes.",
+      "nl": "Het symbool \"x\" knippert."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Start/Pause < indicator light flashes (red).",
+      "nl": "Het indicatielampje Start/Pauze knippert (rood)."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Ready\" is displayed if the button is not pressed for 10 seconds.",
+      "nl": "Op het display verschijnt \"Startklaar\" als er gedurende 10 seconden geen enkele toets werd ingedrukt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Changed settings are retained.",
+      "nl": "Gewijzigde instellingen blijven behouden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Select button until \"Signal: continuous\" is displayed.",
+      "nl": "Toets Wijzigen net zo vaak indrukken tot \"Signaal: continu\" aangegeven wordt."
+    }
+  },
+  {
+    "translation": {
+      "en": "If the Select button is held down, the volume of the acoustic signal is increased.",
+      "nl": "Als de toets Wijzigen ingedrukt wordt gehouden, dan wordt de sterkte van het akoestische signaal verhoogd."
+    }
+  },
+  {
+    "translation": {
+      "en": "Release the Select button when the required volume is reached.",
+      "nl": "De toets Wijzigen loslaten als de gewenste geluidssterkte is bereikt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Switch off signal: after \"Signal: max\" was displayed, hold down the Select button for longer than 10 seconds until \"Signal: off\" is displayed.",
+      "nl": "Signaal uitschakelen: nadat op het display \"Signaal: max\" aangegeven is, de toets Wijzigen langer dan 10 seconden ingedrukt houden tot op het display \"Signaal: uit\" wordt aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "The selected setting is retained after the wash cycle.",
+      "nl": "De gekozen instelling blijft na het wassen ingesteld."
+    }
+  },
+  {
+    "translation": {
+      "en": "Other settings can be selected by pressing the Menu button; the same settings can be changed by pressing the Select button.",
+      "nl": "Verdere instellingen kunt u kiezen door de toets Menu in te drukken; u kunt ze wijzigen door de toets Wijzigen in te drukken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Start/Pause < button.",
+      "nl": "Toets Start/Pauze indrukken."
+    }
+  },
+  {
+    "translation": {
+      "en": "The programme starts.",
+      "nl": "Het programma start."
+    }
+  },
+  {
+    "translation": {
+      "en": "You can secure your washing machine to prevent selected functions from being inadvertently changed.",
+      "nl": "U kunt uw wasmachine beveiligen tegen het per ongeluk wijzigen van de ingestelde functies."
+    }
+  },
+  {
+    "translation": {
+      "en": "When the menu is left, the \"x\" symbol is permanently displayed.",
+      "nl": "Het symbool \"x\" knippert."
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn the programme selector to the desired programme.",
+      "nl": "Programmakiezer op het gewenste programma zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Load the laundry and close the loading door.",
+      "nl": "Wasgoed in de trommel doen en de vuldeur sluiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Start/Pause < indicator light flashes (red).",
+      "nl": "Het indicatielampje Start/Pauze knippert (rood)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press and hold down the Start/ Pause < button (5 seconds).",
+      "nl": "Toets Start/Pauze indrukken en ingedrukt houden (5 seconden)."
+    }
+  },
+  {
+    "translation": {
+      "en": "The programme starts.",
+      "nl": "Het programma start."
+    }
+  },
+  {
+    "translation": {
+      "en": "The indicator light is on (red).",
+      "nl": "Het indicatielampje brandt (rood)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Childproof lock activated.",
+      "nl": "De kinderbeveiliging is geactiveerd."
+    }
+  },
+  {
+    "translation": {
+      "en": "To deactivate the childproof lock temporarily, press the Start/ Pause < button and hold down (5 seconds) until the Start/Pause < indicator light flashes.",
+      "nl": "Om de kinderbeveiliging tijdelijk te deactiveren: de toets Start/ Pauze indrukken en ingedrukt houden (5 seconden) tot het indicatielampje Start/Pauze knippert."
+    }
+  },
+  {
+    "translation": {
+      "en": "You can change other settings.",
+      "nl": "U kunt andere instellingen wijzigen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Start/Pause < button to activate the childproof lock.",
+      "nl": "Toets Start/Pauze indrukken om de kinderbeveiliging te activeren."
+    }
+  },
+  {
+    "translation": {
+      "en": "You can interrupt a running programme while the childproof lock is activated when the programme selector is set to Off.",
+      "nl": "Een lopend programma bij geactiveerde kinderbeveiliging kunt u onderbreken als de programmakiezer op Uit wordt gezet."
+    }
+  },
+  {
+    "translation": {
+      "en": "Selected programme continues running if the appliance was switched on again.",
+      "nl": "Een ingesteld programma loopt door als het apparaat weer is ingeschakeld."
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove washing at the end of the programme with \"Child lock: on\"",
+      "nl": "Wasgoed eruit halen aan het einde van een programma met \"Kinderbeveiliging aan\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove the washing.",
+      "nl": "Wasgoed uit de trommel halen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Childproof lock remains active even when the appliance is switched off.",
+      "nl": "De kinderbeveiliging blijft actief, ook na het uitschakelen van het apparaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "The childproof lock is reactivated the next time the appliance is switched on.",
+      "nl": "De kinderbeveiliging is bij inschakelen van het apparaat weer geactiveerd."
+    }
+  },
+  {
+    "translation": {
+      "en": "Washing machine door cannot be opened.",
+      "nl": "De vuldeur kan niet geopend worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Further changes are not possible.",
+      "nl": "Verdere wijzigingen zijn niet mogelijk."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Start/Pause < button and hold down (5 seconds) to open the door.",
+      "nl": "Toets Start/Pauze indrukken en ingedrukt houden (5 seconden) om de deur te openen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Menu button to deactivate the childproof lock.",
+      "nl": "Toets Menu indrukken om de kinderbeveiliging te deactiveren."
+    }
+  },
+  {
+    "translation": {
+      "en": "The \" -- o\" symbol flashes.",
+      "nl": "Het symbool \"x\" knippert."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Select button until \"Child lock: off\" is displayed.",
+      "nl": "Toets Wijzigen net zo vaak indrukken tot \"Kinderbeveiliging uit\" wordt aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "Set clock",
+      "nl": "Klok instellen"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can set the current time.",
+      "nl": "U kunt de actuele dagtijd instellen."
+    }
+  },
+  {
+    "translation": {
+      "en": "The settings are retained even if your washing machine is not used for up to 6 weeks.",
+      "nl": "Ook als u uw wasmachine 6 weken niet gebruikt blijven de gekozen instellingen in het geheugen opgeslagen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn the programme selector to the desired programme.",
+      "nl": "Programmakiezer op het nieuw gekozen programma zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Example:",
+      "nl": "Voorbeeld:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Menu button until \"Set clock:\" is displayed.",
+      "nl": "Toets Menu net zo vaak indrukken tot \"Klok instellen:\" wordt aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "The hour display flashes.",
+      "nl": "De indicatie in uren knippert."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Start/Pause < indicator light flashes (red).",
+      "nl": "Het indicatielampje Start/Pauze knippert (rood)."
+    }
+  },
+  {
+    "translation": {
+      "en": "The menu is left if a button is not pressed within 10 seconds.",
+      "nl": "Het menu wordt verlaten als er gedurende 10 seconden geen toets is ingedrukt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Changed settings are lost.",
+      "nl": "Gewijzigde instellingen gaan verloren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Select button until the hour display is correct.",
+      "nl": "Toets Wijzigen indrukken tot het juiste uur op het display verschijnt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Menu button until the minute display flashes.",
+      "nl": "Toets Menu indrukken tot de indicatie minuten op het display knippert."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Start/Pause < indicator light flashes (red).",
+      "nl": "Het indicatielampje Start/Pauze knippert (rood)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Select button until the minute display is correct.",
+      "nl": "Toets Wijzigen indrukken tot het juiste aantal minuten wordt aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "The time is now set.",
+      "nl": "Hiermee is de dagtijd ingesteld."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Menu button, the menu function ends.",
+      "nl": "Toets Menu indrukken: de menufunctie wordt beëindigd."
+    }
+  },
+  {
+    "translation": {
+      "en": "Other settings can be selected by pressing the Menu button; the same settings can be changed by pressing the Select button.",
+      "nl": "Verdere instellingen kunt u kiezen door de toets Menu in te drukken; u kunt ze wijzigen door de toets Wijzigen in te drukken."
+    }
+  },
+  {
+    "translation": {
+      "en": "During washing",
+      "nl": "Tijdens het Wassen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Select a programme again",
+      "nl": "Programma opnieuw kiezen"
+    }
+  },
+  {
+    "translation": {
+      "en": "If the childproof lock is active, deactivate temporarily.",
+      "nl": "Als de kinderbeveiliging actief is, deze tijdelijk deactiveren."
+    }
+  },
+  {
+    "translation": {
+      "en": "See Page 23.",
+      "nl": "Zie blz. 22."
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn the programme selector to Off.",
+      "nl": "Programmakiezer op Uit zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn the programme selector to a newly selected programme.",
+      "nl": "Programmakiezer op het gewenste programma zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Start/Pause < indicator light flashes.",
+      "nl": "Het indicatielampje Start/Pauze knippert."
+    }
+  },
+  {
+    "translation": {
+      "en": "If required, change other settings.",
+      "nl": "Indien gewenst de verdere instelling wijzigen."
+    }
+  },
+  {
+    "translation": {
+      "en": "See Page 21.",
+      "nl": "Zie blz. 20 en verder."
+    }
+  },
+  {
+    "translation": {
+      "en": "If required, activate childproof lock.",
+      "nl": "Kinderbeveiliging -- indien gewenst - activeren."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Start/Pause < button.",
+      "nl": "Toets Start/Pauze indrukken."
+    }
+  },
+  {
+    "translation": {
+      "en": "The programme starts.",
+      "nl": "Het programma start."
+    }
+  },
+  {
+    "translation": {
+      "en": "The indicator light is on.",
+      "nl": "Het indicatielampje brandt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Topping up the washing/ Interrupting the programme",
+      "nl": "Wasgoed bijvullen/ programma onderbreken"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can put washing in the drum later, take washing out of the drum early or interrupt the programme at any time.",
+      "nl": "U kunt achteraf wasgoed in de trommel doen, wasgoed voortijdig uit de trommel halen of ook altijd het programma onderbreken."
+    }
+  },
+  {
+    "translation": {
+      "en": "It is not recommended to top up the washing after the wash phase has started.",
+      "nl": "Het is niet aan te raden wasgoed na het begin van de wasfase bij te vullen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Without childproof lock",
+      "nl": "Zonder kinderbeveiliging"
+    }
+  },
+  {
+    "translation": {
+      "en": "You can top up or reduce washing as long as the Start/Pause < indicator light is on (red).",
+      "nl": "Wasgoed bijvullen of voortijdig uit de trommel halen is mogelijk zolang het indicatielampje Start/Pauze brandt (rood)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Start/Pause < button.",
+      "nl": "Toets Start/Pauze indrukken."
+    }
+  },
+  {
+    "translation": {
+      "en": "In the display field are indicated in succession:",
+      "nl": "Op het display verschijnt achtereenvolgens"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Pause\",",
+      "nl": "\"Pauze\","
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Door can be opened\".",
+      "nl": "\"Bijvullen mogelijk\"."
+    }
+  },
+  {
+    "translation": {
+      "en": "Open the door.",
+      "nl": "Deur openen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Insert/remove washing.",
+      "nl": "Wasgoed erin doen/eruit halen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Close the door.",
+      "nl": "Deur sluiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Start/Pause < button.",
+      "nl": "Toets Start/Pauze indrukken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Programme continues.",
+      "nl": "Het programma wordt voortgezet."
+    }
+  },
+  {
+    "translation": {
+      "en": "The indicator light is on (red).",
+      "nl": "Het indicatielampje brandt (rood)"
+    }
+  },
+  {
+    "translation": {
+      "en": "If the Start/Pause < indicator light is on (red), the programme can be interrupted, however the door cannot be opened for reasons of safety (water level, temperature or speed too high).",
+      "nl": "Als het indicatielampje Start/Pauze rood brandt, dan kan het programma wel onderbroken maar de vuldeur om veiligheidsredenen (waterniveau, temperatuur of toerental te hoog) niet geopend worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "In the display field are indicated in succession:",
+      "nl": "Op het display verschijnt achtereenvolgens"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Pause\",",
+      "nl": "\"Pauze\","
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Door cannot be opened\".",
+      "nl": "\"Bijvullen onmogelijk\"."
+    }
+  },
+  {
+    "translation": {
+      "en": "If the speed is too high, the Start/ Pause < indicator light comes on (red).",
+      "nl": "Als het toerental te hoog is, brandt het indicatielampje Start/Pauze (rood)."
+    }
+  },
+  {
+    "translation": {
+      "en": "The door can be opened in pause mode as soon as the drum has stopped.",
+      "nl": "Wasgoed bijvullen is in de pauzemodus mogelijk zodra de trommel stilstaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "Childproof lock activated",
+      "nl": "Bij geactiveerde kinderbeveiliging"
+    }
+  },
+  {
+    "translation": {
+      "en": "If the Start/Pause < indicator light flashes (red), the door cannot be opened for reasons of safety (water level, temperature or speed too high).",
+      "nl": "Als het indicatielampje Start/Pauze rood knippert, dan kan de vuldeur om veiligheidsredenen (waterniveau, temperatuur of toerental te hoog) niet geopend worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "In the display field are indicated in succession:",
+      "nl": "Op het display verschijnt achtereenvolgens"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Pause\",",
+      "nl": "\"Pauze\","
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Door cannot be opened\".",
+      "nl": "\"Bijvullen onmogelijk\"."
+    }
+  },
+  {
+    "translation": {
+      "en": "If the Start/Pause < indicator light flashes (red), the washing can be topped up or removed prematurely.",
+      "nl": "Als het indicatielampje Start/Pauze blauw knippert, dan kan wasgoed bijgevuld of voortijdig uit de trommel gehaald worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "In the display field are indicated in succession:",
+      "nl": "Op het display verschijnt achtereenvolgens"
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Pause\",",
+      "nl": "\"Pauze\","
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Door can be opened\".",
+      "nl": "\"Bijvullen mogelijk\"."
+    }
+  },
+  {
+    "translation": {
+      "en": "Open the door.",
+      "nl": "Deur openen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Insert/remove washing.",
+      "nl": "Wasgoed erin doen/eruit halen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Close the door.",
+      "nl": "Deur sluiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Start/Pause < button.",
+      "nl": "Toets Start/Pauze indrukken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Programme continues.",
+      "nl": "Het programma wordt voortgezet."
+    }
+  },
+  {
+    "translation": {
+      "en": "Childproof lock activated.",
+      "nl": "De kinderbeveiliging is geactiveerd."
+    }
+  },
+  {
+    "translation": {
+      "en": "The indicator light is on (red).",
+      "nl": "Het indicatielampje brandt (rood)"
+    }
+  },
+  {
+    "translation": {
+      "en": "Cancelling active programme",
+      "nl": "Afbreken van het programma"
+    }
+  },
+  {
+    "translation": {
+      "en": "If you would like to terminate a programme and remove the washing:",
+      "nl": "Als u een programma voortijdig wilt beëindigen en het wasgoed eruit wilt halen:"
+    }
+  },
+  {
+    "translation": {
+      "en": "If the childproof lock is active, press the Start/Pause < button and hold down (5 seconds).",
+      "nl": "Als de kinderbeveiliging actief is: de toets Start/Pauze indrukken en ingedrukt houden (5 seconden)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn the programme selector to Drain ~ or Spin @.",
+      "nl": "Programmakiezer op Afpompen of Centrifugeren zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "If a programme was interrupted at a high temperature, the washing machine door may remain locked until the appliance has cooled down.",
+      "nl": "Als een programma bij hoge temperatuur werd onderbroken, dan kan het voorkomen dat de vuldeur vergrendeld blijft tot het apparaat is afgekoeld."
+    }
+  },
+  {
+    "translation": {
+      "en": "If the childproof lock is active, press the Start/Pause < button and hold down (5 seconds).",
+      "nl": "Als de kinderbeveiliging actief is: de toets Start/Pauze indrukken en ingedrukt houden (5 seconden)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Start/Pause < button.",
+      "nl": "Toets Start/Pauze indrukken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Wait until programme ends.",
+      "nl": "Einde van het programma afwachten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Open the door.",
+      "nl": "Deur openen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove the washing.",
+      "nl": "Wasgoed uit de trommel halen."
+    }
+  },
+  {
+    "translation": {
+      "en": "If a programme was interrupted at a high temperature, the washing machine door may remain locked until the appliance has cooled down.",
+      "nl": "Als een programma bij hoge temperatuur werd onderbroken, dan kan het voorkomen dat de vuldeur vergrendeld blijft tot het apparaat is afgekoeld."
+    }
+  },
+  {
+    "translation": {
+      "en": "If the programme is terminated by switching off the appliance, the door may remain locked.",
+      "nl": "Als het programma door uitschakelen van het apparaat wordt afgebroken, dan kan de vuldeur vergrendeld blijven."
+    }
+  },
+  {
+    "translation": {
+      "en": "After washing",
+      "nl": "Na het wassen"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Start/Pause < indicator light goes out.",
+      "nl": "Het indicatielampje Start/Pauze gaat uit."
+    }
+  },
+  {
+    "translation": {
+      "en": "Display field: \"Remove washing\".",
+      "nl": "Display: \"Wasgoed eruit halen\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn the programme selector to Off.",
+      "nl": "Programmakiezer op Uit zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Without final spin\" selected",
+      "nl": "\"Zonder eindcentrifuge\" gekozen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Start/Pause < indicator light flashes.",
+      "nl": "Het indicatielampje Start/Pauze knippert."
+    }
+  },
+  {
+    "translation": {
+      "en": "Display field: \"Drain\".",
+      "nl": "Indicatie: \"Afpompen\"."
+    }
+  },
+  {
+    "translation": {
+      "en": "or",
+      "nl": "ofwel"
+    }
+  },
+  {
+    "translation": {
+      "en": "If required, change the spin speed; see from Page 21.",
+      "nl": "Indien gewenst het centrifuge-toerental wijzigen, zie blz. 20."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Start/Pause < button.",
+      "nl": "Toets Start/Pauze indrukken."
+    }
+  },
+  {
+    "translation": {
+      "en": "The programme starts.",
+      "nl": "Het programma start."
+    }
+  },
+  {
+    "translation": {
+      "en": "The programme progress is indicated in the display field.",
+      "nl": "Op het display wordt het programma verloop aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "The indicator light is on.",
+      "nl": "Het indicatielampje brandt."
+    }
+  },
+  {
+    "translation": {
+      "en": "or",
+      "nl": "of"
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn the programme selector to Drain\" .",
+      "nl": "Programmakiezer op Afpompen zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Start/Pause < indicator light flashes.",
+      "nl": "Het indicatielampje Start/Pauze knippert."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press the Start/Pause < button.",
+      "nl": "Toets Start/Pauze indrukken."
+    }
+  },
+  {
+    "translation": {
+      "en": "The indicator light is on.",
+      "nl": "Het indicatielampje brandt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Display field: \"Drain\".",
+      "nl": "Display: \"Afpompen\"."
+    }
+  },
+  {
+    "translation": {
+      "en": "When the additional programme has ended, open the door.",
+      "nl": "Na afloop van het speciale programma de vuldeur openen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn the programme selector to Off.",
+      "nl": "Programmakiezer op Uit zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "\"Child lock: on\" preselected",
+      "nl": "\"Kinderbeveiliging aan\" tevoren gekozen"
+    }
+  },
+  {
+    "translation": {
+      "en": "The Start/Pause < indicator light comes on (red).",
+      "nl": "Het indicatielampje Start/Pauze brandt (rood)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Display field: \"Remove washing\".",
+      "nl": "Display: \"Wasgoed eruit halen\""
+    }
+  },
+  {
+    "translation": {
+      "en": "Press and hold down the Start/ Pause < button (5 seconds) until \"Pause\" is displayed.",
+      "nl": "Toets Start/Pauze indrukken en ingedrukt houden (5 seconden) tot \"Pauze\" wordt aangegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "The Start/ Pause < indicator light flashes (red).",
+      "nl": "Het indicatielampje Start/Pauze knippert (rood)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Open the door.",
+      "nl": "Deur openen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn the programme selector to Off.",
+      "nl": "Programmakiezer op Uit zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Ending washing",
+      "nl": "Het wassen beëindigen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove the washing.",
+      "nl": "Wasgoed uit de trommel halen."
+    }
+  },
+  {
+    "translation": {
+      "en": "The childproof lock is reactivated the next time the appliance is switched on.",
+      "nl": "De kinderbeveiliging is bij inschakelen van het apparaat weer geactiveerd."
+    }
+  },
+  {
+    "translation": {
+      "en": "Maintenance and care information",
+      "nl": "Vuldeur open laten zodat de binnenruimte van de wasmachine kan drogen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Risk of electric shock!",
+      "nl": "Kans op een elektrische schok!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Always disconnect the appliance from the mains before cleaning.",
+      "nl": "De stekker van het apparaat altijd eerst uit het stopcontact trekken of de trekschakelaar uitschakelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Never clean the washing machine with a water jet.",
+      "nl": "De wasmachine nooit met water schoonspuiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Risk of explosion!",
+      "nl": "Kans op explosie!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Never clean the appliance with solvents.",
+      "nl": "Nooit oplosmiddelen gebruiken om het apparaat schoon te maken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cleaning the appliance housing and control panel",
+      "nl": "Schoonmaken van de buitenkant en van het bedieningspaneel"
+    }
+  },
+  {
+    "translation": {
+      "en": "If required:",
+      "nl": "Indien nodig:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Use hot soapy water or a mild, non-abrasive cleaning agent.",
+      "nl": "Een beetje zeepsop of een mild, niet schurend reinigingsmiddel gebruiken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Rub dry with a soft towel.",
+      "nl": "Met een zachte doek droogwrijven."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cleaning the drum",
+      "nl": "Schoonmaken van de trommel"
+    }
+  },
+  {
+    "translation": {
+      "en": "In the event that rust spots have formed due to left over debris (e.g. coins, paper clips, needles, nails):",
+      "nl": "Als er roestvlekken zijn ontstaan door achtergebleven metalen deeltjes (bijv. munten, paperclips, spelden, spijkers):"
+    }
+  },
+  {
+    "translation": {
+      "en": "Use cleaning products with chlorine bleach.",
+      "nl": "Afwasmiddel met chloorbleekmiddel gebruiken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Follow manufacturer's instructions.",
+      "nl": "Aanwijzingen fabrikant in acht nemen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Never use steel wool.",
+      "nl": "Nooit staalwol gebruiken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cleaning the detergent dispenser",
+      "nl": "Schoonmaken van de wasmiddellade"
+    }
+  },
+  {
+    "translation": {
+      "en": "If there are detergent or cleaning product residues in the detergent drawer:",
+      "nl": "Als er resten wasmiddel of wasverzorgingsmiddelen zijn achtergebleven:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Pull out the detergent drawer slightly and remove.",
+      "nl": "Wasmiddellade iets uittrekken en eruit halen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Clean the detergent dispenser and insert under running water.",
+      "nl": "Wasmiddellade onder stromend warm water schoonmaken en afdrogen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cleaning the drain pump",
+      "nl": "Schoonmaken van de afvoerpomp"
+    }
+  },
+  {
+    "translation": {
+      "en": "This is necessary if the washing solution has not been completely drained.",
+      "nl": "Als het sop niet volledig wordt afgepompt."
+    }
+  },
+  {
+    "translation": {
+      "en": "The pump is blocked by either loose debris or fluff which accumulates if fluff-giving fabrics are washed.",
+      "nl": "Vreemde voorwerpen blokkeren de afvoerpomp of er werd bij hoge temperaturen erg pluizend wasgoed gewassen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Drain the water",
+      "nl": "Sop laten weglopen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Provide a suitable receptacle for up to 20 litres.",
+      "nl": "Een voor 301 geschikte emmer of bak klaarzetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Risk of scalding!",
+      "nl": "Kans op verbrandingen!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Allow the hot water to cool down.",
+      "nl": "Heet sop laten afkoelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Keep children and pets away from the washing machine.",
+      "nl": "Kinderen en huisdieren uit de buurt houden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn the programme selector to Off.",
+      "nl": "Programmakiezer op Uit zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Open the service flap.",
+      "nl": "Onderhoudsklep openen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Carefully unscrew the pump cover.",
+      "nl": "Pompdeksel voorzichtig eraf schroeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "A little more residual water will flow out.",
+      "nl": "Er komt nog iets resterend water naar buiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove foreign objects/fluff from inside and clean the interior.",
+      "nl": "Schroefdraad van het pompdeksel en pomphuis van zeepresten en pluizen ontdoen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Insert and close the pump cap.",
+      "nl": "Pompdeksel erin zetten en sluiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "To prevent unused detergent from flowing into the drain during the next wash cycle:",
+      "nl": "Om te voorkomen dat bij de volgende wasbeurt ongebruikt wasmiddel in de afvoer wegloopt:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Pour 1 litre / 1 3/ pt of water into chamber II.",
+      "nl": "1 liter water in wasmiddelbakje II."
+    }
+  },
+  {
+    "translation": {
+      "en": "Select the Drain programme.",
+      "nl": "Programma Afpompen kiezen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cleaning water inlet strainers",
+      "nl": "Zeven in de watertoevoer schoonmaken"
+    }
+  },
+  {
+    "translation": {
+      "en": "Release the water pressure in the supply hose",
+      "nl": "Waterdruk in de toevoerslang verminderen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn off the tap.",
+      "nl": "Kraan dichtdraaien."
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn the programme selector to any programme (except Spin & / Drain).",
+      "nl": "Programmakiezer op een willekeurig programma (behalve Centrifugeren / Afpompen zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Press Start/Pause < button and wait for \"Water tap closed?\" message.",
+      "nl": "Toets Start/Pauze indrukken en de melding \"Kraan dicht?\" afwachten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn the programme selector to Off.",
+      "nl": "Programmakiezer op Uit zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Cleaning the strainer(s) at the water tap",
+      "nl": "Zeven aan de kraan schoonmaken"
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove the hose from the tap.",
+      "nl": "Slang van de kraan halen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Rinse the strainer under flowing water.",
+      "nl": "Zeef onder stromend water uitspoelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Connect the hose.",
+      "nl": "Slang weer aansluiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Descaling the washing machine",
+      "nl": "Wasmachine ontkalken"
+    }
+  },
+  {
+    "translation": {
+      "en": "Risk of scalding!",
+      "nl": "Kans op verbrandingen!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Allow the hot water to cool down.",
+      "nl": "Heet sop laten afkoelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "The washing machine door can be released at any time, even if the washing machine is full of water.",
+      "nl": "De vuldeur kan elk moment ontgrendeld worden, ook als de wasmachine met water is gevuld."
+    }
+  },
+  {
+    "translation": {
+      "en": "Never open the washing machine door as long as water can be seen through the glass.",
+      "nl": "De vuldeur nooit openen als achter het glas water is te zien."
+    }
+  },
+  {
+    "translation": {
+      "en": "Drain the water.",
+      "nl": "Sop laten weglopen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Troubleshooting Minor Faults",
+      "nl": "Kleine storingen zelf verhelpen"
+    }
+  },
+  {
+    "translation": {
+      "en": "If repairs are needed, and assuming that you cannot eliminate the fault yourself with the aid the following table.",
+      "nl": "In geval van reparatie of als u een storing met behulp van de volgende tabel niet kunt verhelpen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn the programme selector to Off.",
+      "nl": "Programmakiezer op Uit zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Disconnect the washing machine from the power supply.",
+      "nl": "Stekker van het apparaat uit het stopcontact trekken of de trekschakelaar uitschakelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Turn off the tap.",
+      "nl": "Kraan dichtdraaien."
+    }
+  },
+  {
+    "translation": {
+      "en": "Call customer service, see Page 33.",
+      "nl": "Servicedienst bellen, zie blz. 34."
+    }
+  },
+  {
+    "translation": {
+      "en": "<!TABLE!>",
+      "nl": "<!TABLE!>"
+    }
+  },
+  {
+    "translation": {
+      "en": "If the fault cannot be rectified with the aid of the above table:",
+      "nl": "Als u de storing aan de hand van de tabellen hierboven niet kunt verhelpen:"
+    }
+  },
+  {
+    "translation": {
+      "en": "If the fault recurs, call Customer Service, see Page 33.",
+      "nl": "Als de storing opnieuw optreedt, schakel dan de Servicedienst in 34."
+    }
+  },
+  {
+    "translation": {
+      "en": "Consumption values",
+      "nl": "Verbruikswaarden"
+    }
+  },
+  {
+    "translation": {
+      "en": "<!TABLE!>",
+      "nl": "<!TABLE!>"
+    }
+  },
+  {
+    "translation": {
+      "en": "Programme setting with \"Intensive Wash\" additional option for conducting test in compliance with EN 60456 and IEC 60 456 ** 9 kg load is recommended only in combination with the \"Intensive Wash\" option.",
+      "nl": "Programma-instelling met programmaverfijning \"Intensieve was\" voor de test volgens resp. in navolging van EN 60456 en IEC 60 456 ** 9 kg beladingshoeveelheid is alleen samen met de optie \"Intensieve was\" aan te raden."
+    }
+  },
+  {
+    "translation": {
+      "en": "** Consumption values will differ from the indicated values depending on the water pressure, water hardness, water inlet temperature, ambient temperature, type and quantity of washing and degree of soiling, utilised detergent, fluctuations in the mains voltage and selected additional options.",
+      "nl": "** De verbruikswaarden wijken afhankelijk van de waterdruk, waterhardheid, temperatuur van het instromende water, de omgevingstemperatuur, soort en hoeveelheid wasgoed, de mate van vervuiling, het gebruikte wasmiddel, schommelingen in de netspanning en de gekozen programmaverfijningen van de aangegeven waarden af."
+    }
+  },
+  {
+    "translation": {
+      "en": "All values are subject to change depending on progress in the area of development.",
+      "nl": "Alle waarden zijn onderhevig aan veranderingen, afhankelijk van de technische vooruitgang en ontwikkeling."
+    }
+  },
+  {
+    "translation": {
+      "en": "Customer service",
+      "nl": "Servicedienst"
+    }
+  },
+  {
+    "translation": {
+      "en": "Your washing machine does not require special care than that already mentioned.",
+      "nl": "Uw wasautomaat heeft geen bijzonder onderhoud nodig behalve het eerder genoemde."
+    }
+  },
+  {
+    "translation": {
+      "en": "Before you call customer service, please check whether you can eliminate the fault yourself (see from Page 29).",
+      "nl": "Probeer, alvorens de Servicedienst in te schakelen, eerst of u de storing zelf kunt verhelpen (zie blz. 30 en verder)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Your nearest Customer Service centre can be found in the index supplied.",
+      "nl": "Adres en telefoonnummer van de Servicedienst kunt u vinden in het telefoonboek of in de meegeleverde brochure met serviceadressen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Please provide customer service with the product number (E-Nr.) and the production number (FD) of the appliance.",
+      "nl": "Geef aan de Servicedienst het typenummer (E-Nr.) en fabricagenummer (FD) van het apparaat op."
+    }
+  },
+  {
+    "translation": {
+      "en": "In specifying the product number and production number of your appliance, you help us in our attempt to prevent unnecessary travelling and the associated extra costs.",
+      "nl": "Door deze nummers aan de Servicedienst door te geven, voorkomt u onnodig heen en weer rijden van de monteur en bespaart u de hieraan verbonden extra kosten."
+    }
+  },
+  {
+    "translation": {
+      "en": "You can find this information on the appliance rating plate (see picture) and in the box marked in bold outline on the appliance plate at the back of the appliance.",
+      "nl": "U vindt deze gegevens op het typeplaatje van het apparaat (zie afb.) en in het dik omrande veld van het typeplaatje aan de achterkant van het apparaat."
+    }
+  },
+  {
+    "translation": {
+      "en": "Installing, connecting and transporting the appliance",
+      "nl": "Plaatsen, aansluiten en transporteren"
+    }
+  },
+  {
+    "translation": {
+      "en": "Safety instructions",
+      "nl": "Veiligheidsbepalingen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Risk of injury!",
+      "nl": "Kans op verwondingen!"
+    }
+  },
+  {
+    "translation": {
+      "en": "The washing machine is very heavy.",
+      "nl": "De wasmachine is heel zwaar."
+    }
+  },
+  {
+    "translation": {
+      "en": "Lift with caution.",
+      "nl": "Wees voorzichtig bij het optillen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Warning",
+      "nl": "Waarschuwing"
+    }
+  },
+  {
+    "translation": {
+      "en": "Frozen hoses may tear/burst.",
+      "nl": "Bevroren slangen kunnen scheuren/ springen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not install the washing machine in areas where there is a risk of frost or outdoors.",
+      "nl": "De wasmachine niet op vorstgevoelige plaatsen en/of buiten zetten."
+    }
+  },
+  {
+    "translation": {
+      "en": "The washing machine may be damaged.",
+      "nl": "De wasmachine kan beschadigd worden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not lift the washing machine by its projecting parts (e. g. door).",
+      "nl": "Niet aan vooruitstekende onderdelen (bijv. de vuldeur) optillen."
+    }
+  },
+  {
+    "translation": {
+      "en": "In addition to the safety information listed here, the local water and electricity supplier may have special requirements.",
+      "nl": "Naast de hier vermelde aanwijzingen kunnen bijzondere voorschriften van het waterleiding- en energiebedrijf gelden."
+    }
+  },
+  {
+    "translation": {
+      "en": "If in doubt, have the appliance connected by a specialist.",
+      "nl": "In geval van twijfel door een vakkundig monteur laten aansluiten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Transport, e.g. when moving",
+      "nl": "Transporteren, bijv. bij verhuizing"
+    }
+  },
+  {
+    "translation": {
+      "en": "Before transporting the washing machine",
+      "nl": "Voordat u de wasmachine transporteert"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Turn off the tap.",
+      "nl": "-- Kraan dichtdraaien."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Disconnect the washing machine from the mains.",
+      "nl": "-- Stekker van het apparaat uit het stopcontact trekken of de trekschakelaar uitschakelen."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Dismantle the supply and drainage hoses,",
+      "nl": "-- Slangen voor watertoevoer en -afvoer demonteren."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Preparing and inserting the transport bolts",
+      "nl": "-- Transportbeveiliging voorbereiden en monteren"
+    }
+  },
+  {
+    "translation": {
+      "en": "Having transported the appliance and ensured proper installation and connection, allow the Drain programme to run through before starting the first wash programme.",
+      "nl": "Na het transport en de vakkundige plaatsing en aansluiting eerst het speciale programma Afpompen laten draaien voordat het eerste wasprogramma wordt gestart."
+    }
+  },
+  {
+    "translation": {
+      "en": "Preparing and inserting the transport bolts",
+      "nl": "Transportbeveiliging voorbereiden en monteren"
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove the lower covers.",
+      "nl": "De afdekkingen eraf halen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Prepare the transport bolts:",
+      "nl": "Transportbeveiliging voorbereiden:"
+    }
+  },
+  {
+    "translation": {
+      "en": "Loosen the screw in the sleeve until the end of the screw is level with the end of the sleeve.",
+      "nl": "schroef zover uit de bus draaien tot het eind van de schroef gelijk is met het eind van de bus."
+    }
+  },
+  {
+    "translation": {
+      "en": "Insert the transportation protection devices and tighten the bolts.",
+      "nl": "Transportbeveiligingen erin zetten en de schroeven vastdraaien."
+    }
+  },
+  {
+    "translation": {
+      "en": "The lug on the washer must be located in the groove in the rear panel of the housing.",
+      "nl": "De neus van de schijf moet in de sleuf van de achterwand van het apparaat zitten."
+    }
+  },
+  {
+    "translation": {
+      "en": "Quick-reference instructions",
+      "nl": "Korte handleiding"
+    }
+  },
+  {
+    "translation": {
+      "en": "Before use",
+      "nl": "Vóór het gebruik"
+    }
+  },
+  {
+    "translation": {
+      "en": "Warning",
+      "nl": "Waarschuwing"
+    }
+  },
+  {
+    "translation": {
+      "en": "Before using your washing machine, read the installation and operating instructions and act accordingly.",
+      "nl": "Voordat u uw wasmachine voor het eerst in gebruik neemt eerst het installatievoorschrift en de gebruiksaanwijzing doorlezen en de aanwijzingen in acht nemen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Select the display language.",
+      "nl": "Kies de taal voor de indicaties op het display."
+    }
+  },
+  {
+    "translation": {
+      "en": "Set the time.",
+      "nl": "Klok instellen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Preparing the washing",
+      "nl": "Wasgoed voorbereiden"
+    }
+  },
+  {
+    "translation": {
+      "en": "Select and start a programme",
+      "nl": "Programma instellen en starten"
+    }
+  },
+  {
+    "translation": {
+      "en": "Select required settings...",
+      "nl": "Gewenste instellingen kiezen..."
+    }
+  },
+  {
+    "translation": {
+      "en": "... and start",
+      "nl": "... en starten"
+    }
+  },
+  {
+    "translation": {
+      "en": "After washing",
+      "nl": "Na het wassen"
+    }
+  },
+  {
+    "translation": {
+      "en": "<!TABLE!>",
+      "nl": "<!TABLE!>"
+    }
+  }
+]

@@ -1,0 +1,860 @@
+[
+  {
+    "translation": {
+      "en": "Noise/Vibration Information",
+      "nl": "Informatie over geluid en trillingen"
+    }
+  },
+  {
+    "translation": {
+      "en": "Measured values determined according to EN 50 144.",
+      "nl": "Meetwaarden vastgesteld volgens EN 50 144."
+    }
+  },
+  {
+    "translation": {
+      "en": "Typically the A-weighted sound pressure level of the product is 84 dB (A).",
+      "nl": "Het A-gewaardeerde geluidsdrukniveau van de machine bedraagt kenmerkend 84 dB (A)."
+    }
+  },
+  {
+    "translation": {
+      "en": "The noise level when working can exceed 85 dB (A).",
+      "nl": "Tijdens het werken kan het geluidsniveau 85 dB (A) overschrijden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Wear hearing protection!",
+      "nl": "Draag oorbeschermers."
+    }
+  },
+  {
+    "translation": {
+      "en": "The typical hand/arm vibration is below 2.5 m/s2.",
+      "nl": "Kenmerkend is dat de trillingen van hand en arm geringer zijn dan 2,5 m/s2."
+    }
+  },
+  {
+    "translation": {
+      "en": "Intended Use",
+      "nl": "Gebruik volgens bestemming"
+    }
+  },
+  {
+    "translation": {
+      "en": "The machine is intended for planing of firmly supported wooden materials, such as beams and boards.",
+      "nl": "Het gereedschap is bestemd voor het met vaste steun schaven van houtmaterialen als balken en planken."
+    }
+  },
+  {
+    "translation": {
+      "en": "It is also suitable for beveling edges and rebating.",
+      "nl": "Het is ook geschikt voor het afschuinen van randen en voor het schaven van sponningen."
+    }
+  },
+  {
+    "translation": {
+      "en": "For stationary use, the machine can be built into the base unit UG 37 or the surface and panel planer attachment ADV 82.",
+      "nl": "Het gereedschap kan voor stationair gebruik worden gemonteerd in het onderstel UG 37 of in de vlak-en-vandikte-bank ADV 82."
+    }
+  },
+  {
+    "translation": {
+      "en": "Machine Elements",
+      "nl": "Onderdelen van de machine"
+    }
+  },
+  {
+    "translation": {
+      "en": "1 Fastening bolt for rebating depth stop*",
+      "nl": "1 Bevestigingsschroef voor sponningdiepteaanslag *"
+    }
+  },
+  {
+    "translation": {
+      "en": "2 Rebating depth stop*",
+      "nl": "2 Sponningdiepteaanslag*"
+    }
+  },
+  {
+    "translation": {
+      "en": "3 Chip ejector (alternatively right/left)",
+      "nl": "3 Spaanuitwerpopening (naar keuze rechts/links)"
+    }
+  },
+  {
+    "translation": {
+      "en": "4 Storage compartment for planer blade/ Allen key",
+      "nl": "4 Schaafmes- en sleuteldepot"
+    }
+  },
+  {
+    "translation": {
+      "en": "8 Lock-off button",
+      "nl": "8 Inschakelblokkering"
+    }
+  },
+  {
+    "translation": {
+      "en": "9 On/Off switch",
+      "nl": "9 Aan-/uit-schakelaar"
+    }
+  },
+  {
+    "translation": {
+      "en": "10 Belt cover",
+      "nl": "10 Riemafscherming"
+    }
+  },
+  {
+    "translation": {
+      "en": "11 Screw for belt cover",
+      "nl": "11 Schroef voor riemafscherming"
+    }
+  },
+  {
+    "translation": {
+      "en": "12 Planer base plate",
+      "nl": "12 Schaafzool"
+    }
+  },
+  {
+    "translation": {
+      "en": "13 V-grooves",
+      "nl": "13 V-groeven"
+    }
+  },
+  {
+    "translation": {
+      "en": "14 Parallel guide*",
+      "nl": "14 Parallelgeleider*"
+    }
+  },
+  {
+    "translation": {
+      "en": "15 Fastening bolt for parallel and beveling guide",
+      "nl": "15 Bevestigingsschroef voor parallel- en verstekgeleider"
+    }
+  },
+  {
+    "translation": {
+      "en": "16 Locking nut for adjustment of rebating width",
+      "nl": "16 Vaststelmoer voor instelling sponningbreedte"
+    }
+  },
+  {
+    "translation": {
+      "en": "17 Scale for rebating width",
+      "nl": "17 Schaalverdeling voor sponningbreedte"
+    }
+  },
+  {
+    "translation": {
+      "en": "18 Beveling guide*",
+      "nl": "18 Verstekgeleider*"
+    }
+  },
+  {
+    "translation": {
+      "en": "19 Locking nut for angle adjustment",
+      "nl": "19 Vaststelmoer voor verstekinstelling"
+    }
+  },
+  {
+    "translation": {
+      "en": "20 Vacuum hose Ø-35 mm*",
+      "nl": "20 Afzuigslang Ø-35 mm*"
+    }
+  },
+  {
+    "translation": {
+      "en": "21 Chip/dust bag*",
+      "nl": "21 Stof- en spanenzak*"
+    }
+  },
+  {
+    "translation": {
+      "en": "22 Park rest",
+      "nl": "22 Parkeerschoen"
+    }
+  },
+  {
+    "translation": {
+      "en": "23 Blade drum",
+      "nl": "23 Meskop"
+    }
+  },
+  {
+    "translation": {
+      "en": "24 Clamping element",
+      "nl": "24 Spanelement"
+    }
+  },
+  {
+    "translation": {
+      "en": "25 Fastening screws for planer blade",
+      "nl": "25 Bevestigingsschroef voor schaafmes"
+    }
+  },
+  {
+    "translation": {
+      "en": "26 Carbide blade (TC)",
+      "nl": "26 HM/TC-schaafmes"
+    }
+  },
+  {
+    "translation": {
+      "en": "27 Lateral blade-shaft protector",
+      "nl": "27 Zijbescherming van de messenas"
+    }
+  },
+  {
+    "translation": {
+      "en": "28 Allen key",
+      "nl": "28 Inbussleutel"
+    }
+  },
+  {
+    "translation": {
+      "en": "29 Drive belt",
+      "nl": "29 Aandrijfriem"
+    }
+  },
+  {
+    "translation": {
+      "en": "30 Large pulley",
+      "nl": "30 Groot riemwiel"
+    }
+  },
+  {
+    "translation": {
+      "en": "31 Small pulley",
+      "nl": "31 Klein riemwiel"
+    }
+  },
+  {
+    "translation": {
+      "en": "* Not all of the accessories illustrated or described are included as standard delivery.",
+      "nl": "* In de gebruiksaanwijzing afgebeelde en beschreven toebehoren wordt niet altijd standaard meegeleverd."
+    }
+  },
+  {
+    "translation": {
+      "en": "For Your Safety",
+      "nl": "Voor uw veiligheid"
+    }
+  },
+  {
+    "translation": {
+      "en": "Working safely with this machine is possible only when the operating and safety information are read completely and the instructions contained therein are strictly followed.",
+      "nl": "Met de machine kan uitsluitend veilig worden gewerkt, wanneer u de gebruiksaanwijzing en de veiligheidsvoorschriften volledig leest en u zich strikt aan de gegeven aanwijzingen houdt."
+    }
+  },
+  {
+    "translation": {
+      "en": "In addition, the general safety notes in the enclosed booklet must be observed.",
+      "nl": "Houd u bovendien aan de algemene veiligheidsvoorschriften in de bijgevoegde brochure."
+    }
+  },
+  {
+    "translation": {
+      "en": "Before using for the first time, ask for a practical demonstration.",
+      "nl": "Laat u voor het eerste gebruik praktisch instrueren."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Wear safety glasses, protective gloves and sturdy shoes.",
+      "nl": "* Draag een veiligheidsbril, werkhandschoenen en stevige schoenen."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Wear hearing protection.",
+      "nl": "* Draag een gehoorbescherming."
+    }
+  },
+  {
+    "translation": {
+      "en": "* For long hair, wear hair protection.",
+      "nl": "* Draag bij lang haar een haarbescherming."
+    }
+  },
+  {
+    "translation": {
+      "en": "Work only with closely fitting clothes.",
+      "nl": "Werk alleen met nauw sluitende kleding."
+    }
+  },
+  {
+    "translation": {
+      "en": "* If the mains cable is damaged or cut through while working, do not touch the cable but immediately pull the mains plug.",
+      "nl": "* Raak de stroomkabel niet aan indien deze tijdens de werkzaamheden wordt beschadigd of doorgesneden, maar trek onmiddellijk de stekker uit het stopcontact."
+    }
+  },
+  {
+    "translation": {
+      "en": "Never use the machine with a damaged cable.",
+      "nl": "Gebruik de machine nooit met een beschadigde kabel."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Connect machines that are used in the open via a residual current device (RCD) with an actuating current of 30 mA maximum.",
+      "nl": "* Sluit gereedschap dat buitenshuis wordt gebruikt aan via een aardlekschakelaar met een inschakelstroom van maximaal 30 mA."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not operate the machine in rain or moisture.",
+      "nl": "Gebruik het gereedschap niet in de regen of in een vochtige omgeving."
+    }
+  },
+  {
+    "translation": {
+      "en": "Always direct the cable to the rear away from the machine.",
+      "nl": "* Voer de kabel altijd achterwaarts van de machine weg."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Apply the machine to the workpiece only when switched on.",
+      "nl": "* Beweeg de machine alleen ingeschakeld naar het werkstuk."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Use only sharp planing blades.",
+      "nl": "* Gebruik alleen scherpe schaafmessen."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Always hold the machine firmly when working and ensure a secure stance.",
+      "nl": "* Houd tijdens de werkzaamheden de machine altijd stevig vast en zorg ervoor dat u stevig staat."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Keep hands away from rotating parts.",
+      "nl": "* Houd uw handen uit de buurt van ronddraaiende delen."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Secure the workpiece.",
+      "nl": "* Zet het werkstuk vast."
+    }
+  },
+  {
+    "translation": {
+      "en": "A workpiece clamped with clamping devices or in a vice is held more secure than by hand.",
+      "nl": "Een met spanvoorzieningen of een bankschroef vastgehouden werkstuk wordt beter vastgehouden dan u met uw hand kunt doen."
+    }
+  },
+  {
+    "translation": {
+      "en": "* The planer base blate 12 must lay flat on the surface when working.",
+      "nl": "* Bij de werkzaamheden moet de schaafzool 12 vlak liggen."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Never plane over metal objects such as nails or screws.",
+      "nl": "* Schaaf nooit over metalen voorwerpen, spijkers of schroeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Do not allow fingers to enter the chip ejector 3.",
+      "nl": "* Grijp niet met uw vingers in de spaanafvoer (3)."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Always switch the machine off and wait until it has come to a standstill before placing it down.",
+      "nl": "* Schakel de machine voor het neerleggen altijd uit en wacht tot deze tot stilstand is gekomen."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Wait for the cutter to stop before setting the tool down.",
+      "nl": "* Wacht tot de messenas tot stilstand is gekomen voordat u het gereedschap neerlegt."
+    }
+  },
+  {
+    "translation": {
+      "en": "An exposed cutter may engage the surface leading to possible loss of control and serious injury.",
+      "nl": "Een blootliggende messenas kan vasthaken aan het oppervlak en kan leiden tot het verlies van de controle over het gereedschap en ernstige verwondingen."
+    }
+  },
+  {
+    "translation": {
+      "en": "* For stationary use as a surface or panel planer with appropriate accessories:",
+      "nl": "* Bij stationair gebruik als vlak- of vandikte-schaafmachine met het juiste toebehoren:"
+    }
+  },
+  {
+    "translation": {
+      "en": "- Pull the mains plug before mounting.",
+      "nl": "- Trek voor de montage de stekker uit het stopcontact."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Use the blade-shaft protector at all times.",
+      "nl": "- Gebruik de bescherming van de messenas altijd."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Work small workpieces only with a suitable feeding device, e. g. a piece of wood.",
+      "nl": "- Bewerk kleine werkstukken altijd met een geschikt toevoerhulpmiddel, bijvoorbeeld een houten lat."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Use the switching device belonging to the accessory.",
+      "nl": "- Gebruik de schakelvoorziening die deel uitmaakt van het toebehoren."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Never allow children to use the machine.",
+      "nl": "* Laat kinderen de machine nooit gebruiken."
+    }
+  },
+  {
+    "translation": {
+      "en": "Bosch is only able to ensure perfect operation of the machine if the original accessories intended for it are used.",
+      "nl": "* Bosch kan een juiste werking van de machine uitsluitend waarborgen wanneer origineel, voor deze machine bedoeld toebehoren wordt gebruikt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Initial Operation",
+      "nl": "Ingebruikneming"
+    }
+  },
+  {
+    "translation": {
+      "en": "Observe correct mains voltage: The voltage of the power source must agree with the voltage specified on the nameplate of the machine.",
+      "nl": "Let op de netspanning: De spanning van de stroombron moet overeenkomen met de gegevens op het typeplaatje."
+    }
+  },
+  {
+    "translation": {
+      "en": "Equipment marked with 230 V can also be connected to 220 V.",
+      "nl": "Met 230 V aangeduide machines kunnen ook worden gebruikt met een spanning van 220 V."
+    }
+  },
+  {
+    "translation": {
+      "en": "Switching On and Off",
+      "nl": "In- en uitschakelen"
+    }
+  },
+  {
+    "translation": {
+      "en": "To start the machine, press the lock-off button 8 against starting first, then press and hold the On/Off switch 9.",
+      "nl": "Als u het gereedschap in bedrijf wilt nemen, drukt u de inschakelblokkering 8 in en drukt u vervolgens de aan-/uit-schakelaar (9) in en houdt u deze ingedrukt."
+    }
+  },
+  {
+    "translation": {
+      "en": "To switch off the machine, release the On/Off switch 9.",
+      "nl": "Als u de machine wilt uitschakelen, laat u de aan-/uit-schakelaar (9) los."
+    }
+  },
+  {
+    "translation": {
+      "en": "For safety reasons the On/Off switch of the machine cannot be locked; it must remain pressed during the entire operation.",
+      "nl": "Om veiligheidsredenen kan de aan-/uit-schakelaar van de machine niet worden vergrendeld, maar moet tijdens het gebruik voortdurend ingedrukt blijven."
+    }
+  },
+  {
+    "translation": {
+      "en": "Adjusting the Planing Depth",
+      "nl": "Spaandiepte instellen"
+    }
+  },
+  {
+    "translation": {
+      "en": "The planing depth can be adjusted variably from 0-3.0 mm with the adjustment knob 5, using the planing depth scale 6 (scale graduation = 0.1 mm):",
+      "nl": "Met de draaiknop (5) kan de spaandiepte trapsgewijs worden ingesteld van 0-3,0 mm aan de hand van de schaalverdeling (6) (verdeeld in = 0,1 mm):"
+    }
+  },
+  {
+    "translation": {
+      "en": "Rotation in counter clockwise direction = reduces the planing depth",
+      "nl": "Tegen de wijzers van de klok in draaien = kleinere spaandiepte."
+    }
+  },
+  {
+    "translation": {
+      "en": "Rotation in clockwise direction = increases the planing depth",
+      "nl": "Met de wijzers van de klok mee draaien = grotere spaandiepte."
+    }
+  },
+  {
+    "translation": {
+      "en": "Dust/Chip Extraction (see figure A)",
+      "nl": "Afzuiging van stof en spanen (zie afbeelding)"
+    }
+  },
+  {
+    "translation": {
+      "en": "Before any work on the machine itself, pull the mains plug.",
+      "nl": "Trek altijd voor werkzaamheden aan de machine de stekker uit het stopcontact."
+    }
+  },
+  {
+    "translation": {
+      "en": "The dust that is produced while working can be detrimental to health, inflammable or explosive.",
+      "nl": "Stof dat tijdens de werkzaamheden ontstaat, kan schadelijk voor de gezondheid, brandbaar of explosief zijn."
+    }
+  },
+  {
+    "translation": {
+      "en": "Suitable safety measures are required.",
+      "nl": "Geschikte beschermingsmaatregelen zijn noodzakelijk."
+    }
+  },
+  {
+    "translation": {
+      "en": "Examples: Some dusts are regarded as carcinogenic.",
+      "nl": "Bijvoorbeeld: Sommige soorten stof worden beschouwd als kankerverwekkend."
+    }
+  },
+  {
+    "translation": {
+      "en": "Use suitable dust/chip extraction and wear a dust respirator.",
+      "nl": "Gebruik een geschikte afzuiging voor stof en spanen en draag een stofmasker."
+    }
+  },
+  {
+    "translation": {
+      "en": "Clean the chip ejector 3 regularly.",
+      "nl": "Reinig de spaanuitwerpopening (3) regelmatig."
+    }
+  },
+  {
+    "translation": {
+      "en": "Use a suitable tool (e. g. piece of wood, compressed air, etc.) to clean clogged chip ejector.",
+      "nl": "Gebruik voor het reinigen van een verstopte spaanuitwerpopening een geschikt hulpmiddel (bijvoorbeeld houten lat of perslucht)."
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not allow fingers to enter the chip ejector 3.",
+      "nl": "Grijp niet met uw vingers in de spaanafvoer (3)."
+    }
+  },
+  {
+    "translation": {
+      "en": "To ensure optimum extraction of chip/dust chips, attach the vacuum hose 20 or the chip/dust bag 21 tightly onto the chip ejector 3.",
+      "nl": "Steek de afzuigslang (20) of de stof- en spanenzak (21) stevig op de spaanuitwerpopening (3) vast om een optimale afzuiging van stof en spanen te waarborgen."
+    }
+  },
+  {
+    "translation": {
+      "en": "External Dust Extraction",
+      "nl": "Externe afzuiging"
+    }
+  },
+  {
+    "translation": {
+      "en": "The chip ejector 3 fits on both sides for direct connection of the Bosch vacuum hose Ø - 35 mm 20 (accessory).",
+      "nl": "De spaanuitwerpopening (3) past aan beide zijden op de rechtstreekse aansluiting van het Bosch 35 mm Ø slangsysteem (20) (toebehoren)."
+    }
+  },
+  {
+    "translation": {
+      "en": "When using other vacuum hose systems a suitable extraction adapter may be required.",
+      "nl": "Bij een ander slangsysteem moet eventueel een afzuigadapter worden gebruikt."
+    }
+  },
+  {
+    "translation": {
+      "en": "The vacuum cleaner must be suitable for the material to be worked.",
+      "nl": "De stofzuiger moet geschikt zijn voor het te bewerken materiaal."
+    }
+  },
+  {
+    "translation": {
+      "en": "When vacuuming dry dust that is especially detrimental to health or carcinogenic, use a special vacuum cleaner.",
+      "nl": "Gebruik bij het afzuigen van bijzonder gevaarlijk, kankerverwerkend, droog stof een speciale zuiger."
+    }
+  },
+  {
+    "translation": {
+      "en": "Integrated Dust Extraction",
+      "nl": "Eigen afzuiging"
+    }
+  },
+  {
+    "translation": {
+      "en": "A chip/dust bag 21 (accessory) can be used for smaller jobs.",
+      "nl": "Voor werkzaamheden van geringe omvang kan een stof- en spanenzak 21 (toebehoren) worden gebruikt."
+    }
+  },
+  {
+    "translation": {
+      "en": "Empty the chip/dust bag regularly.",
+      "nl": "Maak de stof- en spanenzak op tijd leeg."
+    }
+  },
+  {
+    "translation": {
+      "en": "Remove the chip/dust bag, open the zipper and empty the chip/dust bag.",
+      "nl": "Verwijder de stof- en spanenzak, open de ritssluiting en maak de stof- en spanenzak leeg."
+    }
+  },
+  {
+    "translation": {
+      "en": "Choice of Chip Ejector Side (Right/Left)",
+      "nl": "Spaanuitwerpopening naar keuze (rechts/links)"
+    }
+  },
+  {
+    "translation": {
+      "en": "The chip ejector 3 can be switched to the right or left with the selector lever 7.",
+      "nl": "Met de omschakelhendel (7) kan de spaanuitwerpopening (3) naar rechts of naar links worden gezet."
+    }
+  },
+  {
+    "translation": {
+      "en": "Always press the change lever until it engages in the end position.",
+      "nl": "Duw de omschakelhendel altijd in de eindpositie tot deze vastklikt."
+    }
+  },
+  {
+    "translation": {
+      "en": "The park rest 22 allows the machine to be set down directly after operation, without danger of damaging the working surface or the planer blade.",
+      "nl": "Met de parkeerschoen (22) kunt u de machine meteen na de werkzaamheden neerzetten zonder gevaar voor beschadiging van het werkstuk of de schaafmessen."
+    }
+  },
+  {
+    "translation": {
+      "en": "When planing, the park rest 22 is tilted upwards thus enabling full contact of the rear part of the planer base plate 12.",
+      "nl": "Bij de werkzaamheden wordt de parkeerschoen (22) omhoog gezet en het achterste gedeelte van de schaafzool (12) vrijgegeven."
+    }
+  },
+  {
+    "translation": {
+      "en": "Planing (see figure )",
+      "nl": "Schaafbewerking (zie afbeelding)"
+    }
+  },
+  {
+    "translation": {
+      "en": "Apply the machine to the workpiece only when switched on.",
+      "nl": "Beweeg de machine alleen ingeschakeld naar het werkstuk."
+    }
+  },
+  {
+    "translation": {
+      "en": "Switch the machine on and guide the machine with an even feed over the surface to be planed.",
+      "nl": "Schakel de machine in en beweeg deze met gelijkmatige aandrukkracht over het te bewerken oppervlak."
+    }
+  },
+  {
+    "translation": {
+      "en": "To achieve high-grade surfaces, work only with low feed and apply pressure on the centre of the planer base plate.",
+      "nl": "Werk slechts met geringe aandrukkracht en oefen druk uit in het midden van de schaafzool om hoogwaardige oppervlakken te vervaardigen."
+    }
+  },
+  {
+    "translation": {
+      "en": "When machining hard materials (e. g. hardwood) as well as when utilising the maximum planer width, set only low planing depths and reduce planer feed, as required.",
+      "nl": "Stel slechts een geringe spaandiepte in en beperk eventueel de aandrukkracht bij het bewerken van harde materialen (zoals hard hout) en bij benutting van de maximale schaafbreedte."
+    }
+  },
+  {
+    "translation": {
+      "en": "Repeat the planing several times.",
+      "nl": "Herhaal de schaafbewerking meermaals."
+    }
+  },
+  {
+    "translation": {
+      "en": "Excessive feed reduces the surface quality and can lead to rapid clogging of the chip ejector.",
+      "nl": "Te grote aandrukkracht vermindert de kwaliteit van het oppervlak en kan tot snelle verstopping van de spaanuitwerpopening leiden."
+    }
+  },
+  {
+    "translation": {
+      "en": "Only sharp blades achieve good cutting capacity and give the machine longer life.",
+      "nl": "Alleen scherpe messen zorgen voor een goede afnamecapaciteit en ontzien de machine."
+    }
+  },
+  {
+    "translation": {
+      "en": "Continuing Interrupted Planing",
+      "nl": "Onderbroken schaafbewerking voortzetten"
+    }
+  },
+  {
+    "translation": {
+      "en": "The integrated park rest 22 also allows for continued planing at any given location on the work-piece after an interruption:",
+      "nl": "Met de geïntegreerde parkeerschoen (22) kan de schaafbewerking ook worden voortgezet na onderbreking op een willekeurige plaats van het werkstuk:"
+    }
+  },
+  {
+    "translation": {
+      "en": "- With the park rest folded down, place the machine on the location of the workpiece where the planing is to be continued.",
+      "nl": "- Plaats de machine met omlaag geklapte parkeerschoen op de plaats van het werkstuk waar verder moet worden gewerkt."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Switch the machine on.",
+      "nl": "- Schakel de machine in."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Apply the supporting pressure onto the front part of the planer base plate and slowly push the machine forwards (1).",
+      "nl": "- Verplaats de aandrukkracht op het voorste gedeelte van de schaafzool en duw de machine langzaam naar voren."
+    }
+  },
+  {
+    "translation": {
+      "en": "This tilts the park rest 22 up (2) so that the rear part of the planer base plate 12 faces on the workpiece again.",
+      "nl": "Daarbij wordt de parkeerschoen (22) omhoog weggedraaid zodat het achterste gedeelte van de schaafzool (12) weer tegen het werkstuk ligt."
+    }
+  },
+  {
+    "translation": {
+      "en": "- Guide the machine alongside the surface to be planed (3) with an even feed.",
+      "nl": "- Beweeg de machine met gelijkmatige aandrukkracht over het te bewerken oppervlak."
+    }
+  },
+  {
+    "translation": {
+      "en": "Beveling Edges",
+      "nl": "Kanten afschuinen"
+    }
+  },
+  {
+    "translation": {
+      "en": "The V-grooves 13 in the front planer base plate 12 allow quick and easy beveling of work-piece edges.",
+      "nl": "Met de V-groeven (13) in het midden van het voorste gedeelte van de schaafzool (12) kunt u werkstukkanten snel en gemakkelijk afschuinen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Depending on required bevel width, use the corresponding V-groove.",
+      "nl": "Gebruik de juiste V-groef afhankelijk van de gewenste afschuinbreedte."
+    }
+  },
+  {
+    "translation": {
+      "en": "Replacing the Planer Blade",
+      "nl": "Schaafmessen wisselen"
+    }
+  },
+  {
+    "translation": {
+      "en": "* Before any work on the machine itself, pull the mains plug.",
+      "nl": "* Trek altijd voor werkzaamheden aan de machine de stekker uit het stopcontact."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Be cautious when replacing the planer blades: Possible danger of injury due to the sharp cutting edges of the planer blades!",
+      "nl": "Voorzichtig bij het wisselen van de schaafmessen: verwondingsgevaar door de scherpe snijkanten van de schaafmessen!"
+    }
+  },
+  {
+    "translation": {
+      "en": "Do not grasp the planer blades by the cutting edges.",
+      "nl": "Pak de schaafmessen niet aan de snijkanten vast."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Use only original Bosch carbide blades (TC).",
+      "nl": "* Gebruik alleen een originele Bosch HM/TC-schaafmessen."
+    }
+  },
+  {
+    "translation": {
+      "en": "The carbide blade (TC) has 2 cutting edges and can be reversed.",
+      "nl": "Het HM/TC-schaafmes heeft twee snijkanten en kan worden gekeerd."
+    }
+  },
+  {
+    "translation": {
+      "en": "When both cutting edges are dull, the planer blade must be replaced.",
+      "nl": "Wanneer beide snijkanten stomp zijn, moeten de schaafmessen worden vervangen."
+    }
+  },
+  {
+    "translation": {
+      "en": "The carbide blade (TC) may not be resharpened.",
+      "nl": "Het HM/TC-schaafmes mag niet worden geslepen."
+    }
+  },
+  {
+    "translation": {
+      "en": "Storage Compartment for Planer blade/Allen Key",
+      "nl": "Schaafmes- en sleuteldepot"
+    }
+  },
+  {
+    "translation": {
+      "en": "The guide groove of the planer blade always ensures continuous height adjustment when replacing or reversing it.",
+      "nl": "Door de geleidingsgroef van het schaafmes wordt bij het vervangen of keren altijd een gelijke hoogte-instelling gewaarborgd."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Before any work on the machine itself, pull the mains plug.",
+      "nl": "* Trek altijd voor werkzaamheden aan de machine de stekker uit het stopcontact."
+    }
+  },
+  {
+    "translation": {
+      "en": "* Before any work on the machine itself, pull the mains plug.",
+      "nl": "* Trek altijd voor werkzaamheden aan de machine de stekker uit het stopcontact."
+    }
+  },
+  {
+    "translation": {
+      "en": "The machine, accessories and packaging should be sorted for environmental-friendly recycling.",
+      "nl": "Machine, toebehoren en verpakking moeten op een voor het milieu verantwoorde manier worden hergebruikt."
+    }
+  },
+  {
+    "translation": {
+      "en": "These instructions are printed on recycled paper manufactured without chlorine.",
+      "nl": "Deze gebruiksaanwijzing is vervaardigd van chloorvrij gebleekt kringlooppapier."
+    }
+  },
+  {
+    "translation": {
+      "en": "The plastic components are labelled for categorized recycling.",
+      "nl": "De kunststof delen zijn gekenmerkt om ze per soort te kunnen recycleren."
+    }
+  },
+  {
+    "translation": {
+      "en": "We declare under our sole responsibility that this product is in conformity with the following standards or standardization documents: EN 50 144 according to the provisions of the directives 89/336/EEC, 98/37/EC.",
+      "nl": "Wij verklaren op eigen verantwoording dat dit product voldoet aan de volgende normen en normatieve documenten: EN 50 144 volgens de bepalingen van de richtlijnen 89/336/EEG, 98/37/EG."
+    }
+  },
+  {
+    "translation": {
+      "en": "Dr. Egbert Schneider, Senior Vice President Engineering",
+      "nl": "Dr. Egbert Schneider, Senior Vice President Engineering"
+    }
+  },
+  {
+    "translation": {
+      "en": "Subject to change without notice",
+      "nl": "Wijzigingen voorbehouden"
+    }
+  }
+]
