@@ -19,7 +19,7 @@ def main():
     script_dir   = Path(__file__).resolve().parent
     project_root = script_dir.parent
     data_dir     = project_root / "Data"
-    ft_dir       = data_dir / "finetuning"
+    ft_dir       = data_dir / "dpc_json"
     opus_dir     = data_dir / "Opus_opensubtitles"
 
     # collect JSON candidates
@@ -55,7 +55,7 @@ def main():
     # output
     default_name = "combined_shuffled.json"
     out_name = input(f"Output filename [{default_name}]: ").strip() or default_name
-    out_path = data_dir / "combined" / out_name
+    out_path = data_dir / "finetuning" / f"{out_name}.json"
 
     try:
         with out_path.open("w", encoding="utf-8") as f:

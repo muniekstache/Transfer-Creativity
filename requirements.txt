@@ -1,1 +1,6 @@
 opustools
+torch
+transformers
+sacrebleu
+datasets
+sentencepiece

@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from pathlib import Path
 import xml.etree.ElementTree as ET
 import json
@@ -202,7 +203,7 @@ def main():
     script_dir = Path(__file__).parent  # directory containing this script
     project_root = script_dir.parent     # parent of corpus_creator
     core_dir = project_root / 'data' / 'DPC' / 'data' / 'core'
-    out_dir = Path(args.output_dir) if args.output_dir else project_root / 'Data' / 'finetuning'
+    out_dir = Path(args.output_dir) if args.output_dir else project_root / 'Data' / 'dpc_json'
     text_type = args.text_type
 
     try:
