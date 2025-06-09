@@ -48,6 +48,25 @@ def get_opensubtitles_pairs(num_pairs, fetch_multiplier=5):
             en_text, nl_text = en_line.strip(), nl_line.strip()
             if en_text and nl_text:
                 pairs.append({'translation': {'en': en_text, 'nl': nl_text}})
+                
+    # De-duplicate the fetched pairs
+    print(f"De-duplicating {len(pairs)} fetched pairs...")
+    
+    seen_pairs = set()
+    unique_pairs = []
+    for entry in pairs:
+        # Create a hashable representation of the translation pair
+        en_text = entry['translation']['en']
+        nl_text = entry['translation']['nl']
+        text_pair = (en_text, nl_text)
+
+        # Add to list only if this exact text pair has not been seen
+        if text_pair not in seen_pairs:
+            seen_pairs.add(text_pair)
+            unique_pairs.append(entry)
+
+    duplicates_found = len(pairs) - len(unique_pairs)
+    print(f"Removed {duplicates_found} duplicate pairs, {len(unique_pairs)} unique pairs remain.")
 
     # Clean up temp files immediately
     en_file.unlink(missing_ok=True)
@@ -57,7 +76,7 @@ def get_opensubtitles_pairs(num_pairs, fetch_multiplier=5):
     return pairs[:num_pairs]
 
 def main():
-    current_pairs = 7639
+    current_pairs = 5000  # Set to lower amount so that combine_n_shuffle has enough sentences to grab unique ones
     target_pairs = 10000
     to_add = target_pairs - current_pairs
 

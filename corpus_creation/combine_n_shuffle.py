@@ -50,21 +50,74 @@ def main():
 
     # combine & shuffle
     combined = ft_data + opus_data
-    random.shuffle(combined)
+    
+    # De-duplicate the combined list
+    print(f"\nCombined list has {len(combined)} entries before de-duplication.")
+    
+    target_size = 10000
+    
+    # Get unique entries from the base finetuning file
+    print(f"Base file has {len(ft_data)} entries. Finding unique entries...")
+    seen_pairs = set()
+    unique_ft_entries = []
+    for entry in ft_data:
+        en_text = entry.get('translation', {}).get('en', '')
+        nl_text = entry.get('translation', {}).get('nl', '')
+        text_pair = (en_text, nl_text)
+        if text_pair not in seen_pairs:
+            seen_pairs.add(text_pair)
+            unique_ft_entries.append(entry)
+    
+    print(f"Found {len(unique_ft_entries)} unique entries in the base file.")
+
+    # Calculate how many supplementary entries are needed
+    needed = target_size - len(unique_ft_entries)
+
+    if needed <= 0:
+        print("Base file already has 10,000 or more unique entries. Taking a sample.")
+        random.shuffle(unique_ft_entries)
+        final_list = unique_ft_entries[:target_size]
+    else:
+        print(f"Need to add {needed} more unique entries.")
+        
+        # Gather unique candidates from the supplementary opus file
+        opus_candidates = []
+        for entry in opus_data:
+            en_text = entry.get('translation', {}).get('en', '')
+            nl_text = entry.get('translation', {}).get('nl', '')
+            text_pair = (en_text, nl_text)
+            # Add only if it's not a duplicate from the base file or within opus itself
+            if text_pair not in seen_pairs:
+                seen_pairs.add(text_pair)
+                opus_candidates.append(entry)
+        
+        print(f"Found {len(opus_candidates)} unique candidates in the supplement file.")
+
+        # Check if we have enough candidates and combine
+        if len(opus_candidates) < needed:
+            print(f"Warning: Not enough unique candidates ({len(opus_candidates)}) to reach {target_size}. The final file will be smaller.", file=sys.stderr)
+        
+        random.shuffle(opus_candidates)
+        supplement = opus_candidates[:needed]
+        final_list = unique_ft_entries + supplement
+
+    # Final shuffle of the combined list
+    random.shuffle(final_list)
 
     # output
     default_name = "combined_shuffled.json"
     out_name = input(f"Output filename [{default_name}]: ").strip() or default_name
     out_path = data_dir / "finetuning" / f"{out_name}.json"
+    out_path.parent.mkdir(parents=True, exist_ok=True)
 
     try:
         with out_path.open("w", encoding="utf-8") as f:
-            json.dump(combined, f, ensure_ascii=False, indent=2)
+            json.dump(final_list, f, ensure_ascii=False, indent=2)
     except IOError as e:
         print(f"Failed to write output: {e}", file=sys.stderr)
         sys.exit(1)
 
-    print(f"✓ Wrote {len(combined)} items to {out_path}")
+    print(f"\n✓ Wrote {len(final_list)} items to {out_path}")
 
 if __name__ == "__main__":
     main()

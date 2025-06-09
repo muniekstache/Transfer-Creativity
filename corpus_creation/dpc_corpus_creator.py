@@ -115,7 +115,8 @@ def extract_sentences(dpc_dict, output_dir, text_type, max_entries=None):
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
     aggregate = []
-
+    seen_pairs = set()
+    
     for base, info in dpc_dict.items():
         # Parse monolingual TEI files
         en_tree = ET.parse(info['english'])
@@ -149,10 +150,16 @@ def extract_sentences(dpc_dict, output_dir, text_type, max_entries=None):
 
             nl_text = (nl_text_elem.text or '').strip()
             en_text = (en_text_elem.text or '').strip()
+            
+            text_pair = (en_text, nl_text)
 
-            translation_obj = {'translation': {'en': en_text, 'nl': nl_text}}
-            translations.append(translation_obj)
-            aggregate.append(translation_obj)
+            # Only add the pair if it hasn't been seen before
+            if text_pair not in seen_pairs:
+                seen_pairs.add(text_pair) # Add the new pair to our set of seen pairs
+
+                translation_obj = {'translation': {'en': en_text, 'nl': nl_text}}
+                translations.append(translation_obj)
+                aggregate.append(translation_obj)
 
         # Write per-document JSON file
         doc_file = output_dir / f"{text_type}-{base}.json"
@@ -160,18 +167,16 @@ def extract_sentences(dpc_dict, output_dir, text_type, max_entries=None):
             json.dump(translations, f, ensure_ascii=False, indent=2)
         print(f"Wrote {len(translations)} sentence pairs to {doc_file}")
 
-    # Write aggregate JSON file
+    # If requested, randomly sample up to max_entries from the unique aggregate list
+    if max_entries is not None and len(aggregate) > max_entries:
+        print(f"\nSampling {max_entries} entries from the {len(aggregate)} unique entries.")
+        aggregate = random.sample(aggregate, max_entries)
+    
+    # Write the final aggregate JSON file (either full or sampled)
     agg_file = output_dir / f"{text_type}-aggregate.json"
     with open(agg_file, 'w', encoding='utf-8') as f:
         json.dump(aggregate, f, ensure_ascii=False, indent=2)
-    print(f"Wrote aggregate file with {len(aggregate)} total translations to {agg_file}")
-    # If requested, randomly sample up to max_entries
-    if max_entries is not None and len(aggregate) > max_entries:
-        aggregate = random.sample(aggregate, max_entries)
- 
-    with open(agg_file, 'w', encoding='utf-8') as f:
-        json.dump(aggregate, f, ensure_ascii=False, indent=2)
-    print(f"Wrote aggregate file with {len(aggregate)} total translations to {agg_file}")
+    print(f"\nWrote aggregate file with {len(aggregate)} total unique translations to {agg_file}")
 
     return aggregate
 
@@ -191,7 +196,7 @@ def main():
     )
     parser.add_argument(
         '--output_dir', type=str, default=None,
-        help='Directory to write JSON files (default: project_root/output_json)'
+        help='Directory to write JSON files (default: Data/dpc_json)'
     )
     parser.add_argument(
         '--max_entries', type=int, default=None,
