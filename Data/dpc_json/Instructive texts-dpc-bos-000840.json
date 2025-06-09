@@ -7,20 +7,8 @@
   },
   {
     "translation": {
-      "en": "Measured values determined according to EN 50 144.",
-      "nl": "Meetwaarden vastgesteld volgens EN 50 144."
-    }
-  },
-  {
-    "translation": {
       "en": "Typically the A-weighted sound pressure level of the product is less than 70 dB(A).",
       "nl": "Kenmerkend is dat het A-gewaardeerde geluidsdrukniveau van het apparaat lager is dan 70 dB(A)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Product Elements",
-      "nl": "Onderdelen van het apparaat"
     }
   },
   {
@@ -121,12 +109,6 @@
   },
   {
     "translation": {
-      "en": "Intended Use",
-      "nl": "Gebruik volgens bestemming"
-    }
-  },
-  {
-    "translation": {
       "en": "The unit is intended for the forming and welding of plastic, removal of paint and the warming of heat-shrinkable tubing.",
       "nl": "Het apparaat is bestemd voor het vormen en lassen van kunststof, het verwijderen van verflagen en het verwarmen van krimpkousen."
     }
@@ -135,12 +117,6 @@
     "translation": {
       "en": "It is also suitable for soldering and tinning, loosening of adhesive joints and the defrosting of water lines.",
       "nl": "Het is eveneens geschikt voor soldeer- en vertinwerk, het losmaken van lijmverbindingen en het ontdooien van waterleidingen."
-    }
-  },
-  {
-    "translation": {
-      "en": "For Your Safety",
-      "nl": "Voor uw veiligheid"
     }
   },
   {
@@ -279,30 +255,6 @@
     "translation": {
       "en": "* Never allow children to use the unit.",
       "nl": "* Laat kinderen het apparaat nooit gebruiken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Putting into Operation",
-      "nl": "Ingebruikneming"
-    }
-  },
-  {
-    "translation": {
-      "en": "Ensure that the mains voltage is correct!",
-      "nl": "Let op de netspanning."
-    }
-  },
-  {
-    "translation": {
-      "en": "The voltage of the power source must agree with the value given on the nameplate of the machine.",
-      "nl": "De spanning van de stroombron moet overeenkomen met de gegevens op het typeplaatje."
-    }
-  },
-  {
-    "translation": {
-      "en": "Machines designated for 230 V can also be operated with 220 V.",
-      "nl": "Met 230 V aangeduide apparaten kunnen ook worden gebruikt met een spanning van 220 V."
     }
   },
   {
@@ -463,12 +415,6 @@
   },
   {
     "translation": {
-      "en": "630 °C",
-      "nl": "630 °C"
-    }
-  },
-  {
-    "translation": {
       "en": "Decrease the air flow when, for example:",
       "nl": "Verminder de luchthoeveelheid bijvoorbeeld wanneer:"
     }
@@ -489,12 +435,6 @@
     "translation": {
       "en": "The cold air setting I is suitable for cooling a warmed work piece or for the drying of paint.",
       "nl": "De koudeluchtstand I is geschikt voor het afkoelen van een verhit werkstuk of voor het drogen van verf."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is also suitable for cooling the unit before placing down or the changing of nozzles.",
-      "nl": "Deze is eveneens geschikt om het apparaat af te koelen voordat het wordt neergezet of voor het wisselen van mondstukken."
     }
   },
   {
@@ -537,12 +477,6 @@
     "translation": {
       "en": "The target temperature can be increased in steps of 10 °C by pressing the \"+\" side of the temperature button 4 or reduced by pressing the \"-\" side of the button 4.",
       "nl": "De gewenste temperatuur kan in stappen van 10 °C worden verhoogd door het indrukken van het plusteken ,,+\" of worden verlaagd door het indrukken van het minteken \"-\" op de temperatuurtoets (4)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Working Instructions",
-      "nl": "Tips voor de werkzaamheden"
     }
   },
   {
@@ -675,12 +609,6 @@
     "translation": {
       "en": "Allow the unit to cool.",
       "nl": "Laat het apparaat afkoelen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Wear protective gloves.",
-      "nl": "Draag werkhandschoenen."
     }
   },
   {
@@ -835,12 +763,6 @@
   },
   {
     "translation": {
-      "en": "Place on the reflector nozzle 8.",
-      "nl": "Breng het reflectormondstuk (8) aan."
-    }
-  },
-  {
-    "translation": {
       "en": "Heat the frozen zone always from the outside to the middle.",
       "nl": "Verwarm de bevroren plaats altijd van de rand tot aan het midden."
     }
@@ -891,12 +813,6 @@
     "translation": {
       "en": "After the soldered location has cooled, remove the flux.",
       "nl": "Verwijder na het afkoelen van de soldeerplek het vloeimiddel."
-    }
-  },
-  {
-    "translation": {
-      "en": "Maintenance and Cleaning",
-      "nl": "Onderhoud en reiniging"
     }
   },
   {

@@ -1,12 +1,6 @@
 [
   {
     "translation": {
-      "en": "Machine Elements",
-      "nl": "Onderdelen van de machine"
-    }
-  },
-  {
-    "translation": {
       "en": "1 Vacuum hose (19 mm hose system)*",
       "nl": "1 Afzuigslang (slangsysteem 19 mm)*"
     }
@@ -21,12 +15,6 @@
     "translation": {
       "en": "3 Thumbwheel for speed preselection",
       "nl": "3 Stelwiel vooraf instelbaar toerental"
-    }
-  },
-  {
-    "translation": {
-      "en": "4 On/Off switch",
-      "nl": "4 Aan-/uit-schakelaar"
     }
   },
   {
@@ -121,18 +109,6 @@
   },
   {
     "translation": {
-      "en": "* Not all of the accessories illustrated or described are included as standard delivery.",
-      "nl": "* In de gebruiksaanwijzing afgebeeld en beschreven toebehoren wordt niet altijd standaard meegeleverd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Intended Use",
-      "nl": "Gebruik volgens bestemming"
-    }
-  },
-  {
-    "translation": {
       "en": "The machine is intended for dry sanding of wood, plastic and metal with high removal rates.",
       "nl": "De machine is bestemd voor het droog schuren van hout, kunststof en metaal met groot afnamevermogen."
     }
@@ -145,92 +121,8 @@
   },
   {
     "translation": {
-      "en": "For Your Safety",
-      "nl": "Voor uw veiligheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "Working safely with this machine is possible only when the operating and safety information are read completely and the instructions contained therein are strictly followed.",
-      "nl": "Met de machine kan uitsluitend veilig worden gewerkt, wanneer u de gebruiksaanwijzing en de veiligheidsvoorschriften volledig leest en u zich strikt aan de gegeven aanwijzingen houdt."
-    }
-  },
-  {
-    "translation": {
-      "en": "In addition, the general safety notes in the enclosed booklet must be observed.",
-      "nl": "Houd u bovendien aan de algemene veiligheidsvoorschriften in de bijgevoegde brochure."
-    }
-  },
-  {
-    "translation": {
-      "en": "Before using for the first time, ask for a practical demonstration.",
-      "nl": "Laat u voor het eerste gebruik praktisch instrueren."
-    }
-  },
-  {
-    "translation": {
       "en": "* Wear protective goggles, ear protection and a dust protection mask.",
       "nl": "* Draag een veiligheidsbril, gehoorbescherming en stofmasker."
-    }
-  },
-  {
-    "translation": {
-      "en": "* For long hair, wear hair protection.",
-      "nl": "* Draag bij lang haar een haarbescherming."
-    }
-  },
-  {
-    "translation": {
-      "en": "Work only with closely fitting clothes.",
-      "nl": "Werk alleen met nauw sluitende kleding."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Wear protective gloves.",
-      "nl": "* Draag werkhandschoenen."
-    }
-  },
-  {
-    "translation": {
-      "en": "* If the mains cable is damaged or cut through while working, do not touch the cable but immediately pull the mains plug.",
-      "nl": "* Raak de stroomkabel niet aan indien deze tijdens de werkzaamheden wordt beschadigd of doorgesneden, maar trek onmiddellijk de stekker uit het stopcontact."
-    }
-  },
-  {
-    "translation": {
-      "en": "Never use the machine with a damaged cable.",
-      "nl": "Gebruik de machine nooit met een beschadigde kabel."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Connect machines that are used in the open via a residual current device (RCD) with an actuating current of 30 mA maximum.",
-      "nl": "* Machines die buitenshuis worden gebruikt, moeten worden aangesloten via een aardlekschakelaar met maximaal 30 mA uitschakelstroom."
-    }
-  },
-  {
-    "translation": {
-      "en": "Use only extension cables that are approved for outdoor use.",
-      "nl": "Gebruik alleen een voor gebruik buitenshuis goedgekeurde verlengkabel."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Always direct the cable to the rear away from the machine.",
-      "nl": "* Voer de kabel altijd achterwaarts van de machine weg."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Insert the mains plug only when the machine is switched off.",
-      "nl": "* Steek de stekker alleen in het stopcontact wanneer de machine uitgeschakeld is."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Apply the machine to the workpiece only when switched on.",
-      "nl": "* Beweeg de machine alleen ingeschakeld naar het werkstuk."
     }
   },
   {
@@ -241,20 +133,8 @@
   },
   {
     "translation": {
-      "en": "* Always switch the machine off and wait until it has come to a standstill before placing it down.",
-      "nl": "* Schakel de machine voor het neerleggen altijd uit en wacht tot deze tot stilstand is gekomen."
-    }
-  },
-  {
-    "translation": {
       "en": "* The machine can be used only for dry sanding.",
       "nl": "* De machine mag alleen worden gebruikt voor droog slijpen."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Do not work with materials containing asbestos.",
-      "nl": "* Asbesthoudend materiaal mag niet worden bewerkt."
     }
   },
   {
@@ -267,54 +147,6 @@
     "translation": {
       "en": "* When grinding metal, flying sparks are produced.",
       "nl": "* Bij het slijpen van metalen ontstaan wegvliegende vonken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Take care that no persons are endangered.",
-      "nl": "Let erop dat geen personen in gevaar worden gebracht."
-    }
-  },
-  {
-    "translation": {
-      "en": "Due to danger of fire, no combustible materials should be located in the vicinity (spark flight zone).",
-      "nl": "Wegens het brandgevaar mogen zich geen brandbare materialen in de buurt (plaats waar de vonken wegvliegen) bevinden."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Never allow children to use the machine.",
-      "nl": "* Laat kinderen de machine nooit gebruiken."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Bosch is only able to ensure perfect operation of the machine if the original accessories intended for it are used.",
-      "nl": "* Bosch kan een juiste werking van de machine uitsluitend waarborgen wanneer voor deze machine bedoeld origineel toebehoren wordt gebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Initial Operation",
-      "nl": "Ingebruikneming"
-    }
-  },
-  {
-    "translation": {
-      "en": "Observe correct mains voltage: The voltage of the power source must agree with the voltage specified on the nameplate of the machine.",
-      "nl": "Let op de netspanning: De spanning van de stroombron moet overeenkomen met de gegevens op het typeplaatje."
-    }
-  },
-  {
-    "translation": {
-      "en": "Equipment marked with 230 V can also be connected to 220 V.",
-      "nl": "Met 230 V aangeduide machines kunnen ook worden gebruikt met een spanning van 220 V."
-    }
-  },
-  {
-    "translation": {
-      "en": "Switching On and Off",
-      "nl": "In- en uitschakelen"
     }
   },
   {
@@ -349,68 +181,8 @@
   },
   {
     "translation": {
-      "en": "Dust/Chip Extraction",
-      "nl": "Afzuiging van stof en spanen"
-    }
-  },
-  {
-    "translation": {
-      "en": "The dust that is produced while working can be detrimental to health, inflammable or explosive.",
-      "nl": "Stof dat tijdens de werkzaamheden ontstaat, kan schadelijk voor de gezondheid, brandbaar of explosief zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "Suitable safety measures are required.",
-      "nl": "Geschikte beschermingsmaatregelen zijn noodzakelijk."
-    }
-  },
-  {
-    "translation": {
-      "en": "Examples: Some dusts are regarded as carcinogenic.",
-      "nl": "Bijvoorbeeld: Sommige soorten stof worden beschouwd als kankerverwekkend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Use suitable dust/chip extraction and wear a dust respirator.",
-      "nl": "Gebruik een geschikte afzuiging voor stof en spanen en draag een stofmasker."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dust from light alloys can burn or explode.",
-      "nl": "Stof van lichte metalen kan ontvlammen of exploderen."
-    }
-  },
-  {
-    "translation": {
       "en": "Always keep the work place clean, as blends of materials are particularly dangerous.",
       "nl": "Houd de werkomgeving altijd schoon omdat materiaalmengsels bijzonder gevaarlijk zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "The machine can be plugged directly into the receptacle of a Bosch all-purpose vacuum cleaner with remote control starting.",
-      "nl": "De machine kan rechtstreeks worden aangesloten op het stopcontact van een Bosch-allroundzuiger met afstandsbediening."
-    }
-  },
-  {
-    "translation": {
-      "en": "The vacuum cleaner starts automatically when the machine is switched on.",
-      "nl": "Deze wordt bij het inschakelen van de machine automatisch gestart."
-    }
-  },
-  {
-    "translation": {
-      "en": "The vacuum cleaner must be suitable for the material to be worked.",
-      "nl": "De stofzuiger moet geschikt zijn voor het te bewerken materiaal."
-    }
-  },
-  {
-    "translation": {
-      "en": "When vacuuming dry dust that is especially detrimental to health or carcinogenic, use a special vacuum cleaner.",
-      "nl": "Gebruik bij het afzuigen van bijzonder gevaarlijk, kankerverwerkend, droog stof een speciale zuiger."
     }
   },
   {
@@ -775,12 +547,6 @@
   },
   {
     "translation": {
-      "en": "This mounting position is suitable for:",
-      "nl": "Deze montagepositie is geschikt voor het:"
-    }
-  },
-  {
-    "translation": {
       "en": "- Angle sanding of end surfaces",
       "nl": "- Haaks schuren van kopse vlakken"
     }
@@ -805,18 +571,6 @@
   },
   {
     "translation": {
-      "en": "In all correspondence and spare parts orders, please always include the 10-digit order number given on the nameplate of the machine.",
-      "nl": "Vermeld bij vragen en bestellingen van vervangingsonderdelen altijd het bestelnummer van 10 cijfers van de machine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Noise/Vibration Information",
-      "nl": "Informatie over geluid en trillingen"
-    }
-  },
-  {
-    "translation": {
       "en": "Measured values determined according to EN 50 144.",
       "nl": "Meetwaarden vastgesteld volgens EN (5)0 1(4)(4)."
     }
@@ -829,62 +583,14 @@
   },
   {
     "translation": {
-      "en": "Wear hearing protection!",
-      "nl": "Draag oorbeschermers."
-    }
-  },
-  {
-    "translation": {
       "en": "The typical hand/arm vibration is below 2.5 m/s2.",
       "nl": "Kenmerkend is dat de trillingen van hand en arm geringer zijn dan 2,(5) m/s2."
     }
   },
   {
     "translation": {
-      "en": "Environmental Protection",
-      "nl": "Milieubescherming"
-    }
-  },
-  {
-    "translation": {
-      "en": "Recycle raw materials instead of disposing as waste.",
-      "nl": "Terugwinnen van grondstoffen in plaats van het weggooien van afval."
-    }
-  },
-  {
-    "translation": {
-      "en": "The machine, accessories and packaging should be sorted for environmental-friendly recycling.",
-      "nl": "Machine, toebehoren en verpakking moeten op een voor het milieu verantwoorde manier worden hergebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "These instructions are printed on recycled paper manufactured without chlorine.",
-      "nl": "Deze gebruiksaanwijzing is vervaardigd van chloorvrij gebleekt kringlooppapier."
-    }
-  },
-  {
-    "translation": {
-      "en": "The plastic components are labelled for categorized recycling.",
-      "nl": "De kunststofdelen zijn gekenmerkt om ze per soort te kunnen recyclen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Declaration of Conformity",
-      "nl": "Conformiteitsverklaring"
-    }
-  },
-  {
-    "translation": {
       "en": "We declare under our sole responsibility that this product is in conformity with the following standards or standardization documents: EN 50 144 according to the provisions of the directives 89/336/EEC, 98/37/EC.",
       "nl": "Wij verklaren op eigen verantwoording dat dit product voldoet aan de volgende normen en normatieve documenten: EN (5)0 1(4)(4) volgens de bepalingen van de richtlijnen 89/33(6)/EEG, 98/37/EG."
-    }
-  },
-  {
-    "translation": {
-      "en": "Subject to change without notice",
-      "nl": "Wijzigingen voorbehouden"
     }
   }
 ]

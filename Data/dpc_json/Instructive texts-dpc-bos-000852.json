@@ -1,12 +1,6 @@
 [
   {
     "translation": {
-      "en": "For Your Safety",
-      "nl": "Voor uw veiligheid"
-    }
-  },
-  {
-    "translation": {
       "en": "All instructions must be read completely and strictly followed to ensure safe and secure working with the measuring instrument.",
       "nl": "Alle aanwijzingen moeten worden gelezen om zonder gevaren en veilig met het meetgereedschap te werken."
     }
@@ -85,12 +79,6 @@
   },
   {
     "translation": {
-      "en": "Product Elements",
-      "nl": "Onderdelen van het apparaat"
-    }
-  },
-  {
-    "translation": {
       "en": "The numbering of the product elements refers to the illustration of the unit on the graphic page.",
       "nl": "De onderdelen van het apparaat zijn genummerd zoals op de afbeelding van het apparaat op de pagina met afbeeldingen."
     }
@@ -147,18 +135,6 @@
     "translation": {
       "en": "9 Tripod (commercially available)*",
       "nl": "9 Statief (in de handel verkrijgbaar)*"
-    }
-  },
-  {
-    "translation": {
-      "en": "* Not all the accessories illustrated or described are included in standard delivery.",
-      "nl": "* Afgebeeld en beschreven toebehoren wordt niet altijd standaard meegeleverd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Intended Use",
-      "nl": "Gebruik volgens bestemming"
     }
   },
   {
@@ -247,26 +223,8 @@
   },
   {
     "translation": {
-      "en": "Always replace all batteries at the same time.",
-      "nl": "Vervang altijd alle batterijen tegelijkertijd."
-    }
-  },
-  {
-    "translation": {
       "en": "Use only batteries from a single manufacturer and with the same capacity.",
       "nl": "Gebruik alleen batterijen van hetzelfde merk en met dezelfde capaciteit."
-    }
-  },
-  {
-    "translation": {
-      "en": "Putting into Operation",
-      "nl": "Ingebruikneming"
-    }
-  },
-  {
-    "translation": {
-      "en": "Switching on:",
-      "nl": "Inschakelen:"
     }
   },
   {
@@ -291,12 +249,6 @@
     "translation": {
       "en": "The instrument always starts in the crossed line mode with levelling control.",
       "nl": "Het gereedschap start altijd in de kruislijnfunctie met waterpasbewaking."
-    }
-  },
-  {
-    "translation": {
-      "en": "Switching off:",
-      "nl": "Uitschakelen:"
     }
   },
   {
@@ -451,12 +403,6 @@
   },
   {
     "translation": {
-      "en": "Working Instructions",
-      "nl": "Tips voor de werkzaamheden"
-    }
-  },
-  {
-    "translation": {
       "en": "Working with a Tripod (see Fig.)",
       "nl": "Werkzaamheden met statief (zie afbeelding)"
     }
@@ -501,12 +447,6 @@
     "translation": {
       "en": "Do not use them as protective glasses against strong sun light or in traffic.",
       "nl": "Gebruik de bril niet als beschermingsbril tegen zonnestralen en niet in het verkeer."
-    }
-  },
-  {
-    "translation": {
-      "en": "Maintenance and Cleaning",
-      "nl": "Onderhoud en reiniging"
     }
   },
   {
@@ -585,18 +525,6 @@
     "translation": {
       "en": "Batteries should be collected, recycled or disposed of in an environmentally friendly manner.",
       "nl": "Accu's en batterijen moeten worden ingezameld, gerecycled of op een voor het milieu verantwoorde wijze worden afgevoerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Only for EU countries",
-      "nl": "Alleen voor landen van de EU"
-    }
-  },
-  {
-    "translation": {
-      "en": "Specifications subject to change without notice",
-      "nl": "Wijzigingen voorbehouden"
     }
   }
 ]

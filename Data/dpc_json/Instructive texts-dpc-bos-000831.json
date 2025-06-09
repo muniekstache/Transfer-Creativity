@@ -7,18 +7,6 @@
   },
   {
     "translation": {
-      "en": "<!INDEX!>",
-      "nl": "<!INDEX!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Important information",
-      "nl": "Hierop moet u letten"
-    }
-  },
-  {
-    "translation": {
       "en": "Read these instructions carefully.",
       "nl": "Lees deze gebruiksaanwijzing zorgvuldig door."
     }
@@ -45,12 +33,6 @@
     "translation": {
       "en": "Before switching on your appliance",
       "nl": "Voor het inbouwen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Transport damage",
-      "nl": "Transportschade"
     }
   },
   {
@@ -93,12 +75,6 @@
     "translation": {
       "en": "The manufacturer does not accept any responsibility for any inappropriate use or for any injury caused by incorrect electrical installation.",
       "nl": "De producent is niet aansprakelijk voor schade die ontstaan is als gevolg van ondeskundig gebruik of onjuiste elektrische aansluitingen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Safety precautions",
-      "nl": "Veiligheidsvoorschriften"
     }
   },
   {
@@ -193,20 +169,8 @@
   },
   {
     "translation": {
-      "en": "Risk of fire!",
-      "nl": "Brandgevaar!"
-    }
-  },
-  {
-    "translation": {
       "en": "You must not keep any combustible items or aerosol cans in a drawer located under the hob.",
       "nl": "Bevindt er zich een lade onder de kookplaat, dan mogen daarin geen brandbare voorwerpen of spuitbussen bewaard worden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Risk of fire!",
-      "nl": "Brandgevaar!"
     }
   },
   {
@@ -289,12 +253,6 @@
   },
   {
     "translation": {
-      "en": "Call after-sales service.",
-      "nl": "Neem contact op met de klantenservice."
-    }
-  },
-  {
-    "translation": {
       "en": "Do not place metal objects on the induction hob",
       "nl": "Leg geen voorwerpen van metaal op het inductieveld"
     }
@@ -339,18 +297,6 @@
     "translation": {
       "en": "Incorrect repairs",
       "nl": "Ondeskundige reparaties"
-    }
-  },
-  {
-    "translation": {
-      "en": "Incorrect repairs are dangerous.",
-      "nl": "Ondeskundige reparaties zijn gevaarlijk."
-    }
-  },
-  {
-    "translation": {
-      "en": "There is a risk of electrocution.",
-      "nl": "Risico van elektrische schokken!"
     }
   },
   {
@@ -483,12 +429,6 @@
     "translation": {
       "en": "On page 2 you will find an overview of models with dimensions.",
       "nl": "Op pagina 2 vindt u een typenoverzicht met informatie over afmetingen."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -829,12 +769,6 @@
   },
   {
     "translation": {
-      "en": "Switching off",
-      "nl": "Uitschakelen"
-    }
-  },
-  {
-    "translation": {
       "en": "Touch the W symbol until the - hotplate indicators go out.",
       "nl": "Raak het symbool W aan tot de indicaties - van de kookstanden uitgaan."
     }
@@ -843,12 +777,6 @@
     "translation": {
       "en": "All hotplates are switched off The residual heat indicator remains lit until the hotplates have cooled sufficiently.",
       "nl": "Alle kookzones worden uitgeschakeld De restwarmte-indicatie blij8t aan tot de kookzones voldoende zijn afgekoeld."
-    }
-  },
-  {
-    "translation": {
-      "en": "Notes",
-      "nl": "Aanwijzingen"
     }
   },
   {
@@ -1173,12 +1101,6 @@
     "translation": {
       "en": "Deviations are therefore possible.",
       "nl": "Daarom zijn afwijkingen mogelijk."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -1621,12 +1543,6 @@
   },
   {
     "translation": {
-      "en": "Notes",
-      "nl": "Aanwijzingen"
-    }
-  },
-  {
-    "translation": {
       "en": "if you would like to call up the remaining cooking time for a hotplate: Touch the - and + symbols repeatedly and at the same time until the x indicator for the relevant hotplate flashes.",
       "nl": "U wilt de resterende tijd voor een kookzone opvragen: Het symbool - en + gelijktijdig zo vaak aanraken tot de indicatie X voor de betreffende kookzone knippert."
     }
@@ -1699,12 +1615,6 @@
   },
   {
     "translation": {
-      "en": "The default value appears.",
-      "nl": "De voorgestelde waarde wordt weergegeven."
-    }
-  },
-  {
-    "translation": {
       "en": "+ symbol: 10 minutes - symbol: 05 minutes",
       "nl": "Het symbool + : 10 min. symbool - : 05 min."
     }
@@ -1761,12 +1671,6 @@
     "translation": {
       "en": "The timer indicator flashes.",
       "nl": "De timerindicatie knippert."
-    }
-  },
-  {
-    "translation": {
-      "en": "Change the cooking time using the - or + symbol.",
-      "nl": "Met het symbool - of symbool + de tijdsduur veranderen."
     }
   },
   {
@@ -1879,12 +1783,6 @@
   },
   {
     "translation": {
-      "en": "Notes",
-      "nl": "Aanwijzingen"
-    }
-  },
-  {
-    "translation": {
       "en": "If you want to store a different memory event for a hotplate:",
       "nl": "Als U bij een kookzone een andere memoryprocedure wilt opslaan:"
     }
@@ -1981,12 +1879,6 @@
   },
   {
     "translation": {
-      "en": "A signal sounds.",
-      "nl": "Er klinkt een signaal."
-    }
-  },
-  {
-    "translation": {
       "en": "00 flashes in the timer indicator.",
       "nl": "In de timerindicatie knippert 00."
     }
@@ -2043,12 +1935,6 @@
     "translation": {
       "en": "If you want to use the memory function on several hotplates at the same time, the shortest cooking time for a memory program is displayed in the timer indicator.",
       "nl": "Als u bij meerdere kookzones gelijktijdig de memoryfunctie gebruikt, wordt in de timerindicatie de kortste tijdsduur van een memoryprogramma aangegeven."
-    }
-  },
-  {
-    "translation": {
-      "en": "Note",
-      "nl": "N.B."
     }
   },
   {
@@ -2277,12 +2163,6 @@
     "translation": {
       "en": "The blade is very sharp.",
       "nl": "Het schrapermesje is zeer scherp."
-    }
-  },
-  {
-    "translation": {
-      "en": "There is a risk of injury.",
-      "nl": "Gevaar voor letsel!"
     }
   },
   {
@@ -2569,12 +2449,6 @@
   },
   {
     "translation": {
-      "en": "Repairs",
-      "nl": "Reparaties"
-    }
-  },
-  {
-    "translation": {
       "en": "Repairs may only be carried out by trained customer service personnel.",
       "nl": "Alleen daartoe opgeleid personeel van de klanten service mag reparaties uitvoeren."
     }
@@ -2625,12 +2499,6 @@
     "translation": {
       "en": "The following table contains measures for rectifying faults.",
       "nl": "In de volgende tabel ziet U welke maatregelen U kunt nemen om de storingen op te heffen."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -2749,20 +2617,8 @@
   },
   {
     "translation": {
-      "en": "Packaging and old appliances",
-      "nl": "De verpakking en uw oude apparaat"
-    }
-  },
-  {
-    "translation": {
       "en": "Disposing in an environmentally-responsible manner",
       "nl": "Milieuvriendelijk afvoeren"
-    }
-  },
-  {
-    "translation": {
-      "en": "Unpack the appliance and dispose of the packaging in an environmentally-responsible manner.",
-      "nl": "Pak het apparaat uit en voer de verpakking op een milieuvriendelijke manier af."
     }
   },
   {
@@ -2773,26 +2629,8 @@
   },
   {
     "translation": {
-      "en": "After-sales service",
-      "nl": "Klantenservice"
-    }
-  },
-  {
-    "translation": {
-      "en": "E number and FD number",
-      "nl": "E-nummer en FD-nummer"
-    }
-  },
-  {
-    "translation": {
       "en": "Our after-sales service is there for you if your hob should need to be repaired.",
       "nl": "U kunt het apparaat laten repareren door onze klantenservice."
-    }
-  },
-  {
-    "translation": {
-      "en": "You will find the address and telephone number of your nearest after-sales service centre in the phone book.",
-      "nl": "Het adres en telefoonnummer van de dichtstbijzijnde klantenservice vindt u in het telefoonboek."
     }
   },
   {
@@ -2847,12 +2685,6 @@
     "translation": {
       "en": "Tips for reducing acrylamide in food production",
       "nl": "Tip voor een acrylamide-arme bereiding"
-    }
-  },
-  {
-    "translation": {
-      "en": "General",
-      "nl": "Algemeen"
     }
   },
   {

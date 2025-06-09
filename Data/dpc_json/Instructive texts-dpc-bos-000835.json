@@ -91,12 +91,6 @@
   },
   {
     "translation": {
-      "en": "Functional Description",
-      "nl": "Functiebeschrijving"
-    }
-  },
-  {
-    "translation": {
       "en": "Working safely with the measuring tool is possible only when the operating and safety information are read completely and the instructions contained therein are strictly followed.",
       "nl": "Alle aanwijzingen moeten worden gelezen om zonder gevaren en veilig met het meetgereedschap te werken."
     }
@@ -121,12 +115,6 @@
   },
   {
     "translation": {
-      "en": "Intended Use",
-      "nl": "Gebruik volgens bestemming"
-    }
-  },
-  {
-    "translation": {
       "en": "The measuring tool is intended for measuring distances, lengths, heights, clearances and for calculating areas and volumes.",
       "nl": "Het meetgereedschap is bestemd voor het meten van afstanden, lengten, hoogten en tussenruimten en voor het berekenen van oppervlakten en inhouden."
     }
@@ -135,12 +123,6 @@
     "translation": {
       "en": "The measuring tool is suitable for interior and exterior construction site measuring.",
       "nl": "Het meetgereedschap is geschikt voor maatvoering bij bouwwerkzaamheden, zowel binnen als buiten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Product Features",
-      "nl": "Afgebeelde componenten"
     }
   },
   {
@@ -361,18 +343,6 @@
   },
   {
     "translation": {
-      "en": "*The accessories illustrated or described are not included as standard delivery.",
-      "nl": "* Niet elk afgebeeld en beschreven toebehoren wordt standaard meegeleverd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Assembly",
-      "nl": "Montage"
-    }
-  },
-  {
-    "translation": {
       "en": "Inserting/Replacing the Battery",
       "nl": "Batterijen inzetten of vervangen"
     }
@@ -439,12 +409,6 @@
   },
   {
     "translation": {
-      "en": "Operation",
-      "nl": "Gebruik"
-    }
-  },
-  {
-    "translation": {
       "en": "Initial Operation",
       "nl": "Ingebruikneming"
     }
@@ -459,12 +423,6 @@
     "translation": {
       "en": "Do not expose the measuring tool to extreme temperatures or variations in temperature.",
       "nl": "Stel het meetgereedschap niet bloot aan extreme temperaturen of temperatuurschommelingen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Switching On and Off",
-      "nl": "In- en uitschakelen"
     }
   },
   {
@@ -715,12 +673,6 @@
   },
   {
     "translation": {
-      "en": "The last individual measured value is indicated at the bottom in the display, while the final result is shown at the top.",
-      "nl": "De laatste afzonderlijke meetwaarde staat onder in het display, het eindresultaat boven."
-    }
-  },
-  {
-    "translation": {
       "en": "Continuous Measurement (Tracking) (see figure B)",
       "nl": "Duurmeting (zie afbeelding B)"
     }
@@ -907,12 +859,6 @@
   },
   {
     "translation": {
-      "en": "Operating Instructions",
-      "nl": "Tips voor de werkzaamheden"
-    }
-  },
-  {
-    "translation": {
       "en": "The reception lens 17 and the laser beam outlet 16 must not be covered when taking a measurement.",
       "nl": "De ontvangstlens (17) en de uitgang van de laserstraal (16) mogen bij een meting niet afgedekt zijn."
     }
@@ -1039,12 +985,6 @@
   },
   {
     "translation": {
-      "en": "Maintenance and Cleaning",
-      "nl": "Onderhoud en reiniging"
-    }
-  },
-  {
-    "translation": {
       "en": "Store and transport the measuring tool only in the supplied protective case.",
       "nl": "Bewaar en transporteer het meetgereedschap alleen in het meegeleverde beschermetui."
     }
@@ -1093,32 +1033,14 @@
   },
   {
     "translation": {
-      "en": "Service and Customer Assistance",
-      "nl": "Technische dienst en klantenservice"
-    }
-  },
-  {
-    "translation": {
       "en": "Exploded views and information on spare parts can be found under: www.bosch-pt.com",
       "nl": "Explosietekeningen en informatie over vervangingsonderdelen vindt u op: www.bosch-pt.com"
     }
   },
   {
     "translation": {
-      "en": "Disposal",
-      "nl": "Afvalverwijdering"
-    }
-  },
-  {
-    "translation": {
       "en": "Measuring tools, accessories and packaging should be sorted for environmental-friendly recycling.",
       "nl": "Meetgereedschappen, toebehoren en verpakkingen dienen op een voor het milieu verantwoorde manier te worden hergebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Only for EC countries:",
-      "nl": "Alleen voor landen van de EU:"
     }
   },
   {
@@ -1135,12 +1057,6 @@
   },
   {
     "translation": {
-      "en": "Battery packs/batteries:",
-      "nl": "Accu's en batterijen:"
-    }
-  },
-  {
-    "translation": {
       "en": "Do not dispose of battery packs/batteries into household waste, fire or water.",
       "nl": "Gooi accu's of batterijen niet bij het huisvuil en evenmin in het vuur of het water."
     }
@@ -1149,12 +1065,6 @@
     "translation": {
       "en": "Battery packs/batteries should be collected, recycled or disposed of in an environmental-friendly manner.",
       "nl": "Accu's en batterijen moeten worden ingezameld, gerecycled of op een voor het milieu verantwoorde wijze worden afgevoerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Only for EC countries:",
-      "nl": "Alleen voor landen van de EU:"
     }
   }
 ]

@@ -1,12 +1,6 @@
 [
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "This book provides overview information and does not contain detailed instruction for using the features described.",
       "nl": "Deze publicatie bevat een overzicht van deze informatie en is dus geen handleiding met gedetailleerde instructies voor het gebruik van de beschreven functies."
     }
@@ -33,12 +27,6 @@
     "translation": {
       "en": "This information will point out important changes that you need to know before using Version 9.1.",
       "nl": "Deze informatie betreft belangrijke wijzigingen waarvan u op de hoogte moet zijn voordat u Versie 9.1 gebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -139,12 +127,6 @@
   },
   {
     "translation": {
-      "en": "New features include:",
-      "nl": "De volgende nieuwe functies zijn beschikbaar:"
-    }
-  },
-  {
-    "translation": {
       "en": "- Application development tools and support for the new native XML data store feature, which enable applications to access and store both XML and relational data.",
       "nl": "- Tools voor toepassingsontwikkeling en ondersteuning voor het nieuwe native XML-gegevensarchief, waarmee toepassingen zowel XML- als relationele gegevens kunnen gebruiken en opslaan."
     }
@@ -195,12 +177,6 @@
     "translation": {
       "en": "New automated database administration features that improve productivity:",
       "nl": "Nieuwe functies voor automatisering van databasebeheer ter verbetering van de productiviteit:"
-    }
-  },
-  {
-    "translation": {
-      "en": "New features include:",
-      "nl": "De volgende nieuwe functies zijn beschikbaar:"
     }
   },
   {
@@ -589,12 +565,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Information as a service (native XML data store)",
       "nl": "Informatie als service (native XML-gegevensarchief)"
     }
@@ -973,12 +943,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "More agile development",
       "nl": "Flexibeler ontwikkelmogelijkheden"
     }
@@ -1009,26 +973,8 @@
   },
   {
     "translation": {
-      "en": "For more information, see \"Application programming language support for XML\" on page 32.",
-      "nl": "Zie \"Ondersteuning van toepassingsprogrammeertaal voor XML\" op pagina 35 voor meer informatie."
-    }
-  },
-  {
-    "translation": {
       "en": "-- Support for the new XQuery language developed by the World Wide Web Consortium (W3C).",
       "nl": "-- Ondersteuning voor de nieuwe XQuery-taal die is ontwikkeld door het World Wide Web Consortium (W3C)."
-    }
-  },
-  {
-    "translation": {
-      "en": "DB2 Version 9.1 allows you to invoke XQuery directly, calling functions that extract XML data from DB2 tables and views.",
-      "nl": "In DB2 Versie 9.1 kan XQuery direct worden opgeroepen, waarbij de functies worden aangeroepen die XML-gegevens extraheren uit DB2-tabellen en -views."
-    }
-  },
-  {
-    "translation": {
-      "en": "For more information, see \"XQuery language support\" on page 30.",
-      "nl": "Zie \"Ondersteuning van XQuery\" op pagina 32 voor meer informatie."
     }
   },
   {
@@ -1039,32 +985,14 @@
   },
   {
     "translation": {
-      "en": "For more information, see \"XML support in SQL statements and SQL/XML functions\" on page 35.",
-      "nl": "Zie \"XML-ondersteuning in SQL-instructies en SQL/XML-functies\" op pagina 38 voor meer informatie."
-    }
-  },
-  {
-    "translation": {
       "en": "-- The new XQuery builder, which helps you to build and test XML queries without needing to understand the semantics of the XQuery language.",
       "nl": "-- De nieuwe XQuery-builder, die u kunt gebruiken voor het samenstellen en testen van XML-query's zonder dat u kennis hoeft te hebben van de XQuery-taal."
     }
   },
   {
     "translation": {
-      "en": "For more information, see \"XQuery builder\" on page 31.",
-      "nl": "Zie \"XQuery-builder\" op pagina 33 voor meer informatie."
-    }
-  },
-  {
-    "translation": {
       "en": "-- Support for XML type in SQL and external procedures.",
       "nl": "-- Ondersteuning voor het gegevenstype XML in SQL- en externe procedures."
-    }
-  },
-  {
-    "translation": {
-      "en": "For more information, see \"XML data type support in SQL and external procedures\" on page 33.",
-      "nl": "Zie \"Ondersteuning voor XML-gegevenstype in SQL en externe procedures\" op pagina 35 voor meer informatie."
     }
   },
   {
@@ -1231,12 +1159,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Autonomic computing",
       "nl": "Autonoom computergebruik"
     }
@@ -1399,12 +1321,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Automated statistics collection",
       "nl": "Automatische verzameling van statistieken"
     }
@@ -1477,12 +1393,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Improved large database management using table partitioning",
       "nl": "Verbeterd beheer van grote databases met tabelpartitionering"
     }
@@ -1501,12 +1411,6 @@
   },
   {
     "translation": {
-      "en": "These storage objects can be in different table spaces, in the same table space, or a combination of both.",
-      "nl": "Deze opslagobjecten kunnen in dezelfde tabelruimte of in een andere tabelruimte staan, maar ook in een combinatie daarvan."
-    }
-  },
-  {
-    "translation": {
       "en": "The ability to partition table data across multiple storage objects provides your database administrators with greater scalability, flexibility, control, and performance.",
       "nl": "De mogelijkheid om tabelgegevens te partitioneren over meerdere opslagobjecten, biedt databasebeheerders grotere schaalbaarheid, flexibiliteit, controle en een beter prestatievermogen."
     }
@@ -1515,24 +1419,6 @@
     "translation": {
       "en": "Specific benefits and features of table partitioning include:",
       "nl": "Tabelpartitionering biedt onder meer de volgende voordelen en voorzieningen:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- The ability to create very large tables.",
-      "nl": "- De mogelijkheid om zeer grote tabellen te maken."
-    }
-  },
-  {
-    "translation": {
-      "en": "By dividing table data across multiple storage objects, you can significantly increase the size of a table.",
-      "nl": "Door het verdelen van tabelgegevens over meerdere opslagobjecten, kunt u de grootte van een tabel aanmerkelijk verhogen."
-    }
-  },
-  {
-    "translation": {
-      "en": "- More flexible administration capabilities.",
-      "nl": "- Flexibeler mogelijkheden voor beheer."
     }
   },
   {
@@ -1551,18 +1437,6 @@
     "translation": {
       "en": "For more information, see 'Table partitioning' in Administration Guide: Planning.",
       "nl": "Zie 'Table partitioning' in Administration Guide: Planning voor meer informatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "- More granular control of index placement.",
-      "nl": "- Gedetailleerde controle over indexplaatsing."
-    }
-  },
-  {
-    "translation": {
-      "en": "You can place indexes in different table spaces and manage them individually.",
-      "nl": "U kunt indexen in verschillende tabelruimten plaatsen en deze afzonderlijk beheren."
     }
   },
   {
@@ -1587,12 +1461,6 @@
     "translation": {
       "en": "For more information see 'Attaching a data partition' in Administration Guide: Implementation and 'Detaching a data partition' in Administration Guide: Implementation.",
       "nl": "Zie 'Attaching a data partition' in Administration Guide: Implementation en 'Detaching a data partition' in Administration Guide: Implementation voor meer informatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "- Improved query performance.",
-      "nl": "- Betere prestaties bij het uitvoeren van query's."
     }
   },
   {
@@ -1723,12 +1591,6 @@
   },
   {
     "translation": {
-      "en": "No.",
-      "nl": "Nee."
-    }
-  },
-  {
-    "translation": {
       "en": "Table partitioning divides table data by allowing you to define ranges of data for a table so that each range is stored separately.",
       "nl": "Met tabelpartitionering verdeelt u tabelgegevens door gegevensbereiken in een tabel te definiëren, waarbij elk bereik afzonderlijk wordt opgeslagen."
     }
@@ -1741,12 +1603,6 @@
   },
   {
     "translation": {
-      "en": "These storage objects can be in different table spaces, in the same table space, or a combination of both.",
-      "nl": "Deze opslagobjecten kunnen in dezelfde tabelruimte of in een andere tabelruimte staan, maar ook in een combinatie daarvan."
-    }
-  },
-  {
-    "translation": {
       "en": "By contrast, DPF distributes table data evenly across database partitions.",
       "nl": "DPF verdeelt tabelgegevens daarentegen evenredig over de databasepartities."
     }
@@ -1755,12 +1611,6 @@
     "translation": {
       "en": "The DB2 Version 9.1 organization schemes include:",
       "nl": "DB2 Versie 9.1 bevat onder meer de volgende organisatieschema's:"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -1869,18 +1719,6 @@
     "translation": {
       "en": "You can create a partitioned table with thousands of data partitions.",
       "nl": "U kunt een gepartitioneerde tabel met duizenden gegevenspartities maken."
-    }
-  },
-  {
-    "translation": {
-      "en": "A partitioned table can contain vastly more data than an ordinary table.",
-      "nl": "Een gepartitioneerde tabel kan veel meer gegevens bevatten dan een gewone tabel."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -2011,12 +1849,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Manage your business, not your database",
       "nl": "Manage uw bedrijf, niet uw database"
     }
@@ -2031,12 +1863,6 @@
     "translation": {
       "en": "Version 9.1 introduces performance and scalability enhancements to help them achieve the highest performance when accessing and updating your data; manageability enhancements to enable them to reduce the time required to administer and tune your database systems; and installation enhancements to allow them to set up and deploy your applications more quickly.",
       "nl": "Versie 9.1 biedt prestatie- en schaalbaarheidsuitbreidingen die de hoogste prestaties leveren bij het verkrijgen van toegang en bijwerken van gegevens, beheersbaarheidsuitbreidingen waarmee beheerders minder tijd hoeven te besteden aan het beheren en optimaliseren van databasesystemen en installatie-uitbreidingen waarmee uw toepassingen sneller kunnen worden geconfigureerd en geïmplementeerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Performance and scalability enhancements include:",
-      "nl": "De volgende prestatie- en schaalbaarheidsuitbreidingen zijn beschikbaar:"
     }
   },
   {
@@ -2119,20 +1945,8 @@
   },
   {
     "translation": {
-      "en": "Manageability enhancements include:",
-      "nl": "De volgende verbeterde beheermogelijkheden zijn beschikbaar:"
-    }
-  },
-  {
-    "translation": {
       "en": "-- Simpler memory management using adaptive, self-tuning memory allocation.",
       "nl": "-- Eenvoudiger geheugenbeheer met behulp van aanpasbare optimalisatie van geheugentoewijzing."
-    }
-  },
-  {
-    "translation": {
-      "en": "Self-tuning memory provides a configuration that is dynamic and responsive to significant changes in workload characteristics.",
-      "nl": "Deze geoptimaliseerde geheugenfunctie biedt een dynamische configuratie die reageert op wijzigingen in de werkbelasting."
     }
   },
   {
@@ -2151,12 +1965,6 @@
     "translation": {
       "en": "With automatic statistics collection enabled, DB2 automatically runs the RUNSTATS utility in the background to ensure the correct statistics are collected and maintained.",
       "nl": "Als automatische verzameling van statistieken geactiveerd is, voert DB2 automatisch de functie RUNSTATS op de achtergrond uit, zodat de juiste statistieken worden verzameld en onderhouden."
-    }
-  },
-  {
-    "translation": {
-      "en": "For more information, see \"Automatic statistics collection enabled by default during database creation\" on page 114.",
-      "nl": "Zie \"Automatische verzameling van statistieken standaard ingeschakeld bij maken van database\" op pagina 123 voor meer informatie."
     }
   },
   {
@@ -2187,12 +1995,6 @@
     "translation": {
       "en": "-- The ability to copy database schemas and create model schemas.",
       "nl": "-- De mogelijkheid om databaseschema's te kopiëren en modelschema's te maken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Once your database administrators establish a model schema, they can use it as a template for creating new versions.",
-      "nl": "Als databasebeheerders een modelschema hebben opgesteld, kunnen zij dit gebruiken als sjabloon voor het maken van nieuwe versies."
     }
   },
   {
@@ -2235,12 +2037,6 @@
     "translation": {
       "en": "For the complete list of manageability enhancements, see \"Manageability enhancements summary\" on page 77.",
       "nl": "Zie \"Uitbreiding van beheermogelijkheden (overzicht)\" op pagina 85 voor de volledige lijst van verbeterde beheermogelijkheden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Installation enhancements include:",
-      "nl": "De volgende uitbreidingen voor de installatie zijn beschikbaar:"
     }
   },
   {
@@ -2299,12 +2095,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Hardware and operating system support",
       "nl": "Ondersteuning voor hardware en besturingssystemen"
     }
@@ -2325,18 +2115,6 @@
     "translation": {
       "en": "In response to market demand while also building on the 64-bit DB2 server support introduced in DB2 UDB Version 8, IBM is phasing out 32-bit DB2 database server support on several platforms and making DB2 database server support on 64-bit hardware and operating systems a higher priority.",
       "nl": "Als gevolg van de vraag op de markt en gezien de verdere ontwikkeling van de 64-bits DB2-databaseserverondersteuning die werd geïntroduceerd in DB2 UDB Versie 8, vermindert IBM gaandeweg de 32-bits DB2-databaseserverondersteuning op verschillende platforms en geeft prioriteit aan de DB2- databaseserverondersteuning op 64-bits hardware en 64-bits besturingssystemen."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Chapter 2.",
-      "nl": "Hoofdstuk 2."
     }
   },
   {
@@ -2379,12 +2157,6 @@
     "translation": {
       "en": "While these host and iSeries databases manage the data, there is a great demand to integrate this data with applications running on Linux, UNIX, and Windows operating systems.",
       "nl": "Deze host- en iSeries-databases beheren de gegevens, maar er is een grote vraag naar integratie met toepassingen die op de besturingssystemen Linux, UNIX en Windows worden uitgevoerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -2437,12 +2209,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "32-bit DB2 Connect instance support changes",
       "nl": "Wijzigingen in ondersteuning van 32-bits DB2 Connect-subsystemen"
     }
@@ -2487,12 +2253,6 @@
     "translation": {
       "en": "There are three possible DB2 Connect Version 8 to DB2 Connect Version 9 migrations:",
       "nl": "Er zijn drie soorten migratie mogelijk van DB2 Connect Versie 8 naar DB2 Connect Versie 9:"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -2581,18 +2341,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Chapter 3.",
-      "nl": "Hoofdstuk 3."
-    }
-  },
-  {
-    "translation": {
       "en": "Product, packaging, and terminology changes",
       "nl": "Wijzigingen in producten, pakketten en terminologie"
     }
@@ -2619,12 +2367,6 @@
     "translation": {
       "en": "For more information about product, packaging, and terminology changes introduced in version 9.1, follow the links in the \"Related concepts\" section.",
       "nl": "Voor meer informatie over wijzigingen van product, verpakking en terminologie in Versie 9.1 volgt u de links onder \"Verwante concepten\"."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -2665,12 +2407,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "New names for DB2 Information Integrator products",
       "nl": "Nieuwe namen in DB2 Information Integrator-producten"
     }
@@ -2689,20 +2425,8 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Table 2 outlines renamed product features in DB2 Version 9.1 for Linux, UNIX, and Windows:",
       "nl": "In Tabel 2 vindt u de hernoemde productfuncties in DB2 Versie 9.1 voor Linux, UNIX en Windows:"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -2727,12 +2451,6 @@
     "translation": {
       "en": "DB2 Intelligent MinerTM Modeling, Scoring and Visualization are now part of DB2 Data Warehouse Enterprise Edition.",
       "nl": "DB2 Intelligent Miner Modeling, Scoring en Visualization maken nu deel uit van DB2 Data Warehouse Enterprise Edition."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -2811,18 +2529,6 @@
     "translation": {
       "en": "This syntax change aligns all of the data organization scheme clauses of the CREATE TABLE statement with the {DISTRIBUTE I PARTITION I ORGANIZE} BY <algorithm> pattern.",
       "nl": "Door deze syntaxiswijziging voldoen alle clausules van de instructie CREATE TABLE in gegevensorganisatieschema's aan het <algoritmepatroon> {DISTRIBUTE I PARTITION I ORGANIZE} BY."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Chapter 4.",
-      "nl": "Hoofdstuk 4."
     }
   },
   {
@@ -2911,12 +2617,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "XML schema, DTD, and external entity management using the XML schema repository (XSR)",
       "nl": "Beheer van XML-schema's, DTD en externe entiteiten met de XML-schemarepository (XSR)"
     }
@@ -2937,12 +2637,6 @@
     "translation": {
       "en": "The XSR allows you to manage the dependencies XML documents have transparently, without requiring changes to the XML document content.",
       "nl": "Met de XSR kunt u de dependency's van XML-documenten overzichtelijk beheren zonder dat er wijzigingen hoeven te worden aangebracht in de inhoud van de XML-documenten."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -2979,12 +2673,6 @@
     "translation": {
       "en": "The programming interface to XQuery provides facilities similar to those of SQL to execute queries and retrieve query results.",
       "nl": "De programmeerinterface van XQuery biedt met SQL vergelijkbare functies voor het uitvoeren van query's en het ophalen van queryresultaten."
-    }
-  },
-  {
-    "translation": {
-      "en": "XQuery is a functional programming language that was designed by the World Wide Web Consortium (W3C) to meet specific requirements for querying XML data.",
-      "nl": "XQuery is een functionele programmeertaal die door het World Wide Web Consortium (W3C) is ontworpen om te voldoen aan specifieke eisen voor het doorzoeken van XML-gegevens."
     }
   },
   {
@@ -3115,12 +2803,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "XQuery builder",
       "nl": "XQuery-builder"
     }
@@ -3181,12 +2863,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "DB2 Net Search Extender support for the XML data type",
       "nl": "DB2 Net Search Extender-ondersteuning voor het XML-gegevenstype"
     }
@@ -3229,12 +2905,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Application development support - native XML data store",
       "nl": "Ondersteuning voor toepassingsontwikkeling - native XML-gegevensopslag"
     }
@@ -3249,12 +2919,6 @@
     "translation": {
       "en": "For V9.1 application development enhancements introduced to support the native XML data store, follow the links in the 'Related concepts' section.",
       "nl": "Volg de links onder 'Verwante concepten' voor informatie over de functies voor toepassingsontwikkeling ter ondersteuning van het native XML-gegevensarchief in V9.1."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -3283,12 +2947,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Java, DB2 CLI, or DB2 .NET Data Provider applications can use XML, binary, or character application data types to store XML data in or fetch XML data from XML columns.",
       "nl": "Java-, DB2 CLI- en DB2 .NET Data Provider-toepassingen kunnen de gegevenstypen XML, binair en character gebruiken om XML-gegevens op te slaan of XML-gegevens op te halen uit XML-kolommen."
     }
@@ -3303,12 +2961,6 @@
     "translation": {
       "en": "Stored procedures and user-defined functions can pass XML values in input or output parameters.",
       "nl": "Opgeslagen procedures en door de gebruiker gedefinieerde functies kunnen XML-waarden doorgeven in invoer- of uitvoerparameters."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -3355,18 +3007,6 @@
   },
   {
     "translation": {
-      "en": "- SQL procedures",
-      "nl": "- SQL-procedures"
-    }
-  },
-  {
-    "translation": {
-      "en": "- External procedures and external functions implemented in the following programming languages: C, C++, COBOL, Java, and .NET CLR supported languages including C# and Visual Basic.",
-      "nl": "- Externe procedures en externe functies die zijn geïmplementeerd in de volgende programmeertalen: C, C++, COBOL, Java en door .NET CLR ondersteunde talen, waaronder C# en Visual Basic."
-    }
-  },
-  {
-    "translation": {
       "en": "XML parameter and XML variable within procedures can be:",
       "nl": "XML-parameters en XML-variabelen in procedures hebben de volgende mogelijkheden:"
     }
@@ -3381,12 +3021,6 @@
     "translation": {
       "en": "- Assigned to other variables using the following statements:",
       "nl": "- Toewijzing aan andere variabelen met de volgende instructies:"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -3541,20 +3175,8 @@
   },
   {
     "translation": {
-      "en": "XQuery builder",
-      "nl": "XQuery-builder"
-    }
-  },
-  {
-    "translation": {
       "en": "For details about the XQuery builder, see \"XQuery builder\" on page 31.",
       "nl": "Zie \"XQuery-builder\" op pagina 33 voor meer informatie over XQuery-builder."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -3673,12 +3295,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Annotated XML schema decomposition",
       "nl": "Ontleding van geannoteerde XML-schema's"
     }
@@ -3715,12 +3331,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Performance enhancements - native XML data store",
       "nl": "Hogere performance - native XML-gegevensopslag"
     }
@@ -3735,12 +3345,6 @@
     "translation": {
       "en": "For V9.1 performance considerations using the native XML data store, follow the links in the 'Related concepts' section.",
       "nl": "Volg de links onder 'Verwante concepten' voor prestatieoverwegingen bij het gebruik van native XML-gegevensopslag in V9.1."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -3777,12 +3381,6 @@
     "translation": {
       "en": "You indicate which parts of an XML column are indexed by specifying an XML pattern, which is a limited XPath expression.",
       "nl": "Door het opgeven van een XML-patroon, een beperkte XPath-expressie, geeft u aan welke gedeelten van een XML-kolom geïndexeerd worden."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -3841,12 +3439,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "RUNSTATS command support for the native XML data store",
       "nl": "Ondersteuning voor de opdracht RUNSTATS voor het native XML-gegevensarchief"
     }
@@ -3871,12 +3463,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Optimizer support for the native XML data store",
       "nl": "Ondersteuning van het optimalisatieprogramma voor het native XML-gegevensarchief"
     }
@@ -3895,12 +3481,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Administration tools support - native XML data store",
       "nl": "Ondersteuning voor beheertools - native XML-gegevensopslag"
     }
@@ -3915,12 +3495,6 @@
     "translation": {
       "en": "For V9.1 administration tools enhancements introduced to support the native XML data store, follow the links in the 'Related concepts' section.",
       "nl": "Volg de links onder 'Verwante concepten' voor informatie over de verbeteringen in de beheerprogramma's ter ondersteuning van de native XML-gegevensopslag in V9.1."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -3973,12 +3547,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Explain and Visual Explain support for SQL/XML and XQuery statements",
       "nl": "Ondersteuning van Explain en Visual Explain voor SQL/XML- en XQuery-instructies"
     }
@@ -4009,12 +3577,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Command line processor (CLP) and command line tool support - native XML data store",
       "nl": "Ondersteuning van opdrachtregelinterface (CLP) - native XML-gegevensopslag"
     }
@@ -4029,12 +3591,6 @@
     "translation": {
       "en": "For V9.1 enhancements to the DB2 command line processor (CLP) and system command utilities introduced to support the native XML data store in Version 9.1, follow the links in the 'Related concepts' section.",
       "nl": "Volg de links onder 'Verwante concepten' voor informatie over de verbeteringen in de DB2-opdrachtregelinterface (CLP) en systeemopdrachtprogramma's ter ondersteuning van het native XML-gegevensarchief in Versie 9.1."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -4105,12 +3661,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "db2batch command changes for native XML data store",
       "nl": "Wijzigingen in de opdracht db2batch voor het native XML-gegevensarchief"
     }
@@ -4141,12 +3691,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "db2look command changes for native XML data store",
       "nl": "Wijzigingen in de opdracht db2look voor het native XML-gegevensarchief"
     }
@@ -4171,12 +3715,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Import and export utility support for the native XML data store",
       "nl": "Ondersteuning voor import- en exportprogramma's voor het native XML-gegevensarchief"
     }
@@ -4197,18 +3735,6 @@
     "translation": {
       "en": "These updated utilities permit data movement of XML documents stored in XML columns that is similar to the data movement support for relational data.",
       "nl": "Dankzij deze bijgewerkte hulpprogramma's kunnen XML-documenten in XML-kolommen worden verplaatst op een manier die te vergelijken is met het verplaatsen van gegevens in relationele databases."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Chapter 5.",
-      "nl": "Hoofdstuk 5."
     }
   },
   {
@@ -4245,12 +3771,6 @@
     "translation": {
       "en": "For application development enhancements introduced in DB2 Version 9.1, follow the links in the \"Related concepts\" section.",
       "nl": "Voor informatie over uitbreidingen voor het ontwikkelen van toepassingen in DB2 Versie 9.1 volgt u de links onder \"Verwante concepten\"."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -4381,12 +3901,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Client support for trusted connections to DB2 for z/OS databases",
       "nl": "Clientondersteuning voor betrouwbare verbindingen met DB2 voor z/OS-databases"
     }
@@ -4429,12 +3943,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Command line processor (CLP) 64 KB limit for SQL statements has been removed",
       "nl": "64 kB-limiet voor SQL-instructies in de Opdrachtregelinterface (CLP) is verwijderd"
     }
@@ -4455,12 +3963,6 @@
     "translation": {
       "en": "The new CLP limit of approximately 2 MB is comparable with the limits on the other DB2 tools.",
       "nl": "De nieuwe CLP-limiet van ongeveer 2 MB is vergelijkbaar met de limieten van de andere DB2-tools."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -4519,18 +4021,6 @@
   },
   {
     "translation": {
-      "en": "Data.",
-      "nl": "Data."
-    }
-  },
-  {
-    "translation": {
-      "en": "Common namespace.",
-      "nl": "Common."
-    }
-  },
-  {
-    "translation": {
       "en": "Instances of these common base classes are created from a Factory class.",
       "nl": "Subsystemen van deze gemeenschappelijke basisklassen worden gemaakt op basis van een factory-klasse."
     }
@@ -4575,12 +4065,6 @@
     "translation": {
       "en": "Following is a list of the DB2Types classes:",
       "nl": "Hier volgt een overzicht van de DB2Types-klassen:"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -4635,12 +4119,6 @@
     "translation": {
       "en": "This can provide a performance boost, as it will result in fewer individual transmissions of data between the client application and the database server.",
       "nl": "Dit kan de prestaties verbeteren, omdat er minder afzonderlijke gegevensoverdrachten plaatsvinden tussen de clienttoepassing en de databaseserver."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -4975,12 +4453,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "External table function support across database partitions",
       "nl": "Ondersteuning voor externe tabelfuncties in meerdere databasepartities"
     }
@@ -5007,12 +4479,6 @@
     "translation": {
       "en": "The union of the results of the table-function execution on each of the database partitions is returned as a single table result set.",
       "nl": "Het gecombineerde resultaat van de tabelfunctie op de verschillende databasepartities wordt teruggezonden als één tabelresultaatset."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -5215,12 +4681,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Java routine class loader enhancements",
       "nl": "Uitbreiding van de Java-routineklassenlader"
     }
@@ -5305,12 +4765,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "The following SQL statement can be used to update this definition such that it explicitly specifies the jar-id:",
       "nl": "Met de volgende SQL-instructie kunt u expliciet een jar-id opgeven voor deze definitie:"
     }
@@ -5329,12 +4783,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "When the procedure myproc is called, the class myclass is directly loaded from the jar file associated with jar-id myjar.",
       "nl": "Als de procedure mijnproc wordt aangeroepen, wordt de klasse mijnklasse rechtstreeks geladen uit het JAR-bestand dat hoort bij het jar-id mijnjar."
     }
@@ -5343,12 +4791,6 @@
     "translation": {
       "en": "Specifying the jar_id clause option when creating Java routines is a recommended best practice.",
       "nl": "Het opgeven van de clausuleoptie jar_id bij het maken van Java-routines is een aanbevolen procedure."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -5563,12 +5005,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "New and changed development software support",
       "nl": "Ondersteuning voor nieuwe en gewijzigde ontwikkelingssoftware"
     }
@@ -5583,12 +5019,6 @@
     "translation": {
       "en": "Following are the changes, listed by operating system.",
       "nl": "Hieronder ziet u de wijzigingen geordend op besturingssysteem."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -5743,12 +5173,6 @@
   },
   {
     "translation": {
-      "en": "Chapter 6.",
-      "nl": "Hoofdstuk 6."
-    }
-  },
-  {
-    "translation": {
       "en": "Backup, logging, and recovery enhancements",
       "nl": "Uitbreidingen voor back-ups, logboeken en herstel"
     }
@@ -5779,12 +5203,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Continue a recover operation that ended during the rollforward phase",
       "nl": "Een herstelbewerking voortzetten die is beëindigd tijdens de ROLLFORWARD-fase"
     }
@@ -5799,12 +5217,6 @@
     "translation": {
       "en": "A RECOVER will not complete if, for example, it was interrupted by the user (if Ctrl+C is pressed or the FORCE APPLICATION command is used) or if DB2 was unable to retrieve log files.",
       "nl": "Een herstelbewerking wordt niet voltooid als deze bijvoorbeeld is onderbroken door de gebruiker (door te drukken op Ctrl+C of de opdracht FORCE APPLICATION op te geven) of als DB2 de logboekbestanden niet heeft kunnen ophalen."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -5833,20 +5245,8 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Rebuild database function provides new restore options",
       "nl": "Databasefunctie voor opnieuw opbouwen biedt nieuwe herstelopties"
-    }
-  },
-  {
-    "translation": {
-      "en": "This functionality makes DB2 recovery more robust and versatile and provides you with a more complete recovery solution.",
-      "nl": "Deze functionaliteit maakt DB2-herstel krachtiger en veelzijdiger en biedt een complete hersteloplossing."
     }
   },
   {
@@ -5899,12 +5299,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Tivoli Storage Manager support added (Windows x64)",
       "nl": "Ondersteuning voor Tivoli Storage Manager toegevoegd (Windows x64)"
     }
@@ -5935,18 +5329,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Chapter 7.",
-      "nl": "Hoofdstuk 7."
-    }
-  },
-  {
-    "translation": {
       "en": "Client and connectivity enhancements",
       "nl": "Uitbreidingen voor clients en connectiviteit"
     }
@@ -5973,12 +5355,6 @@
     "translation": {
       "en": "For client and connectivity enhancements introduced in DB2 Version 9.1, follow the links in the \"Related concepts\" section.",
       "nl": "Voor informatie over verbeteringen voor clientverbindingen in DB2 Versie 9.1 volgt u de links onder \"Verwante concepten\"."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -6027,12 +5403,6 @@
     "translation": {
       "en": "For more information, follow the related links.",
       "nl": "U kunt meer informatie vinden door op de verwante links te klikken."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -6103,12 +5473,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "DB2 Runtime Client enhancements (Windows)",
       "nl": "Uitbreidingen voor DB2 Runtime Client (Windows)"
     }
@@ -6163,12 +5527,6 @@
   },
   {
     "translation": {
-      "en": "- You can install multiple copies of a client on the same computer.",
-      "nl": "- U kunt meerdere kopieën van een client op dezelfde computer installeren."
-    }
-  },
-  {
-    "translation": {
       "en": "These copies can be the same or different versions, for example, V8.2, V9.1.100 and V9.1.300.",
       "nl": "Dit kunnen kopieën van dezelfde of een andere versie zijn, bijvoorbeeld V8.2, V9.1.100 en V9.1.300."
     }
@@ -6183,12 +5541,6 @@
     "translation": {
       "en": "If you used a runtime client in the past, you might prefer using this driver, as it uses an even smaller application deployment footprint.",
       "nl": "Als u eerder een runtime client hebt gebruikt, geeft u wellicht de voorkeur aan dit stuurprogramma, omdat het minder capaciteit in beslag neemt bij de ingebruikname van toepassingen."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -6231,12 +5583,6 @@
     "translation": {
       "en": "For details about the migration, see 'Migration essentials for DB2 clients' in Migration Guide.",
       "nl": "Zie \"Migration essentials for DB2 clients\" in Migration Guide voor meer informatie over de migratie."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -6289,18 +5635,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Chapter 8.",
-      "nl": "Hoofdstuk 8."
-    }
-  },
-  {
-    "translation": {
       "en": "Federation enhancements",
       "nl": "Uitbreidingen voor federatieve systemen"
     }
@@ -6327,12 +5661,6 @@
     "translation": {
       "en": "For information about federation enhancements introduced in DB2 Version 9.1, follow the links in the \"Related concepts\" section.",
       "nl": "Voor meer informatie over uitbreiding van federatieve functies in DB2 Versie 9.1, volgt u de links onder \"Verwante concepten\"."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -6421,12 +5749,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Statement level isolation for nicknames",
       "nl": "Vergrendeling op instructieniveau voor roepnamen"
     }
@@ -6453,12 +5775,6 @@
     "translation": {
       "en": "After a connection is made to a data source, the isolation level for duration of the connection cannot be changed.",
       "nl": "Nadat een verbinding met een gegevenbron is gemaakt, kan het vergrendelingsniveau gedurende de verbinding niet worden gewijzigd."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -6505,12 +5821,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "- Informix IDS Version 7.31 or later, Version 9.40 or later, Version 10.0 or later",
       "nl": "- Informix IDS Versie 7.31 of een latere versie, Versie 9.40 of een latere versie, Versie 10.0 of later"
     }
@@ -6541,18 +5851,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Chapter 9.",
-      "nl": "Hoofdstuk 9."
-    }
-  },
-  {
-    "translation": {
       "en": "Installation, migration, and fix pack enhancements",
       "nl": "Uitbreidingen voor installatie, migratie en fixpacks"
     }
@@ -6567,12 +5865,6 @@
     "translation": {
       "en": "For information about installation, migration, and fix pack enhancements introduced in DB2 Version 9.1, follow the links in the \"Related concepts\" section.",
       "nl": "Voor informatie over verbeteringen voor installatie, migratie en fixpacks in DB2 Versie 9.1 volgt u de links onder \"Verwante concepten\"."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -6705,12 +5997,6 @@
     "translation": {
       "en": "You must change any scripts containing a native installation utility that you use to interface with and query DB2 installations.",
       "nl": "U moet alle scripts waarin zo'n standaard installatieprogramma wordt gebruikt als interface en queryfunctie voor DB2-installaties wijzigen."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -6967,12 +6253,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Installation of DB2 products without using an Administrator user ID now supported (Windows)",
       "nl": "Installatie van DB2-producten zonder een beheerders-ID nu ondersteund (Windows)"
     }
@@ -6987,12 +6267,6 @@
     "translation": {
       "en": "You can use the Windows operating system elevated privileges feature to perform the installation with a Windows Power User ID or a Restricted User ID.",
       "nl": "U kunt de functie voor verhoogde machtigingen in Windows gebruiken om de installatie uit te voeren met een Windows-hoofdgebruikers-ID of een gebruikers-ID met beperkte rechten."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -7039,12 +6313,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Migration resources for DB2 database systems added",
       "nl": "Migratieresources voor DB2-databasesystemen toegevoegd"
     }
@@ -7083,12 +6351,6 @@
     "translation": {
       "en": "These resources include white papers and sample scripts for migration.",
       "nl": "Deze resources omvatten white papers en voorbeeldscripts voor migratie."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -7171,12 +6433,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Response file enhancements",
       "nl": "Uitbreiding van responsbestand"
     }
@@ -7207,12 +6463,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Update capabilities added to the DB2 Information Center",
       "nl": "Updatemogelijkheden toegevoegd aan het DB2 Informatiecentrum"
     }
@@ -7227,18 +6477,6 @@
     "translation": {
       "en": "With this feature, you can search for and download updates for your Information Center simply by clicking the Update button in the Information Center window.",
       "nl": "Met deze voorziening kunt u zoeken naar updates voor het Informatiecentrum en deze eenvoudig downloaden door te klikken op de knop Update in het venster van het Informatiecentrum."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Chapter 10.",
-      "nl": "Hoofdstuk 10."
     }
   },
   {
@@ -7275,12 +6513,6 @@
     "translation": {
       "en": "For manageability enhancements introduced in DB2 Version 9.1, follow the links in the \"Related concepts\" section.",
       "nl": "Voor informatie over verbeteringen in het beheer van DB2 Versie 9.1 volgt u de links in de sectie \"Verwante concepten\"."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -7333,12 +6565,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "ALTER TABLE statement enhancements",
       "nl": "Uitbreiding van de instructie ALTER TABLE"
     }
@@ -7381,12 +6607,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Automated evaluation of object maintenance policies by the DB2 UDB for z/OS health monitor",
       "nl": "Automatische evaluatie van beleid voor objectonderhoud door de Health Monitor van DB2 UDB voor z/OS"
     }
@@ -7395,12 +6615,6 @@
     "translation": {
       "en": "This topic refers collectively to the following products as DB2 UDB for z/OS:",
       "nl": "Dit onderwerp verwijst naar de volgende producten als DB2 UDB voor z/OS:"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -7449,12 +6663,6 @@
     "translation": {
       "en": "- OS/390 Enablement (FMID JDB771D), if connecting to a DB2 UDB for OS/390 and z/OS Version 7 server",
       "nl": "- OS/390 Enablement (FMID JDB771D), als u een verbinding tot stand brengt met een DB2 UDB voor OS/390 en z/OS Versie 7-server"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -7591,12 +6799,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Automatic table and index reorganization enhancements",
       "nl": "Uitbreidingen van de automatische tabel- en indexreorganisatie"
     }
@@ -7663,12 +6865,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Buffer pool identifiers displayed in database memory output",
       "nl": "Bufferpool-ID's weergegeven in databasegeheugenuitvoer"
     }
@@ -7683,12 +6879,6 @@
     "translation": {
       "en": "Buffer pool identifiers are now displayed in parentheses next to the buffer pools (including system buffer pools).",
       "nl": "Er worden nu bufferpool-ID's tussen haakjes weergegeven naast de bufferpools (inclusief de systeembufferpools)."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -7731,12 +6921,6 @@
     "translation": {
       "en": "If you want to copy a schema within the same database, use the ADMIN_COPY_SCHEMA procedure.",
       "nl": "Als u een schema binnen dezelfde database wilt kopiëren, gebruik dan de procedure ADMIN_COPY_SCHEMA."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -7813,26 +6997,8 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "EXEC SQL utility support for loading data into DB2 UDB for z/OS tables",
       "nl": "Ondersteuning van EXEC SQL-hulpprogramma voor het laden van gegevens in DB2 UDB voor z/OS-tabellen"
-    }
-  },
-  {
-    "translation": {
-      "en": "This topic refers collectively to the following products as DB2 UDB for z/OS:",
-      "nl": "Dit onderwerp verwijst naar de volgende producten als DB2 UDB voor z/OS:"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -7845,12 +7011,6 @@
     "translation": {
       "en": "The Control Center uses the EXEC SQL utility control statement to declare a cursor, and the result table from the declared cursor is used as input to the LOAD utility.",
       "nl": "Het Besturingscentrum gebruikt de stuurinstructie voor het hulpprogramma EXEC SQL om een cursor te declareren, en de resultaattabel van de gedeclareerde cursor wordt gebruikt als invoer voor het hulpprogramma LOAD."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -7963,12 +7123,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "First Steps interface enhancements",
       "nl": "Uitbreiding van Wegwijzer-interface"
     }
@@ -8053,12 +7207,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Increased identifier length limits enable you to specify more descriptive names for database objects.",
       "nl": "Dankzij de grotere toegestane ID-lengte kunt u meer beschrijvende namen voor databaseobjecten gebruiken."
     }
@@ -8083,12 +7231,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Load support for partitioned tables added",
       "nl": "Laadondersteuning voor gepartitioneerde tabellen toegevoegd"
     }
@@ -8103,12 +7245,6 @@
     "translation": {
       "en": "Tables using any combination of DISTRIBUTE BY, PARTITION BY, and ORGANIZE BY algorithms are supported.",
       "nl": "Tabellen die een willekeurige combinatie van de algoritmen DISTRIBUTE BY, PARTITION BY en ORGANIZE BY gebruiken, worden ondersteund."
-    }
-  },
-  {
-    "translation": {
-      "en": "The load utility inserts data records into the correct data partition without the need to use an external utility to partition the input data before loading.",
-      "nl": "Het hulpprogramma Load voegt gegevensrecords in de juiste gegevenspartitie in zonder dat de ingevoerde gegevens vóór het laden door een extern hulpprogramma hoeven te worden gepartitioneerd."
     }
   },
   {
@@ -8133,12 +7269,6 @@
     "translation": {
       "en": "Rows violating the range constraint are optionally inserted into the exception table.",
       "nl": "Rijen die in strijd zijn met de bereiksvoorwaarden, worden optioneel ingevoegd in de uitzonderingentabel."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -8179,18 +7309,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Chapter 11.",
-      "nl": "Hoofdstuk 11."
-    }
-  },
-  {
-    "translation": {
       "en": "National language enhancements",
       "nl": "Uitbreiding van taalondersteuning"
     }
@@ -8221,12 +7339,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Unicode support added for character-based string functions",
       "nl": "Unicode-ondersteuning toegevoegd voor tekenreeksfuncties"
     }
@@ -8245,20 +7357,8 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "The modified existing functions include:",
       "nl": "De gewijzigde bestaande functies zijn onder meer:"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -8289,12 +7389,6 @@
     "translation": {
       "en": "- OCTETS specifies that the result is to be expressed in bytes This argument is optional for the existing functions.",
       "nl": "- OCTETS geeft aan dat het resultaat moet worden uitgedrukt in bytes Dit argument is optioneel voor bestaande functies."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -8335,12 +7429,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Enhanced query performance using statistical views",
       "nl": "Verbeterde queryprestaties met behulp van statistische views"
     }
@@ -8371,12 +7459,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Faster data loading using SOURCEUSEREXIT customizable user exit",
       "nl": "Sneller gegevens laden met de aanpasbare userexit SOURCEUSEREXIT"
     }
@@ -8391,12 +7473,6 @@
     "translation": {
       "en": "This facility supports multiple parallel user exits and is supported in partitioned database environments.",
       "nl": "Deze functie ondersteunt meervoudige parallelle userexits en wordt ondersteund in omgevingen met gepartitioneerde databases."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -8421,12 +7497,6 @@
     "translation": {
       "en": "Using the DATABASE option or the sqlu_remotefetch_entry media entry provides usability and performance benefits over using nicknames.",
       "nl": "Het gebruik van de optie DATABASE of het media-item sqlu_remotefetch_entry biedt bruikbaarheids- en prestatievoordelen ten opzichte van het gebruik van roepnamen."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -8491,12 +7561,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Online processing of the SET INTEGRITY statement",
       "nl": "Online verwerking van de instructie SET INTEGRITY"
     }
@@ -8557,12 +7621,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Optimizer registry variables and keywords added",
       "nl": "Registervariabelen en sleutelwoorden van optimalisatieprogramma toegevoegd"
     }
@@ -8607,12 +7665,6 @@
     "translation": {
       "en": "Use both keywords carefully, as they can severely impact performance.",
       "nl": "Wees voorzichtig bij het gebruik van beide sleutelwoorden, omdat deze het prestatievermogen negatief kunnen beïnvloeden."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -8755,12 +7807,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "64 KB page size support added for POWER5+ processors (AIX)",
       "nl": "Ondersteuning van 64-kB-geheugenpagina's voor POWER5+- processors (AIX)"
     }
@@ -8775,18 +7821,6 @@
     "translation": {
       "en": "Version 9.1 of the DB2 database manager allocates 64 KB memory pages when appropriate to enhance its performance when running on the AIX 5.3E operating system on POWER5+ hardware.",
       "nl": "Versie 9.1 van DB2 wijst 64 kB-geheugenpagina's toe als de prestaties op AIX 5.3E op POWER5+-hardware moeten worden verbeterd."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Chapter 13.",
-      "nl": "Hoofdstuk 13."
     }
   },
   {
@@ -8815,12 +7849,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Increased maximum number of index columns and maximum size of index keys",
       "nl": "Maximumaantal indexkolommen en maximumgrootte van indexsleutels verhoogd"
     }
@@ -8845,20 +7873,8 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Previously, the maximum size of an index key was 1 KB, regardless of the index page size.",
       "nl": "In het verleden was de maximumgrootte van een indexsleutel 1 kB, ongeacht de grootte van de indexpagina."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -8877,12 +7893,6 @@
     "translation": {
       "en": "A larger record identifier to uniquely identify rows within the database allows for larger system or user temporary tables to be held in the system or user temporary table spaces.",
       "nl": "Dankzij een groter record-ID voor het op unieke wijze identificeren van rijen in de database kunnen de tijdelijke systeem- of gebruikerstabelruimten grotere tijdelijke systeem- of gebruikerstabellen bevatten."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -8923,12 +7933,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Chapter 14.",
       "nl": "Hoofdstuk 14."
     }
@@ -8961,12 +7965,6 @@
     "translation": {
       "en": "For more information about security enhancements introduced in DB2 Version 9.1, follow the links in the \"Related concepts\" section.",
       "nl": "Voor meer informatie over beveiligingsuitbreidingen in DB2 Versie 9.1 volgt u de links onder \"Verwante concepten\"."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -9115,12 +8113,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "RESTRICT option added to CREATE DATABASE statement",
       "nl": "Optie RESTRICT toegevoegd aan instructie CREATE DATABASE"
     }
@@ -9147,12 +8139,6 @@
     "translation": {
       "en": "You do not have to worry about granting other permissions by default.",
       "nl": "U hoeft zich geen zorgen te maken over andere machtigingen die standaard verleend worden."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -9195,12 +8181,6 @@
     "translation": {
       "en": "- Grant or revoke the SETSESSIONUSER privilege",
       "nl": "- De machtiging SETSESSIONUSER verlenen of intrekken"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -9259,12 +8239,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "TRANSFER OWNERSHIP SQL statement added",
       "nl": "SQL-instructie TRANSFER OWNERSHIP toegevoegd"
     }
@@ -9295,18 +8269,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Chapter 15.",
-      "nl": "Hoofdstuk 15."
-    }
-  },
-  {
-    "translation": {
       "en": "Troubleshooting and problem determination enhancements",
       "nl": "Uitbreidingen voor probleembepaling en -- oplossing"
     }
@@ -9333,12 +8295,6 @@
     "translation": {
       "en": "For troubleshooting and problem determination enhancements introduced in DB2 Version 9.1, follow the links in the \"Related concepts\" section.",
       "nl": "Voor informatie over verbeteringen voor het opsporen en oplossen van problemen in DB2 Versie 9.1 volgt u de links onder \"Verwante concepten\"."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -9385,12 +8341,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "High water mark option added for db2pd -fcm command",
       "nl": "Optie voor high water-markering toegevoegd voor opdracht db2pd -- fcm"
     }
@@ -9415,12 +8365,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Trace mask support added to the db2trc command",
       "nl": "Ondersteuning voor traceermaskers toegevoegd aan de opdracht db2trc"
     }
@@ -9441,12 +8385,6 @@
     "translation": {
       "en": "They are provided by DB2 Support technical support as necessary.",
       "nl": "Deze worden indien nodig geleverd door DB2-servicemedewerkers."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -9481,12 +8419,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Installation, migration, and fix pack changes",
       "nl": "Wijzigingen in installatie, migratie en fixpacks"
     }
@@ -9501,12 +8433,6 @@
     "translation": {
       "en": "For information about changes to existing DB2 database installation, migration, and fix pack functionality in DB2 Version 9.1, follow the links in the \"Related concepts\" section.",
       "nl": "Voor informatie over wijzigingen in installatie, migratie en fixpacks in DB2 Versie 9.1 volgt u de links onder \"Verwante concepten\"."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -9529,12 +8455,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "deinstall command parameter changes (Linux and UNIX)",
       "nl": "Wijzigingen van opdrachtparameter db2_deinstall (Linux en UNIX)"
     }
@@ -9549,12 +8469,6 @@
     "translation": {
       "en": "In Version 9.1, you must specify the -a option to remove all installed DB2 products in the current location.",
       "nl": "In Versie 9.1 moet u de optie -a opgeven om alle geïnstalleerde DB2-producten op de huidige locatie te verwijderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -9613,12 +8527,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Documentation updates are available between product releases",
       "nl": "Bijgewerkte documentatie beschikbaar tussen productreleases"
     }
@@ -9655,12 +8563,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Installation CD changes for national language versions of DB2 products (Linux and UNIX)",
       "nl": "Wijzigingen op de installatie-CD voor verschillende taalversies van DB2-producten (Linux en UNIX)"
     }
@@ -9675,12 +8577,6 @@
     "translation": {
       "en": "This package contains national language support files (product files that are specific to a language).",
       "nl": "Dit pakket bevat taalondersteuningsbestanden (productbestanden die specifiek van toepassing zijn op een taal)."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -9723,12 +8619,6 @@
     "translation": {
       "en": "For details regarding DB2 product packaging and licensing, see DB2 Database for Linux, UNIX, and Windows home page at www.ibm.com/db2/udb.",
       "nl": "Zie de DB2 Database for Linux, UNIX, and Windows-homepage op www.ibm.com/db2/udb voor meer informatie over DB2-producten en licenties."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -9793,12 +8683,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "To remove a Version 9 Information Center, use the following methods:",
       "nl": "U kunt een Informatiecentrum van Versie 9 als volgt verwijderen:"
     }
@@ -9819,12 +8703,6 @@
     "translation": {
       "en": "- On the Windows platforms, use the Add/Remove Programs windows, accessible through the Windows Control Panel.",
       "nl": "- Op Windows-platforms kunt u het venster Software gebruiken, dat toegankelijk is via het Configuratiescherm van Windows."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -9867,12 +8745,6 @@
     "translation": {
       "en": "After installation, you can manually migrate the client instance by running the db2imigr command.",
       "nl": "Na de installatie kunt u het clientsubsysteem handmatig migreren door de opdracht db2imigr uit te voeren."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -10051,12 +8923,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Multiple CD installation now required for some products (Linux and UNIX)",
       "nl": "Installatie vanaf meerdere CD's nu vereist voor sommige producten (Linux en UNIX)"
     }
@@ -10087,12 +8953,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Database setup changes",
       "nl": "Wijzigingen in het opzetten van databases"
     }
@@ -10107,12 +8967,6 @@
     "translation": {
       "en": "For changes to existing DB2 database setup functionality in DB2 Version 9.1, follow the links in the \"Related concepts\" section.",
       "nl": "Voor wijzigingen in de bestaande DB2-installatiefunctionaliteit in DB2 Versie 9.1 volgt u de links onder \"Verwante concepten\"."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -10147,12 +9001,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Automatic configuration of prefetchers and page cleaners enabled by default",
       "nl": "Automatische configuratie van standaard ingeschakelde prefetchers en opschoonprogramma's voor geheugenpagina's"
     }
@@ -10177,12 +9025,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Automatic self-tuning memory enabled by default during database creation",
       "nl": "Standaard automatische geheugenoptimalisatie bij maken van database"
     }
@@ -10197,12 +9039,6 @@
     "translation": {
       "en": "You can enable self-tuning memory for migrated databases by setting the self_tuning_mem configuration parameter to ON and setting some or all of the following configuration parameters to AUTOMATIC:",
       "nl": "Bij gemigreerde databases kunt u het geheugenoptimalisatieprogramma inschakelen door de configuratieparameter self_tuning_mem in te stellen op ON en enige of alle van de volgende configuratieparameters in te stellen op AUTOMATIC:"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -10249,12 +9085,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Automatic statistics collection enabled by default during database creation",
       "nl": "Automatische verzameling van statistieken standaard ingeschakeld bij maken van database"
     }
@@ -10281,24 +9111,6 @@
     "translation": {
       "en": "You can disable automatic statistics collection by explicitly setting the auto_runstats database configuration parameter to OFF.",
       "nl": "U kunt de automatische verzameling van statistieken uitschakelen door de databaseconfiguratieparameter auto_runstats in te stellen op OFF."
-    }
-  },
-  {
-    "translation": {
-      "en": "Note: If you migrate a database from Version 8 to Version 9.1, this feature is not automatically enabled.",
-      "nl": "Opmerking: Als u een database migreert van Versie 8 naar Versie 9.1, wordt deze functie niet automatisch ingeschakeld."
-    }
-  },
-  {
-    "translation": {
-      "en": "To use this feature on a migrated database, you must enable it manually.",
-      "nl": "Als u deze functie wilt gebruiken op een gemigreerde database, moet u deze handmatig inschakelen."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -10357,12 +9169,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Configuration Advisor enabled by default during database creation",
       "nl": "Configuration Advisor standaard ingeschakeld bij maken van database"
     }
@@ -10411,12 +9217,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Configuration parameters default value changes",
       "nl": "Wijziging van standaardwaarden van configuratieparameters"
     }
@@ -10429,20 +9229,8 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "For a list of deprecated configuration parameters, see 'Deprecated and discontinued features' in Administration Guide: Planning.",
       "nl": "Zie 'Deprecated and discontinued features' in Administration Guide: Planning om een lijst van gedeprecieerde configuratieparameters te bekijken."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -10461,12 +9249,6 @@
     "translation": {
       "en": "Follow the related links for details on the Version 9.1 space requirements.",
       "nl": "Volg de verwante links voor meer informatie over de ruimtevereisten voor Versie 9.1."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -10519,12 +9301,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Increased log, table space, and memory requirements due to larger record identifiers (RIDs)",
       "nl": "Hogere logboek-, tabelruimte- en geheugenvereisten als gevolg van grotere record-ID's (RID's)"
     }
@@ -10569,12 +9345,6 @@
     "translation": {
       "en": "If your system temporary table space page size is 32 KB, you need to reduce the length of the information retrieved by your query or split your query.",
       "nl": "Als de paginagrootte van uw tijdelijke systeemtabelruimte 32 kB is, moet u de lengte van de informatie die wordt opgehaald door een query beperken of de query splitsen."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -10633,12 +9403,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Registry and environment variables default value changes",
       "nl": "Wijzigingen van standaardwaarden voor register- en omgevingsvariabelen"
     }
@@ -10651,20 +9415,8 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "32-bit DB2 database instance support changes",
       "nl": "Wijzigingen in ondersteuning van 32-bits DB2- databasesubsystemen"
-    }
-  },
-  {
-    "translation": {
-      "en": "64-bit server support paves the way towards delivering higher processing power, more memory, and better application performance.",
-      "nl": "64-bits serverondersteuning vormt de basis voor een grotere verwerkingscapaciteit, meer geheugen en betere prestaties door toepassingen."
     }
   },
   {
@@ -10677,12 +9429,6 @@
     "translation": {
       "en": "Responding to market demand while also building on the 64-bit DB2 database server support introduced in DB2 UDB Version 8, IBM is reducing the number of supported 32-bit platforms and making DB2 database server support on 64-bit hardware and operating systems a higher priority.",
       "nl": "Als gevolg van de vraag op de markt en gezien de verdere ontwikkeling van de 64-bits DB2-database serverondersteuning die werd geïntroduceerd in DB2 UDB Versie 8, vermindert IBM het aantal ondersteunde 32-bits platforms en geeft prioriteit aan de DB2-databaseserverondersteuning op 64-bits hardware en 64-bits besturingssystemen."
-    }
-  },
-  {
-    "translation": {
-      "en": "IBM will, however, continue to support those 32-bit Windows and Linux platforms that are often preferred for building or running small and medium business applications.",
-      "nl": "IBM blijft echter 32-bits Windows- en Linux-platforms ondersteunen, omdat deze vaak de voorkeur genieten voor het bouwen en uitvoeren van kleine tot middelgrote toepassingen."
     }
   },
   {
@@ -10717,12 +9463,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Migration of a 32-bit DB2 database server instance to a 64-bit DB2 database server instance can impact the functioning of DB2 database applications and routines.",
       "nl": "Migratie van een 32-bits DB2-databaseserversubsysteem naar een 64-bits DB2-subsysteem kan gevolgen hebben voor het functioneren van DB2-databasetoepassingen en -routines."
     }
@@ -10735,38 +9475,8 @@
   },
   {
     "translation": {
-      "en": "Connection changes",
-      "nl": "Verbindingswijzigingen"
-    }
-  },
-  {
-    "translation": {
-      "en": "- DB2 client to DB2 server connection support",
-      "nl": "- Ondersteuning voor verbindingen tussen DB2-cient en DB2-server"
-    }
-  },
-  {
-    "translation": {
-      "en": "Client application support changes",
-      "nl": "Wijzigingen in ondersteuning van clienttoepassingen"
-    }
-  },
-  {
-    "translation": {
       "en": "- Support for 32-bit database applications created in DB2 UDB Version 8 to continue working in DB2 Version 9",
       "nl": "- Ondersteuning van 32-bits databasetoepassingen die zijn gemaakt met DB2 UDB Versie 8, zodat ze blijven werken in DB2 Versie 9"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Changed environment variable value settings to facilitate 32-bit and 64-bit development and deployment",
-      "nl": "- Gewijzigde instellingen van omgevingsvariabelen ten behoeve van 32-bits en 64-bits ontwikkeling en ingebruikname"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Updated sample build scripts are available for building new applications",
-      "nl": "- Er zijn bijgewerkte voorbeeldscripts beschikbaar voor het bouwen van nieuwe toepassingen."
     }
   },
   {
@@ -10789,12 +9499,6 @@
   },
   {
     "translation": {
-      "en": "JVM support changes",
-      "nl": "Wijzigingen van JVM-ondersteuning"
-    }
-  },
-  {
-    "translation": {
       "en": "- 64-bit JVM will only be provided with 64-bit DB2 database servers",
       "nl": "- De 64-bits JVM wordt alleen geleverd bij 64-bits DB2-databaseservers."
     }
@@ -10813,12 +9517,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Administration changes",
       "nl": "Wijzigingen in beheer"
     }
@@ -10833,12 +9531,6 @@
     "translation": {
       "en": "For changes to existing DB2 administration-related functionality in DB2 Version 9.1, follow the links in the \"Related concepts\" section.",
       "nl": "Voor wijzigingen in de bestaande DB2-beheerfunctionaliteit in DB2 Versie 9.1 volgt u de links onder \"Verwante concepten\"."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -10891,12 +9583,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Backup image naming convention has changed (Windows)",
       "nl": "Naamgeving van back-upimage is gewijzigd (Windows)"
     }
@@ -10923,12 +9609,6 @@
     "translation": {
       "en": "Backup images from earlier versions of the product that use the previous naming structure can still be restored on V9.1 DB2 database systems.",
       "nl": "Back-upimages uit eerdere versies van het product met de vorige naamgevingsstructuur kunnen nog steeds worden teruggezet in V9.1 DB2-databasesystemen."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -10963,12 +9643,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Collating sequence IDENTITY replaces BINARY in command output",
       "nl": "Sorteervolgorde IDENTITY vervangt BINARY in opdrachtuitvoer"
     }
@@ -10995,12 +9669,6 @@
     "translation": {
       "en": "The collating sequence itself has not changed.",
       "nl": "De sorteervolgorde zelf is niet gewijzigd."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -11107,12 +9775,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "db2mtrk command changes (Windows)",
       "nl": "Wijzigingen in de opdracht db2mtrk (Windows)"
     }
@@ -11139,12 +9801,6 @@
     "translation": {
       "en": "- The -i option, which shows instance level memory, no longer shows the database level memory since this information is available through the -d option.",
       "nl": "- De optie -i, waarmee het subsysteemniveaugeheugen wordt afgebeeld, geeft niet meer het databaseniveaugeheugen weer, omdat deze informatie beschikbaar is met de optie -d."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -11191,12 +9847,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Handling of new database connections has changed",
       "nl": "Afhandeling van nieuwe databaseverbindingen gewijzigd"
     }
@@ -11227,12 +9877,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Load from cursor incompatibilities with previous releases",
       "nl": "Laden uit incompatibele cursortypen van oudere versies"
     }
@@ -11253,12 +9897,6 @@
     "translation": {
       "en": "Likewise, the distributed data files that you create on a DB2 V9.1 server are incompatible with a DB2 UDB Version 8 or earlier version server.",
       "nl": "De gedistribueerde gegevensbestanden die u hebt gemaakt op een DB2 V9.1-server zijn op hun beurt incompatibel met een DB2 UDB Versie 8-server of een server van een eerdere versie."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -11323,12 +9961,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "New DB2 agents may affect MAX_CONNECTIONS configuration and application monitor output",
       "nl": "Nieuwe DB2-agents kunnen de MAX_CONNECTIONS-configuratie en de uitvoer van de toepassingsbewaking beïnvloeden"
     }
@@ -11377,12 +10009,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "REORGCHK command output changes",
       "nl": "Wijzigingen in de uitvoer van de opdracht REORGCHK"
     }
@@ -11409,12 +10035,6 @@
     "translation": {
       "en": "The actual data for the remaining columns follows each index name.",
       "nl": "De feitelijke gegevens voor de resterende kolommen volgen na elke indexnaam."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -11473,12 +10093,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "SET SESSION AUTHORIZATION requires SETSESSIONUSER privilege",
       "nl": "SET SESSION AUTHORIZATION vereist machtiging SETSESSIONUSER"
     }
@@ -11511,12 +10125,6 @@
     "translation": {
       "en": "Users who acquire DBADM authority after you migrate to DB2 Version 9.1 cannot change the session authorization ID unless they are explicitly granted the SETSESSIONUSER privilege.",
       "nl": "Gebruikers die de machtiging DBADM krijgen na migratie naar DB2 Versie 9.1, kunnen het sessiemachtigings-ID niet wijzigen, tenzij de machtiging SETSESSIONUSER expliciet is verleend."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -11581,12 +10189,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Table space-level point-in-time rollforward operations restrictions",
       "nl": "Beperkingen voor ROLLFORWARD-bewerkingen tot een bepaald tijdstip op tabelruimteniveau"
     }
@@ -11601,12 +10203,6 @@
     "translation": {
       "en": "You should migrate any clients running an earlier version of the database product to Version 9 in order to roll a table space forward to a point in time.",
       "nl": "U moet clients migreren naar Versie 9 als deze een eerdere versie van het databaseproduct uitvoeren en u een ROLLFORWARD naar een ander tijdstip op tabelruimteniveau wilt uitvoeren."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -11653,12 +10249,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Write-to-table event monitor changes",
       "nl": "Wijzigingen van eventmonitor voor het schrijven naar tabellen"
     }
@@ -11677,12 +10267,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Application development changes",
       "nl": "Wijzigingen in toepassingsontwikkeling"
     }
@@ -11697,12 +10281,6 @@
     "translation": {
       "en": "For changes to existing application development-related functionality in DB2 Version 9.1, follow the links in the \"Related concepts\" section.",
       "nl": "Voor wijzigingen in de bestaande functionaliteit voor toepassingsontwikkeling in DB2 Versie 9.1 volgt u de links onder \"Verwante concepten\"."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -11739,12 +10317,6 @@
     "translation": {
       "en": "- There are new environment variable values.",
       "nl": "- Er zijn nieuwe waarden voor omgevingsvariabelen."
-    }
-  },
-  {
-    "translation": {
-      "en": "External routine support changes",
-      "nl": "Wijzigingen in ondersteuning van externe routines"
     }
   },
   {
@@ -11791,12 +10363,6 @@
   },
   {
     "translation": {
-      "en": "JVM support changes",
-      "nl": "Wijzigingen van JVM-ondersteuning"
-    }
-  },
-  {
-    "translation": {
       "en": "- Only a 64-bit JVM is provided with 64-bit DB2 database servers.",
       "nl": "- Er wordt alleen een 64-bits JVM geleverd voor 64-bits DB2-databaseservers."
     }
@@ -11811,12 +10377,6 @@
     "translation": {
       "en": "- Java external routines require a 32-bit JVM for 32-bit DB2 database servers and a 64-bit JVM for 64-bit DB2 database servers.",
       "nl": "- Externe Java-routines vereisen een 32-bits JVM voor 32-bits DB2-databaseservers en een 64-bits JVM voor 64-bits DB2-databaseservers."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -11917,12 +10477,6 @@
   },
   {
     "translation": {
-      "en": "Native XML data store support",
-      "nl": "Ondersteuning voor native XML-gegevensopslag"
-    }
-  },
-  {
-    "translation": {
       "en": "Please refer to the related concepts below.",
       "nl": "Zie ook de onderstaande concepten."
     }
@@ -11943,12 +10497,6 @@
     "translation": {
       "en": "Please refer to the Command Reference for more details.",
       "nl": "Raadpleeg de Command Reference voor meer informatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -11991,12 +10539,6 @@
     "translation": {
       "en": "This change applies to FETCH statements as well as FETCH statements that are implicitly contained in FOR loops.",
       "nl": "Deze wijziging is van toepassing op FETCH-instructies alsmede op FETCH-instructies die impliciet zijn opgenomen in FOR-lussen."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -12079,12 +10621,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "IBM Software Development Kit (SDK) for Java 5.x support added (AIX, Linux, and Windows)",
       "nl": "Ondersteuning toegevoegd voor IBM SDK (Software Development Kit) voor Java 5.x (AIX, Linux en Windows)"
     }
@@ -12111,12 +10647,6 @@
     "translation": {
       "en": "If you are using the JDBC drivers with your own applications, you need to ensure the IBM SDK is installed.",
       "nl": "Als u de JDBC-stuurprogramma's bij uw eigen toepassingen gebruikt, moet u ervoor zorgen dat IBM SDK is geïnstalleerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -12153,12 +10683,6 @@
     "translation": {
       "en": "To revert to Version 8.2 behavior, set the DB2_RESOLVE_CALL_CONFLICT registry variable to N.",
       "nl": "Als u het gedrag van Versie 8.2 wilt herstellen, stelt u de variabele DB2_RESOLVE_CALL_CONFLICT in op N."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -12211,12 +10735,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Sample build scripts updated",
       "nl": "Voorbeelden van buildscripts zijn bijgewerkt"
     }
@@ -12253,12 +10771,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Note: Only the build scripts specific to the current operating system are installed.",
       "nl": "Opmerking: Alleen de buildscripts die betrekking hebben op het huidige besturingssysteem worden geïnstalleerd."
     }
@@ -12267,12 +10779,6 @@
     "translation": {
       "en": "For other build scripts, refer to the DB2 Information Center.",
       "nl": "Raadpleeg het DB2 Informatiecentrum voor andere buildscripts."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -12319,12 +10825,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Check pending table state is replaced and iCheckPending parameter is deprecated",
       "nl": "Tabelstatus Controle in behandeling is vervangen en parameter iCheckPending is gedeprecieerd"
     }
@@ -12363,12 +10863,6 @@
     "translation": {
       "en": "Table 5 on page 140 shows a comparison between the iCheckPending and the iSetIntegrityPending parameter values:",
       "nl": "In Tabel 5 vindt u een vergelijking tussen de parameterwaarden iCheckPending en iSetIntegrityPending."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -12415,12 +10909,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "COLNAMES column in SYSCAT.INDEXES is deprecated",
       "nl": "Kolom COLNAMES in SYSCAT.INDEXES is gedeprecieerd"
     }
@@ -12435,12 +10923,6 @@
     "translation": {
       "en": "Either a blank or a NULL value is returned if any column name is greater than 30 bytes or if there are more than 16 columns.",
       "nl": "Er wordt een spatie of een NULL-waarde geretourneerd als een kolomnaam groter is dan 30 bytes of als er meer dan 16 kolommen zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -12499,12 +10981,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "DB2LINUXAIO registry variable is deprecated",
       "nl": "De registervariabele DB2LINUXAIO is gedeprecieerd"
     }
@@ -12523,12 +10999,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "db2secv82 command is deprecated",
       "nl": "De opdracht db2secv82 is gedeprecieerd"
     }
@@ -12543,12 +11013,6 @@
     "translation": {
       "en": "You can use the db2extsec command as a replacement.",
       "nl": "U kunt de opdracht db2extsec als vervanging gebruiken."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -12601,32 +11065,14 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "You can use the following SQL statement to specify the entry point explicitly:",
       "nl": "U kunt de volgende SQL-instructie gebruiken om expliciet een ingangspunt op te geven:"
     }
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "The definition for the routine that results in the database is as follows:",
       "nl": "Het resultaat in de database is een routine met de volgende definitie:"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -12639,12 +11085,6 @@
     "translation": {
       "en": "With a list of entry points for the library, it should be easier to determine which entry point to specify for the routine.",
       "nl": "Als u beschikt over een lijst met ingangspunten voor de bibliotheek, is het eenvoudiger om te bepalen welk ingangspunt u moet opgeven voor de routine."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -12663,12 +11103,6 @@
     "translation": {
       "en": "As an alternative to using raw logs, you can use either direct input/output (DIO) or concurrent input/output (CIO).",
       "nl": "Als alternatief voor het gebruik van rechtstreeks toegankelijke logboeken kunt u directe invoer/uitvoer (DIO) of gelijktijdige invoer/uitvoer (CIO) gebruiken."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -12715,12 +11149,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "ADD PARTITIONING KEY clause of the ALTER TABLE statement is deprecated",
       "nl": "Clausule ADD PARTITIONING KEY van de instructie ALTER TABLE is gedeprecieerd"
     }
@@ -12751,12 +11179,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "DROP PARTITIONING KEY clause of the ALTER TABLE statement is deprecated",
       "nl": "Clausule DROP PARTITIONING KEY van de instructie ALTER TABLE is gedeprecieerd"
     }
@@ -12765,30 +11187,6 @@
     "translation": {
       "en": "The DROP PARTITIONING KEY clause is deprecated; it is supported for backwards compatibility.",
       "nl": "De clausule DROP PARTITIONING KEY is gedeprecieerd, maar wordt wel ondersteund voor oudere versies."
-    }
-  },
-  {
-    "translation": {
-      "en": "There is no restriction on using this old clause with the new PARTITION BY RANGE clause.",
-      "nl": "Er gelden geen beperkingen voor het combineren van de oude clausule en de nieuwe clausule PARTITION BY RANGE."
-    }
-  },
-  {
-    "translation": {
-      "en": "The DISTRIBUTE BY REPLICATION clause, as per previous releases, is only supported with materialized query tables (MQTs).",
-      "nl": "De clausule DISTRIBUTE BY REPLICATION wordt net als bij oudere versies alleen ondersteund voor MQT's (materialized query tables)."
-    }
-  },
-  {
-    "translation": {
-      "en": "An error is returned if you specify it for any other type of table.",
-      "nl": "Er verschijnt een foutbericht als u deze voor een ander type tabel opgeeft."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -12819,12 +11217,6 @@
     "translation": {
       "en": "You can migrate manually from Type 1 to Type 2 indexes during an index reorganization.",
       "nl": "U kunt tijdens een indexreorganisatie handmatig migreren van type 1- naar type 2-indexen."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -12865,12 +11257,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "The -w option of the db2icrt, db2ilist, and db2iupdt commands is ignored",
       "nl": "De optie -w van de opdrachten db2icrt, db2ilist en db2iupdt wordt genegeerd"
     }
@@ -12889,12 +11275,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "If you specify this option, it has no effect.",
       "nl": "Als u deze optie opgeeft, heeft deze geen effect."
     }
@@ -12903,18 +11283,6 @@
     "translation": {
       "en": "This option is only valid on AIX 5L, HP-UX, Linux, and Solaris operating systems.",
       "nl": "De optie is alleen geldig op de besturingssystemen AIX 5L, HP-UX, Linux en Solaris."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Chapter 18.",
-      "nl": "Hoofdstuk 18."
     }
   },
   {
@@ -12937,12 +11305,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Alternate FixPak images are discontinued (UNIX)",
       "nl": "Alternate FixPak-images niet meer beschikbaar (UNIX)"
     }
@@ -12961,12 +11323,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Autoloader utility (db2atld) is no longer supported",
       "nl": "Automatisch laadprogramma (db2atld) wordt niet meer ondersteund"
     }
@@ -12981,12 +11337,6 @@
     "translation": {
       "en": "You should use the load utility for distributing and loading data in partitioned database environments.",
       "nl": "U moet het hulpprogramma Load gebruiken voor het distribueren en laden van gegevens in omgevingen met gepartitioneerde databases."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -13015,12 +11365,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Data Links Manager no longer supported",
       "nl": "Data Links Manager wordt niet meer ondersteund"
     }
@@ -13035,12 +11379,6 @@
     "translation": {
       "en": "Also, the following components of a Data Links server are not supported:",
       "nl": "Ook worden de volgende componenten van een Data Links-server niet ondersteund:"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -13077,12 +11415,6 @@
     "translation": {
       "en": "Any attempts to use the DATALINK data type will result in the following",
       "nl": "Pogingen om het gegevenstype DATALINK te gebruiken,"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -13189,12 +11521,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "The Data Warehouse Center and the Information Catalog Center are no longer included",
       "nl": "Data Warehouse-centrum en Information Catalog Center zijn niet meer opgenomen"
     }
@@ -13213,12 +11539,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "db2reg2large utility for converting DMS table space size is discontinued",
       "nl": "Hulpprogramma db2reg2large voor conversie van DMS-tabelruimtegrootte is verwijderd"
     }
@@ -13233,12 +11553,6 @@
     "translation": {
       "en": "It is replaced with the new CONVERT TO LARGE option of the ALTER TABLESPACE SQL statement.",
       "nl": "Het is vervangen door de nieuwe optie CONVERT TO LARGE van de SQL-instructie ALTER TABLESPACE."
-    }
-  },
-  {
-    "translation": {
-      "en": "<TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -13273,12 +11587,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "DB2_SCATTERED_IO registry variable is discontinued (Linux)",
       "nl": "Registervariabele DB2_SCATTERED_IO is verwijderd (Linux)"
     }
@@ -13297,12 +11605,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Desktop icon and folder making utilities are no longer supported (Linux)",
       "nl": "Hulpprogramma's voor het maken van bureaubladpictogrammen en -mappen worden niet meer ondersteund (Linux)"
     }
@@ -13311,12 +11613,6 @@
     "translation": {
       "en": "Unlike previous versions, DB2 Version 9.1 does not include a set of utilities for creating DB2 desktop folders and icons for launching commonly used DB2 tools on the Gnome and KDE desktops on supported Intel-based Linux operating systems.",
       "nl": "In tegenstelling tot eerdere versies bevat DB2 Versie 9.1 geen set hulpprogramma's om DB2-bureaubladmappen en -pictogrammen te maken voor het starten van veelgebruikte DB2-tools op de Gnome- en KDE-desktop op ondersteunde Intel-gebaseerde Linux-systemen."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -13345,12 +11641,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Fast communications manager (FCM) no longer uses virtual interface (VI) architecture",
       "nl": "FCM (Fast Communications Manager) maakt niet langer gebruik van VI-architectuur (Virtual Interface)"
     }
@@ -13365,12 +11655,6 @@
     "translation": {
       "en": "The following three registry variables used to control the use of virtual interface (VI) architecture within the product are discontinued:",
       "nl": "De volgende drie registervariabelen, waarmee het gebruik van VI-architectuur in het product werd bepaald, zijn verwijderd:"
-    }
-  },
-  {
-    "translation": {
-      "en": "< !TABLE !>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -13399,12 +11683,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "DB2 Administration Tools are no longer supported on some platforms",
       "nl": "DB2-programma's voor beheer worden op sommige platforms niet meer ondersteund"
     }
@@ -13419,12 +11697,6 @@
     "translation": {
       "en": "In Version 9.1, the DB2 Administration Tools are supported only on the Windows x86, Windows x64 (for AMD64 and Intel EM64T), 32-bit Linux x86, and Linux for AMD64 and Intel EM64T operating systems.",
       "nl": "In Versie 9.1 worden de DB2-programma's voor beheer alleen ondersteund op de besturingssystemen Windows x86, Windows x64 (voor AMD64 en Intel EM64T), 32-bits Linux x86 en Linux voor AMD64 en Intel EM64T."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -13459,12 +11731,6 @@
   },
   {
     "translation": {
-      "en": "For more information, see the DB2 Net Search Extender home page at www.ibm.com/software/data/db2/extenders/netsearch.",
-      "nl": "Zie www.ibm.com/software/data/db2/extenders/netsearch op het web voor meer informatie."
-    }
-  },
-  {
-    "translation": {
       "en": "- WebSphere Information Integrator OmniFindTM Edition, an enterprise search solution for finding the most relevant information not only in relational databases but also across corporate or governmental public Web sites and a wide range of content repositories.",
       "nl": "-WebSphere Information Integrator OmniFind Edition, een zoekmachine voor bedrijven die de belangrijkste informatie niet alleen in relationele databases zoekt, maar ook in bedrijfs- en overheidswebsites en een groot aantal andere contentrepository's."
     }
@@ -13473,12 +11739,6 @@
     "translation": {
       "en": "For more information, see the WebSphere Information Integrator OmniFind Edition home page at www.ibm.com/ software/data/integration/db2ii/editions_womnifind.html.",
       "nl": "Zie www.ibm.com/software/data/integration/db2ii/ editions_womnifind.html op het web voor meer informatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -13507,12 +11767,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Vendor load API (sqluvtld) is discontinued",
       "nl": "De API voor laden van programma's van derden (sqluvtld) is niet meer beschikbaar"
     }
@@ -13533,12 +11787,6 @@
     "translation": {
       "en": "You can run the load utility by using the db2Load API.",
       "nl": "U kunt het laadprogramma uitvoeren met behulp van de API db2Load."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -13567,74 +11815,8 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Appendix A. DB2 Database technical information",
-      "nl": "Bijlage A. Technische informatie over DB2 Database"
-    }
-  },
-  {
-    "translation": {
-      "en": "Overview of the DB2 technical information",
-      "nl": "Overzicht van de technische informatie over DB2"
-    }
-  },
-  {
-    "translation": {
-      "en": "DB2 technical information is available through the following tools and methods:",
-      "nl": "Technische informatie voor DB2 is beschikbaar via de volgende hulpprogramma's en methoden:"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "IBM periodically makes documentation updates available.",
-      "nl": "IBM maakt van tijd tot tijd documentatie-updates beschikbaar."
-    }
-  },
-  {
-    "translation": {
       "en": "If you access the online version on the DB2 Information Center at ibm.com®, you do not need to install documentation updates because this version is kept up-to-date by IBM.",
       "nl": "Als u toegang hebt tot de online versie van het DB2 Informatiecentrum op ibm.com, hoeft u deze documentatie-updates niet te installeren, omdat deze versie wordt bijgewerkt door IBM."
-    }
-  },
-  {
-    "translation": {
-      "en": "If you have installed the DB2 Information Center, it is recommended that you install the documentation updates.",
-      "nl": "Als u het DB2 Informatiecentrum hebt geïnstalleerd, is het raadzaam om de documentatie-updates te installeren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Documentation updates allow you to update the information that you installed from the DB2 Information Center CD or downloaded from Passport Advantage as new information becomes available.",
-      "nl": "Via de documentatie-updates kunt u op het moment dat er nieuwe informatie beschikbaar komt, updates aanbrengen op de informatie die u hebt geïnstalleerd vanaf de CD van het DB2 Informatiecentrum of hebt gedownload vanaf Passport Advantage."
-    }
-  },
-  {
-    "translation": {
-      "en": "Note: The DB2 Information Center topics are updated more frequently than either the PDF or the hard-copy books.",
-      "nl": "Opmerking: Updates voor het DB2 Informatiecentrum komen met een grotere regelmaat beschikbaar dan voor de PDF-documentatie of de gedrukte publicaties."
-    }
-  },
-  {
-    "translation": {
-      "en": "To get the most current information, install the documentation updates as they become available, or refer to the DB2 Information Center at ibm.com.",
-      "nl": "Als u zeker wilt zijn dat u beschikt over de meest recente informatie, installeer de documentatie-updates dan op het moment dat deze beschikbaar komen, of raadpleeg het DB2 Informatiecentrum op ibm.com."
-    }
-  },
-  {
-    "translation": {
-      "en": "You can access additional DB2 technical information such as technotes, white papers, and RedbooksTM online at ibm.com.",
-      "nl": "Via ibm.com kunt u online gebruikmaken van aanvullende technische informatie met betrekking tot DB2, zoals technotes, white papers en Redbooks."
     }
   },
   {
@@ -13657,158 +11839,14 @@
   },
   {
     "translation": {
-      "en": "If you have suggestions for how we can improve the DB2 documentation, send an e-mail to db2docs@ca.ibm.com.",
-      "nl": "Stuur een e-mailbericht naar db2docs@ca.ibm.com. als u suggesties hebt over verbeteringen in de DB2-documentatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "The DB2 documentation team reads all of your feedback, but cannot respond to you directly.",
-      "nl": "Het DB2-documentatieteam verwerkt al uw feedback, maar kan deze niet rechtstreeks beantwoorden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Provide specific examples wherever possible so that we can better understand your concerns.",
-      "nl": "Als u waar mogelijk specifieke voorbeelden geeft, kunnen wij uw opmerkingen beter beoordelen."
-    }
-  },
-  {
-    "translation": {
-      "en": "If you are providing feedback on a specific topic or help file, include the topic title and URL.",
-      "nl": "Als u feedback levert over een specifiek onderwerp of Help-bestand, vermeld dan ook de titel ervan en de URL."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not use this e-mail address to contact DB2 Customer Support.",
-      "nl": "Gebruik dit e-mailadres niet voor berichten aan DB2 Customer Support."
-    }
-  },
-  {
-    "translation": {
-      "en": "If you have a DB2 technical issue that the documentation does not resolve, contact your local IBM service center for assistance.",
-      "nl": "Als u een technisch probleem met DB2 wilt aankaarten waarvoor de documentatie geen oplossing biedt, neem dan voor assistentie contact op met het lokale IBM-servicecentrum."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "DB2 technical library in hardcopy or PDF format",
-      "nl": "Technische DB2-documentatie in PDF-indeling"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Note: The DB2 Release Notes provide additional information specific to your product's release and fix pack level.",
-      "nl": "Opmerking: De DB2 Release Notes bevatten aanvullende informatie die specifiek is voor de release van het product en voor het fixpackniveau."
-    }
-  },
-  {
-    "translation": {
-      "en": "For more information, see the related links.",
-      "nl": "Zie de onderstaande links voor meer informatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Ordering printed DB2 books",
-      "nl": "Gedrukte handleidingen bestellen"
-    }
-  },
-  {
-    "translation": {
-      "en": "If you require printed DB2 books, you can buy them online in many but not all countries or regions.",
-      "nl": "Als u gedrukte exemplaren van DB2-boeken nodig hebt, kunt u deze in veel landen of regio's online aanschaffen, echter niet in alle."
-    }
-  },
-  {
-    "translation": {
-      "en": "You can always order printed DB2 books from your local IBM representative.",
-      "nl": "U kunt gedrukte DB2-documentatie altijd bestellen bij uw lokale DB2-leverancier."
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep in mind that some softcopy books on the DB2 PDF Documentation CD are unavailable in print.",
-      "nl": "Houd er rekening mee dat sommige boeken op de CD DB2 PDF Documentation niet in druk verschenen zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "For example, neither volume of the DB2 Message Reference is available as a printed book.",
-      "nl": "Geen van beide delen van de publicatie DB2 Naslagboek bij berichten is bijvoorbeeld in druk verkrijgbaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "Printed versions of many of the DB2 books available on the DB2 PDF Documentation CD can be ordered for a fee from IBM.",
-      "nl": "Gedrukte versies van veel van de DB2-boeken die op de CD DB2 PDF Documentation aanwezig zijn, kunnen tegen betaling bij IBM worden besteld."
-    }
-  },
-  {
-    "translation": {
-      "en": "Depending on where you are placing your order from, you may be able to order books online, from the IBM Publications Center.",
-      "nl": "Afhankelijk van de plek waar u uw bestelling plaatst, kunt u boeken mogelijk ook online bestellen bij het IBM Publications Center."
-    }
-  },
-  {
-    "translation": {
-      "en": "If online ordering is not available in your country or region, you can always order printed DB2 books from your local IBM representative.",
-      "nl": "Als online bestellen in uw land of regio niet mogelijk is, kunt u DB2-boeken in druk altijd bestellen bij uw lokale IBM-leverancier."
-    }
-  },
-  {
-    "translation": {
-      "en": "Note that not all books on the DB2 PDF Documentation CD are available in print.",
-      "nl": "Houd er rekening mee dat niet alle boeken op de CD DB2 PDF Documentation ook in druk verschenen zijn."
-    }
-  },
-  {
-    "translation": {
       "en": "Note: The most up-to-date and complete DB2 documentation is maintained in the DB2 Information Center at http://publib.boulder.ibm.com/infocenter/ db2help/.",
       "nl": "Opmerking: De meest recente en complete DB2-documentatie is beschikbaar in het DB2 Informatiecentrum op http://publib.boulder.ibm.com/ infocenter/db2help/."
     }
   },
   {
     "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
-    }
-  },
-  {
-    "translation": {
-      "en": "To order printed DB2 books:",
-      "nl": "U kunt als volgt gedrukte exemplaren van de DB2-boeken bestellen:"
-    }
-  },
-  {
-    "translation": {
       "en": "- To find out whether you can order printed DB2 books online in your country or region, check the IBM Publications Center at http://www.ibm.com/shop/ publications/order.",
       "nl": "-Zoek eerst uit of u de gedrukte DB2-documentatie in uw land of regio online kunt bestellen via het DB2 Publications Center op http://www.ibm.com/shop/ publications/order."
-    }
-  },
-  {
-    "translation": {
-      "en": "You must select a country, region, or language to access publication ordering information and then follow the ordering instructions for your location.",
-      "nl": "Nadat u een land, regio of taal hebt geselecteerd, krijgt u de voor u relevante informatie voor het bestellen van publicaties te zien en kunt u de bestelinstructies voor uw locatie volgen."
     }
   },
   {
@@ -13825,74 +11863,8 @@
   },
   {
     "translation": {
-      "en": "- The IBM directory of world wide contacts at www.ibm.com/planetwide",
-      "nl": "- De wereldwijde directory van IBM-adressen op www.ibm.com/planetwide"
-    }
-  },
-  {
-    "translation": {
       "en": "- The IBM Publications Web site at http://www.ibm.com/shop/ publications/order.",
       "nl": "- De IBM Publications-website op http://www.ibm.com/shop/publications/ order."
-    }
-  },
-  {
-    "translation": {
-      "en": "You will need to select your country, region, or language to the access appropriate publications home page for your location.",
-      "nl": "Als u uw land, regio of taal selecteert, krijgt u toegang tot de voor uw locatie meest geschikte homepage voor publicaties."
-    }
-  },
-  {
-    "translation": {
-      "en": "From this page, follow the?About this site? link.",
-      "nl": "Volg op deze pagina de link?About this site?."
-    }
-  },
-  {
-    "translation": {
-      "en": "-- When you call, specify that you want to order a DB2 publication.",
-      "nl": "-- Geef als u telefonisch contact opneemt aan dat u een DB2-publicatie wilt aanschaffen."
-    }
-  },
-  {
-    "translation": {
-      "en": "-- Provide your representative with the titles and form numbers of the books that you want to order.",
-      "nl": "-- Geef aan uw IBM-leverancier de titels en de bestelnummers op van de boeken die u wilt bestellen."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Displaying SQL state help from the command line processor",
-      "nl": "Help bij SQL-status afbeelden vanaf de opdrachtregel"
-    }
-  },
-  {
-    "translation": {
-      "en": "DB2 returns an SQLSTATE value for conditions that could be the result of an SQL statement.",
-      "nl": "DB2 zendt een parameter SQLSTATE terug waarvan de waarde de status aangeeft na uitvoering van een SQL-instructie."
-    }
-  },
-  {
-    "translation": {
-      "en": "SQLSTATE help explains the meanings of SQL states and SQL state class codes.",
-      "nl": "Help bij SQLSTATE biedt informatie over de SQL-status en de klassencodes van de SQL-status."
-    }
-  },
-  {
-    "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
-    }
-  },
-  {
-    "translation": {
-      "en": "To invoke SQL state help, open the command line processor and enter:",
-      "nl": "Om Help bij de SQL-status op te roepen, opent u het opdrachtvenster en typt u:"
     }
   },
   {
@@ -13903,74 +11875,8 @@
   },
   {
     "translation": {
-      "en": "For example,?",
-      "nl": "Als u bijvoorbeeld?"
-    }
-  },
-  {
-    "translation": {
-      "en": "08 displays help for the 08 class code.",
-      "nl": "08 wordt er een Help-bericht afgebeeld over klassencode 08."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Accessing different versions of the DB2 Information Center",
-      "nl": "Verschillende versies van het DB2 Informatiecentrum gebruiken"
-    }
-  },
-  {
-    "translation": {
       "en": "For DB2 Version 9 topics, the DB2 Information Center URL is http:// publib.boulder.ibm.com/infocenter/db2luw/v9/.",
       "nl": "De URL voor de onderwerpen van het DB2 Informatiecentrum van DB2 Versie 9 is http://publib.boulder.ibm.com/infocenter/db2luw/v9/."
-    }
-  },
-  {
-    "translation": {
-      "en": "For DB2 Version 8 topics, go to the Version 8 Information Center URL at: http://publib.boulder.ibm.com/infocenter/db2luw/v8/.",
-      "nl": "Voor onderwerpen van DB2 Versie 8 kunt u de website van het Informatiecentrum van Versie 8 op http://publib.boulder.ibm.com/infocenter/db2luw/v8/ raadplegen."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Displaying topics in your preferred language in the DB2 Information Center",
-      "nl": "Onderwerpen uit het DB2 Informatiecentrum in andere talen afbeelden"
-    }
-  },
-  {
-    "translation": {
-      "en": "The DB2 Information Center attempts to display topics in the language specified in your browser preferences.",
-      "nl": "Het DB2 Informatiecentrum probeert onderwerpen af te beelden in de taal die is opgegeven in uw browservoorkeuren."
-    }
-  },
-  {
-    "translation": {
-      "en": "If a topic has not been translated into your preferred language, the DB2 Information Center displays the topic in English.",
-      "nl": "Als een onderwerp niet vertaald is in de gewenste taal, wordt het onderwerp in het DB2 Informatiecentrum afgebeeld in het Engels."
-    }
-  },
-  {
-    "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
-    }
-  },
-  {
-    "translation": {
-      "en": "To display topics in your preferred language in the Internet Explorer browser:",
-      "nl": "U kunt als volgt onderwerpen in een andere taal afbeelden in de browser Internet Explorer:"
     }
   },
   {
@@ -13981,44 +11887,8 @@
   },
   {
     "translation": {
-      "en": "The Language Preferences window opens.",
-      "nl": "Het venster Taalvoorkeuren verschijnt."
-    }
-  },
-  {
-    "translation": {
-      "en": "2. Ensure your preferred language is specified as the first entry in the list of languages.",
-      "nl": "2. Zorg ervoor dat de gewenste taal is opgegeven als de eerste taal in de lijst van talen."
-    }
-  },
-  {
-    "translation": {
       "en": "To add a new language to the list, click the Add... button.",
       "nl": "ü Als u een nieuwe taal wilt toevoegen aan de lijst, klikt u op de knop Toevoegen...."
-    }
-  },
-  {
-    "translation": {
-      "en": "Note: Adding a language does not guarantee that the computer has the fonts required to display the topics in the preferred language.",
-      "nl": "Opmerking: Het toevoegen van een taal garandeert niet dat de computer beschikt over de lettertypen die vereist zijn om de onderwerpen in de gewenste taal af te beelden."
-    }
-  },
-  {
-    "translation": {
-      "en": "To move a language to the top of the list, select the language and click the Move Up button until the language is first in the list of languages.",
-      "nl": "Als u een taal in de lijst naar boven wilt verplaatsen, selecteert u de taal en klikt u op de knop Omhoog totdat de desbetreffende taal als eerste in de lijst van talen wordt afgebeeld."
-    }
-  },
-  {
-    "translation": {
-      "en": "3. Clear the browser cache and then refresh the page to display the DB2 Information Center in your preferred language.",
-      "nl": "3. Wis de browsercache en vernieuw de pagina om het DB2 Informatiecentrum af te beelden in de gewenste taal."
-    }
-  },
-  {
-    "translation": {
-      "en": "To display topics in your preferred language in a Firefox or Mozilla browser:",
-      "nl": "U kunt onderwerpen als volgt in de gewenste taal afbeelden in een Firefox- of Mozilla-browser:"
     }
   },
   {
@@ -14029,170 +11899,14 @@
   },
   {
     "translation": {
-      "en": "The Languages panel is displayed in the Preferences window.",
-      "nl": "Het venster Languages (Talen) wordt afgebeeld in het venster Preferences (Voorkeuren)."
-    }
-  },
-  {
-    "translation": {
-      "en": "2. Ensure your preferred language is specified as the first entry in the list of languages.",
-      "nl": "2. Zorg ervoor dat de gewenste taal is opgegeven als de eerste taal in de lijst van talen."
-    }
-  },
-  {
-    "translation": {
-      "en": "To move a language to the top of the list, select the language and click the Move Up button until the language is first in the list of languages.",
-      "nl": "Als u een taal in de lijst naar boven wilt verplaatsen, selecteert u de taal en klikt u op de knop Move Up (Omhoog) totdat de desbetreffende taal als eerste in de lijst van talen wordt afgebeeld."
-    }
-  },
-  {
-    "translation": {
-      "en": "3. Clear the browser cache and then refresh the page to display the DB2 Information Center in your preferred language.",
-      "nl": "3. Wis de browsercache en vernieuw de pagina om het DB2 Informatiecentrum af te beelden in de gewenste taal."
-    }
-  },
-  {
-    "translation": {
-      "en": "On some browser and operating system combinations, you might have to also change the regional settings of your operating system to the locale and language of your choice.",
-      "nl": "In bepaalde combinaties van browsers en besturingssystemen moet u mogelijk ook de landinstellingen van het besturingssysteem instellen op de gewenste locale en taal."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Updating the DB2 Information Center installed on your computer or intranet server",
-      "nl": "De op uw computer of intranetserver geïnstalleerde versie van het DB2 Informatiecentrum bijwerken"
-    }
-  },
-  {
-    "translation": {
-      "en": "If you have a locally-installed DB2 Information Center, updated topics can be available for download.",
-      "nl": "Als u werkt met een lokaal geïnstalleerd DB2 Informatiecentrum, zijn er regelmatig bijgewerkte onderwerpen beschikbaar die u kunt downloaden."
-    }
-  },
-  {
-    "translation": {
-      "en": "The 'Last updated' value found at the bottom of most topics indicates the current level for that topic.",
-      "nl": "De waarde 'Laatst bijgewerkt' onder aan de meeste onderwerpen geeft het huidige niveau voor dit onderwerp aan."
-    }
-  },
-  {
-    "translation": {
-      "en": "To determine if there is an update available for the entire DB2 Information Center, look for the 'Last updated' value on the Information Center home page.",
-      "nl": "Om te bepalen of er een update beschikbaar is voor het gehele DB2 Informatiecentrum, kunt u de waarde bij 'Laatst bijgewerkt' op de homepage van het Informatiecentrum gebruiken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Compare the value in your locally installed home page to the date of the most recent downloadable update at http://www.ibm.com/software/data/db2/udb/support/ icupdate.html.",
-      "nl": "Vergelijk de waarde op de lokaal geïnstalleerde homepage met de datum van de meest recent update die u kunt downloaden op http://www.ibm.com/software/data/db2/udb/support/icupdate.html."
-    }
-  },
-  {
-    "translation": {
-      "en": "You can then update your locally-installed Information Center if a more recent downloadable update is available.",
-      "nl": "Wanneer er een recentere update beschikbaar is voor downloaden, kunt u vervolgens uw lokaal geïnstalleerde Informatiecentrum bijwerken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Updating your locally-installed DB2 Information Center requires that you:",
-      "nl": "Als u een lokaal geïnstalleerd DB2 Informatiecentrum wilt bijwerken, gaat u als volgt te werk:"
-    }
-  },
-  {
-    "translation": {
       "en": "1. Stop the DB2 Information Center on your computer, and restart the Information Center in stand-alone mode.",
       "nl": "1. Stop het DB2 Informatiecentrum op uw computer en start het opnieuw in de stand-alone werkstand."
     }
   },
   {
     "translation": {
-      "en": "Running the Information Center in stand-alone mode prevents other users on your network from accessing the Information Center, and allows you to download and apply updates.",
-      "nl": "Als u het Informatiecentrum in de stand-alone werkstand start, kunnen andere gebruikers in het netwerk geen toegang tot het Informatiecentrum krijgen, waardoor u updates kunt downloaden en aanbrengen."
-    }
-  },
-  {
-    "translation": {
-      "en": "2. Use the Update feature to determine if update packages are available from IBM.",
-      "nl": "2. Gebruik de functie Update om na te gaan of er updatepakketten beschikbaar zijn bij IBM."
-    }
-  },
-  {
-    "translation": {
-      "en": "Note: Updates are also available on CD.",
-      "nl": "Opmerking: Updates zijn eveneens beschikbaar op CD."
-    }
-  },
-  {
-    "translation": {
-      "en": "For details on how to configure your",
-      "nl": "Zie de verwante links voor details over de configuratie van het Informatiecentrum voor de installatie van updates vanaf CD."
-    }
-  },
-  {
-    "translation": {
-      "en": "(The Update feature is only available in stand-alone mode.)",
-      "nl": "(De functie Update is alleen beschikbaar in de stand-alone werkstand.)"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. Stop the stand-alone Information Center, and restart the DB2 Information Center service on your computer.",
-      "nl": "3. Stop het stand-alone Informatiecentrum en start de service DB2 Informatiecentrum op uw computer."
-    }
-  },
-  {
-    "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
-    }
-  },
-  {
-    "translation": {
-      "en": "To update the DB2 Information Center installed on your computer or intranet server:",
-      "nl": "Als u het op uw computer of intranetserver geïnstalleerde DB2 Informatiecentrum wilt bijwerken, gaat u als volgt te werk:"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. Stop the DB2 Information Center service.",
-      "nl": "1. Stop de service DB2 Informatiecentrum."
-    }
-  },
-  {
-    "translation": {
       "en": "On Windows, click Start?",
       "nl": "- Op het besturingssysteem Windows klikt u op Start?"
-    }
-  },
-  {
-    "translation": {
-      "en": "Control Panel?",
-      "nl": "Configuratiescherm?"
-    }
-  },
-  {
-    "translation": {
-      "en": "Administrative Tools?",
-      "nl": "Systeembeheer?"
-    }
-  },
-  {
-    "translation": {
-      "en": "Services.",
-      "nl": "Services."
-    }
-  },
-  {
-    "translation": {
-      "en": "Then right-click on DB2 Information Center service and select Stop.",
-      "nl": "Klik vervolgens met de rechtermuisknop op de service DB2 Informatiecentrum en kies Stoppen."
     }
   },
   {
@@ -14209,26 +11923,8 @@
   },
   {
     "translation": {
-      "en": "2. Start the Information Center in stand-alone mode.",
-      "nl": "2. Start het Informatiecentrum in de stand-alone werkstand."
-    }
-  },
-  {
-    "translation": {
       "en": "On Windows:",
       "nl": "- Op het besturingssysteem Windows doet u het volgende:"
-    }
-  },
-  {
-    "translation": {
-      "en": "a. Open a command window.",
-      "nl": "a. Open een opdrachtvenster."
-    }
-  },
-  {
-    "translation": {
-      "en": "b. Navigate to the path where the Information Center is installed.",
-      "nl": "b. Ga naar de directory waar het Informatiecentrum is geïnstalleerd."
     }
   },
   {
@@ -14263,12 +11959,6 @@
   },
   {
     "translation": {
-      "en": "a. Navigate to the path where the Information Center is installed.",
-      "nl": "a. Ga naar de directory waar het Informatiecentrum is geïnstalleerd."
-    }
-  },
-  {
-    "translation": {
       "en": "b. Run the help_start script using the fully qualified path for the DB2 Information Center:",
       "nl": "b. Voer het script hel p_start uit onder vermelding van het volledige pad naar het DB2 Informatiecentrum:"
     }
@@ -14277,48 +11967,6 @@
     "translation": {
       "en": "<DB2 Information Center dir>/doc/bin/help_start",
       "nl": "<directory DB2 Informatiecentrum>/bin/help_start"
-    }
-  },
-  {
-    "translation": {
-      "en": "The systems default Web browser launches to display the stand-alone Information Center.",
-      "nl": "De standaardwebbrowser wordt gestart en het stand-alone Informatiecentrum wordt afgebeeld."
-    }
-  },
-  {
-    "translation": {
-      "en": "3. Click the Update button.",
-      "nl": "3. Klik op de knop Update."
-    }
-  },
-  {
-    "translation": {
-      "en": "On the right hand panel of the Information Center, click Find Updates.",
-      "nl": "Klik in het rechtervenster van het Informatiecentrum op Find Updates."
-    }
-  },
-  {
-    "translation": {
-      "en": "A list of updates for existing documentation displays.",
-      "nl": "Er wordt een lijst van de updates voor bestaande documentatie afgebeeld."
-    }
-  },
-  {
-    "translation": {
-      "en": "4. To initiate the download process, check the selections you want to download, then click Install Updates.",
-      "nl": "4. Om het downloadproces te starten, selecteert u de onderdelen die u wilt downloaden en vervolgens klikt u op Install Updates."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. After the download and installation process has completed, click Finish.",
-      "nl": "5. Nadat de download- en installatieprocedure is voltooid, klikt u op Finish."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. Stop the stand-alone Information Center.",
-      "nl": "6. Stop het stand-alone Informatiecentrum."
     }
   },
   {
@@ -14341,314 +11989,8 @@
   },
   {
     "translation": {
-      "en": "<DB2 Information Center dir>/doc/bin/help_end",
-      "nl": "<directory DB2 Informatiecentrum>/bin/help_end"
-    }
-  },
-  {
-    "translation": {
-      "en": "Note: The help_end script contains the commands required to safely terminate the processes that were started with the help_start script.",
-      "nl": "Opmerking: Het script help_end bevat de benodigde opdrachten om op een veilige manier de processen te beëindigen die met het script help_start zijn gestart."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not use any other method to terminate the help_start script.",
-      "nl": "Onderbreek het script help_start niet op een andere wijze."
-    }
-  },
-  {
-    "translation": {
-      "en": "7. Restart the DB2 Information Center service.",
-      "nl": "7. Start de service DB2 Informatiecentrum opnieuw."
-    }
-  },
-  {
-    "translation": {
-      "en": "On Windows, click Start?",
-      "nl": "- Op het besturingssysteem Windows klikt u op Start?"
-    }
-  },
-  {
-    "translation": {
-      "en": "Control Panel?",
-      "nl": "Configuratiescherm?"
-    }
-  },
-  {
-    "translation": {
-      "en": "Administrative Tools?",
-      "nl": "Systeembeheer?"
-    }
-  },
-  {
-    "translation": {
-      "en": "Services.",
-      "nl": "Services."
-    }
-  },
-  {
-    "translation": {
-      "en": "Then right-click on DB2 Information Center service and select Start.",
-      "nl": "Klik vervolgens met de rechtermuisknop op de service DB2 Informatiecentrum en kies Starten."
-    }
-  },
-  {
-    "translation": {
-      "en": "On Linux, enter the following command:",
-      "nl": "- Op het besturingssysteem Linux geeft u de volgende opdracht op:"
-    }
-  },
-  {
-    "translation": {
       "en": "/etc/init. d/db2i cdv9 start",
       "nl": "/etc/ini t.d/db2i cdv9 start"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lessons provide step-by-step instructions.",
-      "nl": "De in deze publicaties opgenomen lessen geven stapsgewijze instructies daarvoor."
-    }
-  },
-  {
-    "translation": {
-      "en": "Before you begin:",
-      "nl": "Opmerkingen:"
-    }
-  },
-  {
-    "translation": {
-      "en": "You can view the XHTML version of the tutorial from the Information Center at http://publib.boulder.ibm.com/infocenter/db2help/.",
-      "nl": "U kunt de XHTML-versie van de zelfstudielessen bekijken via het Informatiecentrum op http://publib.boulder.ibm.com/infocenter/db2help/."
-    }
-  },
-  {
-    "translation": {
-      "en": "Some lessons use sample data or code.",
-      "nl": "Sommige zelfstudielessen maken gebruik van voorbeeldgegevens of een voorbeeldprogramma."
-    }
-  },
-  {
-    "translation": {
-      "en": "See the tutorial for a description of any prerequisites for its specific tasks.",
-      "nl": "Zie de afzonderlijke lessen voor een beschrijving van speciale vereisten voor bepaalde taken."
-    }
-  },
-  {
-    "translation": {
-      "en": "DB2 tutorials:",
-      "nl": "DB2-documenten voor zelfstudie:"
-    }
-  },
-  {
-    "translation": {
-      "en": "To view the tutorial, click on the title.",
-      "nl": "U kunt de zelfstudiehandleiding bekijken door op de titel ervan te klikken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Native XML data store",
-      "nl": "Native XML data store"
-    }
-  },
-  {
-    "translation": {
-      "en": "Set up a DB2 database to store XML data and to perform basic operations with the native XML data store.",
-      "nl": "Opzet van een DB2-database voor de opslag van XML-gegevens en het uitvoeren van basisbewerkingen met de opgeslagen native XML-gegevens."
-    }
-  },
-  {
-    "translation": {
-      "en": "Visual Explain Tutorial",
-      "nl": "Visual Explain Tutorial"
-    }
-  },
-  {
-    "translation": {
-      "en": "Analyze, optimize, and tune SQL statements for better performance using Visual Explain.",
-      "nl": "Analyse, optimalisatie en afstemming van SQL-instructies ter verhoging van de performance met behulp van Visual Explain."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "DB2 troubleshooting information",
-      "nl": "DB2-problemen oplossen"
-    }
-  },
-  {
-    "translation": {
-      "en": "A wide variety of troubleshooting and problem determination information is available to assist you in using DB2 products.",
-      "nl": "Er is een uitgebreide verzameling gegevens over het opsporen en oplossen van problemen beschikbaar om u te ondersteunen bij het gebruik van DB2-producten."
-    }
-  },
-  {
-    "translation": {
-      "en": "DB2 documentation",
-      "nl": "DB2-documentatie"
-    }
-  },
-  {
-    "translation": {
-      "en": "Troubleshooting information can be found in the DB2 Troubleshooting Guide or the Support and Troubleshooting section of the DB2 Information Center.",
-      "nl": "Informatie over het oplossen van problemen vindt u in de publicatie DB2 Troubleshooting Guide en in het gedeelte Ondersteuning en probleemoplossing in het DB2 Informatiecentrum."
-    }
-  },
-  {
-    "translation": {
-      "en": "There you will find information on how to isolate and identify problems using DB2 diagnostic tools and utilities, solutions to some of the most common problems, and other advice on how to solve problems you might encounter with your DB2 products.",
-      "nl": "Die bevatten aanwijzingen over hoe u problemen herkent en lokaliseert met behulp van de diagnostische tools en hulpprogramma's van DB2, oplossingen voor een aantal van de meest voorkomende problemen en overige adviezen over hoe u problemen oplost die u in de DB2-producten kunt tegenkomen."
-    }
-  },
-  {
-    "translation": {
-      "en": "DB2 Technical Support Web site",
-      "nl": "Website DB2 Technical Support"
-    }
-  },
-  {
-    "translation": {
-      "en": "Refer to the DB2 Technical Support Web site if you are experiencing problems and want help finding possible causes and solutions.",
-      "nl": "Raadpleeg de website DB2 Technical Support als u problemen ondervindt en hulp nodig hebt bij het vinden van oorzaken en oplossingen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The Technical Support site has links to the latest DB2 publications, TechNotes, Authorized Program Analysis Reports (APARs or bug fixes), fix packs, and other resources.",
-      "nl": "Deze site bevat links naar de meest recente DB2-publicaties, TechNotes, APAR's (Authorized Program Analysis Reports, ofwel programmafixes), fixpacks en andere nuttige informatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "You can search through this knowledge base to find possible solutions to your problems.",
-      "nl": "U kunt in deze kennisdatabase zoeken naar de oplossingen voor uw problemen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Access the DB2 Technical Support Web site at http://www.ibm.com/ software/data/db2/udb/support.html",
-      "nl": "De website DB2 Technical Support is te vinden op http://www.ibm.com/ software/data/db2/udb/support"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Terms and Conditions",
-      "nl": "Voorwaarden en bepalingen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Permissions for the use of these publications is granted subject to the following terms and conditions.",
-      "nl": "Het gebruik van deze Publicaties is toegestaan indien aan de volgende voorwaarden en bepalingen wordt voldaan:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Personal use: You may reproduce these Publications for your personal, non commercial use provided that all proprietary notices are preserved.",
-      "nl": "Privé-gebruik: U bent gerechtigd om deze Publicaties te reproduceren voor persoonlijk, niet-commercieel gebruik, mits alle kennisgevingen over de eigendomsrechten ervan behouden blijven."
-    }
-  },
-  {
-    "translation": {
-      "en": "You may not distribute, display or make derivative work of these Publications, or any portion thereof, without the express consent of IBM.",
-      "nl": "Het is niet toegestaan om deze Publicaties, of delen ervan, te verspreiden, openbaar te maken of te bewerken zonder de uitdrukkelijke toestemming van IBM."
-    }
-  },
-  {
-    "translation": {
-      "en": "Commercial use: You may reproduce, distribute and display these Publications solely within your enterprise provided that all proprietary notices are preserved.",
-      "nl": "Commercieel gebruik: U mag deze Publicaties uitsluitend binnen uw onderneming reproduceren, verspreiden en bekendmaken, mits alle kennisgevingen over de eigendomsrechten ervan behouden blijven."
-    }
-  },
-  {
-    "translation": {
-      "en": "You may not make derivative works of these Publications, or reproduce, distribute or display these Publications or any portion thereof outside your enterprise, without the express consent of IBM.",
-      "nl": "Het is niet toegestaan om deze Publicaties te bewerken, of deze geheel of gedeeltelijk te reproduceren, te verspreiden of openbaar te maken buiten uw onderneming zonder de uitdrukkelijke toestemming van IBM."
-    }
-  },
-  {
-    "translation": {
-      "en": "Except as expressly granted in this permission, no other permissions, licenses or rights are granted, either express or implied, to the Publications or any information, data, software or other intellectual property contained therein.",
-      "nl": "Tenzij uitdrukkelijk toegestaan in deze bepalingen, worden geen andere toestemmingen, licenties of rechten verleend, uitdrukkelijk noch stilzwijgend, voor de Publicaties of enige andere informatie, gegevens, software of andere intellectuele eigendommen die hierin zijn opgenomen."
-    }
-  },
-  {
-    "translation": {
-      "en": "IBM reserves the right to withdraw the permissions granted herein whenever, in its discretion, the use of the Publications is detrimental to its interest or, as determined by IBM, the above instructions are not being properly followed.",
-      "nl": "IBM behoudt zich het recht voor naar eigen inzicht de hierin verleende machtigingen in te trekken wanneer het gebruik van de Publicaties schadelijk is voor de eigen belangen of indien, naar het oordeel van IBM, de bovenstaande instructies niet correct worden opgevolgd."
-    }
-  },
-  {
-    "translation": {
-      "en": "You may not download, export or re-export this information except in full compliance with all applicable laws and regulations, including all United States export laws and regulations.",
-      "nl": "U mag deze informatie uitsluitend downloaden of (opnieuw) exporteren indien dit in overeenstemming is met alle toepasselijke wet- en regelgeving, inclusief de exportregels van de Verenigde Staten."
-    }
-  },
-  {
-    "translation": {
-      "en": "IBM MAKES NO GUARANTEE ABOUT THE CONTENT OF THESE PUBLICATIONS.",
-      "nl": "IBM VERSTREKT GEEN GARANTIES VOOR DE INHOUD VAN DEZE PUBLICATIES."
-    }
-  },
-  {
-    "translation": {
-      "en": "Appendix B. Notices",
-      "nl": "Bijlage B. Kennisgevingen"
-    }
-  },
-  {
-    "translation": {
-      "en": "IBM may not offer the products, services, or features discussed in this document in all countries.",
-      "nl": "Verwijzing in deze publicatie naar producten (apparatuur of programmatuur) of diensten van IBM houdt niet in dat IBM deze ook zal uitbrengen in alle landen waar IBM werkzaam is."
-    }
-  },
-  {
-    "translation": {
-      "en": "Consult your local IBM representative for information on the products and services currently available in your area.",
-      "nl": "Neem contact op met uw IBM-vertegenwoordiger voor informatie over de producten en diensten die momenteel beschikbaar zijn in uw land of regio."
-    }
-  },
-  {
-    "translation": {
-      "en": "Any reference to an IBM product, program, or service is not intended to state or imply that only that IBM product, program, or service may be used.",
-      "nl": "Verwijzing in deze publicatie naar producten en diensten van IBM houdt niet in dat uitsluitend IBM-producten of -diensten kunnen worden gebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "IBM may have patents or pending patent applications covering subject matter described in this document.",
-      "nl": "Mogelijk heeft IBM octrooien of octrooiaanvragen met betrekking tot bepaalde in deze publicatie genoemde producten."
-    }
-  },
-  {
-    "translation": {
-      "en": "The furnishing of this document does not give you any license to these patents.",
-      "nl": "Aan het feit dat deze publicatie aan u ter beschikking wordt gesteld, kan geen recht op licentie of enig ander recht worden ontleend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Trademarks",
-      "nl": "Merken"
     }
   },
   {
@@ -14661,18 +12003,6 @@
     "translation": {
       "en": "Information on the trademarks of IBM Corporation in the United States, other countries, or both is located at http://www.ibm.com/legal/copytrade.shtml.",
       "nl": "Informatie over de merken van IBM Corporation in de Verenigde Staten en/of andere landen is beschikbaar op http://www.ibm.com/legal/copytrade.shtml."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "To learn more about DB2 products, go to http://www.ibm.com/software/data/db2/.",
-      "nl": "Ga voor meer informatie over DB2-producten naar http://www.ibm.com/software/data/db2/."
     }
   }
 ]

@@ -97,18 +97,6 @@
   },
   {
     "translation": {
-      "en": "Not all of the accessories illustrated or described are included as standard delivery.",
-      "nl": "In de gebruiksaanwijzing afgebeeld en beschreven toebehoren wordt niet altijd standaard meegeleverd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Noise Information",
-      "nl": "Informatie over geluid"
-    }
-  },
-  {
-    "translation": {
       "en": "Measured values determined according to ISO 11201 (1.55 m height, 1 m clearance).",
       "nl": "Meetwaarden bepaald volgens ISO 11201 (1,55 m hoogte, 1 m afstand)."
     }
@@ -117,12 +105,6 @@
     "translation": {
       "en": "Typically the A-weighted sound pressure level of the machine is 77 dB (A).",
       "nl": "Het A-gewogen geluidsdrukniveau van het apparaat bedraagt kenmerkend 77 dB (A)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Intended Use",
-      "nl": "Gebruik volgens bestemming"
     }
   },
   {
@@ -139,38 +121,8 @@
   },
   {
     "translation": {
-      "en": "For Your Safety",
-      "nl": "Voor uw veiligheid"
-    }
-  },
-  {
-    "translation": {
       "en": "Working safely with this machine is possible only when the operating and safety information are read completely and the instructions contained therein are strictly followed.",
       "nl": "Met het apparaat kan uitsluitend veilig worden gewerkt, wanneer u de gebruiksaanwijzing en de veiligheidsvoorschriften volledig leest en u zich strikt aan de gegeven aanwijzingen houdt."
-    }
-  },
-  {
-    "translation": {
-      "en": "* If the mains cable is damaged or cut through while working, do not touch the cable but immediately pull the mains plug.",
-      "nl": "* Raak de stroomkabel niet aan indien deze tijdens de werkzaamheden wordt beschadigd of doorgesneden, maar trek onmiddellijk de stekker uit het stopcontact."
-    }
-  },
-  {
-    "translation": {
-      "en": "Never use the machine with a damaged cable.",
-      "nl": "Gebruik het apparaat nooit met een beschadigde kabel."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Connect machines that are used in the open via a residual current device (RCD) with an actuating current of 30 mA maximum.",
-      "nl": "* Sluit gereedschap dat buitenshuis wordt gebruikt aan via een aardlekschakelaar met een inschakelstroom van maximaal 30 mA."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not operate the machine in rain or moisture.",
-      "nl": "Gebruik het gereedschap niet in de regen of in een vochtige omgeving."
     }
   },
   {
@@ -201,18 +153,6 @@
     "translation": {
       "en": "* Before each use, check the cable and plug.",
       "nl": "* Controleer voor elk gebruik kabel en stekker."
-    }
-  },
-  {
-    "translation": {
-      "en": "If damage is detected, do not use the machine.",
-      "nl": "Gebruik het apparaat niet meer wanneer defecten worden vastgesteld."
-    }
-  },
-  {
-    "translation": {
-      "en": "Have repairs performed only by a qualified technician.",
-      "nl": "Laat reparaties alleen uitvoeren door een vakman."
     }
   },
   {
@@ -385,18 +325,6 @@
   },
   {
     "translation": {
-      "en": "Starting Operation",
-      "nl": "Ingebruikneming"
-    }
-  },
-  {
-    "translation": {
-      "en": "Observe correct mains voltage: The voltage of the power source must agree with the voltage specified on the nameplate of the machine.",
-      "nl": "Let op de netspanning: De spanning van de stroombron moet overeenkomen met de gegevens op het typeplaatje."
-    }
-  },
-  {
-    "translation": {
       "en": "Switching On and Off",
       "nl": "In- en uitschakelen PAS 11-21/PAS 12-27:"
     }
@@ -511,30 +439,6 @@
   },
   {
     "translation": {
-      "en": "* Danger of explosion and fire!",
-      "nl": "* Explosie- en brandgevaar!"
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not vacuum inflammable or explosive fluids; for example, petrol, oil, alcohol, solvents.",
-      "nl": "Zuig geen brandbare of explosieve vloeistoffen zoals benzine, olie, alcohol of oplosmiddelen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not vacuum hot or burning dust.",
-      "nl": "Zuig geen heet of brandend stof."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not operate the machine in rooms where the danger of an explosion exists.",
-      "nl": "Gebruik het apparaat niet in een explosiegevaarlijke ruimte."
-    }
-  },
-  {
-    "translation": {
       "en": "* The machine is intended for vacuuming air and water mixtures.",
       "nl": "* Het apparaat is bestemd voor zuigen van een mengsel van lucht en water."
     }
@@ -585,12 +489,6 @@
     "translation": {
       "en": "To prevent the forming of mould, remove the permanent filter 3 from the machine and allow it to dry thoroughly before using it again for dry vacuuming.",
       "nl": "Trek het harmonicafilter (3) ter voorkoming van schimmelvorming uit het apparaat en laat het goed drogen voordat u het bij droog zuigen gebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Maintenance and Cleaning",
-      "nl": "Onderhoud en reiniging"
     }
   },
   {
@@ -649,12 +547,6 @@
   },
   {
     "translation": {
-      "en": "Malfunctions",
-      "nl": "Storingen"
-    }
-  },
-  {
-    "translation": {
       "en": "If the machine vacuums poorly, check the following:",
       "nl": "Controleer bij onvoldoende zuigcapaciteit:"
     }
@@ -691,62 +583,8 @@
   },
   {
     "translation": {
-      "en": "Disposal",
-      "nl": "Afvalverwijdering"
-    }
-  },
-  {
-    "translation": {
-      "en": "Power tools, accessories and packaging should be sorted for environmental-friendly recycling.",
-      "nl": "Elektrische gereedschappen, toebehoren en verpakkingen moeten op een voor het milieu verantwoorde wijze worden hergebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Only for EC countries:",
-      "nl": "Alleen voor landen van de EU:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not dispose of power tools into household waste!",
-      "nl": "Gooi elektrische gereedschappen niet bij het huisvuil."
-    }
-  },
-  {
-    "translation": {
       "en": "According to the European Directive 2002/96/EC on waste electrical and electronic equipment and its incorporation into national law, power tools that are no longer suitable for use must be separately collected and sent for recovery in an environmental-friendly manner.",
       "nl": "Volgens de Europese richtlijn 2002/96/EG over elektrische en elektronische oude apparaten en de omzetting van de richtlijn in nationaal recht moeten niet meer bruikbare elektrische gereedschappen apart worden ingezameld en op een voor het milieu verantwoorde wijze worden hergebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Service and Customer Assistance",
-      "nl": "Technische dienst en klantenservice"
-    }
-  },
-  {
-    "translation": {
-      "en": "Exploded views and information on spare parts can be found under: www.bosch-pt.com",
-      "nl": "Explosietekeningen en informatie over vervangingsonderdelen vindt u op: www.bosch-pt.com"
-    }
-  },
-  {
-    "translation": {
-      "en": "Declaration of Conformity",
-      "nl": "Conformiteitsverklaring"
-    }
-  },
-  {
-    "translation": {
-      "en": "We declare under our sole responsibility that this product is in conformity with the following standards or standardization documents: EN 60 335 according to the provisions of the directives 73/23/EEC, 89/336/EEC.",
-      "nl": "Wij verklaren op eigen verantwoording dat dit product voldoet aan de volgende normen en normatieve documenten: EN 60 335 volgens de bepalingen van de richtlijnen 73/23/EEG, 89/336/EEG."
-    }
-  },
-  {
-    "translation": {
-      "en": "Subject to change without notice",
-      "nl": "Wijzigingen voorbehouden"
     }
   }
 ]

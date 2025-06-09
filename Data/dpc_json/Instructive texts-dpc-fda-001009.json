@@ -1,18 +1,6 @@
 [
   {
     "translation": {
-      "en": "ANNEX I",
-      "nl": "BIJLAGE I"
-    }
-  },
-  {
-    "translation": {
-      "en": "SUMMARY OF PRODUCT CHARACTERISTICS",
-      "nl": "SAMENVATTING VAN DE PRODUCTKENMERKEN"
-    }
-  },
-  {
-    "translation": {
       "en": "1. NAME OF THE VETERINARY MEDICINAL PRODUCT Dicural 100 mg/ml, oral solution for chickens and turkeys",
       "nl": "1. BENAMING VAN HET DIERGENEESMIDDEL Dicural 100 mg/ml orale oplossing voor kippen en kalkoenen"
     }
@@ -37,12 +25,6 @@
   },
   {
     "translation": {
-      "en": "Excipients:",
-      "nl": "Hulpstoffen:"
-    }
-  },
-  {
-    "translation": {
       "en": "Other excipients, including benzyl alcohol, in an aqueous formulation to 1 ml",
       "nl": "Andere hulpstoffen, inclusief benzylalcohol in een waterige formulering q.s ad 1 ml"
     }
@@ -57,12 +39,6 @@
     "translation": {
       "en": "Oral solution",
       "nl": "Oplossing voor orale toediening"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. CLINICAL PARTICULARS",
-      "nl": "4. KLINISCHE GEGEVENS"
     }
   },
   {
@@ -99,12 +75,6 @@
     "translation": {
       "en": "Dicural oral solution should only be used based on susceptibility testing.",
       "nl": "Dicural orale oplossing dient alleen gebruikt te worden na een positieve gevoeligheidstest."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.3 Contraindications",
-      "nl": "4.3 Contra-indicaties"
     }
   },
   {
@@ -157,12 +127,6 @@
   },
   {
     "translation": {
-      "en": "Special precautions to be taken by the person administering the veterinary medicinal product to animals",
-      "nl": "Speciale voorzorgsmaatregelen, te nemen door degene die het geneesmiddel aan de dieren toedient"
-    }
-  },
-  {
-    "translation": {
       "en": "Persons with known hypersensitivity to quinolones should avoid any contact with the product.",
       "nl": "Personen met een bekende overgevoeligheid voor chinolonen dienen elk contact met het product te vermijden."
     }
@@ -175,20 +139,8 @@
   },
   {
     "translation": {
-      "en": "4.6 Adverse reactions (frequency and seriousness)",
-      "nl": "4.6 Bijwerkingen (frequentie en ernst)"
-    }
-  },
-  {
-    "translation": {
       "en": "None known.",
       "nl": "Geen bekend."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.7 Use during pregnancy, lactation or lay",
-      "nl": "4.7 Gebruik tijdens dracht, lactatie of leg"
     }
   },
   {
@@ -277,12 +229,6 @@
   },
   {
     "translation": {
-      "en": "5.1 Pharmacodynamic properties",
-      "nl": "5.1 Farmacodynamische eigenschappen"
-    }
-  },
-  {
-    "translation": {
       "en": "Pharmacotherapeutic group: general anti-infectives for systemic use; antibacterials for systemic use, quinolone antibacterials.",
       "nl": "Farmacotherapeutische groep: algemene anti-infectieuze middelen voor systemisch gebruik; antibacteriële middelen voor systemisch gebruik; antibacteriële middelen uit de chinolonen groep."
     }
@@ -303,12 +249,6 @@
     "translation": {
       "en": "Strains of Escherichia coli, Pasteurella multocida, Mycoplasma gallisepticum isolated from broilers and turkeys have been shown to be sensitive to difloxacin.",
       "nl": "De volgende soorten bacteriën, die werden geïsoleerd bij slachtkuikens en kalkoenen, werden getest en gevoelig bevonden voor difloxacine: bacteriestammen van Escherichia coli, Pasteurella multocida en Mycoplasma gallisepticum."
-    }
-  },
-  {
-    "translation": {
-      "en": "5.2 Pharmacokinetic properties",
-      "nl": "5.2 Farmacokinetische eigenschappen"
     }
   },
   {
@@ -403,12 +343,6 @@
   },
   {
     "translation": {
-      "en": "6.2 Incompatibilities",
-      "nl": "6.2 Onverenigbaarheden"
-    }
-  },
-  {
-    "translation": {
       "en": "No additional chlorine, for example by use of water chlorinators, nor hydrogen peroxide should be added in the drinking water used for the preparation of medicated water.",
       "nl": "Er mag geen extra chloor, bijvoorbeeld door gebruik van waterchloreerders, noch waterstofperoxide aan het drinkwater, dat als drager van het medicijn ter bereiding van het gemedicineerde water wordt gebruikt, worden toegevoegd"
     }
@@ -417,24 +351,6 @@
     "translation": {
       "en": "6.3 Shelf-life",
       "nl": "6.3 Houdbaarheidstermijn"
-    }
-  },
-  {
-    "translation": {
-      "en": "6.4 Special precautions for storage",
-      "nl": "6.4 Speciale voorzorgsmaatregelen bij bewaren"
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not freeze.",
-      "nl": "Niet in de vriezer bewaren."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.5 Nature and composition of immediate packaging",
-      "nl": "6.5 Aard en samenstelling van de primaire verpakking"
     }
   },
   {
@@ -463,12 +379,6 @@
   },
   {
     "translation": {
-      "en": "Not all pack sizes may be marketed.",
-      "nl": "Het kan voorkomen dat niet alle verpakkingsgrootten in de handel worden gebracht."
-    }
-  },
-  {
-    "translation": {
       "en": "6.6 Special precautions for the disposal of unused veterinary medicinal product or waste materials derived from the use of such products, if any",
       "nl": "6.6 Speciale voorzorgsmaatregelen voor de verwijdering van het ongebruikte diergeneesmiddel of eventueel uit het gebruik van een dergelijk middel voortvloeiend afvalmateriaal"
     }
@@ -481,20 +391,8 @@
   },
   {
     "translation": {
-      "en": "7. MARKETING AUTHORISATION HOLDER",
-      "nl": "7. NAAM VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "8. MARKETING AUTHORISATION NUMBERS EU/2/97/003/001-003",
       "nl": "8. NUMMER(S) VAN DE VERGUNNING(EN) VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "10. DATE OF REVISION OF THE TEXT",
-      "nl": "10. DATUM VAN HERZIENING VAN DE TEKST"
     }
   },
   {
@@ -507,18 +405,6 @@
     "translation": {
       "en": "PROHIBITION OF SALE, SUPPLY AND/OR USE",
       "nl": "VERBODSMAATREGELEN TEN AANZIEN VAN DE VERKOOP, DE LEVERING EN/OF GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "Not applicable.",
-      "nl": "Niet van toepassing"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE VETERINARY MEDICINAL PRODUCT",
-      "nl": "1. BENAMING VAN HET DIERGENEESMIDDEL"
     }
   },
   {
@@ -541,32 +427,14 @@
   },
   {
     "translation": {
-      "en": "For a full list of excipients, see section 6.1",
-      "nl": "Zie rubriek 6.1 voor de volledige lijst van hulpstoffen."
-    }
-  },
-  {
-    "translation": {
       "en": "Coated tablets",
       "nl": "Omhulde tabletten"
     }
   },
   {
     "translation": {
-      "en": "4. CLINICAL PARTICULARS",
-      "nl": "4. KLINISCHE GEGEVENS"
-    }
-  },
-  {
-    "translation": {
       "en": "Dogs",
       "nl": "Honden"
-    }
-  },
-  {
-    "translation": {
-      "en": "4.2 Indications for use, specifying the target species",
-      "nl": "4.2 Indicaties voor gebruik met specificatie van de doeldiersoort(en)"
     }
   },
   {
@@ -589,12 +457,6 @@
   },
   {
     "translation": {
-      "en": "4.3 Contraindications",
-      "nl": "4.3 Contra-indicaties"
-    }
-  },
-  {
-    "translation": {
       "en": "As for other quinolones, due to possible adverse effects on the articular cartilage of weight bearing joints difloxacin should not be used during the rapid growth phase, that is, do not use in small and medium-sized breeds of dogs up to and including 8 months of age, in large breeds up to 1 year of age and in giant breeds up to 18 months of age.",
       "nl": "Net als voor andere quinolones geldt, met het oog op mogelijke negatieve effecten op het gewrichtskraakbeen van gewichtdragende gewrichten, dat difloxacine niet gebruikt mag worden tijdens een periode van snelle groei, dwz. niet gebruiken in kleine en middelgrote hondenrassen tot en met 8 maanden oud, in grote hondenrassen tot één (1) jaar oud en in zeer grote hondenrassen tot 18 maanden oud."
     }
@@ -607,38 +469,8 @@
   },
   {
     "translation": {
-      "en": "4.4 Special warnings",
-      "nl": "4.4 Speciale waarschuwingen voor elke diersoort waarvoor het diergeneesmiddel bestemd is"
-    }
-  },
-  {
-    "translation": {
       "en": "None known.",
       "nl": "Geen bekend"
-    }
-  },
-  {
-    "translation": {
-      "en": "4.5 Special precautions for use",
-      "nl": "4.5 Speciale voorzorgsmaatregelen bij gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "Special precautions for use in animals",
-      "nl": "Speciale voorzorgsmaatregelen voor gebruik bij dieren"
-    }
-  },
-  {
-    "translation": {
-      "en": "Heavy reliance on a single class of antibiotics may result in the induction of resistance in a bacterial population.",
-      "nl": "In hoge mate beroep doen op één enkele antibioticaklasse kan resulteren in de inductie van resistentie in een bacteriepopulatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is prudent to reserve the fluoroquinolones for the treatment of clinical conditions that have responded poorly, or are expected to respond poorly, to other classes of antibiotic.",
-      "nl": "Het is aan te bevelen om fluorochinolonen te reserveren voor de behandeling van aandoeningen, welke slecht hebben gereageerd, of van welke verwacht wordt dat ze slecht zullen gaan reageren op andere antibioticaklassen."
     }
   },
   {
@@ -651,12 +483,6 @@
     "translation": {
       "en": "Persons with known hypersensitivity to quinolones should avoid any contact with the product.",
       "nl": "Personen met een overgevoeligheid voor quinolones dienen elk contact met het product te vermijden."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.6 Adverse reactions (frequency and seriousness)",
-      "nl": "4.6 Bijwerkingen (frequentie en ernst)"
     }
   },
   {
@@ -679,20 +505,8 @@
   },
   {
     "translation": {
-      "en": "4.7 Use during pregnancy, lactation or lay",
-      "nl": "4.7 Gebruik tijdens dracht, lactatie of leg"
-    }
-  },
-  {
-    "translation": {
       "en": "As reproductive safety has only been evaluated in laboratory animals, the use of difloxacin in pregnant or lactating bitches or male stud dogs is not recommended.",
       "nl": "De veiligheid voor de voortplanting is slechts getest met proefdieren derhalve wordt het toedienen van difloxacine aan drachtige of lacterende dieren en aan fokdieren niet aanbevolen."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.8 Interaction with other veterinary medicinal products and other forms of interaction",
-      "nl": "4.8 Interactie(s) met andere diergeneesmiddelen en andere vormen van interactie"
     }
   },
   {
@@ -711,12 +525,6 @@
     "translation": {
       "en": "Nitrofurantoin may impair quinolone efficacy if used concurrently in the treatment of urinary tract infections.",
       "nl": "Gelijktijdig gebruik van nitrofurantoïne kan de werking van difloxacine negatief beïnvloeden bij de behandeling van urineweg infecties."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.9 Amounts to be administered and administration route",
-      "nl": "4.9 Dosering en toedieningsweg"
     }
   },
   {
@@ -751,12 +559,6 @@
   },
   {
     "translation": {
-      "en": "4.10 Overdose (symptoms, emergency procedures, antidotes)",
-      "nl": "4.10 Overdosering (symptomen, procedures in noodgevallen, antidota)"
-    }
-  },
-  {
-    "translation": {
       "en": "Dogs treated orally with difloxacin (as the hydrochloride) at 10 times the recommended dose for 10 days occasionally showed mild adverse clinical signs such as orange/yellowing discoloration of the faeces, emesis and hypersalivation.",
       "nl": "Honden die oraal behandeld waren met 10 maal de aanbevolen dosering difloxacine (als hydrochloride) gedurende 10 dagen, vertoonden lichte klinische verschijnselen zoals oranje/gele verkleuring van de faeces, braken en speekselen."
     }
@@ -775,24 +577,6 @@
   },
   {
     "translation": {
-      "en": "Not applicable.",
-      "nl": "Niet van toepassing."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. PHARMACOLOGICAL PROPERTIES",
-      "nl": "5. FARMACOLOGISCHE EIGENSCHAPPEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Pharmacotherapeutic group: general anti-infectives for systemic use; antibacterials for systemic use, quinolone antibacterials.",
-      "nl": "Farmacotherapeutische groep: algemene anti-infectieuze middelen voor systemisch gebruik; antibacteriële middelen voor systemisch gebruik; antibacteriële middelen uit de chinolonen groep."
-    }
-  },
-  {
-    "translation": {
       "en": "Difloxacin is an aryl-fluoroquinolone with a broad spectrum of antimicrobial activity.",
       "nl": "Difloxacine is een aryl-fluoroquinolon met een breedspectrum antimicrobiële activiteit."
     }
@@ -801,12 +585,6 @@
     "translation": {
       "en": "Difloxacin can be bactericidal against many Gram-negative micro-organisms and a selection of Gram-positive micro¬organisms.",
       "nl": "Difloxacine kan een bactericide werking hebben tegen een groot aantal Gram-negatieve micro-organismen en bepaalde Grampositieve micro-organismen."
-    }
-  },
-  {
-    "translation": {
-      "en": "5.1 Pharmacodynamic properties",
-      "nl": "5.1 Farmacodynamische eigenschappen"
     }
   },
   {
@@ -835,12 +613,6 @@
   },
   {
     "translation": {
-      "en": "5.2 Pharmacokinetic properties",
-      "nl": "5.2 Farmacokinetische eigenschappen"
-    }
-  },
-  {
-    "translation": {
       "en": "Following an oral dose (a plain tablet) in dogs of 5 mg/kg bodyweight, difloxacin reached its average peak plasma concentration of 1.8 µg/ml in approximately 3 hours.",
       "nl": "Na een orale dosis van 5 mg/kg lichaamsgewicht (niet omhulde tablet) aan honden, werd een gemiddelde piekplasma concentratie van 1,8 µg/ml difloxacine op circa 3 uur na toediening bereikt."
     }
@@ -861,12 +633,6 @@
     "translation": {
       "en": "Long term daily oral treatment over 180 days at 5 mg/kg bodyweight did not influence difloxacin kinetics, neither by accumulation nor by increased drug metabolism.",
       "nl": "Lange termijnbehandeling gedurende 180 dagen in een dosering van 5mg/kg lichaamsgewicht had geen invloed op de kinetiek van difloxacine, niet door accumulatie noch door toegenomen metabolisatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.1 List of excipients",
-      "nl": "6.1 Lijst van hulpstoffen"
     }
   },
   {
@@ -925,30 +691,6 @@
   },
   {
     "translation": {
-      "en": "6.2 Incompatibilities",
-      "nl": "6.2 Onverenigbaarheden"
-    }
-  },
-  {
-    "translation": {
-      "en": "Not applicable.",
-      "nl": "Niet van toepassing"
-    }
-  },
-  {
-    "translation": {
-      "en": "6.3 Shelf-life",
-      "nl": "6.3 Houdbaarheidstermijn"
-    }
-  },
-  {
-    "translation": {
-      "en": "2 years",
-      "nl": "2 jaar"
-    }
-  },
-  {
-    "translation": {
       "en": "6.4 Special precautions for storage",
       "nl": "6.4. Speciale voorzorgsmaatregelen bij bewaren"
     }
@@ -967,44 +709,8 @@
   },
   {
     "translation": {
-      "en": "Not all pack sizes may be marketed.",
-      "nl": "Het kan voorkomen dat niet alle verpakkingsgrootten in de handel worden gebracht."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.6 Special precautions for the disposal of unused veterinary medicinal product or waste materials derived from the use of such products, if any",
-      "nl": "6.6 Speciale voorzorgsmaatregelen voor de verwijdering van het ongebruikte diergeneesmiddel of eventueel uit het gebruik van een dergelijk middel voortvloeiend afvalmateriaal"
-    }
-  },
-  {
-    "translation": {
-      "en": "Any unused veterinary medicinal product or waste materials derived from such veterinary medicinal products should be disposed of in accordance with local requirements.",
-      "nl": "Ongebruikte diergeneesmiddelen of restanten hiervan dienen in overeenstemming met de lokale vereisten te worden verwijderd."
-    }
-  },
-  {
-    "translation": {
-      "en": "7. MARKETING AUTHORISATION HOLDER",
-      "nl": "7. NAAM VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "8.MARKETING AUTHORISATION NUMBERS EU/2/97/003/004-0 15",
       "nl": "8. NUMMER(S) VAN DE VERGUNNING(EN) VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "10. DATE OF REVISION OF THE TEXT",
-      "nl": "10. DATUM VAN HERZIENING VAN DE TEKST"
-    }
-  },
-  {
-    "translation": {
-      "en": "Detailed information on this veterinary medicinal product is available on the website of the European Medicines Agency (EMEA) http://www.emea.eu.int/",
-      "nl": "Zie voor nadere bijzonderheden over dit diergeneesmiddel de website van het Europees Geneesmiddelenbureau (EMEA): http://www.emea.eu.int/>"
     }
   },
   {
@@ -1027,20 +733,8 @@
   },
   {
     "translation": {
-      "en": "4. CLINICAL PARTICULARS",
-      "nl": "4. KLINISCHE GEGEVENS"
-    }
-  },
-  {
-    "translation": {
       "en": "Cattle (calves and young cattle) and dogs.",
       "nl": "Rundvee (kalveren en jongvee) en honden"
-    }
-  },
-  {
-    "translation": {
-      "en": "4.2 Indications for use, specifying the target species",
-      "nl": "4.2 Indicaties voor gebruik met specificatie van de doeldiersoort(en)"
     }
   },
   {
@@ -1069,12 +763,6 @@
   },
   {
     "translation": {
-      "en": "4.3 Contraindications",
-      "nl": "4.3 Contra-indicaties"
-    }
-  },
-  {
-    "translation": {
       "en": "Cattle: None.",
       "nl": "Rundvee: Geen."
     }
@@ -1093,38 +781,8 @@
   },
   {
     "translation": {
-      "en": "Do not use in epileptic dogs.",
-      "nl": "Niet gebruiken bij honden met epilepsie."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.4 Special warnings for each target species",
-      "nl": "4.4 Speciale waarschuwingen voor elke diersoort waarvoor het diergeneesmiddel bestemd is"
-    }
-  },
-  {
-    "translation": {
       "en": "None known.",
       "nl": "Geen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Special precautions for use in animals",
-      "nl": "Speciale voorzorgsmaatregelen voor gebruik bij dieren"
-    }
-  },
-  {
-    "translation": {
-      "en": "Heavy reliance on a single class of antibiotics may result in the induction of resistance in a bacterial population.",
-      "nl": "In hoge mate beroep doen op één enkele antibioticaklasse kan resulteren in de inductie van resistentie in een bacteriepopulatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is prudent to reserve the fluoroquinolones for the treatment of clinical conditions that have responded poorly, or are expected to respond poorly, to other classes of antibiotic.",
-      "nl": "Het is aan te bevelen om fluorochinolonen te reserveren voor de behandeling van aandoeningen, welke slecht hebben gereageerd, of van welke verwacht wordt dat ze slecht zullen gaan reageren op andere antibioticaklassen."
     }
   },
   {
@@ -1137,12 +795,6 @@
     "translation": {
       "en": "People with known hypersensitivity to quinolones should avoid any contact with the product.",
       "nl": "Personen die overgevoelig zijn voor chinolonen moeten elk contact met het product vermijden."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.6 Adverse reactions (frequency and seriousness)",
-      "nl": "4.6 Bijwerkingen (frequentie en ernst)"
     }
   },
   {
@@ -1165,18 +817,6 @@
   },
   {
     "translation": {
-      "en": "Dogs:",
-      "nl": "Honden:"
-    }
-  },
-  {
-    "translation": {
-      "en": "In target animal safety studies, subcutaneous administration was generally well tolerated.",
-      "nl": "In doeldiertolerantiestudies werd de subcutane toediening in het algemeen goed verdragen."
-    }
-  },
-  {
-    "translation": {
       "en": "Pruritis and/or local swellings and occasionally a slight pain reaction on injection have been observed.",
       "nl": "Jeuk en/of een locale zwelling en soms een lichte pijnreactie na injectie werden waargenomen."
     }
@@ -1185,12 +825,6 @@
     "translation": {
       "en": "In general the pruritis disappears within a few minutes and the local swelling within a few days.",
       "nl": "In het algemeen verdwijnt de jeuk binnen een paar minuten, de locale zwelling binnen een paar dagen."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.7 Use during pregnancy, lactation or lay",
-      "nl": "4.7 Gebruik tijdens dracht, lactatie of leg"
     }
   },
   {
@@ -1207,26 +841,8 @@
   },
   {
     "translation": {
-      "en": "The use of fluoroquinolones in combination with non-steroidal anti-inflammatory drugs (NSAIDs) may cause seizures.",
-      "nl": "Het gebruik van fluoroquinolones in combinatie met niet-steroïdale ontstekingsremmers (NSAIDs) kan een epileptische aanval induceren."
-    }
-  },
-  {
-    "translation": {
       "en": "Antagonism may be observed with nitrofurantoin.",
       "nl": "Antagonisme met nitrofurantoïne kan optreden."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.9 Amounts to be administered and administration route",
-      "nl": "4.9 Dosering en toedieningsweg"
-    }
-  },
-  {
-    "translation": {
-      "en": "Cattle:",
-      "nl": "Rundvee:"
     }
   },
   {
@@ -1239,12 +855,6 @@
     "translation": {
       "en": "For complicated respiratory disease the dose can be doubled to 5 mg/kg per day.",
       "nl": "Indien er sprake is van gecompliceerde luchtwegaandoeningen dan kan de dosering verdubbeld worden tot 5 mg/kg."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dogs:",
-      "nl": "Honden:"
     }
   },
   {
@@ -1287,18 +897,6 @@
     "translation": {
       "en": "Avoid introduction of contamination.",
       "nl": "Voorkom contaminatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.10 Overdose (symptoms, emergency procedures, antidotes)",
-      "nl": "4.10 Overdosering (symptomen, procedures in noodgevallen, antidota)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Cattle:",
-      "nl": "Rundvee:"
     }
   },
   {
@@ -1363,12 +961,6 @@
   },
   {
     "translation": {
-      "en": "The following organisms were tested and found to be susceptible to difloxacin in vitro:",
-      "nl": "De volgende organismen zijn getest en gevoelig bevonden voor difloxacine in vitro:"
-    }
-  },
-  {
-    "translation": {
       "en": "The following organism was found to be of intermediate susceptibility: Staphylococcus spp.",
       "nl": "De volgende organismen werden intermediair gevoelig bevonden:"
     }
@@ -1377,18 +969,6 @@
     "translation": {
       "en": "Induction of resistance against quinolones can develop by mutations in the gyrase gene of bacteria and by changes in cell permeability towards quinolones",
       "nl": "Resistentie tegen chinolonen kan geïnduceerd worden door mutaties in het gyrase gen van bacteriën en door veranderingen in de permeabiliteit van de celwand voor chinolonen."
-    }
-  },
-  {
-    "translation": {
-      "en": "5.2 Pharmacokinetic properties",
-      "nl": "5.2 Farmacokinetische eigenschappen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Cattle:",
-      "nl": "Rundvee:"
     }
   },
   {
@@ -1419,12 +999,6 @@
     "translation": {
       "en": "A fraction of difloxacin (i.e. 7 - 18%) is eliminated via the urine.",
       "nl": "Een klein deel difloxacine (dwz. 7 -18%) wordt uitgescheiden via de urine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dogs:",
-      "nl": "Honden:"
     }
   },
   {
@@ -1465,18 +1039,6 @@
   },
   {
     "translation": {
-      "en": "6. PHARMACEUTICAL PARTICULARS",
-      "nl": "6. FARMACEUTISCHE GEGEVENS"
-    }
-  },
-  {
-    "translation": {
-      "en": "6.1 List of excipients",
-      "nl": "6.1 Lijst van hulpstoffen"
-    }
-  },
-  {
-    "translation": {
       "en": "Ethanol",
       "nl": "Ethanol"
     }
@@ -1489,20 +1051,8 @@
   },
   {
     "translation": {
-      "en": "6.2 Incompatibilities",
-      "nl": "6.2 Onverenigbaarheden"
-    }
-  },
-  {
-    "translation": {
       "en": "In the absence of compatibility studies, this veterinary medicinal product must not be mixed with other veterinary medicinal products",
       "nl": "Aangezien er geen onderzoek is verricht naar de onverenigbaarheid, moet het middel niet met andere diergeneesmiddelen worden vermengd."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.3 Shelf-life",
-      "nl": "6.3 Houdbaarheidstermijn"
     }
   },
   {
@@ -1519,32 +1069,8 @@
   },
   {
     "translation": {
-      "en": "6.4 Special precautions for storage",
-      "nl": "6.4 Speciale voorzorgsmaatregelen bij bewaren"
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not freeze.",
-      "nl": "Niet bevriezen."
-    }
-  },
-  {
-    "translation": {
       "en": "Keep the container in the outer carton.",
       "nl": "Bewaar de injectieflacon in de verpakking."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.5 Nature and composition of immediate packaging",
-      "nl": "6.5 Aard en samenstelling van de primaire verpakking"
-    }
-  },
-  {
-    "translation": {
-      "en": "Dogs:",
-      "nl": "Honden:"
     }
   },
   {
@@ -1555,62 +1081,14 @@
   },
   {
     "translation": {
-      "en": "Cattle:",
-      "nl": "Rundvee:"
-    }
-  },
-  {
-    "translation": {
       "en": "Cardboard box with one glass vial of 50, 100 or 250 ml with a rubber stopper and aluminium cap.",
       "nl": "Kartonnen doos met één glazen flacon van 50, 100 of 250 ml met een rubberen stopper en aluminium cap."
     }
   },
   {
     "translation": {
-      "en": "Not all pack sizes may be marketed.",
-      "nl": "Het kan voorkomen dat niet alle verpakkingsgrootten in de handel worden gebracht."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.6 Special precautions for the disposal of unused veterinary medicinal product or waste materials derived from the use of such products, if any",
-      "nl": "6.6 Speciale voorzorgsmaatregelen voor de verwijdering van het ongebruikte diergeneesmiddel of eventueel uit het gebruik van een dergelijk middel voortvloeiend afvalmateriaal"
-    }
-  },
-  {
-    "translation": {
-      "en": "Any unused veterinary medicinal product or waste materials derived from such veterinary medicinal products should be disposed of in accordance with local requirements.",
-      "nl": "Ongebruikte diergeneesmiddelen of restanten hiervan dienen in overeenstemming met de lokale vereisten te worden verwijderd."
-    }
-  },
-  {
-    "translation": {
-      "en": "7. MARKETING AUTHORISATION HOLDER",
-      "nl": "7. NAAM VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "8. MARKETING AUTHORISATION NUMBERS EU/2/97/003/016-018",
       "nl": "8. NUMMER(S) VAN DE VERGUNNING(EN) VOOR HET IN DE HANDEL BRENGEN EU/E/97/003/016-018"
-    }
-  },
-  {
-    "translation": {
-      "en": "10. DATE OF REVISION OF THE TEXT",
-      "nl": "10. DATUM VAN HERZIENING VAN DE TEKST"
-    }
-  },
-  {
-    "translation": {
-      "en": "Detailed information on this veterinary medicinal product is available on the website of the European Medicines Agency (EMEA) http://www.emea.eu.int/",
-      "nl": "Zie voor nadere bijzonderheden over dit diergeneesmiddel de website van het Europees Geneesmiddelenbureau (EMEA): http://www.emea.eu.int/>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Not applicable.",
-      "nl": "Niet van toepassing"
     }
   },
   {
@@ -1669,38 +1147,8 @@
   },
   {
     "translation": {
-      "en": "Not applicable.",
-      "nl": "Niet van toepassing"
-    }
-  },
-  {
-    "translation": {
       "en": "which are accepted in accordance with Council Regulation (EEC) No 2377/90 and in accordance with Article 31 (3b) of Council Regulation (EEC) No 2309/93 of 22 July 1993, as amended.",
       "nl": "welke overeenkomstig Verordening (EEG) nr. 2377/90 van de Raad en overeenkomstig artikel 31, lid 3b, van Verordening (EEG) nr. 2309/93 van de Raad van 23 juli 1993, als gewijzigd, aanvaard worden."
-    }
-  },
-  {
-    "translation": {
-      "en": "ANNEX III",
-      "nl": "BIJLAGE III"
-    }
-  },
-  {
-    "translation": {
-      "en": "LABELLING AND PACKAGE LEAFLET",
-      "nl": "ETIKETTERING EN BIJSLUITER"
-    }
-  },
-  {
-    "translation": {
-      "en": "A. LABELLING",
-      "nl": "A. ETIKETTERING"
-    }
-  },
-  {
-    "translation": {
-      "en": "PARTICULARS TO APPEAR ON THE OUTER PACKAGE",
-      "nl": "GEGEVENS DIE OP DE BUITENVERPAKKING MOETEN WORDEN VERMELD"
     }
   },
   {
@@ -1717,12 +1165,6 @@
   },
   {
     "translation": {
-      "en": "1. NAME OF THE VETERINARY MEDICINAL PRODUCT",
-      "nl": "1. BENAMING VAN HET DIERGENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
       "en": "Dicural 100 mg/ml, oral solution for chickens and turkeys",
       "nl": "Dicural 100 mg/ml orale oplossing voor kippen en kalkoenen"
     }
@@ -1735,20 +1177,8 @@
   },
   {
     "translation": {
-      "en": "3. PHARMACEUTICAL FORM",
-      "nl": "3. FARMACEUTISCHE VORM"
-    }
-  },
-  {
-    "translation": {
       "en": "Oral solution",
       "nl": "Oplossing voor orale toediening."
-    }
-  },
-  {
-    "translation": {
-      "en": "4. PACKAGE SIZE",
-      "nl": "4. VERPAKKINGSGROOTTE"
     }
   },
   {
@@ -1801,12 +1231,6 @@
   },
   {
     "translation": {
-      "en": "Read the package leaflet before use.",
-      "nl": "Lees vóór gebruik de bijsluiter."
-    }
-  },
-  {
-    "translation": {
       "en": "8. WITHDRAWAL PERIOD",
       "nl": "8. WACHTTIJD"
     }
@@ -1819,50 +1243,14 @@
   },
   {
     "translation": {
-      "en": "Not permitted for use in laying birds producing eggs for human consumption.",
-      "nl": "Niet voor gebruik in legvogels die eieren voor menselijke consumptie produceren."
-    }
-  },
-  {
-    "translation": {
       "en": "9. SPECIAL WARNINGS",
       "nl": "9. SPECIALE WAARSCHUWING(EN), INDIEN NODIG"
     }
   },
   {
     "translation": {
-      "en": "Persons with known hypersensitivity to quinolones should avoid any contact with the product.",
-      "nl": "Personen met een bekende overgevoeligheid voor chinolonen dienen elk contact met het product te vermijden."
-    }
-  },
-  {
-    "translation": {
-      "en": "In order to avoid irritation of skin and/or eyes, use gloves and a face-protecting device when handling this product.",
-      "nl": "In verband met mogelijke irritatie van huid en/of ogen dient bij de toepassing van dit product gebruik te worden gemaakt van handschoenen en gezichtsbescherming."
-    }
-  },
-  {
-    "translation": {
-      "en": "10. EXPIRY DATE",
-      "nl": "10. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
       "en": "Medicated water must be freshly prepared daily.",
       "nl": "Het gemedicineerde water dient dagelijks vers te worden bereid."
-    }
-  },
-  {
-    "translation": {
-      "en": "11. SPECIAL STORAGE CONDITIONS",
-      "nl": "11. SPECIALE VOORZORGSMAATREGELEN BIJ BEWAREN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not freeze.",
-      "nl": "Niet in de vriezer bewaren."
     }
   },
   {
@@ -1891,38 +1279,8 @@
   },
   {
     "translation": {
-      "en": "For animal treatment only.",
-      "nl": "Uitsluitend voor diergeneeskundig gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "To be supplied only on veterinary prescription.",
-      "nl": "Uitsluitend op diergeneeskundig voorschrift verkrijgbaar diergeneesmiddel."
-    }
-  },
-  {
-    "translation": {
-      "en": "14. THE WORDS \"KEEP OUT OF THE REACH AND SIGHT OF CHILDREN\"",
-      "nl": "14. VERMELDING \"BUITEN HET BEREIK EN ZICHT VAN KINDEREN BEWAREN\""
-    }
-  },
-  {
-    "translation": {
       "en": "15. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER",
       "nl": "15. NAAM EN ADRES VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "16. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "16. NUMMER(S) IN HET COMMUNAUTAIRE GENEESMIDDELENREGISTER"
-    }
-  },
-  {
-    "translation": {
-      "en": "17. MANUFACTURER'S BATCH NUMBER",
-      "nl": "17. PARTIJNUMMER FABRIKANT"
     }
   },
   {
@@ -1939,12 +1297,6 @@
   },
   {
     "translation": {
-      "en": "1. NAME OF THE VETERINARY MEDICINAL PRODUCT",
-      "nl": "1. BENAMING VAN HET DIERGENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
       "en": "Dicural 15 mg Coated tablets for dogs",
       "nl": "Dicural 15 mg omhulde tabletten voor honden"
     }
@@ -1957,24 +1309,6 @@
   },
   {
     "translation": {
-      "en": "3. PHARMACEUTICAL FORM",
-      "nl": "3. FARMACEUTISCHE VORM"
-    }
-  },
-  {
-    "translation": {
-      "en": "Coated tablets",
-      "nl": "Omhulde tabletten"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. PACKAGE SIZE",
-      "nl": "4. VERPAKKINGSGROOTTE"
-    }
-  },
-  {
-    "translation": {
       "en": "10 tablets 20 tablets 100 tablets",
       "nl": "10 tabletten 20 tabletten 100 tabletten"
     }
@@ -1987,38 +1321,8 @@
   },
   {
     "translation": {
-      "en": "Dogs",
-      "nl": "Honden"
-    }
-  },
-  {
-    "translation": {
-      "en": "6. INDICATIONS",
-      "nl": "6. INDICATIE(S)"
-    }
-  },
-  {
-    "translation": {
-      "en": "7. METHOD AND ROUTE OF ADMINISTRATION",
-      "nl": "7. WIJZE VAN GEBRUIK EN DE TOEDIENINGSWEG(EN)"
-    }
-  },
-  {
-    "translation": {
       "en": "Oral use.",
       "nl": "Voor oraal gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "Read the package leaflet before use.",
-      "nl": "Lees vóór gebruik de bijsluiter."
-    }
-  },
-  {
-    "translation": {
-      "en": "8. WITHDRAWAL PERIOD",
-      "nl": "8. WACHTTIJD"
     }
   },
   {
@@ -2035,50 +1339,8 @@
   },
   {
     "translation": {
-      "en": "Persons with known hypersensitivity to quinolones should avoid any contact with the product.",
-      "nl": "Personen met een overgevoeligheid voor quinolones dienen elk contact met het product te vermijden."
-    }
-  },
-  {
-    "translation": {
-      "en": "10. EXPIRY DATE",
-      "nl": "10. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "11. SPECIAL STORAGE CONDITIONS",
-      "nl": "11. SPECIALE VOORZORGSMAATREGELEN BIJ BEWAREN"
-    }
-  },
-  {
-    "translation": {
-      "en": "12. SPECIAL PRECAUTIONS FOR THE DISPOSAL OF UNUSED PRODUCT OR WASTE MATERIALS, IF ANY",
-      "nl": "12. SPECIALE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE DIERGENEESMIDDELEN OF EVENTUELE RESTANTEN HIERVAN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Dispose of waste material in accordance with local requirements.",
-      "nl": "Verwijder afvalmateriaal in overeenstemming met de lokale vereisten."
-    }
-  },
-  {
-    "translation": {
       "en": "13. THE WORDS \"FOR ANIMAL TREATMENT ONLY\" AND CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE",
       "nl": "13. VERMELDING \"UITSLUITEND VOOR DIERGENEESKUNDIG GEBRUIK\" EN VOORWAARDEN OF BEPERKINGEN TEN AANZIEN VAN DE LEVERING EN HET GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "For animal treatment only.",
-      "nl": "Uitsluitend voor diergeneeskundig gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "To be supplied only on veterinary prescription.",
-      "nl": "Uitsluitend op diergeneeskundig voorschrift verkrijgbaar diergeneesmiddel."
     }
   },
   {
@@ -2095,26 +1357,8 @@
   },
   {
     "translation": {
-      "en": "15. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "15. NAAM EN ADRES VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "16. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "16. NUMMER(S) IN HET COMMUNAUTAIRE GENEESMIDDELENREGISTER"
-    }
-  },
-  {
-    "translation": {
       "en": "17. MANUFACTURER'S BATCH NUMBER",
       "nl": "17. HET PARTIJNUMMER VAN DE FABRIKANT"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lot {number}",
-      "nl": "Lot: {nummer}"
     }
   },
   {
@@ -2125,182 +1369,8 @@
   },
   {
     "translation": {
-      "en": "1. NAME OF THE VETERINARY MEDICINAL PRODUCT",
-      "nl": "1. BENAMING VAN HET DIERGENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
       "en": "Dicural 50 mg Coated tablets for dogs",
       "nl": "Dicural 50 mg omhulde tabletten voor honden"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. STATEMENT OF ACTIVE AND OTHER SUBSTANCES",
-      "nl": "2. HET GEHALTE AAN WERKZAME STOF(FEN) EN OVERIGE BESTANDDELEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. PHARMACEUTICAL FORM",
-      "nl": "3. FARMACEUTISCHE VORM"
-    }
-  },
-  {
-    "translation": {
-      "en": "Coated tablets",
-      "nl": "Omhulde tabletten"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. PACKAGE SIZE",
-      "nl": "4. VERPAKKINGSGROOTTE"
-    }
-  },
-  {
-    "translation": {
-      "en": "10 tablets 20 tablets 100 tablets",
-      "nl": "10 tabletten 20 tabletten 100 tabletten"
-    }
-  },
-  {
-    "translation": {
-      "en": "5. TARGET SPECIES",
-      "nl": "5. DIERSOORTEN WAARVOOR HET DIERGENEESMIDDEL BESTEMD IS"
-    }
-  },
-  {
-    "translation": {
-      "en": "Dogs",
-      "nl": "Honden"
-    }
-  },
-  {
-    "translation": {
-      "en": "6. INDICATIONS",
-      "nl": "6. INDICATIE(S)"
-    }
-  },
-  {
-    "translation": {
-      "en": "7. METHOD AND ROUTE OF ADMINISTRATION",
-      "nl": "7. WIJZE VAN GEBRUIK EN DE TOEDIENINGSWEG(EN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Oral use.",
-      "nl": "Voor oraal gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "Read the package leaflet before use.",
-      "nl": "Lees vóór gebruik de bijsluiter."
-    }
-  },
-  {
-    "translation": {
-      "en": "8. WITHDRAWAL PERIOD",
-      "nl": "8. WACHTTIJD"
-    }
-  },
-  {
-    "translation": {
-      "en": "[Not applicable.]",
-      "nl": "[Niet van toepassing.]"
-    }
-  },
-  {
-    "translation": {
-      "en": "9. SPECIAL WARNINGS, IF NECESSARY",
-      "nl": "9. SPECIALE WAARSCHUWING(EN), INDIEN NODIG"
-    }
-  },
-  {
-    "translation": {
-      "en": "Persons with known hypersensitivity to quinolones should avoid any contact with the product.",
-      "nl": "Personen met een overgevoeligheid voor quinolones dienen elk contact met het product te vermijden."
-    }
-  },
-  {
-    "translation": {
-      "en": "10. EXPIRY DATE",
-      "nl": "10. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "11. SPECIAL STORAGE CONDITIONS",
-      "nl": "11. SPECIALE VOORZORGSMAATREGELEN BIJ BEWAREN"
-    }
-  },
-  {
-    "translation": {
-      "en": "12. SPECIAL PRECAUTIONS FOR THE DISPOSAL OF UNUSED PRODUCT OR WASTE MATERIALS, IF ANY",
-      "nl": "12. SPECIALE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE DIERGENEESMIDDELEN OF EVENTUELE RESTANTEN HIERVAN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Dispose of waste material in accordance with local requirements.",
-      "nl": "Verwijder afvalmateriaal in overeenstemming met de lokale vereisten."
-    }
-  },
-  {
-    "translation": {
-      "en": "13. THE WORDS \"FOR ANIMAL TREATMENT ONLY\" AND CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE",
-      "nl": "13. VERMELDING \"UITSLUITEND VOOR DIERGENEESKUNDIG GEBRUIK\" EN VOORWAARDEN OF BEPERKINGEN TEN AANZIEN VAN DE LEVERING EN HET GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "For animal treatment only.",
-      "nl": "Uitsluitend voor diergeneeskundig gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "To be supplied only on veterinary prescription.",
-      "nl": "Uitsluitend op diergeneeskundig voorschrift verkrijgbaar diergeneesmiddel."
-    }
-  },
-  {
-    "translation": {
-      "en": "14. THE WORDS \"KEEP OUT OF THE REACH AND SIGHT OF CHILDREN\"",
-      "nl": "14. VERMELDING \"BUITEN BEREIK EN ZICHT VAN KINDEREN BEWAREN\""
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Buiten bereik en zicht van kinderen bewaren."
-    }
-  },
-  {
-    "translation": {
-      "en": "15. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "15. NAAM EN ADRES VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "16. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "16. NUMMER(S) IN HET COMMUNAUTAIRE GENEESMIDDELENREGISTER"
-    }
-  },
-  {
-    "translation": {
-      "en": "17. MANUFACTURER'S BATCH NUMBER",
-      "nl": "17. HET PARTIJNUMMER VAN DE FABRIKANT"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lot {number}",
-      "nl": "Lot: {nummer}"
     }
   },
   {
@@ -2311,164 +1381,8 @@
   },
   {
     "translation": {
-      "en": "1. NAME OF THE VETERINARY MEDICINAL PRODUCT",
-      "nl": "1. BENAMING VAN HET DIERGENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
       "en": "Dicural 100 mg Coated tablets for dogs",
       "nl": "Dicural 100 mg omhulde tabletten voor honden"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. STATEMENT OF ACTIVE AND OTHER SUBSTANCES",
-      "nl": "2. HET GEHALTE AAN WERKZAME STOF(FEN) EN OVERIGE BESTANDDELEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. PHARMACEUTICAL FORM",
-      "nl": "3. FARMACEUTISCHE VORM"
-    }
-  },
-  {
-    "translation": {
-      "en": "Coated tablets",
-      "nl": "Omhulde tabletten"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. PACKAGE SIZE",
-      "nl": "4. VERPAKKINGSGROOTTE"
-    }
-  },
-  {
-    "translation": {
-      "en": "10 tablets 20 tablets 100 tablets",
-      "nl": "10 tabletten 20 tabletten 100 tabletten"
-    }
-  },
-  {
-    "translation": {
-      "en": "5. TARGET SPECIES",
-      "nl": "5. DIERSOORTEN WAARVOOR HET DIERGENEESMIDDEL BESTEMD IS"
-    }
-  },
-  {
-    "translation": {
-      "en": "Dogs",
-      "nl": "Honden"
-    }
-  },
-  {
-    "translation": {
-      "en": "6. INDICATIONS",
-      "nl": "6. INDICATIE(S)"
-    }
-  },
-  {
-    "translation": {
-      "en": "7. METHOD AND ROUTE OF ADMINISTRATION",
-      "nl": "7. WIJZE VAN GEBRUIK EN DE TOEDIENINGSWEG(EN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Oral use.",
-      "nl": "Voor oraal gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "Read the package leaflet before use.",
-      "nl": "Lees vóór gebruik de bijsluiter."
-    }
-  },
-  {
-    "translation": {
-      "en": "8. WITHDRAWAL PERIOD",
-      "nl": "8. WACHTTIJD"
-    }
-  },
-  {
-    "translation": {
-      "en": "[Not applicable.]",
-      "nl": "[Niet van toepassing.]"
-    }
-  },
-  {
-    "translation": {
-      "en": "9. SPECIAL WARNINGS, IF NECESSARY",
-      "nl": "9. SPECIALE WAARSCHUWING(EN), INDIEN NODIG"
-    }
-  },
-  {
-    "translation": {
-      "en": "Persons with known hypersensitivity to quinolones should avoid any contact with the product.",
-      "nl": "Personen met een overgevoeligheid voor quinolones dienen elk contact met het product te vermijden."
-    }
-  },
-  {
-    "translation": {
-      "en": "10. EXPIRY DATE",
-      "nl": "10. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "11. SPECIAL STORAGE CONDITIONS",
-      "nl": "11. SPECIALE VOORZORGSMAATREGELEN BIJ BEWAREN"
-    }
-  },
-  {
-    "translation": {
-      "en": "12. SPECIAL PRECAUTIONS FOR THE DISPOSAL OF UNUSED PRODUCT OR WASTE MATERIALS, IF ANY",
-      "nl": "12. SPECIALE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE DIERGENEESMIDDELEN OF EVENTUELE RESTANTEN HIERVAN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Dispose of waste material in accordance with local requirements.",
-      "nl": "Verwijder afvalmateriaal in overeenstemming met de lokale vereisten."
-    }
-  },
-  {
-    "translation": {
-      "en": "13. THE WORDS \"FOR ANIMAL TREATMENT ONLY\" AND CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE",
-      "nl": "13. VERMELDING \"UITSLUITEND VOOR DIERGENEESKUNDIG GEBRUIK\" EN VOORWAARDEN OF BEPERKINGEN TEN AANZIEN VAN DE LEVERING EN HET GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "For animal treatment only.",
-      "nl": "Uitsluitend voor diergeneeskundig gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "To be supplied only on veterinary prescription.",
-      "nl": "Uitsluitend op diergeneeskundig voorschrift verkrijgbaar diergeneesmiddel."
-    }
-  },
-  {
-    "translation": {
-      "en": "14. THE WORDS \"KEEP OUT OF THE REACH AND SIGHT OF CHILDREN\"",
-      "nl": "14. VERMELDING \"BUITEN BEREIK EN ZICHT VAN KINDEREN BEWAREN\""
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Buiten bereik en zicht van kinderen bewaren."
-    }
-  },
-  {
-    "translation": {
-      "en": "15. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "15. NAAM EN ADRES VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
     }
   },
   {
@@ -2485,20 +1399,8 @@
   },
   {
     "translation": {
-      "en": "Lot {number}",
-      "nl": "Lot: {nummer}"
-    }
-  },
-  {
-    "translation": {
       "en": "Dicural 150 mg Coated tablets CARTON OF 10 TABLETS / 20 TABLETS / 100 TABLETS",
       "nl": "Dicural 150 mg omhulde tabletten - doos met 10 tabletten / 20 tabletten / 100 tabletten"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE VETERINARY MEDICINAL PRODUCT",
-      "nl": "1. BENAMING VAN HET DIERGENEESMIDDEL"
     }
   },
   {
@@ -2509,182 +1411,8 @@
   },
   {
     "translation": {
-      "en": "2. STATEMENT OF ACTIVE AND OTHER SUBSTANCES",
-      "nl": "2. HET GEHALTE AAN WERKZAME STOF(FEN) EN OVERIGE BESTANDDELEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. PHARMACEUTICAL FORM",
-      "nl": "3. FARMACEUTISCHE VORM"
-    }
-  },
-  {
-    "translation": {
-      "en": "Coated tablets",
-      "nl": "Omhulde tabletten"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. PACKAGE SIZE",
-      "nl": "4. VERPAKKINGSGROOTTE"
-    }
-  },
-  {
-    "translation": {
-      "en": "10 tablets 20 tablets 100 tablets",
-      "nl": "10 tabletten 20 tabletten 100 tabletten"
-    }
-  },
-  {
-    "translation": {
-      "en": "5. TARGET SPECIES",
-      "nl": "5. DIERSOORTEN WAARVOOR HET DIERGENEESMIDDEL BESTEMD IS"
-    }
-  },
-  {
-    "translation": {
-      "en": "Dogs",
-      "nl": "Honden"
-    }
-  },
-  {
-    "translation": {
-      "en": "6. INDICATIONS",
-      "nl": "6. INDICATIE(S)"
-    }
-  },
-  {
-    "translation": {
-      "en": "7. METHOD AND ROUTE OF ADMINISTRATION",
-      "nl": "7. WIJZE VAN GEBRUIK EN DE TOEDIENINGSWEG(EN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Oral use.",
-      "nl": "Voor oraal gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "Read the package leaflet before use.",
-      "nl": "Lees vóór gebruik de bijsluiter."
-    }
-  },
-  {
-    "translation": {
-      "en": "8. WITHDRAWAL PERIOD",
-      "nl": "8. WACHTTIJD"
-    }
-  },
-  {
-    "translation": {
-      "en": "[Not applicable.]",
-      "nl": "[Niet van toepassing.]"
-    }
-  },
-  {
-    "translation": {
-      "en": "9. SPECIAL WARNINGS, IF NECESSARY",
-      "nl": "9. SPECIALE WAARSCHUWING(EN), INDIEN NODIG"
-    }
-  },
-  {
-    "translation": {
-      "en": "Persons with known hypersensitivity to quinolones should avoid any contact with the product.",
-      "nl": "Personen met een overgevoeligheid voor quinolones dienen elk contact met het product te vermijden."
-    }
-  },
-  {
-    "translation": {
-      "en": "10. EXPIRY DATE",
-      "nl": "10. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "11. SPECIAL STORAGE CONDITIONS",
-      "nl": "11. SPECIALE VOORZORGSMAATREGELEN BIJ BEWAREN"
-    }
-  },
-  {
-    "translation": {
-      "en": "12. SPECIAL PRECAUTIONS FOR THE DISPOSAL OF UNUSED PRODUCT OR WASTE MATERIALS, IF ANY",
-      "nl": "12. SPECIALE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE DIERGENEESMIDDELEN OF EVENTUELE RESTANTEN HIERVAN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Dispose of waste material in accordance with local requirements.",
-      "nl": "Verwijder afvalmateriaal in overeenstemming met de lokale vereisten."
-    }
-  },
-  {
-    "translation": {
-      "en": "13. THE WORDS \"FOR ANIMAL TREATMENT ONLY\" AND CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE",
-      "nl": "13. VERMELDING \"UITSLUITEND VOOR DIERGENEESKUNDIG GEBRUIK\" EN VOORWAARDEN OF BEPERKINGEN TEN AANZIEN VAN DE LEVERING EN HET GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "For animal treatment only.",
-      "nl": "Uitsluitend voor diergeneeskundig gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "To be supplied only on veterinary prescription.",
-      "nl": "Uitsluitend op diergeneeskundig voorschrift verkrijgbaar diergeneesmiddel."
-    }
-  },
-  {
-    "translation": {
-      "en": "14. THE WORDS \"KEEP OUT OF THE REACH AND SIGHT OF CHILDREN\"",
-      "nl": "14. VERMELDING \"BUITEN BEREIK EN ZICHT VAN KINDEREN BEWAREN\""
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Buiten bereik en zicht van kinderen bewaren."
-    }
-  },
-  {
-    "translation": {
-      "en": "15. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "15. NAAM EN ADRES VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "16. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "16. NUMMER(S) IN HET COMMUNAUTAIRE GENEESMIDDELENREGISTER"
-    }
-  },
-  {
-    "translation": {
-      "en": "17. MANUFACTURER'S BATCH NUMBER",
-      "nl": "17.HET PARTIJNUMMER VAN DE FABRIKANT"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lot {number}",
-      "nl": "Lot: {nummer}"
-    }
-  },
-  {
-    "translation": {
       "en": "Blister label",
       "nl": "Blisteretiket"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE VETERINARY MEDICINAL PRODUCT",
-      "nl": "1. BENAMING VAN HET DIERGENEESMIDDEL"
     }
   },
   {
@@ -2695,26 +1423,8 @@
   },
   {
     "translation": {
-      "en": "2. NAME OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "2. NAAM VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "Fort Dodge Animal Health Holland",
       "nl": "Fort Dodge Animal Health Holland"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. EXPIRY DATE",
-      "nl": "3. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. BATCH NUMBER",
-      "nl": "4. PARTIJNUMMER"
     }
   },
   {
@@ -2727,24 +1437,6 @@
     "translation": {
       "en": "5. THE WORDS \"FOR ANIMAL TREATMENT ONLY\"",
       "nl": "5. VERMELDING \"UITSLUITEND VOOR DIERGENEESKUNDIG GEBRUIK\""
-    }
-  },
-  {
-    "translation": {
-      "en": "For animal treatment only.",
-      "nl": "Uitsluitend voor diergeneeskundig gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "Blister label",
-      "nl": "Blisteretiket"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE VETERINARY MEDICINAL PRODUCT",
-      "nl": "1. BENAMING VAN HET DIERGENEESMIDDEL"
     }
   },
   {
@@ -2755,62 +1447,8 @@
   },
   {
     "translation": {
-      "en": "2. NAME OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "2. NAAM VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Fort Dodge Animal Health Holland",
-      "nl": "Fort Dodge Animal Health Holland"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. EXPIRY DATE",
-      "nl": "3. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. BATCH NUMBER",
-      "nl": "4. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lot {number}",
-      "nl": "[Lot: {nummer}]"
-    }
-  },
-  {
-    "translation": {
-      "en": "5. THE WORDS \"FOR ANIMAL TREATMENT ONLY\"",
-      "nl": "5. VERMELDING \"UITSLUITEND VOOR DIERGENEESKUNDIG GEBRUIK\""
-    }
-  },
-  {
-    "translation": {
-      "en": "For animal treatment only.",
-      "nl": "Uitsluitend voor diergeneeskundig gebruik."
-    }
-  },
-  {
-    "translation": {
       "en": "Dicural 100 mg Coated tablets",
       "nl": "Dicural 100 mg omhulde tabletten"
-    }
-  },
-  {
-    "translation": {
-      "en": "Blister label",
-      "nl": "Blisteretiket"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE VETERINARY MEDICINAL PRODUCT",
-      "nl": "1. BENAMING VAN HET DIERGENEESMIDDEL"
     }
   },
   {
@@ -2821,62 +1459,8 @@
   },
   {
     "translation": {
-      "en": "2. NAME OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "2. NAAM VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Fort Dodge Animal Health Holland",
-      "nl": "Fort Dodge Animal Health Holland"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. EXPIRY DATE",
-      "nl": "3. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. BATCH NUMBER",
-      "nl": "4. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lot {number}",
-      "nl": "[Lot: {nummer}]"
-    }
-  },
-  {
-    "translation": {
-      "en": "5. THE WORDS \"FOR ANIMAL TREATMENT ONLY\"",
-      "nl": "5. VERMELDING \"UITSLUITEND VOOR DIERGENEESKUNDIG GEBRUIK\""
-    }
-  },
-  {
-    "translation": {
-      "en": "For animal treatment only.",
-      "nl": "Uitsluitend voor diergeneeskundig gebruik."
-    }
-  },
-  {
-    "translation": {
       "en": "Dicural 150 mg Coated tablets",
       "nl": "Dicural 150 mg omhulde tabletten"
-    }
-  },
-  {
-    "translation": {
-      "en": "Blister label",
-      "nl": "Blisteretiket"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE VETERINARY MEDICINAL PRODUCT",
-      "nl": "1. BENAMING VAN HET DIERGENEESMIDDEL"
     }
   },
   {
@@ -2887,98 +1471,14 @@
   },
   {
     "translation": {
-      "en": "2. NAME OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "2. NAAM VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Fort Dodge Animal Health Holland",
-      "nl": "Fort Dodge Animal Health Holland"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. EXPIRY DATE",
-      "nl": "3. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. BATCH NUMBER",
-      "nl": "4. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lot {number}",
-      "nl": "[Lot: {nummer}]"
-    }
-  },
-  {
-    "translation": {
-      "en": "5. THE WORDS \"FOR ANIMAL TREATMENT ONLY\"",
-      "nl": "5. VERMELDING \"UITSLUITEND VOOR DIERGENEESKUNDIG GEBRUIK\""
-    }
-  },
-  {
-    "translation": {
-      "en": "For animal treatment only.",
-      "nl": "Uitsluitend voor diergeneeskundig gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "PARTICULARS TO APPEAR ON THE OUTER PACKAGE",
-      "nl": "GEGEVENS DIE OP DE BUITENVERPAKKING MOETEN WORDEN VERMELD"
-    }
-  },
-  {
-    "translation": {
       "en": "Dicural 50 mg/ml, solution for injection for cattle and dogs CARTON for 50 ml vial",
       "nl": "Dicural 50 mg/ml oplossing voor injectie voor rundvee en honden Kartonnen doos 50 ml flacon"
     }
   },
   {
     "translation": {
-      "en": "1. NAME OF THE VETERINARY MEDICINAL PRODUCT",
-      "nl": "1. BENAMING VAN HET DIERGENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
       "en": "Dicural 50 mg/ml, solution for injection for cattle and dogs",
       "nl": "Dicural 50 mg/ml oplossing voor injectie voor rundvee en honden"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. STATEMENT OF ACTIVE AND OTHER SUBSTANCES",
-      "nl": "2. GEHALTE AAN WERKZA(A)M(E) EN OVERIGE BESTANDDE(E)L(EN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. PHARMACEUTICAL FORM",
-      "nl": "3. FARMACEUTISCHE VORM"
-    }
-  },
-  {
-    "translation": {
-      "en": "Solution for injection",
-      "nl": "Oplossing voor injectie"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. PACKAGE SIZE",
-      "nl": "4. VERPAKKINGSGROOTTE"
-    }
-  },
-  {
-    "translation": {
-      "en": "5. TARGET SPECIES",
-      "nl": "5. DIERSOORT(EN) WAARVOOR HET DIERGENEESMIDDEL BESTEMD IS"
     }
   },
   {
@@ -2995,32 +1495,14 @@
   },
   {
     "translation": {
-      "en": "Cattle:",
-      "nl": "Rundvee:"
-    }
-  },
-  {
-    "translation": {
       "en": "-Treatment of Bovine respiratory disease (shipping fever, calf pneumonia) caused by single or mixed infections with Pasteurella haemolytica, Pasteurella multocida, and/or Mycoplasma spp.",
       "nl": "-Voor de behandeling van respiratoire aandoeningen (shipping fever, kalverpneumonie) veroorzaakt door enkelvoudige of menginfecties met Pasteurella haemolytica, Pasteurella multocida en/of Mycoplasma spp."
     }
   },
   {
     "translation": {
-      "en": "Dogs:",
-      "nl": "Honden:"
-    }
-  },
-  {
-    "translation": {
       "en": "Treatment of:",
       "nl": "Voor de behandeling van:"
-    }
-  },
-  {
-    "translation": {
-      "en": "-Acute uncomplicated urinary tract infections caused by Escherichia coli or Staphylococcus spp",
-      "nl": "-Acute ongecompliceerde urineweg infecties veroorzaakt door Escherichia coli of Staphylococcus spp."
     }
   },
   {
@@ -3043,18 +1525,6 @@
   },
   {
     "translation": {
-      "en": "Read the package leaflet before use.",
-      "nl": "Lees vóór gebruik de bijsluiter."
-    }
-  },
-  {
-    "translation": {
-      "en": "8. WITHDRAWAL PERIOD",
-      "nl": "8. WACHTTIJD"
-    }
-  },
-  {
-    "translation": {
       "en": "Withdrawal period: Cattle - meat and offal 46 days",
       "nl": "Wachttijd: Rund: voor de slacht: 46 dagen"
     }
@@ -3067,62 +1537,8 @@
   },
   {
     "translation": {
-      "en": "People with known hypersensitivity to quinolones should avoid any contact with the product.",
-      "nl": "Personen die overgevoelig zijn voor chinolonen moeten elk contact met het product vermijden."
-    }
-  },
-  {
-    "translation": {
-      "en": "10. EXPIRY DATE",
-      "nl": "10. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
       "en": "Shelf-life after first use of the product: 28 days",
       "nl": "Houdbaarheid na eerste opening van de container: 28 dagen"
-    }
-  },
-  {
-    "translation": {
-      "en": "11. SPECIAL STORAGE CONDITIONS",
-      "nl": "11. SPECIALE VOORZORGSMAATREGELEN BIJ BEWAREN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not freeze.",
-      "nl": "Niet bevriezen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep the container in the outer carton.",
-      "nl": "Bewaar de injectieflacon in de verpakking."
-    }
-  },
-  {
-    "translation": {
-      "en": "12. SPECIAL PRECAUTIONS FOR THE DISPOSAL OF UNUSED PRODUCT OR WASTE MATERIALS, IF ANY",
-      "nl": "12. SPECIALE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE DIERGENEESMIDDELEN OF EVENTUELE RESTANTEN HIERVAN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Dispose of waste material in accordance with local requirements.",
-      "nl": "Verwijder afvalmateriaal in overeenstemming met de lokale vereisten."
-    }
-  },
-  {
-    "translation": {
-      "en": "13. THE WORDS \"FOR ANIMAL TREATMENT ONLY\" AND CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE",
-      "nl": "13. VERMELDING \"UITSLUITEND VOOR DIERGENEESKUNDIG GEBRUIK\" EN VOORWAARDEN OF BEPERKINGEN TEN AANZIEN VAN DE LEVERING EN HET GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "For animal treatment only.",
-      "nl": "Uitsluitend voor diergeneeskundig gebruik."
     }
   },
   {
@@ -3133,44 +1549,8 @@
   },
   {
     "translation": {
-      "en": "14. THE WORDS \"KEEP OUT OF THE REACH AND SIGHT OF CHILDREN\"",
-      "nl": "14. VERMELDING \"BUITEN HET BEREIK EN ZICHT VAN KINDEREN BEWAREN\""
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Buiten het bereik en zicht van kinderen bewaren."
-    }
-  },
-  {
-    "translation": {
-      "en": "15. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "15. NAAM EN ADRES VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "16. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "16. NUMMER(S) IN HET COMMUNAUTAIRE GENEESMIDDELENREGISTER"
-    }
-  },
-  {
-    "translation": {
-      "en": "17. MANUFACTURER'S BATCH NUMBER",
-      "nl": "17. PARTIJNUMMER FABRIKANT"
-    }
-  },
-  {
-    "translation": {
       "en": "Lot {number}",
       "nl": "LOT: {nummer}"
-    }
-  },
-  {
-    "translation": {
-      "en": "PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGE",
-      "nl": "GEGEVENS DIE OP DE PRIMAIRE VERPAKKING MOETEN WORDEN VERMELD"
     }
   },
   {
@@ -3183,18 +1563,6 @@
     "translation": {
       "en": "vial label",
       "nl": "Flaconetiket 50 ml"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE VETERINARY MEDICINAL PRODUCT",
-      "nl": "1. BENAMING VAN HET DIERGENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
-      "en": "Dicural 50 mg/ml, solution for injection for cattle and dogs",
-      "nl": "Dicural 50 mg/ml oplossing voor injectie voor rundvee en honden"
     }
   },
   {
@@ -3217,50 +1585,8 @@
   },
   {
     "translation": {
-      "en": "5. WITHDRAWAL PERIOD",
-      "nl": "5. WACHTTIJD"
-    }
-  },
-  {
-    "translation": {
-      "en": "Withdrawal period: Cattle - meat and offal 46 days",
-      "nl": "Wachttijd: Rund: voor de slacht: 46 dagen"
-    }
-  },
-  {
-    "translation": {
       "en": "6. MANUFACTURER'S BATCH NUMBER",
       "nl": "6. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lot {number}",
-      "nl": "LOT: {nummer}"
-    }
-  },
-  {
-    "translation": {
-      "en": "7. EXPIRY DATE",
-      "nl": "7. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "Shelf-life after first use of the product: 28 days",
-      "nl": "Houdbaarheid na eerste opening van de container: 28 dagen"
-    }
-  },
-  {
-    "translation": {
-      "en": "8. THE WORDS \"FOR ANIMAL TREATMENT ONLY\"",
-      "nl": "8. VERMELDING \"UITSLUITEND VOOR DIERGENEESKUNDIG GEBRUIK\""
-    }
-  },
-  {
-    "translation": {
-      "en": "For animal treatment only.",
-      "nl": "Uitsluitend voor diergeneeskundig gebruik."
     }
   },
   {
@@ -3283,56 +1609,8 @@
   },
   {
     "translation": {
-      "en": "1. NAME OF THE VETERINARY MEDICINAL PRODUCT",
-      "nl": "1. BENAMING VAN HET DIERGENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
-      "en": "Dicural 50 mg/ml solution for injection for cattle",
-      "nl": "Dicural 50 mg/ml oplossing voor injectie voor rundvee"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. STATEMENT OF ACTIVE AND OTHER SUBSTANCES",
-      "nl": "2. GEHALTE AAN WERKZA(A)M(E) EN OVERIGE BESTANDDE(E)L(EN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. PHARMACEUTICAL FORM",
-      "nl": "3. FARMACEUTISCHE VORM"
-    }
-  },
-  {
-    "translation": {
-      "en": "Solution for injection",
-      "nl": "Oplossing voor injectie"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. PACKAGE SIZE",
-      "nl": "4. VERPAKKINGSGROOTTE"
-    }
-  },
-  {
-    "translation": {
-      "en": "5. TARGET SPECIES",
-      "nl": "5. DIERSOORT(EN) WAARVOOR HET DIERGENEESMIDDEL BESTEMD IS"
-    }
-  },
-  {
-    "translation": {
       "en": "Cattle (calves and young cattle)",
       "nl": "Rundvee (kalveren en jongvee)"
-    }
-  },
-  {
-    "translation": {
-      "en": "6. INDICATION(S)",
-      "nl": "6. INDICATIE(S)"
     }
   },
   {
@@ -3343,110 +1621,14 @@
   },
   {
     "translation": {
-      "en": "7. METHOD AND ROUTE OF ADMINISTRATION",
-      "nl": "7. WIJZE VAN GEBRUIK EN TOEDIENINGSWEG(EN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Subcutaneous use.",
-      "nl": "Subcutaan"
-    }
-  },
-  {
-    "translation": {
-      "en": "Read the package leaflet before use.",
-      "nl": "Lees vóór gebruik de bijsluiter."
-    }
-  },
-  {
-    "translation": {
-      "en": "8. WITHDRAWAL PERIOD",
-      "nl": "8. WACHTTIJD"
-    }
-  },
-  {
-    "translation": {
       "en": "Withdrawal period: Meat and offal 46 days",
       "nl": "Wachttijd: voor de slacht: 46 dagen"
     }
   },
   {
     "translation": {
-      "en": "9. SPECIAL WARNING(S), IF NECESSARY",
-      "nl": "9. SPECIALE WAARSCHUWING(EN), INDIEN NODIG"
-    }
-  },
-  {
-    "translation": {
-      "en": "People with known hypersensitivity to quinolones should avoid any contact with the product.",
-      "nl": "Personen die overgevoelig zijn voor chinolonen moeten elk contact met het product vermijden."
-    }
-  },
-  {
-    "translation": {
-      "en": "10. EXPIRY DATE",
-      "nl": "10. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "Shelf-life after first use of the product: 28 days",
-      "nl": "Houdbaarheid na eerste opening van de container: 28 dagen"
-    }
-  },
-  {
-    "translation": {
-      "en": "11. SPECIAL STORAGE CONDITIONS",
-      "nl": "11. SPECIALE VOORZORGSMAATREGELEN BIJ BEWAREN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep the container in the outer carton.",
-      "nl": "Bewaar de injectieflacon in de verpakking."
-    }
-  },
-  {
-    "translation": {
-      "en": "12. SPECIAL PRECAUTIONS FOR THE DISPOSAL OF UNUSED PRODUCT OR WASTE MATERIALS, IF ANY",
-      "nl": "12. SPECIALE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE DIERGENEESMIDDELEN OF EVENTUELE RESTANTEN HIERVAN"
-    }
-  },
-  {
-    "translation": {
       "en": "[Not required on the immediate label]",
       "nl": "[Not required on the immediate label]"
-    }
-  },
-  {
-    "translation": {
-      "en": "Dispose of waste material in accordance with local requirements.",
-      "nl": "Verwijder afvalmateriaal in overeenstemming met de lokale vereisten."
-    }
-  },
-  {
-    "translation": {
-      "en": "13. THE WORDS \"FOR ANIMAL TREATMENT ONLY\" AND CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE",
-      "nl": "13. VERMELDING \"UITSLUITEND VOOR DIERGENEESKUNDIG GEBRUIK\" EN VOORWAARDEN OF BEPERKINGEN TEN AANZIEN VAN DE LEVERING EN HET GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "For animal treatment only.",
-      "nl": "Uitsluitend voor diergeneeskundig gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "To be supplied only on veterinary prescription..",
-      "nl": "Uitsluitend op diergeneeskundig voorschrift verkrijgbaar diergeneesmiddel."
-    }
-  },
-  {
-    "translation": {
-      "en": "14. THE WORDS \"KEEP OUT OF THE REACH AND SIGHT OF CHILDREN\"",
-      "nl": "14. VERMELDING \"BUITEN HET BEREIK EN ZICHT VAN KINDEREN BEWAREN\""
     }
   },
   {
@@ -3481,12 +1663,6 @@
   },
   {
     "translation": {
-      "en": "Dicural 100 mg/ml, oral solution for chickens and turkeys",
-      "nl": "Dicural 100 mg/ml orale oplossing voor kippen en kalkoenen"
-    }
-  },
-  {
-    "translation": {
       "en": "1. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER AND OF THE MANUFACTURING AUTHORISATION HOLDER RESPONSIBLE FOR BATCH RELEASE",
       "nl": "1. NAAM EN ADRES VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN EN DE FABRIKANT VERANTWOORDELIJK VOOR VRIJGIFTE"
     }
@@ -3495,18 +1671,6 @@
     "translation": {
       "en": "Manufacturer for the batch release Fort Dodge Veterinaria S.A.",
       "nl": "Fabrikant verantwoordelijk voor vrijgifte Fort Dodge Veterinaria S.A."
-    }
-  },
-  {
-    "translation": {
-      "en": "2. NAME OF THE VETERINARY MEDICINAL PRODUCT",
-      "nl": "2. BENAMING VAN HET DIERGENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
-      "en": "Dicural 100 mg/ml, oral solution for chickens and turkeys",
-      "nl": "Dicural 100 mg/ml orale oplossing voor kippen en kalkoenen"
     }
   },
   {
@@ -3541,38 +1705,14 @@
   },
   {
     "translation": {
-      "en": "In turkeys Dicural oral solution is also indicated for the treatment of infections caused by Pasteurella multocida.",
-      "nl": "Bij kalkoenen is Dicural orale oplossing tevens geïndiceerd bij de behandeling van infecties veroorzaakt door Pasteurella multocida."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dicural oral solution should only be used based on susceptibility testing.",
-      "nl": "Dicural orale oplossing dient alleen te worden gebruikt na een positieve gevoeligheidstest."
-    }
-  },
-  {
-    "translation": {
       "en": "5. CONTRAINDICATIONS",
       "nl": "5. CONTRA-INDICATIES"
     }
   },
   {
     "translation": {
-      "en": "Do not use in birds in lay.",
-      "nl": "Niet gebruiken bij vogels in de legperiode."
-    }
-  },
-  {
-    "translation": {
       "en": "Since no studies were performed in clinically lame birds, Dicural oral solution should not be used in birds with existing leg-weakness or in birds suffering from osteoporosis.",
       "nl": "Gezien het feit dat er geen studies zijn verricht bij klinisch kreupele dieren dient Dicural orale oplossing niet gebruikt te worden bij dieren die lijden aan beenzwakte of aan osteoporosis."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. ADVERSE REACTIONS",
-      "nl": "6. BIJWERKINGEN"
     }
   },
   {
@@ -3589,12 +1729,6 @@
   },
   {
     "translation": {
-      "en": "Chickens (broilers and future breeders) and turkeys (young turkeys up to 2 kg body weight).",
-      "nl": "Kippen (slachtkuikens en fok-/vermeerderingkippen in de opfok) en kalkoenen (tot 2 kg lichaamsgewicht)."
-    }
-  },
-  {
-    "translation": {
       "en": "8. DOSAGE FOR EACH SPECIES, METHOD AND ROUTE OF ADMINISTRATION",
       "nl": "8. DOSERING VOOR ELKE DOELDIERSOORT , WIJZE VAN GEBRUIK EN TOEDIENINGSWEG(EN)"
     }
@@ -3603,30 +1737,6 @@
     "translation": {
       "en": "Dicural oral solution must be administrated daily via the drinking water in such a concentration that the dose is 10 mg/kg bodyweight.",
       "nl": "Dicural orale oplossing dient dagelijks te worden toegediend via het drinkwater in een zodanige concentratie dat de dosering 10 mg difloxacin/kg lichaamsgewicht bedraagt."
-    }
-  },
-  {
-    "translation": {
-      "en": "The administration must be continued for 5 days.",
-      "nl": "De toediening dient gedurende 5 dagen te worden voortgezet."
-    }
-  },
-  {
-    "translation": {
-      "en": "For oral administration in drinking water.",
-      "nl": "Voor toepassing in het drinkwater."
-    }
-  },
-  {
-    "translation": {
-      "en": "9. ADVICE ON CORRECT ADMINISTRATION",
-      "nl": "9. AANWIJZINGEN VOOR EEN JUISTE TOEDIENING"
-    }
-  },
-  {
-    "translation": {
-      "en": "The screw cap on the 1 litre bottle can be used as measuring device.",
-      "nl": "De schroefdop op de 1000 ml flacon kan als maatbeker worden gebruikt."
     }
   },
   {
@@ -3667,32 +1777,14 @@
   },
   {
     "translation": {
-      "en": "Not permitted for use in laying birds producing eggs for human consumption.",
-      "nl": "Niet voor gebruik in legvogels die eieren voor menselijke consumptie produceren."
-    }
-  },
-  {
-    "translation": {
       "en": "11. SPECIAL STORAGE PRECAUTIONS",
       "nl": "11. SPECIALE VOORZORGSMAATREGELEN BIJ BEWAREN"
     }
   },
   {
     "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Buiten het bereik en zicht van kinderen bewaren."
-    }
-  },
-  {
-    "translation": {
       "en": "Protect from light.",
       "nl": "In het donker bewaren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not freeze.",
-      "nl": "Niet in de vriezer bewaren."
     }
   },
   {
@@ -3709,44 +1801,8 @@
   },
   {
     "translation": {
-      "en": "12. SPECIAL WARNING(S)",
-      "nl": "12. SPECIALE WAARSCHUWING(EN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Heavy reliance on a single class of antibiotics may result in the induction of resistance in a bacterial population.",
-      "nl": "In hoge mate beroep doen op één enkele antibioticaklasse kan resulteren in de inductie van resistentie in een bacteriepopulatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is prudent to reserve the fluoroquinolones for the treatment of clinical conditions that have responded poorly, or are expected to respond poorly, to other classes of antibiotic.",
-      "nl": "Het is aan te bevelen om fluorochinolonen te reserveren voor de behandeling van aandoeningen, welke slecht hebben gereageerd, of van welke verwacht wordt dat ze slecht zullen gaan reageren op andere antibioticaklassen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Persons with known hypersensitivity to quinolones should avoid any contact with the product.",
-      "nl": "Personen met een bekende overgevoeligheid voor chinolonen dienen elk contact met het product te vermijden."
-    }
-  },
-  {
-    "translation": {
       "en": "In order to avoid irritation of skin and/or eyes, use gloves and a face-protecting device, when handling this product.",
       "nl": "In verband met mogelijke irritatie van huid en/of ogen dient bij de toepassing van dit product gebruik te worden gemaakt van handschoenen en gezichtsbescherming."
-    }
-  },
-  {
-    "translation": {
-      "en": "13. SPECIAL PRECAUTIONS FOR THE DISPOSAL OF UNUSED PRODUCT OR WASTE MATERIALS, IF ANY",
-      "nl": "13. SPECIALE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE DIERGENEESMIDDELEN OF EVENTUELE RESTANTEN HIERVAN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Any unused veterinary medicinal product or waste materials derived from such veterinary medicinal products should be disposed of in accordance with local requirements.",
-      "nl": "Ongebruikte diergeneesmiddelen of restanten hiervan dienen in overeenstemming met de lokale vereisten te worden verwijderd."
     }
   },
   {
@@ -3757,26 +1813,8 @@
   },
   {
     "translation": {
-      "en": "For animal treatment only.",
-      "nl": "Uitsluitend voor diergeneeskundig gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "To be supplied only on veterinary prescription.",
-      "nl": "Uitsluitend op diergeneeskundig voorschrift verkrijgbaar diergeneesmiddel."
-    }
-  },
-  {
-    "translation": {
       "en": "Dicural oral solution is a yellowish clear aqueous solution and is supplied in plastic white bottles with a screw cap containing 250 or 1000 ml oral solution.",
       "nl": "Dicural orale oplossing is een heldere, gele en waterige oplossing en wordt geleverd in een witte plastic flacon afgesloten door een schroefdop met 250 of 1000 ml orale oplossing."
-    }
-  },
-  {
-    "translation": {
-      "en": "Not all pack sizes may be marketed.",
-      "nl": "Het kan voorkomen dat niet alle verpakkingsgrootten in de handel worden gebracht."
     }
   },
   {
@@ -3799,38 +1837,8 @@
   },
   {
     "translation": {
-      "en": "1. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER AND OF THE MANUFACTURING AUTHORISATION HOLDER RESPONSIBLE FOR BATCH RELEASE",
-      "nl": "1. NAAM EN ADRES VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN EN DE FABRIKANT VERANTWOORDELIJK VOOR VRIJGIFTE"
-    }
-  },
-  {
-    "translation": {
       "en": "Manufacturer for the batch release Fort Dodge Veterinaria S.A.",
       "nl": "Fabrikant verantwoordelijk voor vrijgifte Fort Dodge Veterinaria S.A"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. NAME OF THE VETERINARY MEDICINAL PRODUCT",
-      "nl": "2. BENAMING VAN HET DIERGENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
-      "en": "Dicural 15 mg Coated tablets for dogs Dicural 50 mg Coated tablets for dogs Dicural 100 mg Coated tablets for dogs Dicural 150 mg Coated tablets for dogs",
-      "nl": "Dicural 15 mg omhulde tabletten voor honden Dicural 50 mg omhulde tabletten voor honden Dicural 100 mg omhulde tabletten voor honden Dicural 150 mg omhulde tabletten voor honden"
-    }
-  },
-  {
-    "translation": {
-      "en": "Each tablet contains:",
-      "nl": "Elke tablet bevat:"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. INDICATION(S)",
-      "nl": "4. INDICATIE(S)"
     }
   },
   {
@@ -3847,68 +1855,14 @@
   },
   {
     "translation": {
-      "en": "-Superficial pyoderma caused by Staphylococcus intermedius.",
-      "nl": "-Oppervlakkige pyoderma veroorzaakt door Staphylococcus intermedius."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dicural Coated Tablets should only be used based on susceptibility testing.",
-      "nl": "Dicural omhulde tabletten dienen alleen gebruikt te worden na een positieve gevoeligheidstest."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. CONTRAINDICATIONS",
-      "nl": "5. CONTRA-INDICATIES"
-    }
-  },
-  {
-    "translation": {
       "en": "As for other quinolones, due to possible adverse effects on the articular cartilage of weight bearing joints, difloxacin should not be used during the rapid growth phase, that is, do not use in small-and medium breed dogs up to and including 8 months of age, in large breeds up to 1 year of age and in giant breeds up to 18 months of age.",
       "nl": "Net als voor andere quinolones geldt, met het oog op mogelijke negatieve effecten op het gewrichtskraakbeen van gewichtdragende gewrichten, dat difloxacine niet gebruikt mag worden tijdens een periode van snelle groei, dwz. niet gebruiken in kleine en middelgrote hondenrassen tot en met 8 maanden oud, in grote hondenrassen tot 1 jaar oud en in zeer grote hondenrassen tot 18 maanden oud."
     }
   },
   {
     "translation": {
-      "en": "Do not use in epileptic dogs.",
-      "nl": "Niet gebruiken bij honden met epilepsie."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. ADVERSE REACTIONS",
-      "nl": "6. BIJWERKINGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "Undesirable effects were rarely recorded in dogs treated with difloxacin.",
       "nl": "Bij honden behandeld met difloxacine zijn zelden bijwerkingen waargenomen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The observed signs were inappetence, emesis, diarrhoea, and anal irritation.",
-      "nl": "De waargenomen verschijnselen waren eetlustverlies, braken, diarree en anale irritatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "These signs were self-limiting within one or two days and did not require additional treatment.",
-      "nl": "Deze symptomen waren alle zonder bijkomende behandeling binnen één of twee dagen verdwenen."
-    }
-  },
-  {
-    "translation": {
-      "en": "If you notice any serious effects or other effects not mentioned in this leaflet, please inform your veterinary surgeon.",
-      "nl": "Indien u ernstige bijwerkingen of andersoortige reacties vaststelt die niet in deze bijsluiter worden vermeld, wordt u verzocht uw dierenarts hiervan in kennis te stellen."
-    }
-  },
-  {
-    "translation": {
-      "en": "7. TARGET SPECIES",
-      "nl": "7. DIERSOORT(EN) WAARVOOR HET DIERGENEESMIDDEL BESTEMD IS"
     }
   },
   {
@@ -3925,20 +1879,8 @@
   },
   {
     "translation": {
-      "en": "The oral dose for dogs is 5 mg/kg bodyweight per day.",
-      "nl": "De orale dosis voor honden is 5,0 mg/kg lichaamsgewicht per dag."
-    }
-  },
-  {
-    "translation": {
       "en": "Treatment with Dicural Coated Tablets should be given once a day for at least 5 days.",
       "nl": "Behandeling met Dicural Omhulde tabletten dient éénmaal daags plaats te vinden gedurende tenminste 5 dagen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Superficial pyoderma may require treatment for up to a maximum of 21 days.",
-      "nl": "Voor oppervlakkige pyoderma kan een langere behandelingsduur nodig zijn, met een maximale duur van 21 dagen."
     }
   },
   {
@@ -3949,50 +1891,8 @@
   },
   {
     "translation": {
-      "en": "9. ADVICE ON CORRECT ADMINISTRATION",
-      "nl": "9. AANWIJZINGEN VOOR EEN JUISTE TOEDIENING"
-    }
-  },
-  {
-    "translation": {
-      "en": "10. WITHDRAWAL PERIOD",
-      "nl": "10. WACHTTIJD"
-    }
-  },
-  {
-    "translation": {
-      "en": "Not applicable.",
-      "nl": "Niet van toepassing"
-    }
-  },
-  {
-    "translation": {
-      "en": "11. SPECIAL STORAGE PRECAUTIONS",
-      "nl": "11. SPECIALE VOORZORGSMAATREGELEN BIJ BEWAREN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Buiten het bereik en zicht van kinderen bewaren."
-    }
-  },
-  {
-    "translation": {
       "en": "Do not use after the expiry date stated on the carton after EXP.",
       "nl": "Niet te gebruiken na de vervaldatum vermeld op de doos na EXP."
-    }
-  },
-  {
-    "translation": {
-      "en": "12. SPECIAL WARNING(S)",
-      "nl": "12. SPECIALE WAARSCHUWING(EN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Persons with known hypersensitivity to quinolones should avoid any contact with the product.",
-      "nl": "Personen met een overgevoeligheid voor quinolones dienen elk contact met het product te vermijden."
     }
   },
   {
@@ -4003,56 +1903,8 @@
   },
   {
     "translation": {
-      "en": "Heavy reliance on a single class of antibiotics may result in the induction of resistance in a bacterial population.",
-      "nl": "In hoge mate beroep doen op één enkele antibioticaklasse kan resulteren in de inductie van resistentie in een bacteriepopulatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is prudent to reserve the fluoroquinolones for the treatment of clinical conditions that have responded poorly, or are expected to respond poorly, to other classes of antibiotic.",
-      "nl": "Het is aan te bevelen om fluorochinolonen te reserveren voor de behandeling van aandoeningen, welke slecht hebben gereageerd, of van welke verwacht wordt dat ze slecht zullen gaan reageren op andere antibioticaklassen."
-    }
-  },
-  {
-    "translation": {
-      "en": "13. SPECIAL PRECAUTIONS FOR THE DISPOSAL OF UNUSED PRODUCT OR WASTE MATERIALS, IF ANY",
-      "nl": "13. SPECIALE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE DIERGENEESMIDDELEN OF EVENTUELE RESTANTEN HIERVAN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Any unused veterinary medicinal product or waste materials derived from such veterinary medicinal products should be disposed of in accordance with local requirements.",
-      "nl": "Ongebruikte diergeneesmiddelen of restanten hiervan dienen in overeenstemming met de lokale vereisten te worden verwijderd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Detailed information on this product is available on the website of the European Medicines Agency (EMEA) http://www.emea.eu.int/",
-      "nl": "Zie voor nadere bijzonderheden over dit diergeneesmiddel de website van het Europees Geneesmiddelenbureau (EMEA): http://www.emea.eu.int/"
-    }
-  },
-  {
-    "translation": {
-      "en": "For animal treatment only.",
-      "nl": "Uitsluitend voor diergeneeskundig gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "To be supplied only on veterinary prescription.",
-      "nl": "Uitsluitend op diergeneeskundig voorschrift verkrijgbaar diergeneesmiddel."
-    }
-  },
-  {
-    "translation": {
       "en": "Each strength of the product is available in packs of 10, 20 and 100 tablets.",
       "nl": "Alle tabletsterktes zijn beschikbaar in verpakkingen van 10,20 en 100 tabletten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Not all pack sizes may be marketed.",
-      "nl": "Het kan voorkomen dat niet alle verpakkingsgrootten in de handel worden gebracht."
     }
   },
   {
@@ -4081,24 +1933,6 @@
   },
   {
     "translation": {
-      "en": "The following organisms were tested and found to be susceptible to difloxacin in vitro:",
-      "nl": "De volgende organismen zijn getest en gevoelig bevonden voor difloxacine in vitro:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Following an oral dose (a plain tablet) in dogs of 5 mg/kg bodyweight, difloxacin reached its average peak plasma concentration of 1.8 µg/ml in approximately 3 hours.",
-      "nl": "Na een orale dosis van 5 mg/kg lichaamsgewicht (niet omhulde tablet) aan honden, werd een gemiddelde piekplasma concentratie van 1,8 µg/ml difloxacine op circa 3 uur na toediening bereikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Approximately 95 % of the oral dose was absorbed.",
-      "nl": "Ongeveer 95% van de orale dosis werd geabsorbeerd."
-    }
-  },
-  {
-    "translation": {
       "en": "The elimination half-life averaged 9.3 hours.",
       "nl": "De eliminatie-halfwaardetijd was gemiddeld 9,3 uur."
     }
@@ -4107,12 +1941,6 @@
     "translation": {
       "en": "Long term daily oral treatment over 180 days at 5 mg/kg bodyweight did not influence difloxacin kinetics, neither by accumulation nor by increased drug metabolism.",
       "nl": "Langetermijnbehandeling gedurende 180 dagen in een dosering van 5 mg/kg lichaamsgewicht had geen invloed op de kinetiek van difloxacine, niet door accumulatie noch door toegenomen metabolisatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "PACKAGE LEAFLET",
-      "nl": "BIJSLUITER"
     }
   },
   {
@@ -4135,18 +1963,6 @@
   },
   {
     "translation": {
-      "en": "Active substance",
-      "nl": "Werkzaam bestanddeel"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. INDICATION(S)",
-      "nl": "4. INDICATIE(S)"
-    }
-  },
-  {
-    "translation": {
       "en": "Cattle: Treatment of Bovine respiratory disease (shipping fever, calf pneumonia) caused by single or mixed infections with Pasteurella haemolytica, Pasteurella multocida, and/or Mycoplasma spp.",
       "nl": "Rundvee: voor de behandeling van respiratoire aandoeningen (shipping fever, kalverpneumonie) veroorzaakt door enkelvoudige of menginfecties met Pasteurella haemolytica, Pasteurella multocida en/of Mycoplasma spp."
     }
@@ -4159,32 +1975,8 @@
   },
   {
     "translation": {
-      "en": "-Acute uncomplicated urinary tract infections caused by Escherichia coli or Staphylococcus spp",
-      "nl": "-Acute ongecompliceerde urineweg infecties veroorzaakt door Escherichia coli of Staphylococcus spp."
-    }
-  },
-  {
-    "translation": {
-      "en": "-Superficial pyoderma caused by Staphylococcus intermedius.",
-      "nl": "-Oppervlakkige pyoderma veroorzaakt door Staphylococcus intermedius"
-    }
-  },
-  {
-    "translation": {
-      "en": "5. CONTRAINDICATIONS",
-      "nl": "5. CONTRA-INDICATIES"
-    }
-  },
-  {
-    "translation": {
       "en": "Cattle: None.",
       "nl": "Rundvee: geen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Dogs:",
-      "nl": "Honden:"
     }
   },
   {
@@ -4195,80 +1987,8 @@
   },
   {
     "translation": {
-      "en": "Do not use in epileptic dogs.",
-      "nl": "Niet gebruiken bij honden met epilepsie."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. ADVERSE REACTIONS",
-      "nl": "6. BIJWERKINGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Cattle:",
-      "nl": "Rundvee:"
-    }
-  },
-  {
-    "translation": {
-      "en": "In target animal safety studies, subcutaneous administration was generally well tolerated.",
-      "nl": "In doeldiertolerantiestudies werd de subcutane toediening in het algemeen goed verdragen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Transient swelling at the injection site following administration may occur.",
-      "nl": "Na de subcutane toediening kan op de injectieplaats een zwelling van voorbijgaande aard optreden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dogs:",
-      "nl": "Honden:"
-    }
-  },
-  {
-    "translation": {
-      "en": "In target animal safety studies, subcutaneous administration was generally well tolerated.",
-      "nl": "In doeldiertolerantiestudies werd de subcutane toediening in het algemeen goed verdragen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Pruritis and/or local swellings and occasionally a slight pain reaction on injection have been observed.",
-      "nl": "Jeuk en/of een locale zwelling en soms een lichte pijnreactie na injectie werden waargenomen."
-    }
-  },
-  {
-    "translation": {
-      "en": "In general the pruritis disappears within a few minutes and the local swelling within a few days.",
-      "nl": "In het algemeen verdwijnt de jeuk binnen een paar minuten, de locale zwelling binnen een paar dagen."
-    }
-  },
-  {
-    "translation": {
-      "en": "If you notice any serious effects or other effects not mentioned in this leaflet, please inform your veterinary surgeon.",
-      "nl": "Indien u ernstige bijwerkingen of andersoortige reacties vaststelt die niet in deze bijsluiter worden vermeld, wordt u verzocht uw dierenarts hiervan in kennis te stellen."
-    }
-  },
-  {
-    "translation": {
-      "en": "7. TARGET SPECIES",
-      "nl": "7. DIERSOORT(EN) WAARVOOR HET DIERGENEESMIDDEL BESTEMD IS"
-    }
-  },
-  {
-    "translation": {
       "en": "Cattle (calves and young cattle) and dogs",
       "nl": "Rundvee (kalveren en jongvee) en honden."
-    }
-  },
-  {
-    "translation": {
-      "en": "8. DOSAGE FOR EACH SPECIES, METHOD AND ROUTE(S) OF ADMINISTRATION",
-      "nl": "8. DOSERING VOOR ELKE DOELDIERSOORT , WIJZE VAN GEBRUIK EN TOEDIENINGSWEG(EN)"
     }
   },
   {
@@ -4285,26 +2005,8 @@
   },
   {
     "translation": {
-      "en": "For complicated respiratory disease the dose can be doubled to 5 mg/kg per day.",
-      "nl": "Indien er sprake is van gecompliceerde luchtwegaandoeningen dan kan de dosering verdubbeld worden tot 5 mg/kg."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dogs:",
-      "nl": "Honden:"
-    }
-  },
-  {
-    "translation": {
       "en": "The dose is 5.0 mg difloxacin/kg body weight in a single subcutaneous injection.",
       "nl": "De dosering per injectie is 5,0 mg difloxacine/kg lichaamsgewicht in één enkele subcutane injectie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Treatment should be continued with Dicural Coated Tablets given once daily at a dose rate of 5.0 mg/kg bodyweight per day, starting 24 hours after the injection, for a total period of at least 5 days.",
-      "nl": "De behandeling moet voortgezet worden met Dicural Omhulde Tabletten in een dosering van 5,0 mg/kg lichaamsgewicht éénmaal per dag, te beginnen 24 uur na de injectie voor een periode van in totaal tenminste 5 dagen."
     }
   },
   {
@@ -4315,26 +2017,8 @@
   },
   {
     "translation": {
-      "en": "The tablets should be administered for at least 2 days beyond the cessation of clinical signs.",
-      "nl": "De tabletten dienen minimaal toegediend te worden tot 2 dagen na het verdwijnen van klinische symptomen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Therapy should be re-evaluated if no improvement is seen within 5 days, or 10 days in the case of superficial pyoderma.",
-      "nl": "De therapie moet opnieuw bezien worden, indien na 5 dagen, of in geval van oppervlakkige pyoderma na 10 dagen, geen verbetering optreedt."
-    }
-  },
-  {
-    "translation": {
       "en": "Subcutaneous use.",
       "nl": "Subcutaan gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "9. ADVICE ON CORRECT ADMINISTRATION",
-      "nl": "9. AANWIJZINGEN VOOR EEN JUISTE TOEDIENING"
     }
   },
   {
@@ -4345,38 +2029,14 @@
   },
   {
     "translation": {
-      "en": "Avoid introduction of contamination.",
-      "nl": "Voorkom contaminatie."
-    }
-  },
-  {
-    "translation": {
       "en": "In the absence of incompatibility studies, this veterinary medicinal product must not be mixed with other veterinary medicinal products.",
       "nl": "Aangezien er geen onderzoek is verricht naar de onverenigbaarheid, moet het middel niet met andere diergeneesmiddelen worden vermengd."
     }
   },
   {
     "translation": {
-      "en": "10. WITHDRAWAL PERIOD",
-      "nl": "10. WACHTTIJD"
-    }
-  },
-  {
-    "translation": {
       "en": "Cattle: meat and offal 46 days",
       "nl": "Rund: voor de slacht: 46 dagen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Buiten het bereik en zicht van kinderen bewaren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep the container in the outer carton.",
-      "nl": "Bewaar de injectieflacon in de verpakking."
     }
   },
   {
@@ -4393,62 +2053,14 @@
   },
   {
     "translation": {
-      "en": "12. SPECIAL WARNING(S)",
-      "nl": "12. SPECIALE WAARSCHUWING(EN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Heavy reliance on a single class of antibiotics may result in the induction of resistance in a bacterial population.",
-      "nl": "In hoge mate beroep doen op één enkele antibioticaklasse kan resulteren in de inductie van resistentie in een bacteriepopulatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is prudent to reserve the fluoroquinolones for the treatment of clinical conditions that have responded poorly, or are expected to respond poorly, to other classes of antibiotic.",
-      "nl": "Het is aan te bevelen om fluorochinolonen te reserveren voor de behandeling van aandoeningen, welke slecht hebben gereageerd, of van welke verwacht wordt dat ze slecht zullen gaan reageren op andere antibioticaklassen."
-    }
-  },
-  {
-    "translation": {
       "en": "Dicural 50 mg/ml solution for injection should only be used based on susceptibility testing.",
       "nl": "Dicural 50 mg/ml oplossing voor injectie dient alleen op basis van gevoeligheidsbepalingen te worden ingezet."
     }
   },
   {
     "translation": {
-      "en": "The safety of the veterinary medicinal product has not been established during pregnancy and lactation.",
-      "nl": "De veiligheid van het diergeneesmiddel is niet bewezen tijdens dracht en lactatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "The use of fluoroquinolones in combination with non-steroidal anti-inflammatory drugs (NSAIDs) may cause seizures.",
-      "nl": "Het gebruik van fluoroquinolones in combinatie met niet-steroïdale ontstekingsremmers (NSAIDs) kan een epileptische aanval induceren."
-    }
-  },
-  {
-    "translation": {
       "en": "Antagonism may be observed with nitrofurantoin.",
       "nl": "Antagonisme met nitrofurantoine kan optreden."
-    }
-  },
-  {
-    "translation": {
-      "en": "People with known hypersensitivity to quinolones should avoid any contact with the product.",
-      "nl": "Personen die overgevoelig zijn voor chinolonen moeten elk contact met het product vermijden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Cattle:",
-      "nl": "Rundvee:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Dogs:",
-      "nl": "Honden:"
     }
   },
   {
@@ -4477,42 +2089,6 @@
   },
   {
     "translation": {
-      "en": "13. SPECIAL PRECAUTIONS FOR THE DISPOSAL OF UNUSED PRODUCT OR WASTE MATERIALS, IF ANY",
-      "nl": "13. SPECIALE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE DIERGENEESMIDDELEN OF EVENTUELE RESTANTEN HIERVAN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Any unused veterinary medicinal product or waste materials derived from such veterinary medicinal products should be disposed of in accordance with local requirements.",
-      "nl": "Ongebruikte diergeneesmiddelen of restanten hiervan dienen in overeenstemming met de lokale vereisten te worden verwijderd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Detailed information on this product is available on the website of the European Medicines Agency (EMEA) http://www.emea.eu.int/",
-      "nl": "Zie voor nadere bijzonderheden over dit diergeneesmiddel de website van het Europees Geneesmiddelenbureau (EMEA): http://www.emea.eu.int/"
-    }
-  },
-  {
-    "translation": {
-      "en": "15. OTHER INFORMATION",
-      "nl": "15. OVERIGE INFORMATIE"
-    }
-  },
-  {
-    "translation": {
-      "en": "For animal treatment only.",
-      "nl": "Uitsluitend voor diergeneeskundig gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "To be supplied only on veterinary prescription.",
-      "nl": "Uitsluitend op diergeneeskundig voorschrift verkrijgbaar diergeneesmiddel."
-    }
-  },
-  {
-    "translation": {
       "en": "Dicural 50 mg/ml, solution for injection for cattle and dogs is available in the following presentations:",
       "nl": "Dicural 50 mg/ml oplossing voor injectie voor rundvee en honden is beschikbaar in de volgende presentaties:"
     }
@@ -4531,32 +2107,14 @@
   },
   {
     "translation": {
-      "en": "Not all pack sizes may be marketed.",
-      "nl": "Het kan voorkomen dat niet alle verpakkingsgrootten in de handel worden gebracht."
-    }
-  },
-  {
-    "translation": {
       "en": "For any information about this veterinary medicinal product, please contact the local representative of the Marketing Authorisation Holder.",
       "nl": "Voor informatie over dit diergeneesmiddel wordt u verzocht contact op te nemen met de plaatselijke vertegenwoordiger van de houder van de vergunning voor het in de handel brengen."
     }
   },
   {
     "translation": {
-      "en": "PACKAGE LEAFLET",
-      "nl": "BIJSLUITER"
-    }
-  },
-  {
-    "translation": {
       "en": "Dicural 50 mg/ml, solution for injection for cattle",
       "nl": "Dicural 50 mg/ml oplossing voor injectie voor rundvee"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER AND OF THE MANUFACTURING AUTHORISATION HOLDER RESPONSIBLE FOR BATCH RELEASE",
-      "nl": "1. NAAM EN HET ADRES VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN EN VAN DE FABRIKANT VERANTWOORDELIJK VOOR DE VRIJGIFTE"
     }
   },
   {
@@ -4573,56 +2131,8 @@
   },
   {
     "translation": {
-      "en": "2. NAME OF THE VETERINARY MEDICINAL PRODUCT",
-      "nl": "2. BENAMING VAN HET DIERGENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
-      "en": "Dicural 50 mg/ml, solution for injection for cattle",
-      "nl": "Dicural 50 mg/ml oplossing voor injectie voor rundvee"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. STATEMENT OF THE ACTIVE SUBSTANCE(S) AND OTHER INGREDIENT(S)",
-      "nl": "3. GEHALTE AAN WERKZAME BESTANDDELEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Active substance",
-      "nl": "Werkzaam bestanddeel"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. INDICATION(S)",
-      "nl": "4. INDICATIE(S)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Treatment of Bovine respiratory disease (shipping fever, calf pneumonia) caused by single or mixed infections with Pasteurella haemolytica, Pasteurella multocida, and/or Mycoplasma spp.",
-      "nl": "Voor de behandeling van respiratoire aandoeningen (shipping fever, kalverpneumonie) veroorzaakt door enkelvoudige of menginfecties met Pasteurella haemolytica, Pasteurella multocida en/of Mycoplasma spp."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. CONTRAINDICATIONS",
-      "nl": "5. CONTRA-INDICATIES"
-    }
-  },
-  {
-    "translation": {
       "en": "None.",
       "nl": "Geen"
-    }
-  },
-  {
-    "translation": {
-      "en": "6. ADVERSE REACTIONS",
-      "nl": "6. BIJWERKINGEN"
     }
   },
   {
@@ -4633,32 +2143,8 @@
   },
   {
     "translation": {
-      "en": "Transient swelling at the injection site following administration may occur.",
-      "nl": "Na de subcutane toediening kan op de injectieplaats een zwelling van voorbijgaande aard optreden."
-    }
-  },
-  {
-    "translation": {
       "en": "If you notice any serious effects or other effects not mentioned in this leaflet, please inform your veterinary surgeon.",
       "nl": "Indien u ernstige bijwerkingen of andersoortige reacties vaststelt die niet in deze bijsluiter worden vermeld, wordt u verzocht uw dierenarts hiervan in kennis te stellen"
-    }
-  },
-  {
-    "translation": {
-      "en": "7. TARGET SPECIES",
-      "nl": "7. DIERSOORT(EN) WAARVOOR HET DIERGENEESMIDDEL BESTEMD IS"
-    }
-  },
-  {
-    "translation": {
-      "en": "Cattle (calves and young cattle)",
-      "nl": "Rundvee (kalveren en jongvee)"
-    }
-  },
-  {
-    "translation": {
-      "en": "8. DOSAGE FOR EACH SPECIES, METHOD AND ROUTE(S) OF ADMINISTRATION",
-      "nl": "8. DOSERING VOOR ELKE DOELDIERSOORT , WIJZE VAN GEBRUIK EN TOEDIENINGSWEG(EN)"
     }
   },
   {
@@ -4675,44 +2161,8 @@
   },
   {
     "translation": {
-      "en": "For complicated respiratory disease the dose can be doubled to 5 mg/kg per day.",
-      "nl": "Indien er sprake is van gecompliceerde luchtwegaandoeningen dan kan de dosering verdubbeld worden tot 5 mg/kg."
-    }
-  },
-  {
-    "translation": {
-      "en": "Subcutaneous use.",
-      "nl": "Subcutaan gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "9. ADVICE ON CORRECT ADMINISTRATION",
-      "nl": "9. AANWIJZINGEN VOOR EEN JUISTE TOEDIENING"
-    }
-  },
-  {
-    "translation": {
       "en": "In cattle, the volume administered per injection site should not exceed 7 ml; consecutive daily doses have to be administered at different injection sites.",
       "nl": "Het injectievolume per injectieplaats bij het rund mag de 7 ml niet overschrijden; opeenvolgende dagelijkse doseringen dienen op verschillende injectieplaatsen te worden toegediend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Avoid introduction of contamination.",
-      "nl": "Voorkom contaminatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "In the absence of incompatibility studies, this veterinary medicinal product must not be mixed with other veterinary medicinal products.",
-      "nl": "Aangezien er geen onderzoek is verricht naar de onverenigbaarheid, moet het middel niet met andere diergeneesmiddelen worden vermengd."
-    }
-  },
-  {
-    "translation": {
-      "en": "10. WITHDRAWAL PERIOD",
-      "nl": "10. WACHTTIJD"
     }
   },
   {
@@ -4723,38 +2173,8 @@
   },
   {
     "translation": {
-      "en": "11. SPECIAL STORAGE PRECAUTIONS",
-      "nl": "11. SPECIALE VOORZORGSMAATREGELEN BIJ BEWAREN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Buiten het bereik en zicht van kinderen bewaren."
-    }
-  },
-  {
-    "translation": {
       "en": "Do not store above 25°C.",
       "nl": "Bewaren onder 25°C."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not freeze.",
-      "nl": "Niet bevriezen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep the container in the outer carton.",
-      "nl": "Bewaar de injectieflacon in de verpakking."
-    }
-  },
-  {
-    "translation": {
-      "en": "Shelf-life after first use of the product: 28 days.",
-      "nl": "Houdbaarheid na eerste opening van de container: 28 dagen."
     }
   },
   {
@@ -4765,122 +2185,14 @@
   },
   {
     "translation": {
-      "en": "12. SPECIAL WARNING(S)",
-      "nl": "12. SPECIALE WAARSCHUWING(EN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Heavy reliance on a single class of antibiotics may result in the induction of resistance in a bacterial population.",
-      "nl": "In hoge mate beroep doen op één enkele antibioticaklasse kan resulteren in de inductie van resistentie in een bacteriepopulatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is prudent to reserve the fluoroquinolones for the treatment of clinical conditions that have responded poorly, or are expected to respond poorly, to other classes of antibiotic.",
-      "nl": "Het is aan te bevelen om fluorochinolonen te reserveren voor de behandeling van aandoeningen, welke slecht hebben gereageerd, of van welke verwacht wordt dat ze slecht zullen gaan reageren op andere antibioticaklassen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dicural 50 mg/ml solution for injection should only be used based on susceptibility testing.",
-      "nl": "Dicural 50 mg/ml oplossing voor injectie dient alleen op basis van gevoeligheidsbepalingen te worden ingezet."
-    }
-  },
-  {
-    "translation": {
-      "en": "The safety of the veterinary medicinal product has not been established during pregnancy and lactation.",
-      "nl": "De veiligheid van het diergeneesmiddel is niet bewezen tijdens dracht en lactatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "The use of fluoroquinolones in combination with non-steroidal anti-inflammatory drugs (NSAIDs) may cause seizures.",
-      "nl": "Het gebruik van fluoroquinolones in combinatie met niet-steroïdale ontstekingsremmers (NSAIDs) kan een epileptische aanval induceren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Antagonism may be observed with nitrofurantoin.",
-      "nl": "Antagonisme met nitrofurantoine kan optreden."
-    }
-  },
-  {
-    "translation": {
-      "en": "People with known hypersensitivity to quinolones should avoid any contact with the product.",
-      "nl": "Personen die overgevoelig zijn voor chinolonen moeten elk contact met het product vermijden."
-    }
-  },
-  {
-    "translation": {
       "en": "Overdose",
       "nl": "Overdosering :"
     }
   },
   {
     "translation": {
-      "en": "No specific antidote for difloxacin (or other quinolones) is known.",
-      "nl": "Tegen difloxacine (of andere chinolonen) zijn geen specifieke antidota bekend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Therefore in case of overdosage symptomatic treatment should be given",
-      "nl": "Daarom moet er in geval van overdosering een symptomatische behandeling worden toegepast."
-    }
-  },
-  {
-    "translation": {
-      "en": "13. SPECIAL PRECAUTIONS FOR THE DISPOSAL OF UNUSED PRODUCT OR WASTE MATERIALS, IF ANY",
-      "nl": "13. SPECIALE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE DIERGENEESMIDDELEN OF EVENTUELE RESTANTEN HIERVAN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Any unused veterinary medicinal product or waste materials derived from such veterinary medicinal products should be disposed of in accordance with local requirements.",
-      "nl": "Ongebruikte diergeneesmiddelen of restanten hiervan dienen in overeenstemming met de lokale vereisten te worden verwijderd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Detailed information on this product is available on the website of the European Medicines Agency (EMEA) http://www.emea.eu.int/",
-      "nl": "Zie voor nadere bijzonderheden over dit diergeneesmiddel de website van het Europees Geneesmiddelenbureau (EMEA): http://www.emea.eu.int/"
-    }
-  },
-  {
-    "translation": {
-      "en": "15. OTHER INFORMATION",
-      "nl": "15. OVERIGE INFORMATIE"
-    }
-  },
-  {
-    "translation": {
-      "en": "For animal treatment only.",
-      "nl": "Uitsluitend voor diergeneeskundig gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "To be supplied only on veterinary prescription.",
-      "nl": "Uitsluitend op diergeneeskundig voorschrift verkrijgbaar diergeneesmiddel."
-    }
-  },
-  {
-    "translation": {
       "en": "Dicural 50 mg/ml, solution for injection for cattle is available in 50, 100 and 250 ml vials.",
       "nl": "Dicural 50 mg/ml oplossing voor injectie voor rundvee is beschikbaar in 50,100 en 250 ml flacons."
-    }
-  },
-  {
-    "translation": {
-      "en": "Not all pack sizes may be marketed.",
-      "nl": "Het kan voorkomen dat niet alle verpakkingsgrootten in de handel worden gebracht."
-    }
-  },
-  {
-    "translation": {
-      "en": "For any information about this veterinary medicinal product, please contact the local representative of the Marketing Authorisation Holder.",
-      "nl": "Voor informatie over dit diergeneesmiddel wordt u verzocht contact op te nemen met de plaatselijke vertegenwoordiger van de houder van de vergunning voor het in de handel brengen."
     }
   }
 ]

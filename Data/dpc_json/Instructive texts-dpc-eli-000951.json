@@ -1,32 +1,8 @@
 [
   {
     "translation": {
-      "en": "ANNEX I",
-      "nl": "BIJLAGE I"
-    }
-  },
-  {
-    "translation": {
-      "en": "SUMMARY OF PRODUCT CHARACTERISTICS",
-      "nl": "SAMENVATTING VAN DE PRODUCTKENMERKEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. NAAM VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
       "en": "EVISTA 60 mg film coated tablets",
       "nl": "EVISTA gefilmcoate tabletten 60 mg"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. QUALITATIVE AND QUANTITATIVE COMPOSITION",
-      "nl": "2. KWALITATIEVE EN KWANTITATIEVE SAMENSTELLING"
     }
   },
   {
@@ -49,18 +25,6 @@
   },
   {
     "translation": {
-      "en": "For a full list of excipients, see section 6.1.",
-      "nl": "Voor een volledige lijst van hulpstoffen, zie rubriek 6.1."
-    }
-  },
-  {
-    "translation": {
-      "en": "3. PHARMACEUTICAL FORM",
-      "nl": "3. FARMACEUTISCHE VORM"
-    }
-  },
-  {
-    "translation": {
       "en": "Film coated tablets.",
       "nl": "Gefilmcoate tabletten."
     }
@@ -69,18 +33,6 @@
     "translation": {
       "en": "Elliptically shaped, white tablets imprinted with the code 4165.",
       "nl": "Ellipsvormige, witte tabletten met indruk van de code \"4165\"."
-    }
-  },
-  {
-    "translation": {
-      "en": "4. CLINICAL PARTICULARS",
-      "nl": "4. KLINISCHE GEGEVENS"
-    }
-  },
-  {
-    "translation": {
-      "en": "4.1 Therapeutic indications",
-      "nl": "4.1 Therapeutische indicaties"
     }
   },
   {
@@ -99,12 +51,6 @@
     "translation": {
       "en": "When determining the choice of EVISTA or other therapies, including oestrogens, for an individual postmenopausal woman, consideration should be given to menopausal symptoms, effects on uterine and breast tissues, and cardiovascular risks and benefits (see Section 5.1).",
       "nl": "Wanneer men voor postmenopauzale vrouwen een keuze moet maken tussen EVISTA of andere therapieën, inclusief oestrogenen, dienen op individuele basis menopauzale symptomen, effecten op de baarmoeder en het borstweefsel, en cardiovasculaire risico's en voordelen in overweging te worden genomen (zie sectie 5.1)."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.2 Posology and method of administration",
-      "nl": "4.2 Dosering en wijze van toediening"
     }
   },
   {
@@ -129,12 +75,6 @@
     "translation": {
       "en": "Generally calcium and vitamin D supplements are advised in women with a low dietary intake.",
       "nl": "In het algemeen worden calcium- en vitamine D supplementen aangeraden bij vrouwen met een lage voedsel inname."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.3 Contraindications",
-      "nl": "4.3 Contra-indicaties"
     }
   },
   {
@@ -177,12 +117,6 @@
     "translation": {
       "en": "EVISTA should not be used in patients with signs or symptoms of endometrial cancer as safety in this patient group has not been adequately studied.",
       "nl": "EVISTA mag niet worden gebruikt door patiënten met tekenen of symptomen van endometriumkanker omdat de veiligheid bij deze patiënten niet voldoende is bestudeerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.4 Special warnings and precautions for use",
-      "nl": "4.4 Bijzondere waarschuwingen en voorzorgen bij gebruik"
     }
   },
   {
@@ -343,12 +277,6 @@
   },
   {
     "translation": {
-      "en": "4.5 Interaction with other medicinal products and other forms of interaction",
-      "nl": "4.5 Interacties met andere geneesmiddelen en andere vormen van interactie"
-    }
-  },
-  {
-    "translation": {
       "en": "Concurrent administration of either calcium carbonate or aluminium and magnesium-hydroxide containing antacids do not affect the systemic exposure of raloxifene.",
       "nl": "Gelijktijdige toediening van hetzij calciumcarbonaat of aluminium en magnesiumhydroxide bevattende antacida heeft geen invloed op de systemische beschikbaarheid van raloxifene."
     }
@@ -457,12 +385,6 @@
   },
   {
     "translation": {
-      "en": "4.6 Pregnancy and lactation",
-      "nl": "4.6 Zwangerschap en borstvoeding"
-    }
-  },
-  {
-    "translation": {
       "en": "EVISTA is only for use in postmenopausal women.",
       "nl": "EVISTA is alleen bestemd voor gebruik door postmenopauzale vrouwen."
     }
@@ -505,20 +427,8 @@
   },
   {
     "translation": {
-      "en": "4.7 Effects on ability to drive and use machines",
-      "nl": "4.7 Beïnvloeding van de rijvaardigheid en van het vermogen om machines te bedienen"
-    }
-  },
-  {
-    "translation": {
       "en": "Raloxifene has no known effect on driving or the ability to use machinery.",
       "nl": "Effecten van raloxifene op de rijvaardigheid of de bekwaamheid om machines te gebruiken zijn niet bekend."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.8 Undesirable effects",
-      "nl": "4.8 Bijwerkingen"
     }
   },
   {
@@ -561,12 +471,6 @@
     "translation": {
       "en": "The following convention has been used for the classification of the adverse reactions: very common (~1/10), common (~1/100 to <1/10), uncommon (~1/1,000 to <1/100), rare (~1/10,000 to <1/1,000) very rare (<1/10,000), not known (cannot be estimated from the available data).",
       "nl": "De volgende regel is gebruikt voor de classificatie van bijwerkingen: zeer vaak (~1/10), vaak (~1/100, <1/10), soms (~1/1.000, <1/100), zelden (~1/10.000, <1/1.000), zeer zelden (<1/10.000), niet bekend (kan met de beschikbare gegevens niet worden bepaald)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Vascular Disorders",
-      "nl": "Aandoeningen van het vaatstelsel"
     }
   },
   {
@@ -625,20 +529,8 @@
   },
   {
     "translation": {
-      "en": "Very common.",
-      "nl": "Zeer vaak."
-    }
-  },
-  {
-    "translation": {
       "en": "Flu syndrome",
       "nl": "Griepachtige verschijnselen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Common.",
-      "nl": "Vaak."
     }
   },
   {
@@ -775,12 +667,6 @@
   },
   {
     "translation": {
-      "en": "The following convention has been used for the classification of the adverse reactions: very common (~1/10), common (~1/100 to <1/10), uncommon (~1/1,000 to <1/100), rare (~1/10,000 to <1/1,000) very rare (<1/10,000), not known (cannot be estimated from the available data).",
-      "nl": "De volgende regel is gebruikt voor de classificatie van bijwerkingen: zeer vaak (~1/10), vaak (~1/100, <1/10), soms (~1/1.000, <1/100), zelden (~1/10.000, <1/1.000), zeer zelden (<1/10.000), niet bekend (kan met de beschikbare gegevens niet worden bepaald)."
-    }
-  },
-  {
-    "translation": {
       "en": "Blood and Lymphatic System Disorders",
       "nl": "Bloed- en lymfestelselaandoeningen"
     }
@@ -799,12 +685,6 @@
   },
   {
     "translation": {
-      "en": "Investigations",
-      "nl": "Onderzoeken"
-    }
-  },
-  {
-    "translation": {
       "en": "Nervous System Disorders",
       "nl": "Aandoeningen van het zenuwstelsel"
     }
@@ -813,12 +693,6 @@
     "translation": {
       "en": "Reproductive System and Breast Disorders",
       "nl": "Aandoeningen van de geslachtsorganen en borsten"
-    }
-  },
-  {
-    "translation": {
-      "en": "4.9 Overdose",
-      "nl": "4.9 Overdosering"
     }
   },
   {
@@ -861,18 +735,6 @@
     "translation": {
       "en": "There is no specific antidote for raloxifene hydrochloride.",
       "nl": "Er is geen specifiek antidotum voor raloxifenehydrochloride."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. PHARMACOLOGICAL PROPERTIES",
-      "nl": "5. FARMACOLOGISCHE EIGENSCHAPPEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "5.1 Pharmacodynamic properties",
-      "nl": "5.1 Farmacodynamische eigenschappen"
     }
   },
   {
@@ -1255,12 +1117,6 @@
   },
   {
     "translation": {
-      "en": "In postmenopausal women who received raloxifene treatment for 4 years, benign endometrial polyps were reported in 0.9% compared to 0.3% in women who received placebo treatment.",
-      "nl": "Bij 0,9% van de postmenopauzale vrouwen, die gedurende 4 jaar raloxifene-behandeling ontvingen, werden benigne endometrium-poliepen gerapporteerd, vergeleken met 0,3% van de vrouwen die placebo kregen."
-    }
-  },
-  {
-    "translation": {
       "en": "d) Effects on breast tissue",
       "nl": "d) Effect op borstweefsel"
     }
@@ -1305,12 +1161,6 @@
     "translation": {
       "en": "No adverse effects on cognitive function have been seen.",
       "nl": "Er werden geen ongewenste effecten waargenomen ten aanzien van het cognitief functioneren."
-    }
-  },
-  {
-    "translation": {
-      "en": "5.2 Pharmacokinetic properties",
-      "nl": "5.2 Farmacokinetische gegevens"
     }
   },
   {
@@ -1459,12 +1309,6 @@
   },
   {
     "translation": {
-      "en": "5.3 Precinical safety data",
-      "nl": "5.3 Gegevens uit het preklinisch veiligheidsonderzoek"
-    }
-  },
-  {
-    "translation": {
       "en": "In a 2-year carcinogenicity study in rats, an increase in ovarian tumors of granulosa/theca cell origin was observed in high-dose females (279 mg/kg/day).",
       "nl": "In een 2 jaar durende carcinogeniteitsstudie bij ratten, werd een toename gezien van ovariumtumoren van granulosacel/thecacel oorsprong bij de vrouwtjes in de hoge-dosis groep (279 mg/kg/dag)."
     }
@@ -1549,18 +1393,6 @@
   },
   {
     "translation": {
-      "en": "6. PHARMACEUTICAL PARTICULARS",
-      "nl": "6. FARMACEUTISCHE GEGEVENS"
-    }
-  },
-  {
-    "translation": {
-      "en": "6.1 List of excipients",
-      "nl": "6.1 Lijst van hulpstoffen"
-    }
-  },
-  {
-    "translation": {
       "en": "Tablet Core:",
       "nl": "Tabletkern:"
     }
@@ -1633,44 +1465,8 @@
   },
   {
     "translation": {
-      "en": "6.2 Incompatibilities",
-      "nl": "6.2 Gevallen van onverenigbaarheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "Not applicable.",
-      "nl": "Niet van toepassing."
-    }
-  },
-  {
-    "translation": {
       "en": "6.3 Shelf-life",
       "nl": "6.3 Houdbaarheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "3 years.",
-      "nl": "3 jaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.4 Special precautions for storage",
-      "nl": "6.4 Speciale voorzorgsmaatregelen bij bewaren"
-    }
-  },
-  {
-    "translation": {
-      "en": "Store in the original package.",
-      "nl": "Bewaar in de oorspronkelijke verpakking."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not freeze.",
-      "nl": "Niet in de vriezer bewaren."
     }
   },
   {
@@ -1705,24 +1501,6 @@
   },
   {
     "translation": {
-      "en": "6.6 Special precautions for disposal",
-      "nl": "6.6 Speciale voorzorgsmaatregelen voor het verwijderen"
-    }
-  },
-  {
-    "translation": {
-      "en": "No special requirements.",
-      "nl": "Geen bijzondere vereisten."
-    }
-  },
-  {
-    "translation": {
-      "en": "7. MARKETING AUTHORISATION HOLDER",
-      "nl": "7. HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "Eli Lilly Nederland B.V Grootslag 1-5",
       "nl": "Eli Lilly Nederland B.V. Grootslag 1-5"
     }
@@ -1735,44 +1513,8 @@
   },
   {
     "translation": {
-      "en": "8. MARKETING AUTHORISATION NUMBERS",
-      "nl": "8. NUMMER(S) VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "EU/1/98/073/00 1 EU/1/98/073/002 EU/1/98/073/003 EU/1/98/073/004",
       "nl": "EU/1/98/073/00 1 EU/1/98/073/002 EU/1/98/073/003 EU/1/98/073/004"
-    }
-  },
-  {
-    "translation": {
-      "en": "9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION",
-      "nl": "9. DATUM VAN EERSTE VERGUNNING/HERNIEUWING VAN DE VERGUNNING"
-    }
-  },
-  {
-    "translation": {
-      "en": "10. DATE OF REVISION OF THE TEXT",
-      "nl": "10. DATUM VAN HERZIENING VAN DE TEKST"
-    }
-  },
-  {
-    "translation": {
-      "en": "ANNEX II",
-      "nl": "BIJLAGE II"
-    }
-  },
-  {
-    "translation": {
-      "en": "A. MANUFACTURING AUTHORISATION HOLDERS RESPONSIBLE FOR BATCH RELEASE",
-      "nl": "A. HOUDERS VAN DE VERGUNNINGEN VOOR DE VERVAARDIGING VERANTWOORDELIJK VOOR VRIJGIFTE"
-    }
-  },
-  {
-    "translation": {
-      "en": "B. CONDITIONS OF THE MARKETING AUTHORISATION",
-      "nl": "B. VOORWAARDEN VERBONDEN AAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
     }
   },
   {
@@ -1801,32 +1543,14 @@
   },
   {
     "translation": {
-      "en": "B. CONDITIONS OF THE MARKETING AUTHORISATION",
-      "nl": "B. VOORWAARDEN VERBONDEN AAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "- CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE IMPOSED ON THE MARKETING AUTHORISATION HOLDER",
       "nl": "- VOORWAARDEN OF BEPERKINGEN OPGELEGD AAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN TEN AANZIEN VAN DE LEVERING EN HET GEBRUIK"
     }
   },
   {
     "translation": {
-      "en": "Medicinal product subject to medical prescription",
-      "nl": "Aan medisch recept onderworpen geneesmiddel."
-    }
-  },
-  {
-    "translation": {
       "en": "- CONDITIONS OR RESTRICTIONS WITH REGARDS TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT",
       "nl": "- VOORWAARDEN OF BEPERKINGEN MET BETREKKING TOT EEN VEILIG EN DOELTREFFEND GEBRUIK VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
-      "en": "Not applicable.",
-      "nl": "Niet van toepassing."
     }
   },
   {
@@ -1839,12 +1563,6 @@
     "translation": {
       "en": "The Marketing Authorisation Holder will provide the PSUR at 3-yearly intervals.",
       "nl": "De houder van de vergunning voor het in de handel brengen zal de PSUR iedere 3 jaar indienen."
-    }
-  },
-  {
-    "translation": {
-      "en": "LABELLING AND PACKAGE LEAFLET",
-      "nl": "ETIKETTERING EN BIJSLUITER"
     }
   },
   {
@@ -1867,20 +1585,8 @@
   },
   {
     "translation": {
-      "en": "2. STATEMENT OF ACTIVE SUBSTANCE(S)",
-      "nl": "2. GEHALTE AAN WERKZAME STOF(FEN)"
-    }
-  },
-  {
-    "translation": {
       "en": "Each film coated tablet contains 60 mg raloxifene hydrochloride, equivalent to 56 mg raloxifene",
       "nl": "Iedere gefilmcoate tablet bevat 60 mg raloxifenehydrochloride, overeenkomend met 56 mg raloxifene"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. LIST OF EXCIPIENTS",
-      "nl": "3. LIJST VAN HULPSTOFFEN"
     }
   },
   {
@@ -1893,12 +1599,6 @@
     "translation": {
       "en": "See leaflet for further information",
       "nl": "Zie de bijsluiter voor verdere informatie"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. PHARMACEUTICAL FORM AND CONTENTS",
-      "nl": "4. FARMACEUTISCHE VORM EN INHOUD"
     }
   },
   {
@@ -1909,68 +1609,8 @@
   },
   {
     "translation": {
-      "en": "5. METHOD AND ROUTE(S) OF ADMINISTRATION",
-      "nl": "5. WIJZE VAN GEBRUIK EN TOEDIENINGSWEG(EN)"
-    }
-  },
-  {
-    "translation": {
       "en": "For oral use",
       "nl": "Oraal gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN",
-      "nl": "6. EEN SPECIALE WAARSCHUWING DAT HET GENEESMIDDEL BUITEN HET BEREIK EN ZICHT VAN KINDEREN DIENT TE WORDEN GEHOUDEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Houd het geneesmiddel buiten het bereik en het zicht van kinderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "7. OTHER SPECIAL WARNING(S), IF NECESSARY",
-      "nl": "7. ANDERE SPECIALE WAARSCHUWING(EN), INDIEN NODIG"
-    }
-  },
-  {
-    "translation": {
-      "en": "8. EXPIRY DATE",
-      "nl": "8. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "EXP {MM/YYYY}",
-      "nl": "EXP: {MM/JJJJ}"
-    }
-  },
-  {
-    "translation": {
-      "en": "9. SPECIAL STORAGE CONDITIONS",
-      "nl": "9. BIJZONDERE VOORZORGSMAATREGELEN VOOR DE BEWARING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Store in the original package.",
-      "nl": "Bewaar in de oorspronkelijke verpakking."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not freeze.",
-      "nl": "Niet in de vriezer bewaren."
-    }
-  },
-  {
-    "translation": {
-      "en": "10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE",
-      "nl": "10. BIJZONDERE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE GENEESMIDDELEN OF DAARVAN AFGELEIDE AFVALSTOFFEN (INDIEN VAN TOEPASSING)"
     }
   },
   {
@@ -1989,12 +1629,6 @@
     "translation": {
       "en": "The Netherlands",
       "nl": "Nederland"
-    }
-  },
-  {
-    "translation": {
-      "en": "12. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "12. NUMMER(S) VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
     }
   },
   {
@@ -2005,86 +1639,8 @@
   },
   {
     "translation": {
-      "en": "13. BATCH NUMBER",
-      "nl": "13. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
       "en": "Batch {number}",
       "nl": "Lot {nummer}"
-    }
-  },
-  {
-    "translation": {
-      "en": "14. GENERAL CLASSIFICATION FOR SUPPLY",
-      "nl": "14. ALGEMENE INDELING VOOR DE AFLEVERING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal product subject to medical prescription.",
-      "nl": "Geneesmiddel op medisch voorschrift."
-    }
-  },
-  {
-    "translation": {
-      "en": "15. INSTRUCTIONS ON USE",
-      "nl": "15. INSTRUCTIES VOOR GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "16. INFORMATION IN BRAILLE",
-      "nl": "16 INFORMATIE OVER BRAILLE"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. BENAMING VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
-      "en": "EVISTA 60 mg film coated tablets raloxifene hydrochloride",
-      "nl": "EVISTA 60 mg gefilmcoate tabletten raloxifenehydrochloride"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. STATEMENT OF ACTIVE SUBSTANCE(S)",
-      "nl": "2. GEHALTE AAN WERKZAME STOF(FEN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Each film coated tablet contains 60 mg raloxifene hydrochloride, equivalent to 56 mg raloxifene",
-      "nl": "Iedere gefilmcoate tablet bevat 60 mg raloxifenehydrochloride, overeenkomend met 56 mg raloxifene"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. LIST OF EXCIPIENTS",
-      "nl": "3. LIJST VAN HULPSTOFFEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Also includes lactose",
-      "nl": "Bevat ook lactose"
-    }
-  },
-  {
-    "translation": {
-      "en": "See leaflet for further information",
-      "nl": "Zie de bijsluiter voor verdere informatie"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. PHARMACEUTICAL FORM AND CONTENTS",
-      "nl": "4. FARMACEUTISCHE VORM EN INHOUD"
     }
   },
   {
@@ -2095,182 +1651,14 @@
   },
   {
     "translation": {
-      "en": "5. METHOD AND ROUTE(S) OF ADMINISTRATION",
-      "nl": "5. WIJZE VAN GEBRUIK EN TOEDIENINGSWEG(EN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "For oral use",
-      "nl": "Oraal gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN",
-      "nl": "6. EEN SPECIALE WAARSCHUWING DAT HET GENEESMIDDEL BUITEN HET BEREIK EN ZICHT VAN KINDEREN DIENT TE WORDEN GEHOUDEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Houd het geneesmiddel buiten het bereik en het zicht van kinderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "7. OTHER SPECIAL WARNING(S), IF NECESSARY",
-      "nl": "7. ANDERE SPECIALE WAARSCHUWING(EN), INDIEN NODIG"
-    }
-  },
-  {
-    "translation": {
-      "en": "8. EXPIRY DATE",
-      "nl": "8. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "EXP {MM/YYYY}",
-      "nl": "EXP: {MM/JJJJ}"
-    }
-  },
-  {
-    "translation": {
-      "en": "9. SPECIAL STORAGE CONDITIONS",
-      "nl": "9. BIJZONDERE VOORZORGSMAATREGELEN VOOR DE BEWARING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Store in the original package.",
-      "nl": "Bewaar in de oorspronkelijke verpakking."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not freeze.",
-      "nl": "Niet in de vriezer bewaren."
-    }
-  },
-  {
-    "translation": {
-      "en": "10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE",
-      "nl": "10. BIJZONDERE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE GENEESMIDDELEN OF DAARVAN AFGELEIDE AFVALSTOFFEN (INDIEN VAN TOEPASSING)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Grootslag 1-5",
-      "nl": "Grootslag 1-5"
-    }
-  },
-  {
-    "translation": {
-      "en": "NL-399 1 RA Houten",
-      "nl": "NL-399 1 RA Houten"
-    }
-  },
-  {
-    "translation": {
-      "en": "The Netherlands",
-      "nl": "Nederland"
-    }
-  },
-  {
-    "translation": {
-      "en": "12. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "12. NUMMER(S) VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "13. BATCH NUMBER",
-      "nl": "13. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
-      "en": "Batch {number}",
-      "nl": "Lot {nummer}"
-    }
-  },
-  {
-    "translation": {
-      "en": "14. GENERAL CLASSIFICATION FOR SUPPLY",
-      "nl": "14. ALGEMENE INDELING VOOR DE AFLEVERING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal product subject to medical prescription.",
-      "nl": "Geneesmiddel op medisch voorschrift."
-    }
-  },
-  {
-    "translation": {
-      "en": "15. INSTRUCTIONS ON USE",
-      "nl": "15. INSTRUCTIES VOOR GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "16. INFORMATION IN BRAILLE",
-      "nl": "16 INFORMATIE OVER BRAILLE"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. NAAM VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
-      "en": "EVISTA 60 mg film coated tablets raloxifene hydrochloride",
-      "nl": "EVISTA 60 mg gefilmcoate tabletten raloxifenehydrochloride"
-    }
-  },
-  {
-    "translation": {
       "en": "2. NAME OF THE MARKETING AUTHORISATION HOLDER",
       "nl": "2. NAAM EN ADRES VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
     }
   },
   {
     "translation": {
-      "en": "Lilly",
-      "nl": "Lilly"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. EXPIRY DATE",
-      "nl": "3. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "EXP {MM/YYYY}",
-      "nl": "EXP {MM/JJJJ}"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. BATCH NUMBER",
-      "nl": "4. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
       "en": "Lot {number}",
       "nl": "Lot {nummer}"
-    }
-  },
-  {
-    "translation": {
-      "en": "5. OTHER",
-      "nl": "5. OVERIGE"
     }
   },
   {
@@ -2311,26 +1699,8 @@
   },
   {
     "translation": {
-      "en": "Do not pass it on to others.",
-      "nl": "Geef dit geneesmiddel niet door aan anderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "It may harm them, even if their symptoms are the same as yours.",
-      "nl": "Dit geneesmiddel kan schadelijk voor hen zijn, zelfs als de verschijnselen dezelfde zijn als waarvoor u het geneesmiddel heeft gekregen."
-    }
-  },
-  {
-    "translation": {
       "en": "- If any of the side effects gets serious, or if you notice any side effects not listed in this leaflet, please tell your doctor or pharmacist.",
       "nl": "- Wanneer één van de bijwerkingen ernstig wordt of in geval er bij u een bijwerking optreedt die niet in deze bijsluiter is vermeld, raadpleeg dan uw arts of apotheker."
-    }
-  },
-  {
-    "translation": {
-      "en": "In this leaflet:",
-      "nl": "In deze bijsluiter:"
     }
   },
   {
@@ -2353,20 +1723,8 @@
   },
   {
     "translation": {
-      "en": "4. Possible side effects",
-      "nl": "4. Mogelijke bijwerkingen"
-    }
-  },
-  {
-    "translation": {
       "en": "5. How to store EVISTA",
       "nl": "5. Hoe bewaart u EVISTA."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. Further information",
-      "nl": "6. Aanvullende informatie"
     }
   },
   {
@@ -2551,12 +1909,6 @@
   },
   {
     "translation": {
-      "en": "Taking other medicines",
-      "nl": "Gebruik in combinatie met andere geneesmiddelen"
-    }
-  },
-  {
-    "translation": {
       "en": "If you are taking digitalis medicines for your heart or anticoagulants like warfarin to thin your blood, your doctor may need to adjust your dose of these medicines.",
       "nl": "Indien u digitalisgeneesmiddelen gebruikt voor uw hart of antistollingsmiddelen zoals warfarine om uw bloed te verdunnen, kan het nodig zijn dat uw dokter uw dosering voor deze geneesmiddelen aanpast."
     }
@@ -2571,12 +1923,6 @@
     "translation": {
       "en": "Cholestyramine is mainly used as lipid-lowering medicine.",
       "nl": "Cholestyramine wordt voornamelijk gebruikt als lipiden-verlagend geneesmiddel."
-    }
-  },
-  {
-    "translation": {
-      "en": "Pregnancy and breast-feeding",
-      "nl": "Zwangerschap en borstvoeding"
     }
   },
   {
@@ -2707,12 +2053,6 @@
   },
   {
     "translation": {
-      "en": "4. POSSIBLE SIDE EFFECTS",
-      "nl": "4. MOGELIJKE BIJWERKINGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "Like all medicines, EVISTA can cause side effects although not everybody gets them.",
       "nl": "Zoals alle geneesmiddelen kan EVISTA bijwerkingen veroorzaken, hoewel niet iedereen ze krijgt."
     }
@@ -2749,50 +2089,8 @@
   },
   {
     "translation": {
-      "en": "If any of the side effects gets serious, or if you notice any side effects not listed in this leaflet, please tell your doctor or pharmacist.",
-      "nl": "Wanneer één van de bijwerkingen ernstig wordt of in geval er bij u een bijwerking optreedt die niet in deze bijsluiter is vermeld, raadpleeg dan uw arts of apotheker."
-    }
-  },
-  {
-    "translation": {
       "en": "5. HOW TO STORE EVISTA",
       "nl": "5. HOE BEWAART U EVISTA"
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Buiten het bereik en het zicht van kinderen houden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not freeze.",
-      "nl": "Niet in de vriezer bewaren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicines should not be disposed of via wastewater or household waste.",
-      "nl": "Geneesmiddelen dienen niet weggegooid te worden via het afvalwater of met huishoudelijk afval."
-    }
-  },
-  {
-    "translation": {
-      "en": "Ask your pharmacist how to dispose of medicines no longer required.",
-      "nl": "Vraag uw apotheker wat u met medicijnen moet doen wanneer ze niet meer nodig zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "These measures will help to protect the environment.",
-      "nl": "Deze maatregelen zullen helpen bij de bescherming van het milieu."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. FURTHER INFORMATION",
-      "nl": "6. AANVULLENDE INFORMATIE"
     }
   },
   {

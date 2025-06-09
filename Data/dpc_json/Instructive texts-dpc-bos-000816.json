@@ -1,12 +1,6 @@
 [
   {
     "translation": {
-      "en": "Operating instructions",
-      "nl": "Gebruiksaanwijzing"
-    }
-  },
-  {
-    "translation": {
       "en": "This appliance is intended for domestic use only and/or must not be used for industrial or medical applications.",
       "nl": "Dit apparaat is bedoeld voor huishoudelijk gebruik en niet voor zakelijke of medische instellingen."
     }
@@ -295,12 +289,6 @@
   },
   {
     "translation": {
-      "en": "-Confirm by pressing the SET button.",
-      "nl": "SET- toets ter bevestiging indrukken"
-    }
-  },
-  {
-    "translation": {
       "en": "The symbol for Normal or Athlete mode flashes.",
       "nl": "Het symbool van de normale modus / atleetmodus knippert."
     }
@@ -325,12 +313,6 @@
   },
   {
     "translation": {
-      "en": "-Confirm by pressing the SET button.",
-      "nl": "SET- toets ter bevestiging indrukken"
-    }
-  },
-  {
-    "translation": {
       "en": "An acoustic signal sounds.",
       "nl": "Er klinkt een signaal."
     }
@@ -339,18 +321,6 @@
     "translation": {
       "en": "All settings are now displayed (Rsymbol).",
       "nl": "Nu worden alle instellingen weergegeven (symbool R)."
-    }
-  },
-  {
-    "translation": {
-      "en": "-Confirm by pressing the SET button.",
-      "nl": "SET- toets ter bevestiging indrukken"
-    }
-  },
-  {
-    "translation": {
-      "en": "An acoustic signal sounds.",
-      "nl": "Er klinkt een signaal."
     }
   },
   {
@@ -417,24 +387,6 @@
     "translation": {
       "en": "The input personal details are displayed.",
       "nl": "De ingevoerde persoonlijke gegevens worden weergegeven."
-    }
-  },
-  {
-    "translation": {
-      "en": "An acoustic signal sounds.",
-      "nl": "Er klinkt een signaal."
-    }
-  },
-  {
-    "translation": {
-      "en": "Step onto the scales and stand still until the bar graph on the display stops moving.",
-      "nl": "Op de weegschaal gaan staan en stil blijven staan zolang de balkweergave op de display actief is."
-    }
-  },
-  {
-    "translation": {
-      "en": "Distribute your weight evenly on both legs.",
-      "nl": "Hierbij het gewicht gelijkmatig over beide benen verdelen."
     }
   },
   {
@@ -973,18 +925,6 @@
   },
   {
     "translation": {
-      "en": "Note: Very dry skin and/or very hard skin may distort the result.",
-      "nl": "N.B.: Een zeer droge en/of eeltige huid kan tot onjuiste resultaten leiden."
-    }
-  },
-  {
-    "translation": {
-      "en": "However, to avoid the risk of slipping, please ensure that the soles of the feet are not wet.",
-      "nl": "Om uitglijdgevaar te voorkomen dient u er echter voor te zorgen dat uw voetzolen niet nat zijn."
-    }
-  },
-  {
-    "translation": {
       "en": "LO",
       "nl": "LO"
     }
@@ -1017,12 +957,6 @@
     "translation": {
       "en": "Dispose of old batteries at public collection centres or return to your dealer.",
       "nl": "Oude batterijen afgeven bij de daartoe bestemde inzamelpunten of bij de vakhandel."
-    }
-  },
-  {
-    "translation": {
-      "en": "Guarantee",
-      "nl": "Garantie"
     }
   },
   {

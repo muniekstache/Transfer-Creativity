@@ -1,12 +1,6 @@
 [
   {
     "translation": {
-      "en": "Safety Notes",
-      "nl": "Veiligheidsvoorschriften"
-    }
-  },
-  {
-    "translation": {
       "en": "WARNING!",
       "nl": "Let op!"
     }
@@ -511,86 +505,8 @@
   },
   {
     "translation": {
-      "en": "* Protect the battery charger from rain and moisture.",
-      "nl": "* Houd het oplaadapparaat uit de buurt van regen en vocht."
-    }
-  },
-  {
-    "translation": {
-      "en": "The penetration of water in a battery charger increases the risk of electric shock.",
-      "nl": "Het binnendringen van water in het oplaadapparaat vergroot het risico van een elektrische schok."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Recharge only with the charger specified by the manufacturer.",
-      "nl": "* Laad accu's alleen op in oplaadapparaten die door de fabrikant worden geadviseerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "A charger that is suitable for one type of battery pack may create a risk of fire when used with another battery pack.",
-      "nl": "Voor een oplaadapparaat dat voor een bepaald type accu geschikt is, bestaat brandgevaar wanneer het met andere accu's wordt gebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Do not charge other batteries.",
-      "nl": "* Laad geen accu's van andere fabrikanten op."
-    }
-  },
-  {
-    "translation": {
-      "en": "The battery charger is suitable only for charging Bosch lithium ion batteries within the listed voltage range.",
-      "nl": "Het oplaadapparaat is alleen geschikt voor het opladen van Bosch lithium-ionaccu's in het aangegeven spanningsbereik."
-    }
-  },
-  {
-    "translation": {
-      "en": "Otherwise there is danger, fire and explosion.",
-      "nl": "Anders bestaat er brand- en explosiegevaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Keep the battery charger clean.",
-      "nl": "* Houd het oplaadapparaat schoon."
-    }
-  },
-  {
-    "translation": {
-      "en": "Contamination may cause the danger of electric shock.",
-      "nl": "Door vervuiling bestaat gevaar voor een elektrische schok."
-    }
-  },
-  {
-    "translation": {
       "en": "* Check the battery charger, cable and plug each time before using.",
       "nl": "* Controleer voor elk gebruik oplaadapparaat, kabel en stekker."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not use the battery charger when defects are detected.",
-      "nl": "Gebruik het oplaadapparaat niet als u een beschadiging hebt vastgesteld."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not open the battery charger yourself and have it repaired only by qualified personnel using original spare parts.",
-      "nl": "Open het oplaadapparaat niet zelf en laat het alleen door gekwalificeerd personeel en alleen met originele vervangingsonderdelen repareren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Damaged battery chargers, cables and plugs increase the risk of electric shock.",
-      "nl": "Beschadigde oplaadapparaten, kabels en stekkers vergroten het risico van een elektrische schok."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Do not operate the battery charger on easily inflammable surfaces (e. g. paper, textiles, etc.) or in combustible environments.",
-      "nl": "* Gebruik het oplaadapparaat niet op een gemakkelijk brandbare ondergrond (zoals papier of textiel) of in een brandbare omgeving."
     }
   },
   {
@@ -601,74 +517,8 @@
   },
   {
     "translation": {
-      "en": "If contact accidentally occurs, flush with water.",
-      "nl": "Spoel bij onvoorzien contact met water af."
-    }
-  },
-  {
-    "translation": {
-      "en": "If liquid contacts eyes, additionally seek medical help.",
-      "nl": "Wanneer de vloeistof in de ogen komt, dient u bovendien een arts te raadplegen."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Do not open the battery yourself.",
-      "nl": "* Open de accu niet."
-    }
-  },
-  {
-    "translation": {
-      "en": "There is danger of a short circuit.",
-      "nl": "Er bestaat gevaar voor kortsluiting."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Protect the battery against heat, e.g., including against continuous sun irradiation and fire.",
-      "nl": "* Bescherm de accu tegen hitte, bijvoorbeeld ook tegen voortdurend zonlicht en vuur."
-    }
-  },
-  {
-    "translation": {
-      "en": "There is a danger of explosion.",
-      "nl": "Er bestaat explosiegevaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Do not short-circuit the battery.",
-      "nl": "* Sluit de accu niet kort."
-    }
-  },
-  {
-    "translation": {
-      "en": "There is a danger of explosion.",
-      "nl": "Er bestaat explosiegevaar."
-    }
-  },
-  {
-    "translation": {
       "en": "In case of damage and improper use of the battery, vapours may be emitted.",
       "nl": "Bij beschadiging en onjuist gebruik kunnen er dampen vrijkomen."
-    }
-  },
-  {
-    "translation": {
-      "en": "In case of complaints, provide for fresh air and consult a physician.",
-      "nl": "Zorg voor frisse lucht en raadpleeg bij klachten een arts."
-    }
-  },
-  {
-    "translation": {
-      "en": "The vapours can irritate the respiratory system.",
-      "nl": "De dampen kunnen de luchtwegen irriteren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Intended Use",
-      "nl": "Gebruik volgens bestemming"
     }
   },
   {
@@ -679,26 +529,8 @@
   },
   {
     "translation": {
-      "en": "Introduction",
-      "nl": "Inleiding"
-    }
-  },
-  {
-    "translation": {
       "en": "This manual gives instructions on the correct assembly and safe use of your grass shear/shrub shear.",
       "nl": "Dit handboek bevat voorschriften over de juiste montage en het veilige gebruik van uw struiken- en grasschaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is important that you read these instructions carefully.",
-      "nl": "Het is belangrijk dat u deze aanwijzingen zorgvuldig leest."
-    }
-  },
-  {
-    "translation": {
-      "en": "Delivered Items",
-      "nl": "Meegeleverd"
     }
   },
   {
@@ -735,24 +567,6 @@
     "translation": {
       "en": "- Grass shear blade (only with \"shrub/grass shear' set)",
       "nl": "- Knipmess voor grasschaar (alleen bij de set \"Struiken- en grasschaar\")"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Operating instructions",
-      "nl": "- Gebruiksaanwijzing"
-    }
-  },
-  {
-    "translation": {
-      "en": "When parts are missing or damaged, please contact your dealer.",
-      "nl": "Neem contact op met uw leverancier wanneer onderdelen ontbreken of beschadigd zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "Operating Controls",
-      "nl": "Bestanddelen van de machine"
     }
   },
   {
@@ -835,12 +649,6 @@
   },
   {
     "translation": {
-      "en": "Caution!",
-      "nl": "Voorzichtig!"
-    }
-  },
-  {
-    "translation": {
       "en": "Do not touch the moving blades.",
       "nl": "Raak bewegende messen niet aan."
     }
@@ -849,12 +657,6 @@
     "translation": {
       "en": "Before Use",
       "nl": "Voor de ingebruikneming"
-    }
-  },
-  {
-    "translation": {
-      "en": "Charging Procedure",
-      "nl": "Opladen"
     }
   },
   {
@@ -1003,18 +805,6 @@
   },
   {
     "translation": {
-      "en": "Starting and Stopping",
-      "nl": "Ingebruikneming"
-    }
-  },
-  {
-    "translation": {
-      "en": "Starting:",
-      "nl": "Inschakelen:"
-    }
-  },
-  {
-    "translation": {
       "en": "Push in safety lock 3 and press On/Off switch 5 at the same time.",
       "nl": "Druk op de inschakelblokkering 3 en bedien de aan-/uit-schakelaar (5) in ingedrukte toestand."
     }
@@ -1023,12 +813,6 @@
     "translation": {
       "en": "Release safety lock 3.",
       "nl": "Laat de inschakelblokkering (3) los."
-    }
-  },
-  {
-    "translation": {
-      "en": "Stopping:",
-      "nl": "Uitschakelen:"
     }
   },
   {
@@ -1159,24 +943,6 @@
   },
   {
     "translation": {
-      "en": "After use replace the blade transport guard.",
-      "nl": "Breng de transportbescherming na gebruik weer aan."
-    }
-  },
-  {
-    "translation": {
-      "en": "Maintenance",
-      "nl": "Onderhoud"
-    }
-  },
-  {
-    "translation": {
-      "en": "Note: To ensure long and reliable service, carry out the following maintenance regularly.",
-      "nl": "Opmerking: Voer de volgende onderhoudswerkzaamheden regelmatig uit zodat u verzekerd bent van een lang en probleemloos gebruik."
-    }
-  },
-  {
-    "translation": {
       "en": "Check for obvious defects such as loose, dislodged or damaged blade, loose fixings and worn or damaged components.",
       "nl": "Controleer het gereedschap op zichtbare gebreken zoals een los, versleten of beschadigd schaarmes, losse bevestiging of versleten of beschadigde onderdelen."
     }
@@ -1197,18 +963,6 @@
     "translation": {
       "en": "If the machine should happen to fail despite the care taken in manufacturing and testing, repair should be carried out by an authorized customer service agent for Bosch garden products.",
       "nl": "Mocht de machine ondanks zeer zorgvuldige fabricage- en testmethoden toch defect raken, dient de reparatie door een erkende reparatieservice voor Bosch elektrisch gereedschap te worden uitgevoerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "For all correspondence and spare parts orders, always include the 10-digit part number (TYP) from the nameplate of the machine!",
-      "nl": "Vermeld bij vragen en bestellingen van vervangingsonderdelen altijd het bestelnummer van 10 cijfers van de machine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Blade Maintenance",
-      "nl": "Onderhoud van mes"
     }
   },
   {
@@ -1273,12 +1027,6 @@
   },
   {
     "translation": {
-      "en": "Fitting",
-      "nl": "Inzetten"
-    }
-  },
-  {
-    "translation": {
       "en": "Fit the blade as shown aligning the holes in the blade onto the drive pins",
       "nl": "Richt de uitsparingen van het mes zoals afgebeeld uit op de meeneempennen in het gereedschap en breng het mes aan."
     }
@@ -1309,12 +1057,6 @@
   },
   {
     "translation": {
-      "en": "Do not use water, solvents or polishes.",
-      "nl": "Gebruik geen water en geen oplos- of polijstmiddelen."
-    }
-  },
-  {
-    "translation": {
       "en": "Remove all debris, especially from the ventilation slots.",
       "nl": "Verwijder alle vuil, in het bijzonder van de ventilatieopeningen."
     }
@@ -1327,50 +1069,8 @@
   },
   {
     "translation": {
-      "en": "Do not place other objects on top of the machine.",
-      "nl": "Plaats geen andere voorwerpen op de machine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Transport",
-      "nl": "Transport"
-    }
-  },
-  {
-    "translation": {
-      "en": "The battery is tested in accordance with the UN Handbook ST/SG/AC.10/11/Rev.3 Part III, Subsection 38.3.",
-      "nl": "De accu is getest volgens UN-handboek ST/SG/ AC.10/1 1/Rev.3 deel III, paragraaf 38.3."
-    }
-  },
-  {
-    "translation": {
-      "en": "It has effective protection against internal overpressure and short circuiting as well as measures for prevention against forced rupture and dangerous reverse current.",
-      "nl": "De accu heeft een werkzame bescherming tegen inwendige overdruk en kortsluiting en voorzieningen ter voorkoming van breuk door geweld en gevaarlijke terugstroom."
-    }
-  },
-  {
-    "translation": {
       "en": "The lithium equivalent contents contained in the battery is below the spilling limit values.",
       "nl": "De in de accu aanwezige lithiumequivalentiehoeveelheid ligt onder de geldende grenswaarden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Therefore, the battery is not subject to the national and international regulations governing dangerous goods, neither as individual components nor when inserted into a machine.",
-      "nl": "Daarom zijn op de accu (als los onderdeel of in het gereedschap ingezet) geen nationale of internationale voorschriften voor gevaarlijke goederen van toepassing."
-    }
-  },
-  {
-    "translation": {
-      "en": "However, the Dangerous Goods Regulations can be relevant when transporting several batteries.",
-      "nl": "De voorschriften voor gevaarlijke goederen kunnen echter bij het vervoer van meerdere accu's relevant zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "In this case, it can be necessary to observe special conditions (e. g. for packaging).",
-      "nl": "Het kan in dit geval noodzakelijk zijn om bijzondere voorwaarden (bijvoorbeeld bij de verpakking) in acht te nemen."
     }
   },
   {
@@ -1381,38 +1081,8 @@
   },
   {
     "translation": {
-      "en": "Disposal",
-      "nl": "Afvalverwijdering"
-    }
-  },
-  {
-    "translation": {
       "en": "Power tools, accessories and packaging should be sorted for environmentally-friendly recycling.",
       "nl": "Elektrische gereedschappen, toebehoren en verpakkingen moeten op een voor het milieu verantwoorde wijze worden hergebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Only for EC countries:",
-      "nl": "Alleen voor landen van de EU:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not dispose of power tools into household waste!",
-      "nl": "Gooi elektrische gereedschappen niet bij het huisvuil."
-    }
-  },
-  {
-    "translation": {
-      "en": "According to the European Directive 2002/96/EC on waste electrical and electronic equipment and its incorporation into national law, products that are no longer suitable for use must be separately collected and sent for recovery in an environmentally-friendly manner.",
-      "nl": "Volgens de Europese richtlijn 2002/96/EG over elektrische en elektronische oude apparaten en de omzetting van de richtlijn in nationaal recht moeten niet meer bruikbare elektrische gereedschappen apart worden ingezameld en op een voor het milieu verantwoorde wijze worden hergebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Battery packs/batteries:",
-      "nl": "Accu's en batterijen:"
     }
   },
   {
@@ -1429,32 +1099,8 @@
   },
   {
     "translation": {
-      "en": "Do not dispose of battery packs/batteries into household waste, water or fire.",
-      "nl": "Gooi de accu's of batterijen niet bij het huisvuil en evenmin in het vuur of het water."
-    }
-  },
-  {
-    "translation": {
       "en": "Battery packs/batteries must be collected, recycled or disposed of in an environmentally-friendly way.",
       "nl": "Accu's en batterijen moeten worden ingezameld, gerecycled of op een voor het milieu verantwoorde wijze worden afgevoerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Only for EC countries:",
-      "nl": "Alleen voor landen van de EU:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Service",
-      "nl": "Klantenservice"
-    }
-  },
-  {
-    "translation": {
-      "en": "Exploded views and information on spare parts can be found under:",
-      "nl": "Explosietekeningen en informatie over vervangingsonderdelen vindt u op:"
     }
   },
   {
@@ -1483,12 +1129,6 @@
   },
   {
     "translation": {
-      "en": "The typical hand/arm vibration is below 2.5 m/s2.",
-      "nl": "Kenmerkend is dat de trillingen van hand en arm geringer zijn dan 2,5 m/s2."
-    }
-  },
-  {
-    "translation": {
       "en": "We declare under our sole responsibility that this product is in conformity with the following standards or standardized documents: EN 60 355, EN 60 745 according to the provisions of the directives 89/336/ EEC, 98/37/EC, 2000/14/EC.",
       "nl": "Wij verklaren op eigen verantwoording dat dit product voldoet aan de volgende normen en normatieve documenten: EN 60 355, EN 60 745 volgens de bepalingen van de richtlijnen 89/336/EEG, 98/37/EG en 2000/1 4/EG."
     }
@@ -1513,20 +1153,8 @@
   },
   {
     "translation": {
-      "en": "Dr. Egbert Schneider, Senior Vice President Engineering",
-      "nl": "Dr. Egbert Schneider, Senior Vice President Engineering"
-    }
-  },
-  {
-    "translation": {
       "en": "Dr. Eckerhard Strötgen, Head of Product Certification",
       "nl": "Dr. Eckerhard Strotgen, Head of Product Certification"
-    }
-  },
-  {
-    "translation": {
-      "en": "Subject to change without notice",
-      "nl": "Wijzigingen voorbehouden"
     }
   }
 ]

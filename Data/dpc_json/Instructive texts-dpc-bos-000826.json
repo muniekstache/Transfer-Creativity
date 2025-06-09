@@ -7,12 +7,6 @@
   },
   {
     "translation": {
-      "en": "Warning!",
-      "nl": "Let op!"
-    }
-  },
-  {
-    "translation": {
       "en": "Please keep the instructions safe for later use.",
       "nl": "Bewaar de gebruiksaanwijzing om deze later te kunnen raadplegen."
     }
@@ -27,12 +21,6 @@
     "translation": {
       "en": "General hazard safety alert.",
       "nl": "Algemene waarschuwing."
-    }
-  },
-  {
-    "translation": {
-      "en": "Read instruction manual.",
-      "nl": "Lees de gebruiksaanwijzing."
     }
   },
   {
@@ -105,12 +93,6 @@
     "translation": {
       "en": "* Never allow children or people unfamiliar with these instructions to use the lawnmower.",
       "nl": "* Laat kinderen of personen die deze voorschriften niet gelezen hebben de gazonmaaier nooit gebruiken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Local regulations may restrict the age of the operator.",
-      "nl": "In uw land gelden eventueel voorschriften ten aanzien van de leeftijd van de bediener."
     }
   },
   {
@@ -469,12 +451,6 @@
   },
   {
     "translation": {
-      "en": "There is a danger of explosion.",
-      "nl": "Er bestaat explosiegevaar."
-    }
-  },
-  {
-    "translation": {
       "en": "* In case of damage and improper use of the battery, vapours may be emitted.",
       "nl": "* Bij beschadiging en onjuist gebruik kunnen er dampen vrijkomen."
     }
@@ -519,12 +495,6 @@
     "translation": {
       "en": "This product is intended for domestic lawn mowing.",
       "nl": "Dit product is bestemd voor het maaien van gazons (uitsluitend particulier gebruik)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Introduction",
-      "nl": "Inleiding"
     }
   },
   {
@@ -601,12 +571,6 @@
   },
   {
     "translation": {
-      "en": "- Operating instructions",
-      "nl": "- Gebruiksaanwijzing"
-    }
-  },
-  {
-    "translation": {
       "en": "- Charger",
       "nl": "- Oplaadapparaat"
     }
@@ -625,20 +589,8 @@
   },
   {
     "translation": {
-      "en": "When parts are missing or damaged, please contact your dealer.",
-      "nl": "Neem contact op met uw leverancier wanneer onderdelen ontbreken of beschadigd zijn."
-    }
-  },
-  {
-    "translation": {
       "en": "* Product specific",
       "nl": "*Productspecifiek"
-    }
-  },
-  {
-    "translation": {
-      "en": "Operating Controls",
-      "nl": "Bestanddelen van de machine"
     }
   },
   {
@@ -789,24 +741,6 @@
     "translation": {
       "en": "**Country specific",
       "nl": "**verschilt per land"
-    }
-  },
-  {
-    "translation": {
-      "en": "Not all of the accessories illustrated or described are included as standard delivery.",
-      "nl": "In de gebruiksaanwijzing afgebeeld en beschreven toebehoren wordt niet altijd standaard meegeleverd."
-    }
-  },
-  {
-    "translation": {
-      "en": "For Your Safety",
-      "nl": "Voor uw veiligheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "Warning!",
-      "nl": "Let op!"
     }
   },
   {
@@ -1075,12 +1009,6 @@
   },
   {
     "translation": {
-      "en": "Assembly",
-      "nl": "Montage"
-    }
-  },
-  {
-    "translation": {
       "en": "Do not connect the battery and/or the isolator key before product is completely assembled.",
       "nl": "Breng de accu of de stroomkringonderbreker niet aan voordat de machine volledig gemonteerd is."
     }
@@ -1209,12 +1137,6 @@
     "translation": {
       "en": "Grassbox",
       "nl": "Grasbak"
-    }
-  },
-  {
-    "translation": {
-      "en": "Fitting",
-      "nl": "Inzetten"
     }
   },
   {
@@ -1429,24 +1351,6 @@
   },
   {
     "translation": {
-      "en": "During the charging procedure, the 3 green battery LEDs light up one after the other and briefly go out.",
-      "nl": "Tijdens het opladen gaan de drie groene LED's van de accu na elkaar branden en gaan deze gedurende korte tijd uit."
-    }
-  },
-  {
-    "translation": {
-      "en": "The battery is fully charged when the 3 green LEDs light up continuously.",
-      "nl": "De accu is volledig opgeladen als de drie groene LED's continu branden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Approx. 5 minutes after the battery has been fully charged, the 3 green LEDs go out again.",
-      "nl": "Ongeveer vijf minuten nadat de accu volledig is opgeladen, gaan de drie groene LED's weer uit."
-    }
-  },
-  {
-    "translation": {
       "en": "Temperature Control Indicator (see main figure)",
       "nl": "Indicatie voor temperatuurbewaking (zie hoofdafbeelding)"
     }
@@ -1587,12 +1491,6 @@
     "translation": {
       "en": "Blade Maintenance",
       "nl": "Onderhoud van mes"
-    }
-  },
-  {
-    "translation": {
-      "en": "Switch off, remove isolator key, battery and grassbox before adjusting or cleaning.",
-      "nl": "Verwijder altijd de stroomkringonderbreker, de accu en de grasvanger voordat u de machine instelt of schoonmaakt."
     }
   },
   {
@@ -1801,12 +1699,6 @@
   },
   {
     "translation": {
-      "en": "Only for EC countries:",
-      "nl": "Alleen voor landen van de EU:"
-    }
-  },
-  {
-    "translation": {
       "en": "Service",
       "nl": "Klantenservice"
     }
@@ -1851,12 +1743,6 @@
     "translation": {
       "en": "2000/14/EC: The guaranteed sound power level LWA is lower than 96 dB (A).",
       "nl": "2000/14/EG: Het gegarandeerde geluidsvermogenniveau LWA is lager dan 96 dB (A)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Conformity assessment procedure according to Annex VI.",
-      "nl": "Waarderingsmethode van de conformiteit volgens aanhangsel VI."
     }
   },
   {

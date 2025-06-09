@@ -139,12 +139,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Country-specific connection",
       "nl": "Aansluiting per land verschillend"
     }
@@ -397,12 +391,6 @@
   },
   {
     "translation": {
-      "en": "Please keep at safe distance!",
-      "nl": "Neem daarom een voldoende veiligheidsafstand in acht."
-    }
-  },
-  {
-    "translation": {
       "en": "Only insert as much material so that the feed funnel 1 will not be blocked up.",
       "nl": "Altijd slechts zoveel materiaal in de machine steken dat de vultrechter 1 niet verstopt raakt."
     }
@@ -535,18 +523,6 @@
   },
   {
     "translation": {
-      "en": "Longer material standing out from the machine could lash out when being pulled in by the knives!",
-      "nl": "Uit de machine stekend hakselmateriaal kan daarbij een slaande beweging maken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Please keep at safe distance!",
-      "nl": "Neem daarom een voldoende veiligheidsafstand in acht."
-    }
-  },
-  {
-    "translation": {
       "en": "Direction of rotation remains unchanged after switch-over:",
       "nl": "Draairichting na het omschakelen ongewijzigd:"
     }
@@ -651,12 +627,6 @@
     "translation": {
       "en": "We declare under our sole responsibility that this product is in conformity with the following standards or standardization documents:",
       "nl": "Wij verklaren op eigen verantwoording, dat dit product voldoet aan de volgende normen of normatieve documenten:"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   }
 ]

@@ -1,12 +1,6 @@
 [
   {
     "translation": {
-      "en": "Noise/Vibration Information",
-      "nl": "Informatie over geluid en trillingen"
-    }
-  },
-  {
-    "translation": {
       "en": "Measured values determined according to EN 50 144.",
       "nl": "Meetwaarden vastgesteld volgens EN 50 144."
     }
@@ -27,18 +21,6 @@
     "translation": {
       "en": "Wear hearing protection!",
       "nl": "Draag oorbeschermers."
-    }
-  },
-  {
-    "translation": {
-      "en": "The typical hand/arm vibration is below 2.5 m/s2.",
-      "nl": "Kenmerkend is dat de trillingen van hand en arm geringer zijn dan 2,5 m/s2."
-    }
-  },
-  {
-    "translation": {
-      "en": "Intended Use",
-      "nl": "Gebruik volgens bestemming"
     }
   },
   {
@@ -241,12 +223,6 @@
   },
   {
     "translation": {
-      "en": "For Your Safety",
-      "nl": "Voor uw veiligheid"
-    }
-  },
-  {
-    "translation": {
       "en": "Working safely with this machine is possible only when the operating and safety information are read completely and the instructions contained therein are strictly followed.",
       "nl": "Met de machine kan uitsluitend veilig worden gewerkt, wanneer u de gebruiksaanwijzing en de veiligheidsvoorschriften volledig leest en u zich strikt aan de gegeven aanwijzingen houdt."
     }
@@ -349,12 +325,6 @@
   },
   {
     "translation": {
-      "en": "A workpiece clamped with clamping devices or in a vice is held more secure than by hand.",
-      "nl": "Een met spanvoorzieningen of een bankschroef vastgehouden werkstuk wordt beter vastgehouden dan u met uw hand kunt doen."
-    }
-  },
-  {
-    "translation": {
       "en": "* The planer base blate 12 must lay flat on the surface when working.",
       "nl": "* Bij de werkzaamheden moet de schaafzool 12 vlak liggen."
     }
@@ -433,12 +403,6 @@
   },
   {
     "translation": {
-      "en": "Initial Operation",
-      "nl": "Ingebruikneming"
-    }
-  },
-  {
-    "translation": {
       "en": "Observe correct mains voltage: The voltage of the power source must agree with the voltage specified on the nameplate of the machine.",
       "nl": "Let op de netspanning: De spanning van de stroombron moet overeenkomen met de gegevens op het typeplaatje."
     }
@@ -447,12 +411,6 @@
     "translation": {
       "en": "Equipment marked with 230 V can also be connected to 220 V.",
       "nl": "Met 230 V aangeduide machines kunnen ook worden gebruikt met een spanning van 220 V."
-    }
-  },
-  {
-    "translation": {
-      "en": "Switching On and Off",
-      "nl": "In- en uitschakelen"
     }
   },
   {
@@ -811,26 +769,8 @@
   },
   {
     "translation": {
-      "en": "* Before any work on the machine itself, pull the mains plug.",
-      "nl": "* Trek altijd voor werkzaamheden aan de machine de stekker uit het stopcontact."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Before any work on the machine itself, pull the mains plug.",
-      "nl": "* Trek altijd voor werkzaamheden aan de machine de stekker uit het stopcontact."
-    }
-  },
-  {
-    "translation": {
       "en": "The machine, accessories and packaging should be sorted for environmental-friendly recycling.",
       "nl": "Machine, toebehoren en verpakking moeten op een voor het milieu verantwoorde manier worden hergebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "These instructions are printed on recycled paper manufactured without chlorine.",
-      "nl": "Deze gebruiksaanwijzing is vervaardigd van chloorvrij gebleekt kringlooppapier."
     }
   },
   {
@@ -843,18 +783,6 @@
     "translation": {
       "en": "We declare under our sole responsibility that this product is in conformity with the following standards or standardization documents: EN 50 144 according to the provisions of the directives 89/336/EEC, 98/37/EC.",
       "nl": "Wij verklaren op eigen verantwoording dat dit product voldoet aan de volgende normen en normatieve documenten: EN 50 144 volgens de bepalingen van de richtlijnen 89/336/EEG, 98/37/EG."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dr. Egbert Schneider, Senior Vice President Engineering",
-      "nl": "Dr. Egbert Schneider, Senior Vice President Engineering"
-    }
-  },
-  {
-    "translation": {
-      "en": "Subject to change without notice",
-      "nl": "Wijzigingen voorbehouden"
     }
   }
 ]

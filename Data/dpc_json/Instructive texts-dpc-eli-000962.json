@@ -1,44 +1,14 @@
 [
   {
     "translation": {
-      "en": "ANNEX I",
-      "nl": "BIJLAGE I"
-    }
-  },
-  {
-    "translation": {
-      "en": "SUMMARY OF PRODUCT CHARACTERISTICS",
-      "nl": "SAMENVATTING VAN DE PRODUCTKENMERKEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. NAAM VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
       "en": "BYETTA 5 micrograms solution for injection, prefilled pen",
       "nl": "BYETTA, 5 microgram, oplossing voor injectie, voorgevulde pen"
     }
   },
   {
     "translation": {
-      "en": "2. QUALITATIVE AND QUANTITATIVE COMPOSITION",
-      "nl": "2. KWALITATIEVE EN KWANTITATIEVE SAMENSTELLING"
-    }
-  },
-  {
-    "translation": {
       "en": "Each dose contains 5 micrograms(tg) synthetic exenatide in 20 microlitres(tl), (0.25 mg exenatide per ml).",
       "nl": "Elke dosis bevat 5 microgram (j.tg) synthetische exenatide in 20 microliter (j.tl), (0,25 mg exenatide per ml)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Excipients:",
-      "nl": "Hulpstoffen:"
     }
   },
   {
@@ -55,18 +25,6 @@
   },
   {
     "translation": {
-      "en": "For a full list of excipients, see section 6.1.",
-      "nl": "Voor een volledige lijst van hulpstoffen, zie rubriek 6.1."
-    }
-  },
-  {
-    "translation": {
-      "en": "3. PHARMACEUTICAL FORM",
-      "nl": "3. FARMACEUTISCHE VORM"
-    }
-  },
-  {
-    "translation": {
       "en": "Solution for injection, pre-filled pen.",
       "nl": "Oplossing voor injectie, voorgevulde pen."
     }
@@ -79,26 +37,8 @@
   },
   {
     "translation": {
-      "en": "4. CLINICAL PARTICULARS",
-      "nl": "4. KLINISCHE GEGEVENS"
-    }
-  },
-  {
-    "translation": {
-      "en": "4.1 Therapeutic indications",
-      "nl": "4.1 Therapeutische indicaties"
-    }
-  },
-  {
-    "translation": {
       "en": "BYETTA is indicated for treatment of type 2 diabetes mellitus in combination with metformin, and/or sulphonylureas in patients who have not achieved adequate glycaemic control on maximally tolerated doses of these oral therapies.",
       "nl": "BYETTA is geïndiceerd voor de behandeling van diabetes mellitus type 2 in combinatie met metformine en/of een sulfonylureumderivaat bij patiënten bij wie geen adequate glykemische controle werd bereikt bij maximaal verdraagbare doseringen van deze orale behandelingen."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.2 Posology and method of administration",
-      "nl": "4.2 Dosering en wijze van toediening"
     }
   },
   {
@@ -193,12 +133,6 @@
   },
   {
     "translation": {
-      "en": "Elderly",
-      "nl": "Ouderen"
-    }
-  },
-  {
-    "translation": {
       "en": "The clinical experience in patients >75 years is very limited.",
       "nl": "De klinische ervaring met patiënten ouder dan 75 jaar is erg beperkt."
     }
@@ -241,32 +175,8 @@
   },
   {
     "translation": {
-      "en": "Children and adolescents",
-      "nl": "Kinderen en adolescenten"
-    }
-  },
-  {
-    "translation": {
       "en": "There is no experience in children and adolescents below 18 years.",
       "nl": "Er is geen ervaring bij kinderen en adolescenten jonger dan 18 jaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.3 Contraindications",
-      "nl": "4.3 Contra-indicaties"
-    }
-  },
-  {
-    "translation": {
-      "en": "Hypersensitivity to the active substance or to any of the excipients.",
-      "nl": "Overgevoeligheid voor het werkzame bestanddeel of voor één van de hulpstoffen."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.4 Special warnings and precautions for use",
-      "nl": "4.4 Bijzondere waarschuwingen en voorzorgen bij gebruik"
     }
   },
   {
@@ -375,18 +285,6 @@
     "translation": {
       "en": "Specific recommendations regarding intake of such medicinal products in relation to BYETTA is given in section 4.5.",
       "nl": "Specifieke aanbevelingen betreffende de inname van deze geneesmiddelen in relatie tot BYETTA worden gegeven in rubriek 4.5."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.5 Interaction with other medicinal products and other forms of interaction",
-      "nl": "4.5 Interacties met andere geneesmiddelen en andere vormen van interactie"
-    }
-  },
-  {
-    "translation": {
-      "en": "The effect of BYETTA to slow gastric emptying may reduce the extent and rate of absorption of orally administered medicinal products.",
-      "nl": "Het vertragende effect van BYETTA op de maaglediging kan de mate en snelheid van de absorptie van oraal toegediende geneesmiddelen verminderen."
     }
   },
   {
@@ -523,12 +421,6 @@
   },
   {
     "translation": {
-      "en": "4.6 Pregnancy and lactation",
-      "nl": "4.6 Zwangerschap en borstvoeding"
-    }
-  },
-  {
-    "translation": {
       "en": "There are no adequate data from the use of BYETTA in pregnant women.",
       "nl": "Er zijn geen toereikende gegevens over het gebruik van BYETTA bij zwangere vrouwen."
     }
@@ -537,12 +429,6 @@
     "translation": {
       "en": "Studies in animals have shown reproductive toxicity (see section 5.3).",
       "nl": "Uit experimenteel onderzoek bij dieren is reproductietoxiciteit gebleken (zie 5.3)."
-    }
-  },
-  {
-    "translation": {
-      "en": "The potential risk for humans is unknown.",
-      "nl": "Het potentiële risico voor de mens is niet bekend."
     }
   },
   {
@@ -571,12 +457,6 @@
   },
   {
     "translation": {
-      "en": "4.7 Effects on ability to drive and use machines",
-      "nl": "4.7 Beïnvloeding van de rijvaardigheid en het vermogen om machines te bedienen"
-    }
-  },
-  {
-    "translation": {
       "en": "No studies on the effects on the ability to drive and use machines have been performed.",
       "nl": "Er zijn geen onderzoeken uitgevoerd naar de effecten op de rijvaardigheid en het vermogen om machines te bedienen."
     }
@@ -585,12 +465,6 @@
     "translation": {
       "en": "When BYETTA is used in combination with a sulphonylurea, patients should be advised to take precautions to avoid hypoglycaemia while driving and using machines.",
       "nl": "Wanneer BYETTA wordt gebruikt in combinatie met een sulfonylureumderivaat moet patiënten worden geadviseerd voorzorgen te nemen om hypoglykemie tij dens het besturen van voertuigen/deelname aan het verkeer en het gebruik van machines te voorkomen."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.8 Undesirable effects",
-      "nl": "4.8 Bijwerkingen"
     }
   },
   {
@@ -625,18 +499,6 @@
   },
   {
     "translation": {
-      "en": "[[TABLE]]",
-      "nl": "[[TABLE]]"
-    }
-  },
-  {
-    "translation": {
-      "en": "Hypoglycaemia",
-      "nl": "Hypoglykemie"
-    }
-  },
-  {
-    "translation": {
       "en": "In studies in patients treated with BYETTA and a sulphonylurea (with or without metformin), the incidence of hypoglycaemia was increased compared to placebo (23.5 % and 25.2 % versus 12.6 % and 3.3 %) and appeared to be dependent on the doses of both BYETTA and the sulphonylurea.",
       "nl": "In onderzoek met patiënten die behandeld werden met BYETTA en een sulfonylureumderivaat (met of zonder metformine), was het optreden van hypoglykemie toegenomen in vergelijking tot placebo (23,5% en 25,2% versus 12,6% en 3,3%) en bleek afhankelijk van de dosering van zowel BYETTA als het sulfonylureum."
     }
@@ -645,12 +507,6 @@
     "translation": {
       "en": "Most episodes of hypoglycaemia were mild to moderate in intensity, and all resolved with oral administration of carbohydrate.",
       "nl": "De meeste episodes van hypoglykemie waren licht tot matig in intensiteit en alle verdwenen na orale toediening van carbohydraat."
-    }
-  },
-  {
-    "translation": {
-      "en": "Nausea",
-      "nl": "Misselijkheid"
     }
   },
   {
@@ -717,12 +573,6 @@
     "translation": {
       "en": "These reactions have usually been mild and usually did not result in discontinuation of BYETTA.",
       "nl": "Deze reacties waren doorgaans licht van aard en leidden gewoonlijk niet tot stopzetting van BYETTA."
-    }
-  },
-  {
-    "translation": {
-      "en": "Immunogenicity",
-      "nl": "Immunogeniciteit"
     }
   },
   {
@@ -841,12 +691,6 @@
   },
   {
     "translation": {
-      "en": "4.9 Overdose",
-      "nl": "4.9 Overdosering"
-    }
-  },
-  {
-    "translation": {
       "en": "Signs and symptoms of overdose may include severe nausea, severe vomiting and rapidly declining blood glucose concentrations.",
       "nl": "Klachten en verschijnselen van een overdosis kunnen onder meer zijn ernstige misselijkheid, ernstig braken en snel dalende bloedglucoseconcentraties."
     }
@@ -855,18 +699,6 @@
     "translation": {
       "en": "In the event of overdose, appropriate supportive treatment (possibly given parenterally) should be initiated according to the patient's clinical signs and symptoms.",
       "nl": "In geval van een overdosis moet de aangewezen ondersteunende behandeling (mogelijk parenteraal) worden gestart afhankelijk van de klinische klachten en verschijnselen van de patiënt."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. PHARMACOLOGICAL PROPERTIES",
-      "nl": "5. FARMACOLOGISCHE EIGENSCHAPPEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "5.1 Pharmacodynamic properties",
-      "nl": "5.1 Farmacodynamische eigenschappen"
     }
   },
   {
@@ -937,12 +769,6 @@
   },
   {
     "translation": {
-      "en": "Pharmacodynamic effects",
-      "nl": "Farmacodynamische effecten"
-    }
-  },
-  {
-    "translation": {
       "en": "BYETTA improves glycaemic control through the immediate and sustained effects of lowering both postprandial and fasting glucose concentrations in patients with type 2 diabetes.",
       "nl": "BYETTA verbetert de glykemische controle door middel van de onmiddellijke en langdurige effecten van verlaging van zowel de postprandiale als nuchtere glucoseconcentraties bij patiënten met type 2 diabetes."
     }
@@ -981,12 +807,6 @@
     "translation": {
       "en": "The reduction in HbA1c was sustained and the weight loss continued for at least 82 weeks in the subset of 10 j.tg BID patients completing both the placebo-controlled studies and the uncontrolled study extensions (n=137).",
       "nl": "In de groep van patiënten met 10 j.tg tweemaal daags die beide placebogecontroleerde onderzoeken en de niet¬gecontroleerde extensie voltooiden (n = 137) hield de daling van HbA1c aan en bleef het gewichtsverlies doorgaan gedurende ten minste 82 weken."
-    }
-  },
-  {
-    "translation": {
-      "en": "[[TABLE]]",
-      "nl": "[[TABLE]]"
     }
   },
   {
@@ -1105,18 +925,6 @@
   },
   {
     "translation": {
-      "en": "5.2 Pharmacokinetic properties",
-      "nl": "5.2 Farmacokinetische eigenschappen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Absorption",
-      "nl": "Absorptie"
-    }
-  },
-  {
-    "translation": {
       "en": "Exenatide exposure increased proportionally over the therapeutic dose range of 5 \\u03bc g to 10 \\u03bc g. Similar exposure is achieved with subcutaneous administration of exenatide in the abdomen, thigh, or arm.",
       "nl": "Blootstelling aan exenatide nam proportioneel toe binnen het therapeutische dosisbereik van 5 \\u03bc g tot 10 \\u03bc g. Een vergelijkbare blootstelling wordt bereikt met subcutane toediening van exenatide in de buik, dij of arm."
     }
@@ -1149,12 +957,6 @@
     "translation": {
       "en": "Special populations",
       "nl": "Speciale bevolkingsgroepen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Patients with renal impairment",
-      "nl": "Patiënten met nierinsufficiëntie"
     }
   },
   {
@@ -1201,12 +1003,6 @@
   },
   {
     "translation": {
-      "en": "Elderly",
-      "nl": "Ouderen"
-    }
-  },
-  {
-    "translation": {
       "en": "Data in elderly are limited, but suggest no marked changes in exenatide exposure with increased age up to about 75 years old.",
       "nl": "Gegevens bij ouderen zijn beperkt, maar duiden niet op opvallende veranderingen in blootstelling aan exenatide bij een hogere leeftijd tot ongeveer 75 jaar."
     }
@@ -1219,20 +1015,8 @@
   },
   {
     "translation": {
-      "en": "Children and adolescents",
-      "nl": "Kinderen en adolescenten"
-    }
-  },
-  {
-    "translation": {
       "en": "Pharmacokinetics of exenatide has not been investigated in children and adolescents below 18 years of age.",
       "nl": "De farmacokinetiek van exenatide is niet onderzocht bij kinderen en adolescenten jonger dan 18 jaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "5.3 Preclinical safety data",
-      "nl": "5.3 Gegevens uit het preklinisch veiligheidsonderzoek"
     }
   },
   {
@@ -1273,18 +1057,6 @@
   },
   {
     "translation": {
-      "en": "6. PHARMACEUTICAL PARTICULARS",
-      "nl": "6. FARMACEUTISCHE GEGEVENS"
-    }
-  },
-  {
-    "translation": {
-      "en": "6.1 List of excipients",
-      "nl": "6.1 Lijst van hulpstoffen"
-    }
-  },
-  {
-    "translation": {
       "en": "metacresol",
       "nl": "metacresol"
     }
@@ -1309,26 +1081,8 @@
   },
   {
     "translation": {
-      "en": "6.2 Incompatibilities",
-      "nl": "6.2 Gevallen van onverenigbaarheid"
-    }
-  },
-  {
-    "translation": {
       "en": "This medicinal product must not be mixed with other medicinal products.",
       "nl": "Dit geneesmiddel mag niet worden gemengd met andere geneesmiddelen."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.3 Shelf life",
-      "nl": "6.3 Houdbaarheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "2 years.",
-      "nl": "2 jaar."
     }
   },
   {
@@ -1339,20 +1093,8 @@
   },
   {
     "translation": {
-      "en": "6.4 Special precautions for storage",
-      "nl": "6.4 Speciale voorzorgsmaatregelen bij bewaren"
-    }
-  },
-  {
-    "translation": {
       "en": "Store in a refrigerator (2 °C - 8 °C).",
       "nl": "Bewaren in de koelkast (2 °C -- 8 °C)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not freeze.",
-      "nl": "Niet in de vriezer bewaren."
     }
   },
   {
@@ -1383,12 +1125,6 @@
     "translation": {
       "en": "Replace cap on pen in order to protect from light.",
       "nl": "Plaats de dop terug op de pen om te beschermen tegen licht."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.5 Nature and contents of container",
-      "nl": "6.5 Aard en inhoud van de verpakking"
     }
   },
   {
@@ -1489,20 +1225,8 @@
   },
   {
     "translation": {
-      "en": "7. MARKETING AUTHORISATION HOLDER",
-      "nl": "7. HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "Eli Lilly Nederland B.V., Grootslag 1-5, NL-3991 RA Houten, The Netherlands.",
       "nl": "Eli Lilly Nederland B.V., Grootslag 1-5, NL-3991 RA Houten, Nederland."
-    }
-  },
-  {
-    "translation": {
-      "en": "8. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "8. NUMMER(S) VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
     }
   },
   {
@@ -1519,26 +1243,8 @@
   },
   {
     "translation": {
-      "en": "10. DATE OF REVISION OF THE TEXT",
-      "nl": "10. DATUM VAN HERZIENING VAN DE TEKST"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. NAAM VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
       "en": "BYETTA 10 micrograms solution for injection, prefilled pen",
       "nl": "BYETTA, 10 microgram, oplossing voor injectie, voorgevulde pen"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. QUALITATIVE AND QUANTITATIVE COMPOSITION",
-      "nl": "2. KWALITATIEVE EN KWANTITATIEVE SAMENSTELLING"
     }
   },
   {
@@ -1549,242 +1255,8 @@
   },
   {
     "translation": {
-      "en": "Excipients:",
-      "nl": "Hulpstoffen:"
-    }
-  },
-  {
-    "translation": {
       "en": "Each dose contains 88 j.tg metacresol.",
       "nl": "Elke dosis bevat 88 j.tg metacresol."
-    }
-  },
-  {
-    "translation": {
-      "en": "This medicinal product contains less than 1mmol sodium per dose, i.e. essentially \"sodium-free\".",
-      "nl": "Dit geneesmiddel bevat minder dan 1 mmol natrium per dosis, d.w.z. in essentie \"natrium-vrij\"."
-    }
-  },
-  {
-    "translation": {
-      "en": "For a full list of excipients, see section 6.1.",
-      "nl": "Voor een volledige lijst van hulpstoffen, zie rubriek 6.1."
-    }
-  },
-  {
-    "translation": {
-      "en": "3. PHARMACEUTICAL FORM",
-      "nl": "3. FARMACEUTISCHE VORM"
-    }
-  },
-  {
-    "translation": {
-      "en": "Solution for injection, pre-filled pen.",
-      "nl": "Oplossing voor injectie, voorgevulde pen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Clear, colourless solution.",
-      "nl": "Heldere, kleurloze oplossing."
-    }
-  },
-  {
-    "translation": {
-      "en": "4. CLINICAL PARTICULARS",
-      "nl": "4. KLINISCHE GEGEVENS"
-    }
-  },
-  {
-    "translation": {
-      "en": "4.1 Therapeutic indications",
-      "nl": "4.1 Therapeutische indicaties"
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA is indicated for treatment of type 2 diabetes mellitus in combination with metformin, and/or sulphonylureas in patients who have not achieved adequate glycaemic control on maximally tolerated doses of these oral therapies.",
-      "nl": "BYETTA is geïndiceerd voor de behandeling van diabetes mellitus type 2 in combinatie met metformine en/of een sulfonylureumderivaat bij patiënten bij wie geen adequate glykemische controle werd bereikt bij maximaal verdraagbare doseringen van deze orale behandelingen."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.2 Posology and method of administration",
-      "nl": "4.2 Dosering en wijze van toediening"
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA therapy should be initiated at 5 tg exenatide per dose administered twice daily (BID) for at least one month in order to improve tolerability.",
-      "nl": "Ter verbetering van de verdraagbaarheid dient behandeling met BYETTA te worden gestart met 5 tg exenatide per dosis tweemaal daags gedurende ten minste één maand."
-    }
-  },
-  {
-    "translation": {
-      "en": "The dose of exenatide can then be increased to 10 tg BID to further improve glycaemic control.",
-      "nl": "De dosis van exenatide kan voor verdere verbetering van de glykemische controle vervolgens worden verhoogd tot 10 tg tweemaal daags."
-    }
-  },
-  {
-    "translation": {
-      "en": "Doses higher than 10j.tg BID are not recommended.",
-      "nl": "Doseringen hoger dan 10 tg tweemaal daags worden niet aanbevolen."
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA is available as either a 5 j.tg or a 10 j.tg exenatide per dose pre-filled pen.",
-      "nl": "BYETTA is zowel beschikbaar als een 5 tg of een 10 tg exenatide per dosis voorgevulde pen."
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA can be administered at any time within the 60-minute period before the morning and evening meal (or two main meals of the day, approximately 6 hours or more apart).",
-      "nl": "BYETTA kan worden toegediend op elk gewenst moment binnen de 60 minuten voorafgaand aan de ochtend- en avondmaaltijd (of de twee hoofdmaaltij den, met daartussen een interval van ongeveer 6 uur of langer)."
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA should not be administered after a meal.",
-      "nl": "BYETTA mag niet na een maaltijd worden toegediend."
-    }
-  },
-  {
-    "translation": {
-      "en": "If an injection is missed, the treatment should be continued with the next scheduled dose.",
-      "nl": "Als er een injectie is vergeten, dient de behandeling met de volgende geplande dosis te worden voortgezet."
-    }
-  },
-  {
-    "translation": {
-      "en": "Each dose should be administered as a subcutaneous injection in the thigh, abdomen, or upper arm.",
-      "nl": "Elke dosis moet subcutaan in de dij, buik of bovenarm worden geïnjecteerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA is recommended for use in patients with type 2 diabetes mellitus who are already receiving metformin and/or a sulphonylurea.",
-      "nl": "BYETTA wordt aanbevolen voor gebruik door patiënten met diabetes mellitus type 2 die al metformine en/of een sulfonylureumderivaat krijgen."
-    }
-  },
-  {
-    "translation": {
-      "en": "When BYETTA is added to existing metformin therapy, the current dose of metformin can be continued as no increased risk of hypoglycaemia is anticipated, compared to metformin alone.",
-      "nl": "Wanneer BYETTA wordt toegevoegd aan behandeling met metformine, kan de huidige dosis metformine worden voortgezet aangezien geen verhoogd risico van hypoglykemie wordt verwacht in vergelijking met metformine alleen."
-    }
-  },
-  {
-    "translation": {
-      "en": "When BYETTA is added to sulphonylurea therapy, a reduction in the dose of sulphonylurea should be considered to reduce the risk of hypoglycaemia (see section 4.4.).",
-      "nl": "Wanneer BYETTA wordt toegevoegd aan behandeling met een sulfonylureumderivaat, moet een verlaging van de dosis sulfonylureumderivaat worden overwogen om het risico van hypoglykemie te verlagen (zie rubriek 4.4.)."
-    }
-  },
-  {
-    "translation": {
-      "en": "The dose of BYETTA does not need to be adjusted on a day-by-day basis depending on self-monitored glycaemia.",
-      "nl": "De dosering van BYETTA hoeft niet dagelijks aangepast te worden op basis van zelfcontrole van bloedglucosewaarden."
-    }
-  },
-  {
-    "translation": {
-      "en": "However, blood glucose self-monitoring may become necessary to adjust the dose of sulphonylureas.",
-      "nl": "Echter, het zelf meten van de bloedglucose kan nodig zijn om de dosering van het sulfonylureumderivaat aan te passen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Limited experience exists concerning the combination of BYETTA with thiazolidinediones (see section 5.1).",
-      "nl": "Er is beperkte ervaring met de combinatie van BYETTA met thiazolidinedionen (zie rubriek 5.1)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Specific patient groups",
-      "nl": "Specifieke patiëntgroepen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Elderly",
-      "nl": "Ouderen"
-    }
-  },
-  {
-    "translation": {
-      "en": "The clinical experience in patients >75 years is very limited.",
-      "nl": "De klinische ervaring met patiënten ouder dan 75 jaar is erg beperkt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Patients with renal impairment",
-      "nl": "Patiënten met nierinsufficiëntie"
-    }
-  },
-  {
-    "translation": {
-      "en": "No dosage adjustment of BYETTA is necessary in patients with mild renal impairment (creatinine clearance 50 -- 80 ml/min).",
-      "nl": "Er is geen doseringsaanpassing van BYETTA noodzakelijk voor patiënten met lichte nierinsufficiëntie (creatinineklaring 5 0-80 ml/min)."
-    }
-  },
-  {
-    "translation": {
-      "en": "In patients with moderate renal impairment (creatinine clearance:30-50 ml/min), dose escalation from 5 j.tg to 10 j.tg should proceed conservatively (see section 5.2).",
-      "nl": "Bij patiënten met matige nierinsufficiëntie (creatinineklaring : 30-50 ml/min) moet de dosisverhoging van 5 j.tg naar 10 j.tg voorzichtig worden uitgevoerd (zie rubriek 5.2)."
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA is not recommended for use in patients with end-stage renal disease or severe renal impairment (creatinine clearance <30 ml/min) (see section 4.4).",
-      "nl": "BYETTA wordt niet aanbevolen voor gebruik door patiënten met terminale nierziekte of ernstige nierinsufficiëntie (creatinineklaring < 30 ml/min) (zie rubriek 4.4)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Patients with hepatic impairment",
-      "nl": "Patiënten met leverfunctiestoornis"
-    }
-  },
-  {
-    "translation": {
-      "en": "No dosage adjustment of BYETTA is necessary in patients with hepatic impairment (see section 5.2).",
-      "nl": "Er is geen doseringsaanpassing van BYETTA nodig bij patiënten met leverfunctiestoornis (zie rubriek 5.2)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Children and adolescents",
-      "nl": "Kinderen en adolescenten"
-    }
-  },
-  {
-    "translation": {
-      "en": "There is no experience in children and adolescents below 18 years.",
-      "nl": "Er is geen ervaring bij kinderen en adolescenten jonger dan 18 jaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.3 Contraindications",
-      "nl": "4.3 Contra-indicaties"
-    }
-  },
-  {
-    "translation": {
-      "en": "Hypersensitivity to the active substance or to any of the excipients.",
-      "nl": "Overgevoeligheid voor het werkzame bestanddeel of voor één van de hulpstoffen."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.4 Special warnings and precautions for use",
-      "nl": "4.4 Bijzondere waarschuwingen en voorzorgen bij gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA should not be used in patients with type 1 diabetes mellitus or for the treatment of diabetic ketoacidosis.",
-      "nl": "BYETTA mag niet worden gebruikt door patiënten met type 1 diabetes mellitus of voor de behandeling van diabetische ketoacidose."
     }
   },
   {
@@ -1795,146 +1267,8 @@
   },
   {
     "translation": {
-      "en": "Intravenous or intramuscular injection of BYETTA is not recommended.",
-      "nl": "Intraveneuze of intramusculaire injectie van BYETTA wordt niet aanbevolen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The clinical experience in patients with moderate renal impairment is very limited.",
-      "nl": "De klinische ervaring bij patiënten met matige nierinsufficiëntie is erg beperkt."
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA has not been studied in patients with severe gastrointestinal disease, including gastroparesis.",
-      "nl": "BYETTA is niet onderzocht bij patiënten met ernstige ziekte van het maagdarmstelsel, waaronder gastroparese."
-    }
-  },
-  {
-    "translation": {
-      "en": "Its use is commonly associated with gastrointestinal adverse reactions, including nausea, vomiting, and diarrhoea.",
-      "nl": "Het gebruik van BYETTA gaat vaak gepaard met gastro-intestinale bijwerkingen, waaronder misselijkheid, braken en diarree."
-    }
-  },
-  {
-    "translation": {
-      "en": "Therefore, the use of BYETTA is not recommended in patients with severe gastrointestinal disease.",
-      "nl": "Daarom wordt het gebruik van BYETTA niet aanbevolen bij patiënten met ernstige gastro-intestinale ziekte."
-    }
-  },
-  {
-    "translation": {
-      "en": "The concurrent use of BYETTA with insulin, D-phenylalanine derivatives, meglitinides, or alpha-glucosidase inhibitors has not been studied and cannot be recommended.",
-      "nl": "Het gelijktijdige gebruik van BYETTA met insuline, derivaten van D-fenylalanine, meglitiniden of alfaglucosidaseremmers is niet onderzocht en kan niet worden aanbevolen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The experience in patients with BMI \"25 is limited.",
-      "nl": "De ervaring bij patiënten met BMI \"25 is beperkt."
-    }
-  },
-  {
-    "translation": {
-      "en": "This medicinal product contains metacresol, which may cause allergic reactions.",
-      "nl": "Dit geneesmiddel bevat metacresol, wat allergische reacties kan veroorzaken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hypoglycaemia",
-      "nl": "Hypoglykemie"
-    }
-  },
-  {
-    "translation": {
-      "en": "When BYETTA was used in combination with a sulphonylurea, the incidence of hypoglycaemia was increased over that of placebo in combination with a sulphonylurea.",
-      "nl": "Bij gebruik van BYETTA in combinatie met een sulfonylureumderivaat was de incidentie van hypoglykemie hoger dan bij placebo in combinatie met een sulfonylureumderivaat."
-    }
-  },
-  {
-    "translation": {
-      "en": "In the clinical studies patients on a sulphonylurea combination, with mild renal impairment had an increased incidence of hypoglycaemia compared to patients with normal renal function.",
-      "nl": "In klinische studies hadden patiënten met lichte nierinsufficiëntie die een combinatie met een sulfonylureumderivaat kregen, een verhoogd optreden van hypoglykemie vergeleken met patiënten met een normale nierfunctie."
-    }
-  },
-  {
-    "translation": {
-      "en": "To reduce the risk of hypoglycaemia associated with the use of a sulphonylurea, reduction in the dose of sulphonylurea should be considered.",
-      "nl": "Om het risico van hypoglykemie bij gebruik van een sulfonylureumderivaat te verlagen, dient verlaging van de dosis van het sulfonylureumderivaat te worden overwogen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Interactions",
-      "nl": "Interacties"
-    }
-  },
-  {
-    "translation": {
-      "en": "The effect of BYETTA to slow gastric emptying may reduce the extent and rate of absorption of orally administered medicinal products.",
-      "nl": "Het vertragende effect van BYETTA op de maaglediging kan de mate en snelheid van de absorptie van oraal toegediende geneesmiddelen verminderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA should be used with caution in patients receiving oral medicinal products that require rapid gastrointestinal absorption and medicinal products with a narrow therapeutic ratio.",
-      "nl": "BYETTA dient voorzichtig te worden gebruikt bij patiënten die orale geneesmiddelen krijgen waarvoor snelle gastro-intestinale absorptie noodzakelijk is en geneesmiddelen met een smalle therapeutische ratio."
-    }
-  },
-  {
-    "translation": {
-      "en": "Specific recommendations regarding intake of such medicinal products in relation to BYETTA is given in section 4.5.",
-      "nl": "Specifieke aanbevelingen betreffende de inname van deze geneesmiddelen in relatie tot BYETTA worden gegeven in rubriek 4.5."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.5 Interaction with other medicinal products and other forms of interaction",
-      "nl": "4.5 Interacties met andere geneesmiddelen en andere vormen van interactie"
-    }
-  },
-  {
-    "translation": {
-      "en": "The effect of BYETTA to slow gastric emptying may reduce the extent and rate of absorption of orally administered medicinal products.",
-      "nl": "Het vertragende effect van BYETTA op de maaglediging kan de mate en snelheid van de absorptie van oraal toegediende geneesmiddelen verminderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Patients receiving medicinal products of either a narrow therapeutic ratio or medicinal products that require careful clinical monitoring should be followed closely.",
-      "nl": "Patiënten die geneesmiddelen krijgen met een smalle therapeutische ratio of geneesmiddelen die zorgvuldige klinische controle vereisen, moeten nauwlettend worden gevolgd."
-    }
-  },
-  {
-    "translation": {
-      "en": "These medicinal products should be taken in a standardised way in relation to BYETTA injection.",
-      "nl": "Deze geneesmiddelen dienen op een gestandaardiseerde manier te worden ingenomen in relatie tot de BYETTA-injectie."
-    }
-  },
-  {
-    "translation": {
-      "en": "If such medicinal products are to be administered with food, patients should be advised to, if possible, take them with a meal when BYETTA is not administered.",
-      "nl": "Als dergelijke geneesmiddelen met voedsel moeten worden ingenomen, moet patiënten worden geadviseerd deze, indien mogelijk, in te nemen met een maaltijd waarbij BYETTA niet wordt toegediend."
-    }
-  },
-  {
-    "translation": {
       "en": "For oral medicinal products that are particularly dependent on threshold concentrations for efficacy, such as contraceptives and antibiotics, patients should be advised to take those medicinal products at least 1 hour before BYETTA injection.",
       "nl": "Voor orale geneesmiddelen die voor de werkzaamheid hoofdzakelijk afhankelijk zijn van drempelconcentraties, zoals anticonceptiva en antibiotica, moeten patiënten worden geadviseerd deze geneesmiddelen ten minste 1 uur voor de BYETTA-injectie in te nemen."
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA is not expected to have any clinically relevant effects on the pharmacokinetics of metformin or sulphonylureas.",
-      "nl": "Het is niet aannemelijk dat BYETTA enig klinisch relevant effect heeft op de farmacokinetiek van metformine of sulfonylureumderivaten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hence no restriction in timing of intake of these medicinal products in relation to BYETTA injection are needed.",
-      "nl": "Daarom is er geen beperking nodig van het tijdstip waarop deze geneesmiddelen dienen te worden ingenomen in relatie tot de BYETTA-injectie."
     }
   },
   {
@@ -1945,134 +1279,8 @@
   },
   {
     "translation": {
-      "en": "Paracetamol",
-      "nl": "Paracetamol"
-    }
-  },
-  {
-    "translation": {
-      "en": "Paracetamol was used as a model medicinal product to evaluate the effect of exenatide on gastric emptying.",
-      "nl": "Paracetamol werd gebruikt als een modelgeneesmiddel voor de beoordeling van het effect van exenatide op de maaglediging."
-    }
-  },
-  {
-    "translation": {
-      "en": "When 1000mg paracetamol was given with 10 µg BYETTA (0 h) and 1h, 2h and 4h after BYETTA injection, paracetamol AUCs were decreased by 21 %, 23 %, 24 % and 14 % respectively; Cmax was decreased by 37 %, 56 %, 54 % and 41 %, respectively; tmax was increased from 0.6h in the control period to 0.9h, 4.2h, 3.3h, and 1 .6h, respectively.",
-      "nl": "Wanneer 1000 mg paracetamol werd toegediend met 10 µg BYETTA (0 uur) en 1 uur, 2 uur en 4 uur na injectie van BYETTA, nam de AUC van paracetamol af met respectievelijk 21%, 23%, 24% en 14%, daalde de Cmax met respectievelijk 37%, 56%, 54% en 41%, en nam de tmax toe van 0,6 uur in de controleperiode tot respectievelijk 0,9 uur, 4,2 uur, 3,3 uur en 1,6 uur."
-    }
-  },
-  {
-    "translation": {
-      "en": "Paracetamol AUC, Cmax and tmax were not significantly changed when paracetamol was given 1 hour before BYETTA injection.",
-      "nl": "AUC, Cmax en tmax van paracetamol veranderden niet significant wanneer paracetamol 1 uur vóór injectie van BYETTA werd toegediend."
-    }
-  },
-  {
-    "translation": {
-      "en": "No adjustment to paracetamol dosing is required based on these study results.",
-      "nl": "Gebaseerd op deze onderzoeksresultaten is er geen dosisaanpassing vereist voor paracetamol."
-    }
-  },
-  {
-    "translation": {
-      "en": "HMG CoA reductase inhibitors",
-      "nl": "HMG-CoA-reductaseremmers"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lovastatin AUC and Cmax were decreased approximately 40 % and 28 %, respectively, and Tmax was delayed about 4 h when BYETTA (10 \\u03bc g BID) was administered concomitantly with a single dose of lovastatin (40 mg) compared with lovastatin administered alone.",
-      "nl": "AUC en Cmax van lovastatine werden met respectievelijk ongeveer 40% en 28% verlaagd, en Tmax werd met ongeveer 4 uur vertraagd wanneer BYETTA (10 \\u03bc g tweemaal daags) gelijktijdig met een enkelvoudige dosis lovastatine (40 mg) werd toegediend in vergelijking met toediening van alleen lovastatine."
-    }
-  },
-  {
-    "translation": {
-      "en": "In the 30-week placebo-controlled clinical trials, concomitant use of BYETTA and HMG CoA reductase inhibitors was not associated with consistent changes in lipid profiles (see section 5.1).",
-      "nl": "In de 30 weken durende placebogecontroleerde klinische onderzoeken ging gelijktij dig gebruik van BYETTA en HMG-CoA-reductaseremmers niet gepaard met consistente veranderingen in lipidenprofielen (zie rubriek 5.1)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Although no predetermined dose adjustment is required, one should be aware of possible changes in LDL-C or total cholesterol.",
-      "nl": "Hoewel er geen vooraf vastgestelde aanpassing van de dosis nodig is, dient men bedacht te zijn op mogelijke veranderingen in LDL-C of totaal cholesterol."
-    }
-  },
-  {
-    "translation": {
-      "en": "Lipid profiles should be monitored regularly.",
-      "nl": "Lipidenprofielen dienen regelmatig gecontroleerd te worden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Digoxin, lisinopril and warfarin",
-      "nl": "Digoxine, lisinopril en warfarine"
-    }
-  },
-  {
-    "translation": {
-      "en": "A delay in tmax of about 2h was observed when digoxin, lisinopril or warfarin was administered 30 min after exenatide.",
-      "nl": "Een vertraging in Tmax van ongeveer 2 uur werd waargenomen wanneer digoxine, lisinopril of warfarine 30 min. na exenatide werd toegediend."
-    }
-  },
-  {
-    "translation": {
-      "en": "No clinically relevant effects on Cmax or AUC were observed.",
-      "nl": "Er werden geen klinisch relevante effecten op Cmax of AUC waargenomen."
-    }
-  },
-  {
-    "translation": {
-      "en": "However, since market introduction, increased INR has been reported during concomitant use of warfarin and BYETTA.",
-      "nl": "Echter, sinds de marktintroductie , is verhoogd INR gerapporteerd bij gelijktij dig gebruik van warfarine en BYETTA."
-    }
-  },
-  {
-    "translation": {
-      "en": "INR should be closely monitored during initiation and dose increase of BYETTA therapy in patients on warfarin and/or cumarol derivatives (see section 4.8).",
-      "nl": "INR dient regelmatig gecontroleerd te worden bij aanvang en dosisverhoging van de BYETTA behandeling bij patiënten die warfarine en/of cumarinederivaten krijgen (zie rubriek 4.8)."
-    }
-  },
-  {
-    "translation": {
       "en": "4.6 Pregnancy and lactation",
       "nl": "4.8 Zwangerschap en borstvoeding"
-    }
-  },
-  {
-    "translation": {
-      "en": "There are no adequate data from the use of BYETTA in pregnant women.",
-      "nl": "Er zijn geen toereikende gegevens over het gebruik van BYETTA bij zwangere vrouwen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Studies in animals have shown reproductive toxicity (see section 5.3).",
-      "nl": "Uit experimenteel onderzoek bij dieren is reproductietoxiciteit gebleken (zie 5.3)."
-    }
-  },
-  {
-    "translation": {
-      "en": "The potential risk for humans is unknown.",
-      "nl": "Het potentiële risico voor de mens is niet bekend."
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA should not be used during pregnancy and the use of insulin is recommended.",
-      "nl": "BYETTA dient niet door zwangere vrouwen te worden gebruikt en het gebruik van insuline wordt aanbevolen."
-    }
-  },
-  {
-    "translation": {
-      "en": "If a patient wishes to become pregnant, or pregnancy occurs, treatment with BYETTA should be discontinued.",
-      "nl": "Indien een patiënt zwanger wenst te worden of indien zwangerschap optreedt, dient behandeling met BYETTA te worden gestaakt."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is unknown whether exenatide is excreted in human milk.",
-      "nl": "Het is niet bekend of exenatide bij de mens overgaat in de moedermelk."
     }
   },
   {
@@ -2089,248 +1297,8 @@
   },
   {
     "translation": {
-      "en": "No studies on the effects on the ability to drive and use machines have been performed.",
-      "nl": "Er zijn geen onderzoeken uitgevoerd naar de effecten op de rijvaardigheid en het vermogen om machines te bedienen."
-    }
-  },
-  {
-    "translation": {
-      "en": "When BYETTA is used in combination with a sulphonylurea, patients should be advised to take precautions to avoid hypoglycaemia while driving and using machines.",
-      "nl": "Wanneer BYETTA wordt gebruikt in combinatie met een sulfonylureumderivaat moet patiënten worden geadviseerd voorzorgen te nemen om hypoglykemie tij dens het besturen van voertuigen/deelname aan het verkeer en het gebruik van machines te voorkomen."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.8 Undesirable effects",
-      "nl": "4.8 Bijwerkingen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Table 1 lists adverse reactions reported from Phase 3 studies.",
-      "nl": "In tabel 1 staan de bijwerkingen die zijn gemeld tijdens fase-3-onderzoeken."
-    }
-  },
-  {
-    "translation": {
-      "en": "The table presents adverse reactions that occurred with an incidence \\u2265 5 % and more frequently among BYETTA-treated patients than insulin- or placebo-treated patients.",
-      "nl": "De tabel vermeldt bijwerkingen die optraden met een incidentie van \\u2265 5% en zich vaker voordeden bij met BYETTA behandelde patiënten dan bij patiënten behandeld met insuline of placebo."
-    }
-  },
-  {
-    "translation": {
-      "en": "The table also includes adverse reactions that occurred with an incidence \\u2265 1 % and with a statistically significantly higher and/or \\u2265 2X incidence among BYETTA-treated patients than insulin- or placebo-treated patients.",
-      "nl": "De tabel vermeldt tevens bijwerkingen die optraden met een incidentie van \\u2265 1% en met een statistisch significant hogere en/of \\u2265 2 maal zo hoge incidentie bij met BYETTA behandelde patiënten dan bij patiënten behandeld met insuline of placebo."
-    }
-  },
-  {
-    "translation": {
-      "en": "The reactions are listed below as MedDRA preferred term by system organ class and absolute frequency.",
-      "nl": "De reacties zijn hieronder weergegeven als MedDRA-voorkeursterm per systeem/orgaanklasse en absolute frequentie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Patient frequencies are defined as: very common (?1/1 0) and common (?1/1 00, <1/10).",
-      "nl": "Patiëntfrequenties zijn gedefinieerd als: zeer vaak (2 1/10) en vaak (2 1/100, < 1/10)."
-    }
-  },
-  {
-    "translation": {
-      "en": "[[TABLE]]",
-      "nl": "[[TABLE]]"
-    }
-  },
-  {
-    "translation": {
-      "en": "Hypoglycaemia",
-      "nl": "Hypoglykemie"
-    }
-  },
-  {
-    "translation": {
-      "en": "In studies in patients treated with BYETTA and a sulphonylurea (with or without metformin), the incidence of hypoglycaemia was increased compared to placebo (23.5 % and 25.2 % versus 12.6 % and 3.3 %) and appeared to be dependent on the doses of both BYETTA and the sulphonylurea.",
-      "nl": "In onderzoek met patiënten die behandeld werden met BYETTA en een sulfonylureumderivaat (met of zonder metformine), was het optreden van hypoglykemie toegenomen in vergelijking tot placebo (23,5% en 25,2% versus 12,6% en 3,3%) en bleek afhankelijk van de dosering van zowel BYETTA als het sulfonylureum."
-    }
-  },
-  {
-    "translation": {
-      "en": "Most episodes of hypoglycaemia were mild to moderate in intensity, and all resolved with oral administration of carbohydrate.",
-      "nl": "De meeste episodes van hypoglykemie waren licht tot matig in intensiteit en alle verdwenen na orale toediening van carbohydraat."
-    }
-  },
-  {
-    "translation": {
-      "en": "Nausea",
-      "nl": "Misselijkheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "The most frequently reported adverse reaction was nausea.",
-      "nl": "De meest gemelde bijwerking was misselijkheid."
-    }
-  },
-  {
-    "translation": {
-      "en": "In patients treated with 5 j.tg or 10 j.tg BYETTA, generally 40-5 0 % reported at least one episode of nausea.",
-      "nl": "Van de patiënten behandeld met 5 j.tg of 10 j.tg BYETTA maakte over het algemeen 40-50% melding van ten minste één episode van misselijkheid."
-    }
-  },
-  {
-    "translation": {
-      "en": "Most episodes of nausea were mild to moderate and occurred in a dose-dependent fashion.",
-      "nl": "De meeste episoden van misselijkheid waren licht tot matig van aard en traden dosisafhankelijk op."
-    }
-  },
-  {
-    "translation": {
-      "en": "With continued therapy, the frequency and severity decreased in most patients who initially experienced nausea.",
-      "nl": "Bij voortzetting van de behandeling namen bij de meeste patiënten die in eerste instantie last hadden van misselijkheid, de frequentie en ernst hiervan af."
-    }
-  },
-  {
-    "translation": {
-      "en": "The incidence of withdrawal due to adverse events was 8 % for BYETTA-treated patients, 3 % for placebo-treated and 1 % for insulin-treated patients in the long-term controlled trials (16 weeks or longer).",
-      "nl": "De incidentie van terugtrekking uit de langlopende gecontroleerde onderzoeken (16 weken of langer) in verband met bijwerkingen was 8% voor patiënten behandeld met BYETTA, 3% voor patiënten behandeld met placebo en 1% voor patiënten behandeld met insuline."
-    }
-  },
-  {
-    "translation": {
-      "en": "The most common adverse events leading to withdrawal for BYETTA-treated patients were nausea (4 % of patients) and vomiting (1 %).",
-      "nl": "De meest voorkomende bijwerkingen bij patiënten behandeld met BYETTA die leidden tot terugtrekking waren misselijkheid (4% van de patiënten) en braken (1%)."
-    }
-  },
-  {
-    "translation": {
-      "en": "For placebo-treated or insulin-treated patients, <1 % withdrew due to nausea or vomiting.",
-      "nl": "Van de patiënten behandeld met placebo of insuline trok < 1% zich terug in verband met misselijkheid of braken."
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA-treated patients in the open-label extension studies at 82 weeks experienced similar types of adverse events observed in the controlled trials.",
-      "nl": "Na 82 weken werden gedurende de open-label-extensie-onderzoeken vergelijkbare typen bijwerkingen waargenomen bij met BYETTA behandelde patiënten als bij de controletrials."
-    }
-  },
-  {
-    "translation": {
-      "en": "Injection site reactions",
-      "nl": "Reacties op de injectieplaats"
-    }
-  },
-  {
-    "translation": {
-      "en": "Injection site reactions have been reported in approximately 5.1 % of subjects receiving BYETTA in long-term (16 weeks or longer) controlled trials.",
-      "nl": "Reacties op de injectieplaats zijn gemeld bij ongeveer 5,1% van de proefpersonen die BYETTA kregen in langlopende (16 weken of langer) gecontroleerde onderzoeken."
-    }
-  },
-  {
-    "translation": {
-      "en": "These reactions have usually been mild and usually did not result in discontinuation of BYETTA.",
-      "nl": "Deze reacties waren doorgaans licht van aard en leidden gewoonlijk niet tot stopzetting van BYETTA."
-    }
-  },
-  {
-    "translation": {
-      "en": "Immunogenicity",
-      "nl": "Immunogeniciteit"
-    }
-  },
-  {
-    "translation": {
-      "en": "Consistent with the potentially immunogenic properties of protein and peptide pharmaceuticals, patients may develop anti-exenatide antibodies following treatment with BYETTA.",
-      "nl": "Overeenkomstig de potentieel immunogene eigenschappen van geneesmiddelen op basis van eiwitten en peptiden kunnen patiënten na behandeling met BYETTA antilichamen tegen exenatide ontwikkelen."
-    }
-  },
-  {
-    "translation": {
-      "en": "In most patients who develop antibodies, antibody titres diminish over time and remain low through 82 weeks.",
-      "nl": "Bij de meeste patiënten die antilichamen ontwikkelen, dalen de antilichaamtiters na verloop van tijd en blijven laag gedurende de 82 weken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Overall the percentage of antibody positive patients was consistent across clinical trials.",
-      "nl": "Over het geheel genomen was het percentage antilichaampositieve patiënten in de verschillende klinische onderzoeken consistent."
-    }
-  },
-  {
-    "translation": {
-      "en": "Patients who developed anti-exenatide antibodies had similar rates and types of adverse events as those with no anti-exenatide antibodies.",
-      "nl": "Bij patiënten die antilichamen tegen exenatide ontwikkelden, kwamen de aantallen en typen bijwerkingen overeen met die van degenen zonder antilichamen tegen exenatide."
-    }
-  },
-  {
-    "translation": {
-      "en": "In the three placebo-controlled trials (n=963) 38 % of patients had low titre anti-exenatide antibodies at 30 weeks.",
-      "nl": "In de drie placebogecontroleerde onderzoeken had bij 30 weken (n = 963) 38% van de patiënten lage titers van antilichamen tegen exenatide."
-    }
-  },
-  {
-    "translation": {
-      "en": "For this group, the level of glycaemic control (HbA1c) was generally comparable to that observed in those without antibody titres.",
-      "nl": "In deze groep was de mate van glykemische controle (HbA1c) over het algemeen vergelijkbaar met die bij degenen zonder antilichaamtiters."
-    }
-  },
-  {
-    "translation": {
-      "en": "An additional 6 % of patients had higher titre antibodies at 30 weeks.",
-      "nl": "Nog eens 6% van de patiënten had hogere antilichaamtiters bij 30 weken."
-    }
-  },
-  {
-    "translation": {
-      "en": "About half of this 6 % (3 % of the total patients given BYETTA in the controlled studies), had no apparent glycaemic response to BYETTA.",
-      "nl": "Ongeveer de helft van deze 6% (3% van het totale aantal patiënten dat BYETTA in de gecontroleerde onderzoeken kreeg toegediend) had geen duidelijke glykemische respons op BYETTA; de rest had een glykemische respons die overeenkwam met die van patiënten zonder antilichamen."
-    }
-  },
-  {
-    "translation": {
-      "en": "In two insulin-comparator controlled trials (n=475) comparable efficacy and adverse events were observed in BYETTA-treated patients regardless of antibody titre.",
-      "nl": "In twee met insuline als comparator gecontroleerde onderzoeken (n = 475) werden vergelijkbare werkzaamheid en bijwerkingen waargenomen bij met BYETTA behandelde patiënten met en zonder antilichaamtiters."
-    }
-  },
-  {
-    "translation": {
-      "en": "Examination of antibody-positive specimens from one long-term uncontrolled study revealed no significant cross-reactivity with similar endogenous peptides (glucagon or GLP-1).",
-      "nl": "Onderzoek van antilichaampositieve monsters van één langlopend niet-gecontroleerd onderzoek liet geen significante kruisreactiviteit zien met soortgelijke endogene peptiden (glucagon of GLP-1)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Spontaneous reports",
-      "nl": "Spontane meldingen"
-    }
-  },
-  {
-    "translation": {
       "en": "Since market introduction of BYETTA, the following additional adverse reactions have been reported:",
       "nl": "Sinds marktintroductie van BYETTA zijn de volgende additionele bijwerkingen gemeld:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Immune system disorders: anaphylactic reaction, very rarely.",
-      "nl": "Immuunsysteemaandoeningen: anafylactische reactie, zeer zelden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Metabolism and nutritional disorders: dehydration, generally associated with nausea, vomiting and/or diahrroea, some reports associated with elevation of serum creatinine.",
-      "nl": "Voedings- en stofwisselingsstoornissen: uitdroging, in het algemeen als gevolg van misselijkheid, braken, en/of diarree, enkele meldingen die verband houden met een verhoogde serumcreatinine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Nervous system disorders: dysgeusia, somnolence.",
-      "nl": "Zenuwstelselaandoeningen: stoornis in de smaakgewaarwording, slaperigheid."
-    }
-  },
-  {
-    "translation": {
-      "en": "Gastrointestinal disorders: eructation, constipation, flatulence.",
-      "nl": "Maagdarmstelselaandoeningen: ructus, obstipatie, flatulentie."
     }
   },
   {
@@ -2341,182 +1309,8 @@
   },
   {
     "translation": {
-      "en": "Skin and subcutaneous tissue disorders: macular rash, papular rash, pruruitis, urticaria, angioneurotic oedema.",
-      "nl": "Huid- en onderhuidaandoeningen: vlekkerige of pukkelvormige huiduitslag, jeuk, urticaria, angioneurotisch-oedeem,"
-    }
-  },
-  {
-    "translation": {
-      "en": "Investigations: international normalised ratio increased with concomitant warfarin, some reports associated with bleeding (see section 4.5).",
-      "nl": "Onderzoeken: international normalised ratio (INR) verhoogd met gelijktij dig gebruik van warfarine, in sommige rapportages geassocieerd met bloedingen (zie rubriek 4.5)."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.9 Overdose",
-      "nl": "4.9 Overdosering"
-    }
-  },
-  {
-    "translation": {
-      "en": "Signs and symptoms of overdose may include severe nausea, severe vomiting and rapidly declining blood glucose concentrations.",
-      "nl": "Klachten en verschijnselen van een overdosis kunnen onder meer zijn ernstige misselijkheid, ernstig braken en snel dalende bloedglucoseconcentraties."
-    }
-  },
-  {
-    "translation": {
-      "en": "In the event of overdose, appropriate supportive treatment (possibly given parenterally) should be initiated according to the patient's clinical signs and symptoms.",
-      "nl": "In geval van een overdosis moet de aangewezen ondersteunende behandeling (mogelijk parenteraal) worden gestart afhankelijk van de klinische klachten en verschijnselen van de patiënt."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. PHARMACOLOGICAL PROPERTIES",
-      "nl": "5. FARMACOLOGISCHE EIGENSCHAPPEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "5.1 Pharmacodynamic properties",
-      "nl": "5.1 Farmacodynamische eigenschappen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Pharmacotherapeutic group: Other blood glucose lowering drugs, excl. insulins, ATC code: A10BX04.",
-      "nl": "Farmacotherapeutische categorie: overige bloedglucoseverlagende geneesmiddelen, met uitzondering van insulines, ATC-code: A10BX04."
-    }
-  },
-  {
-    "translation": {
-      "en": "Mechanism of action",
-      "nl": "Werkingsmechanisme"
-    }
-  },
-  {
-    "translation": {
-      "en": "Exenatide is an incretin mimetic that exhibits several antihyperglycaemic actions of glucagon-like peptide-1 (GLP- 1).",
-      "nl": "Exenatide is een incretinemimeticum dat een aantal antihyperglykemische werkingen vertoont van glucagonachtig peptide-1 (glucagon-like peptide-1, GLP-1)."
-    }
-  },
-  {
-    "translation": {
-      "en": "The amino acid sequence of exenatide partially overlaps that of human GLP- 1.",
-      "nl": "De aminozuurvolgorde van exenatide overlapt gedeeltelijk die van humaan GLP- 1."
-    }
-  },
-  {
-    "translation": {
-      "en": "Exenatide has been shown to bind to and activate the known human GLP- 1 receptor in vitro, its mechanism of action mediated by cyclic AMP and/or other intracellular signaling pathways.",
-      "nl": "Het is aangetoond dat exenatide in vitro bindt aan de bekende humane GLP- 1-receptor en deze activeert; het werkingsmechanisme ervan wordt gemedieerd door cyclisch AMP en/of andere intracellulaire signaleringsroutes."
-    }
-  },
-  {
-    "translation": {
-      "en": "Exenatide increases, on a glucose-dependent basis, the secretion of insulin from pancreatic beta cells.",
-      "nl": "Exenatide verhoogt de secretie van insuline door pancreatische bètacellen op een glucose-afhankelijke basis."
-    }
-  },
-  {
-    "translation": {
       "en": "As blood glucose concentrations decrease, insulin secretion subsides.",
       "nl": "Als bloedglucoseconcentraties dalen, neemt de insulineafgifte af.."
-    }
-  },
-  {
-    "translation": {
-      "en": "Exenatide suppresses glucagon secretion which is known to be inappropriately elevated in type 2 diabetes.",
-      "nl": "Exenatide onderdrukt de glucagonafgifte, waarvan bekend is dat deze veel te hoog is bij type 2 diabetes."
-    }
-  },
-  {
-    "translation": {
-      "en": "Lower glucagon concentrations lead to decreased hepatic glucose output.",
-      "nl": "Lagere glucagonconcentraties leiden tot verminderde hepatische glucoseafgifte."
-    }
-  },
-  {
-    "translation": {
-      "en": "However, exenatide does not impair the normal glucagon response and other hormone responses to hypoglycaemia.",
-      "nl": "Echter exenatide vermindert niet de normale glucagonrespons en andere hormonale reacties op hypoglykemie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Exenatide slows gastric emptying thereby reducing the rate at which meal-derived glucose appears in the circulation.",
-      "nl": "Exenatide vertraagt de maaglediging waardoor de snelheid van opname van de maaltijdafkomstige glucose in het bloed afneemt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Pharmacodynamic effects",
-      "nl": "Farmacodynamische effecten"
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA improves glycaemic control through the immediate and sustained effects of lowering both postprandial and fasting glucose concentrations in patients with type 2 diabetes.",
-      "nl": "BYETTA verbetert de glykemische controle door middel van de onmiddellijke en langdurige effecten van verlaging van zowel de postprandiale als nuchtere glucoseconcentraties bij patiënten met type 2 diabetes."
-    }
-  },
-  {
-    "translation": {
-      "en": "Clinical efficacy",
-      "nl": "Klinische werkzaamheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "The clinical studies comprised 3945 subjects (2997 treated with exenatide), 56% men and 44% women, 319 subjects (230 treated with exenatide) were 270 years of age and 34 subjects (27 treated with exenatide) were 275 years of age.",
-      "nl": "De klinische onderzoeken bestonden uit 3945 proefpersonen (2997 behandeld met exenatide), 56% mannen en 44% vrouwen, 319 proefpersonen (230 behandeld met exenatide) waren 270 jaar oud en 34 proefpersonen (27 behandeld met exenatide) waren 275 jaar oud."
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA reduced HbA1c and body weight in patients treated for 30 weeks in three placebo-controlled studies, whether the BYETTA was added to metformin, a sulphonylurea or a combination of both.",
-      "nl": "BYETTA verlaagde het HbA1c en lichaamsgewicht bij patiënten die gedurende 30 weken werden behandeld in drie placebogecontroleerde onderzoeken, ongeacht of BYETTA werd toegevoegd aan metformine, een sulfonylureumderivaat of een combinatie van beide."
-    }
-  },
-  {
-    "translation": {
-      "en": "These reductions in HbA1c were generally observed at 12 weeks after initiation of treatment.",
-      "nl": "Deze verlagingen van HbA1c werden doorgaans waargenomen op 12 weken na aanvang van de behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "See Table 2.",
-      "nl": "Zie tabel 2."
-    }
-  },
-  {
-    "translation": {
-      "en": "The reduction in HbA1c was sustained and the weight loss continued for at least 82 weeks in the subset of 10 j.tg BID patients completing both the placebo-controlled studies and the uncontrolled study extensions (n=137).",
-      "nl": "In de groep van patiënten met 10 j.tg tweemaal daags die beide placebogecontroleerde onderzoeken en de niet¬gecontroleerde extensie voltooiden (n = 137) hield de daling van HbA1c aan en bleef het gewichtsverlies doorgaan gedurende ten minste 82 weken."
-    }
-  },
-  {
-    "translation": {
-      "en": "[[TABLE]]",
-      "nl": "[[TABLE]]"
-    }
-  },
-  {
-    "translation": {
-      "en": "In a placebo-controlled study of 16 weeks duration, BYETTA (n= 121) or placebo (n= 112) was added to existing thiazolidinedione treatment, with or without metformin.",
-      "nl": "In een 16 weken durend placebo-gecontroleerd onderzoek , werd BYETTA (n= 121) of placebo (n= 112) toegevoegd aan de bestaande thiazolidinedionbehandeling, met of zonder metformine."
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA (5 j.tg BID for 4 weeks, followed by 10 j.tg BID) resulted in statistically significant reductions from baseline HbA1c compared to placebo (-0.8% versus +0.1%) as well as significant reductions in body weight (-1.5 versus -0.2 kg).",
-      "nl": "BYETTA (5 j.tg tweemaal daags gedurende 4 weken, gevolgd door 10 j.tg tweemaal daags) bereikte een statistisch significante afname t.o.v. uitgangswaarde HbA1c in vergelijking met placebo (-0,8% versus +0,1%) evenals een significante afname van het lichaamsgewicht (-1,5 versus -0,2 kg)."
-    }
-  },
-  {
-    "translation": {
-      "en": "When BYETTA was used in combination with a thiazolidinedione, the incidence of hypoglycaemia was similar to that of placebo in combination with a thiazolidinedione.",
-      "nl": "Wanneer BYETTA werd gebruikt in combinatie met een thiazolidinedion was de frequentie van optreden van hypoglykemie vergelijkbaar met dat van placebo in combinatie met een thiazolidinedion."
     }
   },
   {
@@ -2527,386 +1321,8 @@
   },
   {
     "translation": {
-      "en": "In insulin-comparator studies BYETTA (5 j.tg BID for 4 weeks, followed by 10 j.tg BID) in combination with metformin and sulphonylurea significantly (statistically and clinically) improved glycaemic control, as measured by decrease in HbA1c.",
-      "nl": "In insuline-comparator onderzoeken, verbeterde BYETTA (5 j.tg tweemaal daags gedurende 4 weken, gevolgd door 10 j.tg tweemaal daags) in combinatie met metformine en een sulfonylureumderivaat significant (statistisch en klinisch) de glykemische controle zoals gemeten d.m.v. HbA1c daling."
-    }
-  },
-  {
-    "translation": {
-      "en": "This treatment effect was comparable to that of insulin glargine in a 26-week study (mean insulin dose 24.9 IU/day ,range 4-95 IU/day, at the end of study) and biphasic insulin aspart in a 52-week study (mean insulin dose 24.4 IU/day, range 3-78 IU/day, at the end of study).",
-      "nl": "Dit behandelingseffect was vergelijkbaar met dat van insuline glargine in een 26 weken durend onderzoek (gemiddelde insulinedosis 24,9 IE/dag met een spreiding van 4-95 IE/dag aan het einde van het onderzoek) en bifasisch insuline aspart in een 52 weken durend onderzoek (gemiddelde insulinedosis 24,4 IE/dag met een spreiding van 3-78 IE/dag, aan het einde van het onderzoek)."
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA lowered HbA1c from 8.21 (n=228) and 8.6% (n=222) by 1.13 and 1.01% while insulin glargine lowered from 8.24 (n=227) by 1.10% and biphasic insulin aspart from 8.67 (n=224) by 0.86%.",
-      "nl": "BYETTA verlaagde het HbA1c van 8,21 (n=228) en 8,6% (n=222) met 1,13 en 1,01% terwijl insuline glargine dit verlaagde van 8,24 (n=227) met 1,10% en bifasisch insuline aspart van 8,67 (n=224) met 0,86%."
-    }
-  },
-  {
-    "translation": {
-      "en": "Weight loss of 2.3 kg (2.6 %) was achieved with BYETTA in the 26 week study and a loss of 2.5 kg (2.7 %) in a 52-week study whereas treatment with insulin was associated with weight gain.",
-      "nl": "Gewichtsverlies vanaf het oorspronkelijke lichaamsgewicht van 2,3 kg (2,6%) werd bereikt met BYETTA in de 26 weken durende studie en een verlies van 2,5 kg (2,7%) in de 52 weken durende studie terwijl behandeling met insuline werd geassocieerd met gewichtstoename."
-    }
-  },
-  {
-    "translation": {
-      "en": "Treatment differences (BYETTA minus comparator) were -4.1 kg in the 26-week study and -- 5.4 kg in the 52-week study.",
-      "nl": "Verschillen in de behandeling (BYETTA minus comparator) waren -4,1 kg in de 26 weken durende studie en -5,4 kg in de 52 weken durende studie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Seven-point self monitored blood glucose profiles (before and after meals and at 3 am) demonstrated significantly reduced glucose values compared to insulin in the postprandial periods after BYETTA injection.",
-      "nl": "In insuline comparator onderzoeken lieten 7-punts zelfbepaalde bloedglucoseprofielen (vóór en na de maaltijden en om 3 uur 's nachts) significant afgenomen glucosewaarden zien vergeleken bij insuline in de postprandiale perioden na BYETTA-injectie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Premeal blood glucose concentrations were generally lower in patients taking insulin compared to BYETTA.",
-      "nl": "De bloedglucosewaarden voor de maaltijd waren over het algemeen lager bij patiënten die insuline namen in vergelijking tot BYETTA."
-    }
-  },
-  {
-    "translation": {
-      "en": "Mean daily blood glucose values were similar between BYETTA and insulin.",
-      "nl": "Gemiddelde dagelijkse bloedglucosewaarden waren vergelijkbaar voor BYETTA en insuline."
-    }
-  },
-  {
-    "translation": {
-      "en": "In these studies the incidence of hypoglycaemia was similar for BYETTA and insulin treatment.",
-      "nl": "In deze studies was het optreden van hypoglykemie vergelijkbaar voor BYETTA en insulinebehandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA has shown no adverse effects on lipid parameters.",
-      "nl": "BYETTA heeft geen nadelige effecten op lipidenparameters laten zien."
-    }
-  },
-  {
-    "translation": {
-      "en": "A trend for a decrease in triglycerides has been observed with weight loss.",
-      "nl": "Een trend van een afname van de triglyceriden is waargenomen bij gewichtsverlies."
-    }
-  },
-  {
-    "translation": {
-      "en": "Clinical studies with BYETTA have indicated improved beta-cell function, using measures such as the homeostasis model assessment for beta-cell function (HOMA-B) and the proinsulin to insulin ratio.",
-      "nl": "Klinische onderzoeken met BYETTA duidden op een verbeterde bètacelfunctie aan de hand van maten als de beoordeling met het homeostasemodel van de bètacelfunctie (homeostasis model assessment for beta-cell function, HOMA-B) en de pro-insuline/insulineratio."
-    }
-  },
-  {
-    "translation": {
-      "en": "A pharmacodynamic study demonstrated in patients with type 2 diabetes (n= 13) a restoration of first phase insulin secretion and improved second phase insulin secretion in response to an intravenous bolus of glucose.",
-      "nl": "Een farmacodynamisch onderzoek bij patiënten met type 2 diabetes (n=13) liet een herstel zien van eerste fase insuline secretie en verbeterde tweede fase insuline secretie als respons op een intraveneuze bolus van glucose."
-    }
-  },
-  {
-    "translation": {
-      "en": "A reduction in body weight was seen in patients treated with BYETTA irrespective of the occurrence of nausea although the reduction was larger in the group with nausea (mean reduction 2.4kg versus 1.7kg) in the long term controlled studies of up to 52 weeks.",
-      "nl": "Een afname in het lichaamsgewicht werd geconstateerd bij patiënten behandeld met BYETTA onafhankelijk van het optreden van misselijkheid hoewel de afname groter was in de groep met misselijkheid (gemiddelde afname 2,4 kg versus 1,7 kg) in de lange termijn gecontroleerde onderzoeken t/m 52 weken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Administration of exenatide has been shown to reduce food intake, due to decreased appetite and increased satiety.",
-      "nl": "Toediening van exenatide heeft aangetoond de voedselinname te verlagen als gevolg van verminderde eetlust en verhoogde verzadiging."
-    }
-  },
-  {
-    "translation": {
-      "en": "5.2 Pharmacokinetic properties",
-      "nl": "5.2 Farmacokinetische eigenschappen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Absorption",
-      "nl": "Absorptie"
-    }
-  },
-  {
-    "translation": {
-      "en": "Exenatide exposure increased proportionally over the therapeutic dose range of 5 \\u03bc g to 10 \\u03bc g. Similar exposure is achieved with subcutaneous administration of exenatide in the abdomen, thigh, or arm.",
-      "nl": "Blootstelling aan exenatide nam proportioneel toe binnen het therapeutische dosisbereik van 5 \\u03bc g tot 10 \\u03bc g. Een vergelijkbare blootstelling wordt bereikt met subcutane toediening van exenatide in de buik, dij of arm."
-    }
-  },
-  {
-    "translation": {
-      "en": "Distribution",
-      "nl": "Verdeling"
-    }
-  },
-  {
-    "translation": {
-      "en": "The mean apparent volume of distribution of exenatide following subcutaneous administration of a single dose of exenatide is 28 l.",
-      "nl": "Het gemiddelde verdelingsvolume van exenatide na subcutane toediening van een enkelvoudige dosis exenatide bedraagt 28 l."
-    }
-  },
-  {
-    "translation": {
-      "en": "Metabolism and Elimination",
-      "nl": "Afbraak en eliminatie"
-    }
-  },
-  {
-    "translation": {
-      "en": "Nonclinical studies have shown that exenatide is predominantly eliminated by glomerular filtration with subsequent proteolytic degradation.",
-      "nl": "Uit niet-klinische onderzoeken is gebleken dat exenatide hoofdzakelijk wordt geëlimineerd door glomerulaire filtratie met daaropvolgende proteolytische afbraak."
-    }
-  },
-  {
-    "translation": {
-      "en": "Special populations",
-      "nl": "Speciale bevolkingsgroepen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Patients with renal impairment",
-      "nl": "Patiënten met nierinsufficiëntie"
-    }
-  },
-  {
-    "translation": {
-      "en": "In patients with mild (creatinine clearance 50 to 80 ml/min) or moderate renal impairment (creatinine clearance 30 to 50 ml/min), exenatide clearance was mildly reduced compared to clearance in individuals with normal renal function (13 % reduction in mild and 36 % reduction in moderate renal impairment).",
-      "nl": "Bij patiënten met lichte (creatinineklaring 50 tot 80 ml/min) of matige nierinsufficiëntie (creatinineklaring 30 tot 50 ml/min) was de klaring van exenatide licht verminderd in vergelijking met de klaring bij personen met normale nierfunctie (afname met 13% bij lichte en met 36% bij matige nierinsufficiëntie)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Clearance was significantly reduced by 84% in patients with end-stage renal disease receiving dialysis (see section 4.2).",
-      "nl": "De klaring was significant verminderd met 84% bij patiënten met terminale nierziekte die werden gedialyseerd (zie rubriek 4.2)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Patients with hepatic insufficiency",
-      "nl": "Patiënten met leverinsufficiëntie"
-    }
-  },
-  {
-    "translation": {
-      "en": "No pharmacokinetic study has been performed in patients with hepatic insufficiency.",
-      "nl": "Er is geen farmacokinetisch onderzoek uitgevoerd bij patiënten met leverinsufficiëntie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Exenatide is cleared primarily by the kidney, therefore hepatic dysfunction is not expected to affect blood concentrations of exenatide.",
-      "nl": "Exenatide wordt voornamelijk geklaard door de nier; daarom heeft leverfunctiestoornis waarschijnlijk geen invloed op de exenatideconcentraties in het bloed."
-    }
-  },
-  {
-    "translation": {
-      "en": "Gender and race",
-      "nl": "Geslacht en ras"
-    }
-  },
-  {
-    "translation": {
-      "en": "Gender and race have no clinically relevant influence on exenatide pharmacokinetics.",
-      "nl": "Geslacht en ras hebben geen klinisch relevante invloed op de farmacokinetiek van exenatide."
-    }
-  },
-  {
-    "translation": {
-      "en": "Elderly",
-      "nl": "Ouderen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Data in elderly are limited, but suggest no marked changes in exenatide exposure with increased age up to about 75 years old.",
-      "nl": "Gegevens bij ouderen zijn beperkt, maar duiden niet op opvallende veranderingen in blootstelling aan exenatide bij een hogere leeftijd tot ongeveer 75 jaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "There are no pharmacokinetic data in patients >75 years.",
-      "nl": "Er zijn geen farmacokinetische gegevens voor patiënten > 75 jaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "Children and adolescents",
-      "nl": "Kinderen en adolescenten"
-    }
-  },
-  {
-    "translation": {
-      "en": "Pharmacokinetics of exenatide has not been investigated in children and adolescents below 18 years of age.",
-      "nl": "De farmacokinetiek van exenatide is niet onderzocht bij kinderen en adolescenten jonger dan 18 jaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "5.3 Preclinical safety data",
-      "nl": "5.3 Gegevens uit het preklinisch veiligheidsonderzoek"
-    }
-  },
-  {
-    "translation": {
-      "en": "In female rats given exenatide for 2 years, an increased incidence of benign thyroid C\\u2212 cell adenomas was observed at the highest dose, 250 jig/kg/day, a dose that produced an exenatide plasma exposure 130-fold the human clinical exposure.",
-      "nl": "Bij vrouwtjesratten die 2 jaar exenatide kregen, werd een verhoogde incidentie van goedaardige C¬celadenoma's in de schildklier waargenomen bij de hoogste dosis, 250 µg/kg/dag, een dosis die een plasmablootstelling aan exenatide opleverde die 130 maal de klinische blootstelling bij de mens is."
-    }
-  },
-  {
-    "translation": {
-      "en": "This incidence was not statistically significant when adjusted for survival.",
-      "nl": "Deze incidentie was niet statistisch significant bij aanpassing voor overleving."
-    }
-  },
-  {
-    "translation": {
-      "en": "There was no tumorigenic response in male rats or either sex of mice.",
-      "nl": "Er was geen tumorigene respons bij mannetjesratten of bij muizen van beide geslachten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Animal studies did not indicate direct harmful effects with respect to fertility or pregnancy.",
-      "nl": "Onderzoeken bij dieren duidden niet op directe schadelijke effecten ten aanzien van vruchtbaarheid of zwangerschap."
-    }
-  },
-  {
-    "translation": {
-      "en": "High doses of exenatide during mid-gestation caused skeletal effects and reduced foetal growth in mice and reduced foetal growth in rabbits.",
-      "nl": "Hoge doses exenatide in de periode halverwege de zwangerschapsduur hadden effect op het skelet en verminderden de foetusgroei bij muizen en bij konijnen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Neonatal growth was reduced in mice exposed to high doses during late gestation and lactation.",
-      "nl": "Neonatale groei bleef achter bij muizen die aan hoge doses waren blootgesteld aan het eind van de zwangerschapsduur en tijdens de lactatieperiode."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. PHARMACEUTICAL PARTICULARS",
-      "nl": "6. FARMACEUTISCHE GEGEVENS"
-    }
-  },
-  {
-    "translation": {
-      "en": "6.1 List of excipients",
-      "nl": "6.1 Lijst van hulpstoffen"
-    }
-  },
-  {
-    "translation": {
-      "en": "metacresol",
-      "nl": "metacresol"
-    }
-  },
-  {
-    "translation": {
-      "en": "mannitol",
-      "nl": "mannitol"
-    }
-  },
-  {
-    "translation": {
-      "en": "glacial acetic acid",
-      "nl": "ijsazijnzuur"
-    }
-  },
-  {
-    "translation": {
-      "en": "6.2 Incompatibilities",
-      "nl": "6.2 Gevallen van onverenigbaarheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "This medicinal product must not be mixed with other medicinal products.",
-      "nl": "Dit geneesmiddel mag niet worden gemengd met andere geneesmiddelen."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.3 Shelf life",
-      "nl": "6.3 Houdbaarheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "2 years.",
-      "nl": "2 jaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "Shelf life for pen in use: 30 days.",
-      "nl": "Houdbaarheid van pen in gebruik: 30 dagen."
-    }
-  },
-  {
-    "translation": {
       "en": "6.5 Special precautions for storage",
       "nl": "6.5 Speciale voorzorgsmaatregelen bij bewaren"
-    }
-  },
-  {
-    "translation": {
-      "en": "Store in a refrigerator (2 °C - 8 °C).",
-      "nl": "Bewaren in de koelkast (2 °C -- 8 °C)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not freeze.",
-      "nl": "Niet in de vriezer bewaren."
-    }
-  },
-  {
-    "translation": {
-      "en": "In use",
-      "nl": "Bij gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "The pen should be returned to the refrigerator after each use.",
-      "nl": "Na elk gebruik moet de pen weer in de koelkast worden bewaard."
-    }
-  },
-  {
-    "translation": {
-      "en": "However, chemical and physical in use stability at < 25 °C has been demonstrated for 7 days (168 hours), during the 30 day in use period.",
-      "nl": "Gebleken is echter dat het product chemisch en fysisch stabiel is bij \"25 °C gedurende 7 dagen (168 uur), tijdens de gebruiksperiode van 30 dagen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The pen should not be stored with the needle attached.",
-      "nl": "De pen mag niet worden bewaard met de naald erop bevestigd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Replace cap on pen in order to protect from light.",
-      "nl": "Plaats de dop terug op de pen om te beschermen tegen licht."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.5 Nature and contents of container",
-      "nl": "6.5 Aard en inhoud van de verpakking"
-    }
-  },
-  {
-    "translation": {
-      "en": "Type I glass cartridge with a (bromobutyl) rubber plunger, rubber disc, and aluminium seal.",
-      "nl": "Een type-I glazen patroon met een (bromobutyl) rubber zuiger, rubber schijf en aluminium verzegeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "Each cartridge is assembled into a disposable pen-injector (pen).",
-      "nl": "Elke patroon is gemonteerd in een wegwerppen-injector (pen)."
     }
   },
   {
@@ -2917,134 +1333,8 @@
   },
   {
     "translation": {
-      "en": "Pack size of 1 and 3 pens.",
-      "nl": "Verpakkingsgrootten van 1 en 3 pennen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Not all pack sizes may be marketed.",
-      "nl": "Het kan voorkomen dat niet alle genoemde verpakkingsgrootten in de handel worden gebracht."
-    }
-  },
-  {
-    "translation": {
-      "en": "Injection needles are not included.",
-      "nl": "Injectienaalden zijn niet bijgesloten."
-    }
-  },
-  {
-    "translation": {
-      "en": "The following are examples of disposable needles that can be used with the BYETTA pen: 29, 30 or 31 gauge (diameter 0.25 - 0.33mm) and 12.7, 8 or 5mm length.",
-      "nl": "De volgende zijn voorbeelden van wegwerpnaalden die gebruikt kunnen worden voor de BYETTA pen: 29, 30 of 31 gauge (diameter 0,25 -- 0,33 mm) en 12,7 - 8 - of 5 mm lengte."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.6 Special precautions for disposal and other handling.",
-      "nl": "6.6 Speciale voorzorgsmaatregelen voor het verwijderen en andere instructies."
-    }
-  },
-  {
-    "translation": {
-      "en": "The patient should be instructed to discard the needle after each injection.",
-      "nl": "De patiënt moet instructie krijgen om na elke injectie de naald weg te gooien."
-    }
-  },
-  {
-    "translation": {
-      "en": "Any unused medicinal product or waste material should be disposed of in accordance with local requirements.",
-      "nl": "Alles van het ongebruikte geneesmiddel of afvalmateriaal dient te worden vernietigd in overeenstemming met lokale voorschriften."
-    }
-  },
-  {
-    "translation": {
-      "en": "Instructions for use",
-      "nl": "Instructies voor gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA is for use by one person only.",
-      "nl": "BYETTA dient door één enkel persoon gebruikt te worden."
-    }
-  },
-  {
-    "translation": {
-      "en": "The instructions for using the pen, included with the leaflet, must be followed carefully.",
-      "nl": "De instructies voor gebruik van de pen, ingesloten bij de bijsluiter, dienen zorgvuldig gevolgd te worden."
-    }
-  },
-  {
-    "translation": {
-      "en": "The pen is stored without needle.",
-      "nl": "De pen wordt bewaard zonder de naald."
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA should not be used if particles appear or if the solution is cloudy and/or coloured.",
-      "nl": "BYETTA dient niet gebruikt te worden indien er deeltjes zichtbaar zijn of indien de oplossing troebel en/of gekleurd is."
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA that has been frozen must not be used.",
-      "nl": "BYETTA dat bevroren is geweest, mag niet gebruikt worden."
-    }
-  },
-  {
-    "translation": {
-      "en": "7. MARKETING AUTHORISATION HOLDER",
-      "nl": "7. HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Eli Lilly Nederland B.V., Grootslag 1-5, NL-3991 RA Houten, The Netherlands.",
-      "nl": "Eli Lilly Nederland B.V., Grootslag 1-5, NL-3991 RA Houten, Nederland."
-    }
-  },
-  {
-    "translation": {
-      "en": "8. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "8. NUMMER(S) VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "EU/1/06/362/003 -- 4",
       "nl": "EU/1/06/362/003 -- 4"
-    }
-  },
-  {
-    "translation": {
-      "en": "10. DATE OF REVISION OF THE TEXT",
-      "nl": "10. DATUM VAN HERZIENING VAN DE TEKST"
-    }
-  },
-  {
-    "translation": {
-      "en": "ANNEX II",
-      "nl": "BIJLAGE II"
-    }
-  },
-  {
-    "translation": {
-      "en": "A. MANUFACTURING AUTHORISATION HOLDERS RESPONSIBLE FOR BATCH RELEASE",
-      "nl": "A. HOUDERS VAN DE VERGUNNINGEN VOOR DE VERVAARDIGING VERANTWOORDELIJK VOOR VRIJGIFTE"
-    }
-  },
-  {
-    "translation": {
-      "en": "B. CONDITIONS OF THE MARKETING AUTHORISATION",
-      "nl": "B. VOORWAARDEN VERBONDEN AAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Name and address of the manufacturer responsible for batch release",
-      "nl": "Naam en adres van de fabrikant verantwoordelijk voor vrijgifte"
     }
   },
   {
@@ -3067,12 +1357,6 @@
   },
   {
     "translation": {
-      "en": "Germany",
-      "nl": "Duitsland"
-    }
-  },
-  {
-    "translation": {
       "en": "CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE IMPOSED ON THE MARKETING AUTHORISATION HOLDER",
       "nl": "- AAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN GESTELDE VOORWAARDEN OF BEPERKINGEN TEN AANZIEN VAN DE AFLEVERING EN HET GEBRUIK"
     }
@@ -3085,18 +1369,6 @@
   },
   {
     "translation": {
-      "en": "CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT",
-      "nl": "- VOORWAARDEN OF BEPERKINGEN MET BETREKKING TOT EEN VEILIG EN DOELTREFFEND GEBRUIK VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
-      "en": "Not aplicable.",
-      "nl": "Niet van toepassing."
-    }
-  },
-  {
-    "translation": {
       "en": "OTHER CONDITIONS",
       "nl": "- ANDERE VOORWAARDEN"
     }
@@ -3105,24 +1377,6 @@
     "translation": {
       "en": "The MAH must ensure that the system of pharmacovigilance is in place and functioning before the product is placed on the market and for as long as the marketed product remains in use.",
       "nl": "De houder van de vergunning dient ervoor in te staan dat het Farmacovigilantiesysteem op orde is en functioneert voordat het product op de markt komt en zolang als het product op de markt in gebruik is."
-    }
-  },
-  {
-    "translation": {
-      "en": "ANNEX III",
-      "nl": "BIJLAGE III"
-    }
-  },
-  {
-    "translation": {
-      "en": "LABELLING AND PACKAGE LEAFLET",
-      "nl": "ETIKETTERING EN BIJSLUITER"
-    }
-  },
-  {
-    "translation": {
-      "en": "A. LABELLING",
-      "nl": "A. ETIKETTERING"
     }
   },
   {
@@ -3145,12 +1399,6 @@
   },
   {
     "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. NAAM VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
       "en": "Byetta 5 micrograms solution for injection, prefilled pen",
       "nl": "BYETTA 5 microgram oplossing voor injectie, voorgevulde pen"
     }
@@ -3163,20 +1411,8 @@
   },
   {
     "translation": {
-      "en": "2. STATEMENT OF ACTIVE SUBSTANCE(S)",
-      "nl": "2. GEHALTE AAN WERKZA(A)M(E) BESTANDDE(E)L(EN)"
-    }
-  },
-  {
-    "translation": {
       "en": "Each dose contains 5 micrograms exenatide.",
       "nl": "Elke dosis bevat 5 microgram exenatide."
-    }
-  },
-  {
-    "translation": {
-      "en": "3. LIST OF EXCIPIENTS",
-      "nl": "3. LIJST VAN HULPSTOFFEN"
     }
   },
   {
@@ -3199,12 +1435,6 @@
   },
   {
     "translation": {
-      "en": "4. PHARMACEUTICAL FORM AND CONTENTS",
-      "nl": "4. FARMACEUTISCHE VORM EN INHOUD"
-    }
-  },
-  {
-    "translation": {
       "en": "Solution for injection, pre-filled pen",
       "nl": "Oplossing voor injectie, voorgevulde pen."
     }
@@ -3219,12 +1449,6 @@
     "translation": {
       "en": "3 pens (3 X 60 doses)",
       "nl": "3 pennen (3x 60 doses)"
-    }
-  },
-  {
-    "translation": {
-      "en": "5. METHOD AND ROUTE(S) OF ADMINISTRATION",
-      "nl": "5. WIJZE VAN GEBRUIK EN TOEDIENINGSWEG(EN)"
     }
   },
   {
@@ -3259,20 +1483,8 @@
   },
   {
     "translation": {
-      "en": "7. OTHER SPECIAL WARNING(S), IF NECESSARY",
-      "nl": "7. ANDERE SPECIALE WAARSCHUWING(EN), INDIEN NODIG"
-    }
-  },
-  {
-    "translation": {
       "en": "If the seal is broken before first use, contact your pharmacist.",
       "nl": "Als de verzegeling is verbroken vóór het eerste gebruik, neem dan contact op met uw apotheker."
-    }
-  },
-  {
-    "translation": {
-      "en": "8. EXPIRY DATE",
-      "nl": "8. UITERSTE GEBRUIKSDATUM"
     }
   },
   {
@@ -3289,20 +1501,8 @@
   },
   {
     "translation": {
-      "en": "9. SPECIAL STORAGE CONDITIONS",
-      "nl": "9. BIJZONDERE VOORZORGSMAATREGELEN VOOR DE BEWARING"
-    }
-  },
-  {
-    "translation": {
       "en": "Store in a refrigerator.",
       "nl": "Bewaren in de koelkast"
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not freeze.",
-      "nl": "Niet in de vriezer bewaren."
     }
   },
   {
@@ -3337,26 +1537,8 @@
   },
   {
     "translation": {
-      "en": "Eli Lilly Nederland B.V.",
-      "nl": "Eli Lilly Nederland B.V."
-    }
-  },
-  {
-    "translation": {
       "en": "Grootslag 1-5, 3991 RA Houten",
       "nl": "Grootslag 1-5, 3991 RA Houten"
-    }
-  },
-  {
-    "translation": {
-      "en": "The Netherlands",
-      "nl": "Nederland"
-    }
-  },
-  {
-    "translation": {
-      "en": "12. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "12. NUMMER(S) VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
     }
   },
   {
@@ -3373,38 +1555,8 @@
   },
   {
     "translation": {
-      "en": "13. BATCH NUMBER",
-      "nl": "13. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
       "en": "Lot {No.",
       "nl": "Lot (Nr.)"
-    }
-  },
-  {
-    "translation": {
-      "en": "14. GENERAL CLASSIFICATION FOR SUPPLY",
-      "nl": "14. ALGEMENE INDELING VOOR DE AFLEVERING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal product subject to medical prescription.",
-      "nl": "Geneesmiddel op medisch voorschrift."
-    }
-  },
-  {
-    "translation": {
-      "en": "15. INSTRUCTIONS ON USE",
-      "nl": "15. INSTRUCTIES VOOR GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "16. INFORMATION IN BRAILLE",
-      "nl": "16. INFORMATIE IN BRAILLE"
     }
   },
   {
@@ -3415,38 +1567,8 @@
   },
   {
     "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION",
-      "nl": "1. NAAM VAN HET GENEESMIDDEL EN DE TOEDIENINGWEG(EN)"
-    }
-  },
-  {
-    "translation": {
       "en": "Byetta 5 µg injection",
       "nl": "BYETTA 5 µg injectie"
-    }
-  },
-  {
-    "translation": {
-      "en": "Exenatide",
-      "nl": "Exenatide"
-    }
-  },
-  {
-    "translation": {
-      "en": "Subcutaneous use",
-      "nl": "Subcutaan gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. METHOD OF ADMINISTRATION",
-      "nl": "2. WIJZE VAN TOEDIENING"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. EXPIRY DATE",
-      "nl": "3. UITERSTE GEBRUIKSDATUM"
     }
   },
   {
@@ -3457,20 +1579,8 @@
   },
   {
     "translation": {
-      "en": "4. BATCH NUMBER",
-      "nl": "4. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
       "en": "Lot { No}",
       "nl": "Lot (Nr.)."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT",
-      "nl": "5. INHOUD UITGEDRUKT IN GEWICHT, VOLUME OF EENHEID"
     }
   },
   {
@@ -3481,50 +1591,8 @@
   },
   {
     "translation": {
-      "en": "6. OTHER",
-      "nl": "6. OVERIGE"
-    }
-  },
-  {
-    "translation": {
-      "en": "PARTICULARS TO APPEAR ON THE OUTER PACKAGING",
-      "nl": "GEGEVENS DIE OP DE BUITENVERPAKKING MOETEN WORDEN VERMELD:"
-    }
-  },
-  {
-    "translation": {
-      "en": "{CARTON OF ONE}",
-      "nl": "{DOOS VAN ÉÉN}"
-    }
-  },
-  {
-    "translation": {
-      "en": "{CARTON OF THREE}",
-      "nl": "{DOOS VAN DRIE}"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. NAAM VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
       "en": "Byetta 10 micrograms solution for injection, prefilled pen",
       "nl": "BYETTA 10 microgram oplossing voor injectie, voorgevulde pen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Exenatide",
-      "nl": "Exenatide"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. STATEMENT OF ACTIVE SUBSTANCE(S)",
-      "nl": "2. GEHALTE AAN WERKZA(A)M(E) BESTANDDE(E)L(EN)"
     }
   },
   {
@@ -3535,128 +1603,14 @@
   },
   {
     "translation": {
-      "en": "3. LIST OF EXCIPIENTS",
-      "nl": "3. LIJST VAN HULPSTOFFEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Mannitol, glacial acetic acid, sodium acetate trihydrate, water for injections.",
-      "nl": "Mannitol, ijsazijnzuur, natriumacetaattrihydraat, water voor injecties."
-    }
-  },
-  {
-    "translation": {
-      "en": "Contains metacresol.",
-      "nl": "Bevat metacresol."
-    }
-  },
-  {
-    "translation": {
-      "en": "See leaflet for further information.",
-      "nl": "Zie bijsluiter voor verdere informatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "4. PHARMACEUTICAL FORM AND CONTENTS",
-      "nl": "4. FARMACEUTISCHE VORM EN INHOUD"
-    }
-  },
-  {
-    "translation": {
       "en": "3 pens (3 X 60 doses)",
       "nl": "3 pennen (3 x 60 doses)"
     }
   },
   {
     "translation": {
-      "en": "5. METHOD AND ROUTE(S) OF ADMINISTRATION",
-      "nl": "5. WIJZE VAN GEBRUIK EN TOEDIENINGSWEG(EN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Subcutaneous use.",
-      "nl": "Subcutaan gebruik."
-    }
-  },
-  {
-    "translation": {
       "en": "Read the package leaflet and pen user manual before use.",
       "nl": "Voor gebruik de bijsluiter en gebruikershandleiding van de pen lezen."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT",
-      "nl": "6. EEN SPECIALE WAARSCHUWING DAT HET GENEESMIDDEL BUITEN HET BEREIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "OF THE REACH AND SIGHT OF CHILDREN",
-      "nl": "EN ZICHT VAN KINDEREN DIENT TE WORDEN GEHOUDEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Buiten het bereik en zicht van kinderen houden."
-    }
-  },
-  {
-    "translation": {
-      "en": "7. OTHER SPECIAL WARNING(S), IF NECESSARY",
-      "nl": "7. ANDERE SPECIALE WAARSCHUWING(EN), INDIEN NODIG"
-    }
-  },
-  {
-    "translation": {
-      "en": "If the seal is broken before first use, contact your pharmacist.",
-      "nl": "Als de verzegeling is verbroken vóór het eerste gebruik, neem dan contact op met uw apotheker."
-    }
-  },
-  {
-    "translation": {
-      "en": "8. EXPIRY DATE",
-      "nl": "8. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "EXP {MM/YYYY}",
-      "nl": "EXP (MM/JJJJ)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Discard pen 30 days after first use.",
-      "nl": "Gooi de pen weg 30 dagen na eerste gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "9. SPECIAL STORAGE CONDITIONS",
-      "nl": "9. BIJZONDERE VOORZORGSMAATREGELEN VOOR DE BEWARING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Store in a refrigerator.",
-      "nl": "Bewaren in de koelkast"
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not freeze.",
-      "nl": "Niet in de vriezer bewaren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Return pen to refrigerator after each use.",
-      "nl": "Leg de pen na elk gebruik in de koelkast terug."
     }
   },
   {
@@ -3673,42 +1627,6 @@
   },
   {
     "translation": {
-      "en": "Recap pen to protect from light.",
-      "nl": "Plaats de dop weer terug op de pen om te beschermen tegen licht."
-    }
-  },
-  {
-    "translation": {
-      "en": "10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS",
-      "nl": "10. BIJZONDERE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET"
-    }
-  },
-  {
-    "translation": {
-      "en": "Eli Lilly Nederland B.V.",
-      "nl": "Eli Lilly Nederland B.V."
-    }
-  },
-  {
-    "translation": {
-      "en": "Grootslag 1-5, 3991 RA Houten",
-      "nl": "Grootslag 1-5, 3991 RA Houten"
-    }
-  },
-  {
-    "translation": {
-      "en": "The Netherlands",
-      "nl": "Nederland"
-    }
-  },
-  {
-    "translation": {
-      "en": "12. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "12. NUMMER(S) VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "EU/1/06/362/003",
       "nl": "EU/1/06/362/003"
     }
@@ -3721,38 +1639,8 @@
   },
   {
     "translation": {
-      "en": "13. BATCH NUMBER",
-      "nl": "13. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
       "en": "Lot { No.",
       "nl": "Lot (Nr.)"
-    }
-  },
-  {
-    "translation": {
-      "en": "14. GENERAL CLASSIFICATION FOR SUPPLY",
-      "nl": "14. ALGEMENE INDELING VOOR DE AFLEVERING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal product subject to medical prescription.",
-      "nl": "Geneesmiddel op medisch voorschrift."
-    }
-  },
-  {
-    "translation": {
-      "en": "15. INSTRUCTIONS ON USE",
-      "nl": "15. INSTRUCTIES VOOR GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "16. INFORMATION IN BRAILLE",
-      "nl": "16. INFORMATIE IN BRAILLE"
     }
   },
   {
@@ -3763,50 +1651,8 @@
   },
   {
     "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION",
-      "nl": "1. NAAM VAN HET GENEESMIDDEL EN DE TOEDIENINGWEG(EN)"
-    }
-  },
-  {
-    "translation": {
       "en": "Byetta 10 µg injection",
       "nl": "BYETTA 10 µg injectie"
-    }
-  },
-  {
-    "translation": {
-      "en": "Exenatide",
-      "nl": "Exenatide"
-    }
-  },
-  {
-    "translation": {
-      "en": "Subcutaneous use",
-      "nl": "Subcutaan gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. METHOD OF ADMINISTRATION",
-      "nl": "2. WIJZE VAN TOEDIENING"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. EXPIRY DATE",
-      "nl": "3. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "EXP {MM/YYYY}",
-      "nl": "EXP (MM/JJJJ)"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. BATCH NUMBER",
-      "nl": "4. PARTIJNUMMER"
     }
   },
   {
@@ -3817,32 +1663,8 @@
   },
   {
     "translation": {
-      "en": "5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT",
-      "nl": "5. INHOUD UITGEDRUKT IN GEWICHT, VOLUME OF EENHEID"
-    }
-  },
-  {
-    "translation": {
       "en": "60 doses (2.4ml)",
       "nl": "60 doses (2,4 ml)"
-    }
-  },
-  {
-    "translation": {
-      "en": "6. OTHER",
-      "nl": "6. OVERIGE"
-    }
-  },
-  {
-    "translation": {
-      "en": "B. PACKAGE LEAFLET",
-      "nl": "B. BIJSLUITER"
-    }
-  },
-  {
-    "translation": {
-      "en": "PACKAGE LEAFLET: INFORMATION FOR THE USER",
-      "nl": "BIJSLUITER: INFORMATIE VOOR DE GEBRUIK(ST)ER"
     }
   },
   {
@@ -3865,12 +1687,6 @@
   },
   {
     "translation": {
-      "en": "Read all of this leaflet carefully before you start using this medicine.",
-      "nl": "Lees de hele bijsluiter zorgvuldig door voordat u start met het gebruik van dit geneesmiddel."
-    }
-  },
-  {
-    "translation": {
       "en": "Keep this leaflet.",
       "nl": "Bewaar deze bijsluiter."
     }
@@ -3885,36 +1701,6 @@
     "translation": {
       "en": "If you have any further questions, ask your doctor or your pharmacist.",
       "nl": "Heeft u nog vragen, raadpleeg dan uw arts of apotheker."
-    }
-  },
-  {
-    "translation": {
-      "en": "This medicine has been prescribed for you.",
-      "nl": "Dit geneesmiddel is aan u persoonlijk voorgeschreven."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not pass it on to others.",
-      "nl": "Geef dit geneesmiddel niet door aan anderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "It may harm them, even if their symptoms are the same as yours.",
-      "nl": "Dit geneesmiddel kan schadelijk voor hen zijn, zelfs als de verschijnselen dezelfde zijn als waarvoor u het geneesmiddel heeft gekregen."
-    }
-  },
-  {
-    "translation": {
-      "en": "If any of the side effects gets serious, or if you notice any side effects not listed in this leaflet, please tell your doctor or pharmacist.",
-      "nl": "Wanneer één van de bijwerkingen ernstig wordt of als er bij u een bijwerking optreedt die niet in deze bijsluiter is vermeld, raadpleeg dan uw arts of apotheker."
-    }
-  },
-  {
-    "translation": {
-      "en": "In this leaflet:",
-      "nl": "In deze bijsluiter:"
     }
   },
   {
@@ -3937,20 +1723,8 @@
   },
   {
     "translation": {
-      "en": "4. Possible side effects",
-      "nl": "4. Mogelijke bijwerkingen"
-    }
-  },
-  {
-    "translation": {
       "en": "5. How to store BYETTA",
       "nl": "5. Hoe bewaart u BYETTA"
-    }
-  },
-  {
-    "translation": {
-      "en": "6. Further information",
-      "nl": "6. Aanvullende informatie"
     }
   },
   {
@@ -4123,12 +1897,6 @@
   },
   {
     "translation": {
-      "en": "Ask your doctor or pharmacist for advice before taking any medicine.",
-      "nl": "Vraag uw arts of apotheker om advies voordat u een geneesmiddel inneemt."
-    }
-  },
-  {
-    "translation": {
       "en": "Driving and using machines:",
       "nl": "Rijvaardigheid en het gebruik van machines:"
     }
@@ -4261,12 +2029,6 @@
   },
   {
     "translation": {
-      "en": "Injection needles are not included.",
-      "nl": "Injectienaalden zijn niet bijgesloten."
-    }
-  },
-  {
-    "translation": {
       "en": "The following are examples of disposable needles that can be used with your BYETTA pen: 29 (thin), 30 or 31 (thinner) gauge (diameter 0.25 - 0.33mm) and 12.7, 8 or 5mm length.",
       "nl": "Hier volgen voorbeelden van naalden voor eenmalig gebruik die met uw BYETTA-pen kunnen worden gebruikt: 29 (dun), 30 of 31 (dunner) gauge (diameter 0,25 -- 0,33 mm) en 12,7 - 8- of 5 mm lengte."
     }
@@ -4347,12 +2109,6 @@
     "translation": {
       "en": "If you have any further question on the use of this medicine, ask your doctor, diabetes nurse or pharmacist.",
       "nl": "Als u nog vragen heeft over het gebruik van dit geneesmiddel, vraag dan uw arts, diabetesverpleegkundige of apotheker."
-    }
-  },
-  {
-    "translation": {
-      "en": "4. POSSIBLE SIDE EFFECTS",
-      "nl": "4. MOGELIJKE BIJWERKINGEN"
     }
   },
   {
@@ -4453,20 +2209,8 @@
   },
   {
     "translation": {
-      "en": "If any of the side effects gets serious, or if you notice any side effects not listed in this leaflet, please tell your doctor or pharmacist.",
-      "nl": "Wanneer één van de bijwerkingen ernstig wordt of als er bij u een bijwerking optreedt die niet in deze bijsluiter is vermeld, raadpleeg dan uw arts of apotheker."
-    }
-  },
-  {
-    "translation": {
       "en": "5. HOW TO STORE BYETTA",
       "nl": "5. HOE BEWAART U BYETTA"
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Buiten het bereik en zicht van kinderen houden."
     }
   },
   {
@@ -4491,12 +2235,6 @@
     "translation": {
       "en": "Replace the cap on the pen in order to protect from light.",
       "nl": "Plaats de dop weer terug op de pen om te beschermen tegen licht."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not freeze.",
-      "nl": "Niet in de vriezer bewaren."
     }
   },
   {
@@ -4551,12 +2289,6 @@
     "translation": {
       "en": "These measures will help to protect the environment.",
       "nl": "Deze maatregelen helpen het milieu te beschermen."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. FURTHER INFORMATION",
-      "nl": "6. AANVULLENDE INFORMATIE"
     }
   },
   {
@@ -4633,30 +2365,6 @@
   },
   {
     "translation": {
-      "en": "Not all pack sizes may be marketed.",
-      "nl": "Niet alle genoemde verpakkingsgrootten worden in de handel gebracht."
-    }
-  },
-  {
-    "translation": {
-      "en": "Marketing Authorisation Holder:",
-      "nl": "Houder van de vergunning voor het in de handel brengen:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Eli Lilly Nederland B.V., Grootslag 1-5, NL-3991 RA Houten, The Netherlands.",
-      "nl": "Eli Lilly Nederland B.V., Grootslag 1-5, NL-3991 RA Houten, Nederland."
-    }
-  },
-  {
-    "translation": {
-      "en": "Manufacturer:",
-      "nl": "Fabrikant:"
-    }
-  },
-  {
-    "translation": {
       "en": "This leaflet was last approved in November 2006.",
       "nl": "Deze bijsluiter is voor de laatste keer goedgekeurd in november 2006."
     }
@@ -4677,12 +2385,6 @@
     "translation": {
       "en": "BYETTA 5 micrograms solution for injection, pre-filled pen",
       "nl": "BYETTA 5 microgram oplossing voor injectie"
-    }
-  },
-  {
-    "translation": {
-      "en": "(exenatide)",
-      "nl": "(exenatide)"
     }
   },
   {
@@ -4713,12 +2415,6 @@
     "translation": {
       "en": "The pen delivers a fixed 5 micrograms(j.tg) dose.",
       "nl": "De pen geeft een vaste dosis af van 5 microgram(j.tg)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Important Notes",
-      "nl": "Belangrijke opmerkingen"
     }
   },
   {
@@ -4807,12 +2503,6 @@
   },
   {
     "translation": {
-      "en": "Injection needles are not included.",
-      "nl": "Injectienaalden zijn niet bijgesloten."
-    }
-  },
-  {
-    "translation": {
       "en": "The following are examples of disposable needles that can be used with your BYETTA pen: 29 (thin), 30 or 31 (thinner) gauge (diameter 0.25-0.33mm) and 12.7, 8 or 5mm length.",
       "nl": "Hier volgen voorbeelden van naalden voor eenmalig gebruik die met uw BYETTA-pen kunnen worden gebruikt: 29 (dun), 30 of 31 (dunner) gauge (diameter 0,25 -- 0,33 mm) en 12,7 - 8 -, of 5 mm lengte."
     }
@@ -4879,38 +2569,14 @@
   },
   {
     "translation": {
-      "en": "Storage",
-      "nl": "Bewaren"
-    }
-  },
-  {
-    "translation": {
       "en": "Store your unused BYETTA pen in the original carton in a refrigerator at 2° to 8°C protected from light.",
       "nl": "Bewaar uw ongebruikte BYETTA-pen in de oorspronkelijke doos in de koelkast bij 2 °C tot 8 °C beschermd tegen licht."
     }
   },
   {
     "translation": {
-      "en": "Do not freeze.",
-      "nl": "Niet in de vriezer bewaren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Throw away any BYETTA pen that has been frozen.",
-      "nl": "Gooi een BYETTA-pen altijd weg als deze bevroren is geweest."
-    }
-  },
-  {
-    "translation": {
       "en": "After first use, your BYETTA pen should be refrigerated or kept cold 2° to 8°C when not in use.",
       "nl": "Na eerste gebruik moet uw BYETTA-pen -- wanneer u deze niet gebruikt -- gekoeld of koud bij 2 °C tot 8 °C worden bewaard."
-    }
-  },
-  {
-    "translation": {
-      "en": "However, the medicine is stable up to 25 ºC for 7 days (168 hours), during the 30 day in use period.",
-      "nl": "Echter, het geneesmiddel is stabiel tot 25°C gedurende 7 dagen (168 uur), tijdens de gebruiksperiode van 30 dagen."
     }
   },
   {
@@ -4945,12 +2611,6 @@
   },
   {
     "translation": {
-      "en": "Do not store the pen with the needle attached.",
-      "nl": "Bewaar de pen niet met de naald er nog op."
-    }
-  },
-  {
-    "translation": {
       "en": "If the needle is left on, BYETTA may leak from the pen and air bubbles may form in the cartridge.",
       "nl": "Als de naald erop blijft zitten, kan er BYETTA uit de pen lekken en kunnen er luchtbellen in de patroon komen."
     }
@@ -4959,12 +2619,6 @@
     "translation": {
       "en": "Keep your pen and needles out of the reach and sight of children.",
       "nl": "Houd uw pen en naalden buiten het bereik en het zicht van kinderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Cleaning",
-      "nl": "Reiniging"
     }
   },
   {
@@ -4987,12 +2641,6 @@
   },
   {
     "translation": {
-      "en": "Questions and Answers",
-      "nl": "Vragen en antwoorden"
-    }
-  },
-  {
-    "translation": {
       "en": "1. Do I need to do the New Pen Setup before every dose?",
       "nl": "1. Moet ik voor elke dosis de procedure 'Klaarmaken van nieuwe pen' volgen?"
     }
@@ -5001,12 +2649,6 @@
     "translation": {
       "en": "No.",
       "nl": "Nee."
-    }
-  },
-  {
-    "translation": {
-      "en": "The New Pen Setup is only done before each new pen is used for the first time.",
-      "nl": "Het 'Klaarmaken van nieuwe pen' hoeft alleen te worden uitgevoerd voor het eerste gebruik van elke nieuwe pen."
     }
   },
   {
@@ -5209,12 +2851,6 @@
   },
   {
     "translation": {
-      "en": "Do not store the pen with the needle attached.",
-      "nl": "Bewaar de pen niet met de naald er nog op."
-    }
-  },
-  {
-    "translation": {
       "en": "5. How can I tell when the injection is complete?",
       "nl": "5. Hoe weet ik wanneer de injectie is voltooid?"
     }
@@ -5241,12 +2877,6 @@
     "translation": {
       "en": "A single drop may remain after injection is complete.",
       "nl": "Na voltooiing van een injectie kan een enkele druppel achterblijven."
-    }
-  },
-  {
-    "translation": {
-      "en": "This is normal.",
-      "nl": "Dit is normaal."
     }
   },
   {
@@ -5437,12 +3067,6 @@
   },
   {
     "translation": {
-      "en": "If you repeat the New Pen Setup before each Routine Use, you will not receive 30 days of BYETTA from your pen.",
-      "nl": "Als u 'Klaarmaken van nieuwe pen' voor elk standaard gebruik herhaalt, heeft u niet genoeg BYETTA in uw pen voor 30 dagen."
-    }
-  },
-  {
-    "translation": {
       "en": "BYETTA Pen Parts",
       "nl": "Onderdelen van de BYETTA-pen"
     }
@@ -5515,86 +3139,14 @@
   },
   {
     "translation": {
-      "en": "Use a new needle for each injection.",
-      "nl": "Gebruik een nieuwe naald voor elke injectie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Wash hands prior to use.",
-      "nl": "Was uw handen voor gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "Pull off blue pen cap.",
-      "nl": "Trek de blauwe dop van de pen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Check BYETTA in the cartridge.",
-      "nl": "Controleer BYETTA in de patroon."
-    }
-  },
-  {
-    "translation": {
-      "en": "The liquid should be clear, colourless and free of particles.",
-      "nl": "De vloeistof moet helder, kleurloos en vrij van vaste deeltjes zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "If not, do not use.",
-      "nl": "Gebruik de pen niet als dit niet het geval is."
-    }
-  },
-  {
-    "translation": {
-      "en": "Remove paper tab from outer needle shield.",
-      "nl": "Verwijder het papieren beschermlaagje van de buitenste naaldbescherming."
-    }
-  },
-  {
-    "translation": {
-      "en": "Push capped needle straight onto pen.",
-      "nl": "Duw de naald met de bescherming erom recht op de pen."
-    }
-  },
-  {
-    "translation": {
       "en": "Screw needle on until secure.",
       "nl": "Schroef de naald erop tot het stevig vast zit."
     }
   },
   {
     "translation": {
-      "en": "Pull off outer needle shield.",
-      "nl": "Trek de buitenste naaldbescherming eraf."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not throw away.",
-      "nl": "Gooi deze niet weg."
-    }
-  },
-  {
-    "translation": {
-      "en": "Pull off inner needle shield and throw away.",
-      "nl": "Verwijder de binnenste naaldbescherming en gooi deze weg."
-    }
-  },
-  {
-    "translation": {
       "en": "A small drop of liquid may appear.",
       "nl": "Er kan een kleine druppel vloeistof verschijnen."
-    }
-  },
-  {
-    "translation": {
-      "en": "This is normal.",
-      "nl": "Dit is normaal."
     }
   },
   {
@@ -5725,20 +3277,8 @@
   },
   {
     "translation": {
-      "en": "OR",
-      "nl": "OF"
-    }
-  },
-  {
-    "translation": {
       "en": "on expiration date printed on pen label, whichever date comes first.",
       "nl": "gooi de pen weg op de vervaldatum vermeld op het etiket van de pen, afhankelijk van welke datum het eerst is."
-    }
-  },
-  {
-    "translation": {
-      "en": "PEN USER MANUAL",
-      "nl": "GEBRUIKERSHANDLEIDING PEN"
     }
   },
   {
@@ -5749,128 +3289,14 @@
   },
   {
     "translation": {
-      "en": "(exenatide)",
-      "nl": "(exenatide)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Read and follow these instructions carefully.",
-      "nl": "Lees deze instructies aandachtig en volg ze nauwgezet op."
-    }
-  },
-  {
-    "translation": {
-      "en": "Also, read the Package leaflet provided.",
-      "nl": "Lees ook de bijgevoegde bijsluiter."
-    }
-  },
-  {
-    "translation": {
-      "en": "Pen Features",
-      "nl": "Kenmerken van de pen"
-    }
-  },
-  {
-    "translation": {
-      "en": "A pre-filled pen containing 60 subcutaneous doses of BYETTA for 30 days of use.",
-      "nl": "Een voorgevulde pen die 60 onderhuidse doses BYETTA bevat voor gebruik gedurende 30 dagen."
-    }
-  },
-  {
-    "translation": {
       "en": "The pen delivers a fixed 10 micrograms(j.tg) dose.",
       "nl": "De pen geeft een vaste dosis af van 10 microgram(j.tg)."
     }
   },
   {
     "translation": {
-      "en": "Important Notes",
-      "nl": "Belangrijke opmerkingen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Read these instructions carefully before using your BYETTA pen.",
-      "nl": "Lees deze instructies aandachtig voor u uw BYETTA-pen gebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Failure to follow these instructions completely may result, for example, in a wrong dose, a broken pen, or an infection.",
-      "nl": "Het niet volledig opvolgen van deze instructies kan leiden tot bijvoorbeeld een verkeerde dosis, een gebroken pen of een infectie."
-    }
-  },
-  {
-    "translation": {
       "en": "Check the label on your pen before each use to make sure you are using your 10 j.tg BYETTA pen.",
       "nl": "Controleer vóór elk gebruik het etiket van de pen om te controleren of het uw BYETTA-pen van 10 j.tg is."
-    }
-  },
-  {
-    "translation": {
-      "en": "You must follow instructions in the New Pen Setup section for each new pen before its first use.",
-      "nl": "Vóór het eerste gebruik van elke nieuwe pen moet u de instructies in de paragraaf 'Klaarmaken van nieuwe pen' opvolgen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The New Pen Setup is only done before each new pen is used for the first time.",
-      "nl": "Het 'Klaarmaken van nieuwe pen' hoeft alleen te worden uitgevoerd voor het eerste gebruik van elke nieuwe pen."
-    }
-  },
-  {
-    "translation": {
-      "en": "See Questions and Answers, number 1.",
-      "nl": "Zie 'Vragen en antwoorden', nummer 1."
-    }
-  },
-  {
-    "translation": {
-      "en": "If any part of your pen appears broken or damaged, do not use the pen.",
-      "nl": "Als een onderdeel van uw pen kapot of beschadigd lijkt te zijn, gebruik de pen dan niet."
-    }
-  },
-  {
-    "translation": {
-      "en": "Contact your healthcare professional for a replacement pen.",
-      "nl": "Neem contact op met uw behandelend arts/diabetesverpleegkundige of apotheker voor een vervangende pen."
-    }
-  },
-  {
-    "translation": {
-      "en": "This pen is not recommended for use by blind or visually impaired persons without the assistance of a person trained in the proper use of the medicine.",
-      "nl": "Gebruik van deze pen door blinde of slechtziende personen wordt niet aanbevolen, tenzij met de hulp van iemand die geoefend is in het juiste gebruik van het geneesmiddel."
-    }
-  },
-  {
-    "translation": {
-      "en": "DO NOT TRANSFER THIS MEDICINE TO A SYRINGE.",
-      "nl": "DIT GENEESMIDDEL NIET OVERHEVELEN VAN DE PEN NAAR EEN INJECTIESPUIT."
-    }
-  },
-  {
-    "translation": {
-      "en": "Make sure the liquid in the BYETTA cartridge is clear, colourless and free of particles.",
-      "nl": "Controleer of de vloeistof in de BYETTA-patroon helder en kleurloos is en geen vaste deeltjes bevat."
-    }
-  },
-  {
-    "translation": {
-      "en": "If not, do not use the pen.",
-      "nl": "Als de pen niet helder en kleurloos is of wèl vaste deeltjes bevat, moet u deze niet gebruiken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Follow the instructions for hygienic injection technique recommended by your healthcare professional.",
-      "nl": "Volg de instructies voor een hygiënische injectietechniek zoals aanbevolen door uw behandelend arts/diabetesverpleegkundige of apotheker."
-    }
-  },
-  {
-    "translation": {
-      "en": "Needles",
-      "nl": "Naalden"
     }
   },
   {
@@ -5887,86 +3313,8 @@
   },
   {
     "translation": {
-      "en": "Ask your healthcare professional which needle gauge and length is best for you.",
-      "nl": "Vraag uw behandelend arts/diabetesverpleegkundige of apotheker welke naalddikte en -lengte voor u het best is."
-    }
-  },
-  {
-    "translation": {
-      "en": "Use a new needle for each injection.",
-      "nl": "Gebruik een nieuwe naald voor elke injectie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Remove the needle after completing each injection.",
-      "nl": "Verwijder de naald na elke injectie."
-    }
-  },
-  {
-    "translation": {
-      "en": "This will help prevent leakage of BYETTA, keep out air bubbles, reduce needle clogs, and minimise risk of infection.",
-      "nl": "Dit helpt weglekken van BYETTA en vorming van luchtbellen voorkomen, vermindert verstopping van de naald en minimaliseert het risico van infectie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not share your pen or needles.",
-      "nl": "Deel uw pen of naalden niet."
-    }
-  },
-  {
-    "translation": {
-      "en": "Be sure the needle is completely attached to the pen before use.",
-      "nl": "Zorg dat de naald goed op de pen is bevestigd voor u deze gebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not push the injection button unless a needle is attached to the pen.",
-      "nl": "Druk alleen op de injectieknop als er een naald op de pen is bevestigd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Throw away used needles in a puncture-resistant container or as directed by your healthcare professional.",
-      "nl": "Gooi gebruikte naalden weg in een prikbestendige container of volgens de aanwijzingen van uw behandelend arts/diabetesverpleegkundige of apotheker."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not throw away the pen with a needle attached.",
-      "nl": "Gooi de pen niet weg met een daarop bevestigde naald."
-    }
-  },
-  {
-    "translation": {
-      "en": "Healthcare professionals or other caregivers should follow local or institutional policies regarding needle handling.",
-      "nl": "Gezondheidszorgmedewerkers of andere zorgverleners dienen de lokale voorschriften of de voorschriften van de instelling op te volgen ten aanzien van het omgaan met naalden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Storage",
-      "nl": "Bewaren"
-    }
-  },
-  {
-    "translation": {
       "en": "Store your unused BYETTA pen in the original carton in a refrigerator at 2° to 8°C protected from light.",
       "nl": "Bewaar uw ongebruikte BYETTA-pen in de oorspronkelijke doos in de koelkast bij 2 ° tot 8 °C beschermd tegen licht."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not freeze.",
-      "nl": "Niet in de vriezer bewaren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Throw away any BYETTA pen that has been frozen.",
-      "nl": "Gooi een BYETTA-pen altijd weg als deze bevroren is geweest."
     }
   },
   {
@@ -5977,68 +3325,8 @@
   },
   {
     "translation": {
-      "en": "However, the medicine is stable up to 25 ºC for 7 days (168 hours), during the 30 day in use period.",
-      "nl": "Echter, het geneesmiddel is stabiel tot 25°C gedurende 7 dagen (168 uur), tijdens de gebruiksperiode van 30 dagen."
-    }
-  },
-  {
-    "translation": {
-      "en": "You can use your BYETTA pen for up to 30 days after setting up a new pen for first use.",
-      "nl": "Na het klaarmaken van een nieuwe pen voor eerste gebruik kunt u uw BYETTA-pen 30 dagen lang gebruiken."
-    }
-  },
-  {
-    "translation": {
-      "en": "After 30 days, throw away the BYETTA pen, even if it is not completely empty.",
-      "nl": "Na 30 dagen moet u de BYETTA-pen weggooien, ook als het nog niet helemaal leeg is."
-    }
-  },
-  {
-    "translation": {
-      "en": "Mark the date when you first used your pen and the date 30 days later in the space provided in this User Manual.",
-      "nl": "Noteer de datum waarop u de pen voor het eerst gebruikt en de datum 30 dagen later in de daarvoor bestemde ruimte in de gebruikershandleiding."
-    }
-  },
-  {
-    "translation": {
       "en": "When carrying the pen away from home, store the pen in a way that keeps it cold 2° to 8°C when not in use.",
       "nl": "Wanneer u de pen van huis meeneemt, bewaar de pen dan zo dat hij koud blijft bij 2 ° tot 8 °C als deze niet wordt gebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA should not be used after the expiration date printed on the label.",
-      "nl": "BYETTA mag niet worden gebruikt na de vervaldatum die op het etiket vermeld staat."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not store the pen with the needle attached.",
-      "nl": "Bewaar de pen niet met de naald er nog op."
-    }
-  },
-  {
-    "translation": {
-      "en": "If the needle is left on, BYETTA may leak from the pen and air bubbles may form in the cartridge.",
-      "nl": "Als de naald erop blijft zitten, kan er BYETTA uit de pen lekken en kunnen er luchtbellen in de patroon komen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep your pen and needles out of the reach and sight of children.",
-      "nl": "Houd uw pen en naalden buiten het bereik en het zicht van kinderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Cleaning",
-      "nl": "Reiniging"
-    }
-  },
-  {
-    "translation": {
-      "en": "If needed, wipe the outside of the pen with a clean, damp cloth.",
-      "nl": "Veeg de buitenkant van de pen indien nodig met een schone vochtige doek af."
     }
   },
   {
@@ -6049,140 +3337,8 @@
   },
   {
     "translation": {
-      "en": "You may remove them with an alcohol wipe or alcohol swab.",
-      "nl": "U mag deze met een wattenstokje met alcohol of een alcoholdoekje verwijderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Questions and Answers",
-      "nl": "Vragen en antwoorden"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. Do I need to do the New Pen Setup before every dose?",
-      "nl": "1. Moet ik voor elke dosis de procedure 'Klaarmaken van nieuwe pen' volgen?"
-    }
-  },
-  {
-    "translation": {
-      "en": "No.",
-      "nl": "Nee."
-    }
-  },
-  {
-    "translation": {
-      "en": "The New Pen Setup is only done before each new pen is used for the first time.",
-      "nl": "Het 'Klaarmaken van nieuwe pen' hoeft alleen te worden uitgevoerd voor het eerste gebruik van elke nieuwe pen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The purpose of the setup is to check the flow of BYETTA from the tip of the needle.",
-      "nl": "Het doel van deze procedure is om de uitstroom van BYETTA uit de punt van de naald te controleren."
-    }
-  },
-  {
-    "translation": {
-      "en": "The small amount used in the New Pen Setup will not affect the 30-day supply of BYETTA.",
-      "nl": "De kleine hoeveelheid die bij het klaarmaken van de nieuwe pen wordt verbruikt, heeft geen invloed op de voorraad BYETTA voor 30 dagen."
-    }
-  },
-  {
-    "translation": {
-      "en": "If you repeat the New Pen Setup before each Routine Use, you will not receive 30 days of BYETTA from your pen.",
-      "nl": "Als u 'Klaarmaken van nieuwe pen' voor elk standaard gebruik herhaalt, heeft u niet genoeg BYETTA in uw pen voor 30 dagen."
-    }
-  },
-  {
-    "translation": {
-      "en": "2. Why is it hard to push the injection button in all the way?",
-      "nl": "2. Waarom kost het zo veel moeite om de injectieknop helemaal in te drukken?"
-    }
-  },
-  {
-    "translation": {
-      "en": "The injection button may be hard to push because no needle is attached, the needle is not correctly attached or because the needle is clogged.",
-      "nl": "Het kan veel moeite kosten om de injectieknop in te drukken doordat er geen naald is bevestigd, de naald niet goed is bevestigd of doordat de naald verstopt is."
-    }
-  },
-  {
-    "translation": {
-      "en": "1) Attach a new needle.",
-      "nl": "1) Bevestig een nieuwe naald."
-    }
-  },
-  {
-    "translation": {
-      "en": "Make sure the needle is on straight and screwed on all the way.",
-      "nl": "Zorg ervoor dat de naald recht zit en helemaal is vastgeschroefd."
-    }
-  },
-  {
-    "translation": {
-      "en": "2) Hold pen with needle pointing up and push the injection button in all the way.",
-      "nl": "2) Houd de pen met de naald naar boven en druk de injectieknop helemaal in."
-    }
-  },
-  {
-    "translation": {
-      "en": "Several drops or a tiny stream of BYETTA will come from the needle tip.",
-      "nl": "Er komt een aantal druppels of een stroompje BYETTA uit de punt van de naald."
-    }
-  },
-  {
-    "translation": {
-      "en": "3) If nothing comes from the needle tip, contact your healthcare professional for assistance.",
-      "nl": "3) Als er niets uit de punt van de naald komt, neem dan contact op met uw behandelend arts/diabetesverpleegkundige of apotheker voor hulp."
-    }
-  },
-  {
-    "translation": {
-      "en": "3. I cannot pull, dial or push the dose knob.",
-      "nl": "3. Ik kan de doseerknop niet uittrekken, draaien of indrukken."
-    }
-  },
-  {
-    "translation": {
-      "en": "What should I do?",
-      "nl": "Wat moet ik doen?"
-    }
-  },
-  {
-    "translation": {
-      "en": "Check the symbol in the dose window and follow the steps next to the matching symbol.",
-      "nl": "Controleer het symbool in het doseervenster en volg de stappen naast het bijbehorende symbool."
-    }
-  },
-  {
-    "translation": {
       "en": "If is in the dose window, pull the dose knob out until appears.",
       "nl": "Als in het doseervenster zichtbaar is, trek dan de doseerknop uit tot verschijnt."
-    }
-  },
-  {
-    "translation": {
-      "en": "If you cannot pull the dose knob out, contact your healthcare professional for assistance.",
-      "nl": "Als u de doseerknop niet kunt uittrekken, neem dan contact op met uw behandelend arts/diabetesverpleegkundige of apotheker voor hulp."
-    }
-  },
-  {
-    "translation": {
-      "en": "If is in the dose window and the dose knob will not turn, the cartridge in your BYETTA pen may not have enough liquid to deliver a full dose.",
-      "nl": "Als in het doseervenster zichtbaar is en de doseerknop niet kan worden gedraaid, zit er mogelijk niet voldoende vloeistof in de patroon van uw BYETTA-pen voor een volledige dosis."
-    }
-  },
-  {
-    "translation": {
-      "en": "A small amount of BYETTA will always remain in the cartridge.",
-      "nl": "Er blijft altijd een kleine hoeveelheid BYETTA in de patroon achter."
-    }
-  },
-  {
-    "translation": {
-      "en": "If the cartridge contains a small amount or appears empty, obtain a new BYETTA pen.",
-      "nl": "Als de patroon nog maar een kleine hoeveelheid bevat of leeg lijkt, zorg dan voor een nieuwe BYETTA-pen."
     }
   },
   {
@@ -6199,266 +3355,8 @@
   },
   {
     "translation": {
-      "en": "If is in the dose window and the dose knob will not turn, the injection button was not pushed in all the way and a complete dose was not delivered.",
-      "nl": "Als in het doseervenster zichtbaar is en de doseerknop niet kan worden gedraaid, dan is de injectieknop niet helemaal ingedrukt geweest en is er geen volledige dosis toegediend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Follow these steps:",
-      "nl": "Volg deze stappen:"
-    }
-  },
-  {
-    "translation": {
-      "en": "1) Hold the pen with needle up and push the injection button in.",
-      "nl": "1) Houd de pen met de naald omhoog en druk de injectieknop in."
-    }
-  },
-  {
-    "translation": {
-      "en": "Continue holding the injection button in and count slowly to 5.",
-      "nl": "Blijf de injectieknop ingedrukt houden en tel langzaam tot 5."
-    }
-  },
-  {
-    "translation": {
-      "en": "Then turn the dose knob clockwise until appears in the dose window.",
-      "nl": "Draai vervolgens de doseerknop met de wijzers van de klok mee tot in het doseervenster verschijnt."
-    }
-  },
-  {
-    "translation": {
-      "en": "2) If you cannot turn the dose knob, the needle may be clogged.",
-      "nl": "2) Als u de doseerknop niet kunt draaien, is de naald mogelijk verstopt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Replace the needle and repeat step 1) above.",
-      "nl": "Vervang de naald en herhaal stap 1) hierboven."
-    }
-  },
-  {
-    "translation": {
-      "en": "3) If you still cannot turn the dose knob, contact your healthcare professional for assistance.",
-      "nl": "3) Als u de doseerknop nog steeds niet kunt draaien, neem dan contact op met uw behandelend arts/diabetesverpleegkundige of apotheker voor hulp."
-    }
-  },
-  {
-    "translation": {
-      "en": "4) For your next dose, be sure to push and hold the injection button in and count slowly to 5 before removing needle from skin.",
-      "nl": "4) Zorg dat u voor uw volgende dosis de injectieknop ingedrukt houdt en langzaam tot 5 telt voor u de naald uit de huid verwijdert."
-    }
-  },
-  {
-    "translation": {
-      "en": "4. Why are there air bubbles in the cartridge?",
-      "nl": "4. Hoe komt het dat er luchtbellen in de patroon zitten?"
-    }
-  },
-  {
-    "translation": {
-      "en": "A small air bubble is normal.",
-      "nl": "Een kleine luchtbel is normaal."
-    }
-  },
-  {
-    "translation": {
-      "en": "It will not harm you or affect your dose.",
-      "nl": "Deze is niet schadelijk voor u en heeft ook geen invloed op uw dosis."
-    }
-  },
-  {
-    "translation": {
-      "en": "If the pen is stored with a needle attached, air bubbles may form in the cartridge.",
-      "nl": "Als de pen wordt bewaard met een daarop bevestigde naald, kunnen er luchtbellen ontstaan in de patroon."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not store the pen with the needle attached.",
-      "nl": "Bewaar de pen niet met de naald er nog op."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. How can I tell when the injection is complete?",
-      "nl": "5. Hoe weet ik wanneer de injectie is voltooid?"
-    }
-  },
-  {
-    "translation": {
-      "en": "Continue depressing and holding the injection button while you count slowly to 5 to ensure you get your full dose.",
-      "nl": "Houd de injectieknop ingedrukt terwijl u langzaam tot 5 telt om ervoor te zorgen dat u uw volledige dosis krijgt."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. Why do I see BYETTA leaking from my needle after I inject?",
-      "nl": "6. Hoe komt het dat ik na een injectie BYETTA uit de naald zie lekken?"
-    }
-  },
-  {
-    "translation": {
-      "en": "A single drop may remain after injection is complete.",
-      "nl": "Na voltooiing van een injectie kan een enkele druppel achterblijven."
-    }
-  },
-  {
-    "translation": {
-      "en": "This is normal.",
-      "nl": "Dit is normaal."
-    }
-  },
-  {
-    "translation": {
-      "en": "If you see more than one drop:",
-      "nl": "Als u meer dan één druppel ziet:"
-    }
-  },
-  {
-    "translation": {
-      "en": "You may not have received your full dose.",
-      "nl": "Het is mogelijk dat u niet uw volledige dosis heeft gekregen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not inject another dose.",
-      "nl": "Dien niet nog een dosis toe."
-    }
-  },
-  {
-    "translation": {
-      "en": "To prevent this, for your next dose, make sure to push and firmly hold the injection button in and count slowly to 5 (also see Step 8 ).",
-      "nl": "Zorg dat u bij uw volgende dosis de injectieknop stevig ingedrukt houdt en tel langzaam tot 5 om dit te voorkomen (zie ook stap 8)."
-    }
-  },
-  {
-    "translation": {
-      "en": "7. What should I do if BYETTA does not come out of the needle tip during New Pen Setup?",
-      "nl": "7. Wat moet ik doen als er geen BYETTA uit de punt van de naald komt tijdens het klaarmaken van een nieuwe pen?"
-    }
-  },
-  {
-    "translation": {
-      "en": "Carefully replace the outer needle shield and remove the needle.",
-      "nl": "Plaats voorzichtig de buitenste naaldbescherming terug en verwijder de naald."
-    }
-  },
-  {
-    "translation": {
-      "en": "Attach a new needle, and repeat the instructions in New Pen Setup.",
-      "nl": "Bevestig een nieuwe naald en volg nogmaals de instructies in 'Klaarmaken van nieuwe pen'."
-    }
-  },
-  {
-    "translation": {
-      "en": "If liquid is seen, setup is complete.",
-      "nl": "Als er vloeistof zichtbaar is, is de voorbereiding voltooid."
-    }
-  },
-  {
-    "translation": {
-      "en": "If liquid is not seen, contact your healthcare professional for assistance.",
-      "nl": "Als er geen vloeistof zichtbaar is, neem dan contact op met uw behandelend arts/diabetesverpleegkundige of apotheker voor hulp."
-    }
-  },
-  {
-    "translation": {
-      "en": "New Pen Setup.",
-      "nl": "Klaarmaken van nieuwe pen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Read This First before each new pen is used for the first time.",
-      "nl": "Lees dit eerst steeds voor u een nieuwe pen voor het eerst gebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Set up pen only at the start of its 30 days of use.",
-      "nl": "Maak de pen alleen aan het begin van het 30 dagen durende gebruik klaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "Wash hands prior to use.",
-      "nl": "Was uw handen voor gebruik."
-    }
-  },
-  {
-    "translation": {
       "en": "Check pen label before each use to make sure it is your BYETTA 10 µg pen.",
       "nl": "Controleer voor elk gebruik het etiket van de pen om u ervan te verzekeren dat het uw BYETTA-pen van 10 µg is."
-    }
-  },
-  {
-    "translation": {
-      "en": "Pull off blue pen cap.",
-      "nl": "Trek de blauwe dop van de pen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Check BYETTA in the cartridge.",
-      "nl": "Controleer BYETTA in de patroon."
-    }
-  },
-  {
-    "translation": {
-      "en": "The liquid should be clear, colourless and free of particles.",
-      "nl": "De vloeistof moet helder, kleurloos en vrij van vaste deeltjes zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "If not, do not use.",
-      "nl": "Gebruik de pen niet als dit niet het geval is."
-    }
-  },
-  {
-    "translation": {
-      "en": "A small air bubble in the cartridge is normal.",
-      "nl": "Een kleine luchtbel in de patroon is normaal."
-    }
-  },
-  {
-    "translation": {
-      "en": "Remove paper tab from outer needle shield.",
-      "nl": "Verwijder het papieren beschermlaagje van de buitenste naaldbescherming."
-    }
-  },
-  {
-    "translation": {
-      "en": "Push capped needle straight onto pen.",
-      "nl": "Duw de naald met de bescherming erom recht op de pen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Screw needle on until secure.",
-      "nl": "Schroef de naald erop tot hij stevig vast zit."
-    }
-  },
-  {
-    "translation": {
-      "en": "Pull off outer needle shield.",
-      "nl": "Trek de buitenste naaldbescherming eraf."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not throw away.",
-      "nl": "Gooi deze niet weg."
-    }
-  },
-  {
-    "translation": {
-      "en": "Pull off inner needle shield and throw away.",
-      "nl": "Verwijder de binnenste naaldbescherming en gooi deze weg."
     }
   },
   {
@@ -6475,32 +3373,8 @@
   },
   {
     "translation": {
-      "en": "Hold injection button in and count slowly to 5.",
-      "nl": "Houd de injectieknop ingedrukt en tel langzaam tot 5."
-    }
-  },
-  {
-    "translation": {
-      "en": "If BYETTA does not come from the needle tip, repeat steps C, D, and E of New Pen Setup with the same needle up to three more times.",
-      "nl": "Als er geen BYETTA uit de punt van de naald komt, herhaal dan met dezelfde naald nog eens maximaal 3 keer de stappen C, D en E uit de paragraaf 'Klaarmaken van nieuwe pen'."
-    }
-  },
-  {
-    "translation": {
-      "en": "If BYETTA still does not come from needle tip, see Questions and Answers, number 7.",
-      "nl": "Als er dan nog steeds geen BYETTA uit de punt van de naald komt, raadpleeg dan 'Vragen en antwoorden', nummer 7."
-    }
-  },
-  {
-    "translation": {
       "en": "When x is in dose window, pen is ready to reset.",
       "nl": "Wanneer in het doseervenster zichtbaar is, is de pen klaar om opnieuw te worden ingesteld."
-    }
-  },
-  {
-    "translation": {
-      "en": "If you repeat the New Pen Setup before each Routine Use, you will not receive 30 days of BYETTA from your pen.",
-      "nl": "Als u 'Klaarmaken van nieuwe pen' voor elk standaard gebruik herhaalt, heeft u niet genoeg BYETTA in uw pen voor 30 dagen."
     }
   },
   {
@@ -6513,18 +3387,6 @@
     "translation": {
       "en": "(Needles Not Included)",
       "nl": "(Naalden niet inbegrepen)"
-    }
-  },
-  {
-    "translation": {
-      "en": "BYETTA Pen Parts",
-      "nl": "Onderdelen van de BYETTA-pen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Paper Tab",
-      "nl": "Papieren beschermlaagje"
     }
   },
   {
@@ -6547,128 +3409,14 @@
   },
   {
     "translation": {
-      "en": "Dose Window Symbols:",
-      "nl": "Symbolen doseervenster:"
-    }
-  },
-  {
-    "translation": {
-      "en": "dose knob in and ready to reset",
-      "nl": "doseerknop in en gereed om opnieuw in te stellen"
-    }
-  },
-  {
-    "translation": {
       "en": "Routine Use Follow these instructions for each routine injection.",
       "nl": "Standaard gebruik Volg deze instructies voor elke standaard injectie."
     }
   },
   {
     "translation": {
-      "en": "Attach the Needle",
-      "nl": "Bevestig de naald"
-    }
-  },
-  {
-    "translation": {
       "en": "Check pen label before each use to make sure it is your BYETTA 10 j.tg pen.",
       "nl": "Controleer voor elk gebruik het etiket van de pen om u ervan te verzekeren dat het uw BYETTA-pen van 10 j.tg is."
-    }
-  },
-  {
-    "translation": {
-      "en": "Use a new needle for each injection.",
-      "nl": "Gebruik een nieuwe naald voor elke injectie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Wash hands prior to use.",
-      "nl": "Was uw handen voor gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "Pull off blue pen cap.",
-      "nl": "Trek de blauwe dop van de pen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Check BYETTA in the cartridge.",
-      "nl": "Controleer BYETTA in de patroon."
-    }
-  },
-  {
-    "translation": {
-      "en": "The liquid should be clear, colourless and free of particles.",
-      "nl": "De vloeistof moet helder, kleurloos en vrij van vaste deeltjes zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "If not, do not use.",
-      "nl": "Gebruik de pen niet als dit niet het geval is."
-    }
-  },
-  {
-    "translation": {
-      "en": "Remove paper tab from outer needle shield.",
-      "nl": "Verwijder het papieren beschermlaagje van de buitenste naaldbescherming."
-    }
-  },
-  {
-    "translation": {
-      "en": "Push capped needle straight onto pen.",
-      "nl": "Duw de naald met de bescherming erom recht op de pen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Screw needle on until secure.",
-      "nl": "Schroef de naald erop tot het stevig vast zit."
-    }
-  },
-  {
-    "translation": {
-      "en": "Pull off outer needle shield.",
-      "nl": "Trek de buitenste naaldbescherming eraf."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not throw away.",
-      "nl": "Gooi deze niet weg."
-    }
-  },
-  {
-    "translation": {
-      "en": "Pull off inner needle shield and throw away.",
-      "nl": "Verwijder de binnenste naaldbescherming en gooi deze weg."
-    }
-  },
-  {
-    "translation": {
-      "en": "A small drop of liquid may appear.",
-      "nl": "Er kan een kleine druppel vloeistof verschijnen."
-    }
-  },
-  {
-    "translation": {
-      "en": "This is normal.",
-      "nl": "Dit is normaal."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dial the Dose",
-      "nl": "Stel de dosis in"
-    }
-  },
-  {
-    "translation": {
-      "en": "Pull dose knob out until it stops and is in dose window.",
-      "nl": "Trek de doseerknop uit tot het niet verder kan en in het doseervenster zichtbaar is."
     }
   },
   {
@@ -6691,84 +3439,6 @@
   },
   {
     "translation": {
-      "en": "Use thumb to firmly push injection button in all the way until it stops.",
-      "nl": "Druk met uw duim stevig op de injectieknop tot het niet verder kan."
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep holding injection button firmly and count slowly to 5 to deliver full dose.",
-      "nl": "Houd de injectieknop stevig ingedrukt en tel langzaam tot 5 om de volledige dosis toe te dienen."
-    }
-  },
-  {
-    "translation": {
-      "en": "After removing the needle from your skin should appear in the centre of the dose window.",
-      "nl": "Nadat u de naald uit uw huid heeft verwijderd, moet in het midden van het doseervenster verschijnen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dose is now complete and pen is ready to reset.",
-      "nl": "De toediening van de dosis is nu voltooid en de pen is gereed om opnieuw te worden ingesteld."
-    }
-  },
-  {
-    "translation": {
-      "en": "Note: If several drops of BYETTA are seen leaking from the needle, the injection button was not pushed in all the way.",
-      "nl": "Opmerking: als er een aantal druppels BYETTA uit de naald lekt, is de injectieknop niet helemaal ingedrukt geweest."
-    }
-  },
-  {
-    "translation": {
-      "en": "See Questions and Answers, number 6.",
-      "nl": "Zie 'Vragen en antwoorden', nummer 6."
-    }
-  },
-  {
-    "translation": {
-      "en": "To reset, turn dose knob clockwise until it stops and is in dose window.",
-      "nl": "Draai, om opnieuw in te stellen, de doseerknop met de wijzers van de klok mee tot het niet verder kan en in het doseervenster zichtbaar is."
-    }
-  },
-  {
-    "translation": {
-      "en": "Note: If you cannot turn dose knob or your pen leaks, your full dose has not been delivered.",
-      "nl": "Opmerking: als u de doseerknop niet kunt draaien of uw pen lekt, is niet uw volledige dosis toegediend."
-    }
-  },
-  {
-    "translation": {
-      "en": "See Questions and Answers, numbers 3 and 6.",
-      "nl": "Zie 'Vragen en antwoorden', nummer 3 en 6."
-    }
-  },
-  {
-    "translation": {
-      "en": "Carefully replace outer needle shield.",
-      "nl": "Plaats voorzichtig de buitenste naaldbescherming terug."
-    }
-  },
-  {
-    "translation": {
-      "en": "Unscrew needle and place in a puncture-resistant container.",
-      "nl": "Draai de naald los en doe deze in een prikbestendige container."
-    }
-  },
-  {
-    "translation": {
-      "en": "Note: Remove needle after each injection.",
-      "nl": "Opmerking: verwijder de naald na elke injectie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Replace cap on pen for storage.",
-      "nl": "Plaats de dop terug op de pen tijdens het bewaren.."
-    }
-  },
-  {
-    "translation": {
       "en": "1st use date",
       "nl": "Datum van eerste gebruik"
     }
@@ -6777,24 +3447,6 @@
     "translation": {
       "en": "_____/_____/_____",
       "nl": "_____/ _____/_____"
-    }
-  },
-  {
-    "translation": {
-      "en": "Throw pen away 30 days after first use date,",
-      "nl": "Gooi de pen 30 dagen na de datum van eerste gebruik weg"
-    }
-  },
-  {
-    "translation": {
-      "en": "OR",
-      "nl": "OF"
-    }
-  },
-  {
-    "translation": {
-      "en": "on expiration date printed on pen label, whichever date comes first.",
-      "nl": "gooi de pen weg op de vervaldatum vermeld op het etiket van de pen, afhankelijk van welke datum het eerst is."
     }
   },
   {

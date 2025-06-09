@@ -1,32 +1,8 @@
 [
   {
     "translation": {
-      "en": "ANNEX I",
-      "nl": "BIJLAGE I"
-    }
-  },
-  {
-    "translation": {
-      "en": "SUMMARY OF PRODUCT CHARACTERISTICS",
-      "nl": "SAMENVATTING VAN DE PRODUCTKENMERKEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. NAAM VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
       "en": "ARICLAIM 40 mg hard gastro-resistant capsules.",
       "nl": "ARICLAIM 40 mg harde maagsapresistente capsules."
-    }
-  },
-  {
-    "translation": {
-      "en": "2. QUALITATIVE AND QUANTITATIVE COMPOSITION",
-      "nl": "2. KWALITATIEVE EN KWANTITATIEVE SAMENSTELLING"
     }
   },
   {
@@ -37,50 +13,8 @@
   },
   {
     "translation": {
-      "en": "Each capsule contains 40 mg of duloxetine as duloxetine hydrochloride.",
-      "nl": "Elke capsule bevat 40 mg duloxetine als duloxetine hydrochloride."
-    }
-  },
-  {
-    "translation": {
-      "en": "Excipients: sucrose.",
-      "nl": "Hulpstof: sacharose"
-    }
-  },
-  {
-    "translation": {
-      "en": "For a full list of excipients, see section 6.1.",
-      "nl": "Voor een volledige lijst van hulpstoffen, zie rubriek 6.1."
-    }
-  },
-  {
-    "translation": {
-      "en": "The capsule has an opaque orange body, imprinted with '40mg' and an opaque blue cap, imprinted with '9545'.",
-      "nl": "De capsule heeft een ondoorschijnende oranje romp met het opschrift '40 mg' en een ondoorschijnend blauw kapje met het opschrift '9545'."
-    }
-  },
-  {
-    "translation": {
-      "en": "4. CLINICAL PARTICULARS",
-      "nl": "4. KLINISCHE GEGEVENS"
-    }
-  },
-  {
-    "translation": {
-      "en": "4.1 Therapeutic indications",
-      "nl": "4.1 Therapeutische indicaties"
-    }
-  },
-  {
-    "translation": {
       "en": "ARICLAIM is indicated for women for the treatment of moderate to severe Stress Urinary Incontinence (SUI), (see section 5.1).",
       "nl": "ARICLAIM is geïndiceerd bij vrouwen voor de behandeling van matige tot ernstige Stress-Urine-Incontinentie (SUI; inspanningsincontinentie), (zie rubriek 5.1)."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.2 Posology and method of administration",
-      "nl": "4.2 Dosering en wijze van toediening"
     }
   },
   {
@@ -91,32 +25,8 @@
   },
   {
     "translation": {
-      "en": "After 2-4 weeks of treatment, patients should be re-assessed in order to evaluate the benefit and tolerability of the therapy.",
-      "nl": "Na 2-4 weken behandeling dienen patiënten opnieuw te worden beoordeeld om het voordeel en het verdragen van de behandeling te evalueren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Some patients may benefit from starting treatment at a dose of 20 mg twice daily for two weeks before increasing to the recommended dose of 40 mg twice daily.",
-      "nl": "Sommige patiënten kunnen baat hebben bij een start dosering van 20 mg tweemaal daags gedurende twee weken alvorens de dosering te verhogen tot de aanbevolen dosering van tweemaal daags 40 mg."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dose escalation may decrease, though not eliminate, the risk of nausea and dizziness.",
-      "nl": "Dosis escalatie kan het risico van misselijkheid en duizeligheid verminderen maar niet ongedaan maken."
-    }
-  },
-  {
-    "translation": {
       "en": "However, limited data are available to support the efficacy of ARICLAIM 20 mg twice daily.",
       "nl": "Er zijn echter beperkte gegevens beschikbaar die de werkzaamheid van ARICLAIM tweemaal daags 20 mg ondersteunen."
-    }
-  },
-  {
-    "translation": {
-      "en": "A 20 mg capsule is also available.",
-      "nl": "Er is ook een capsule van 20 mg verkrijgbaar."
     }
   },
   {
@@ -127,20 +37,8 @@
   },
   {
     "translation": {
-      "en": "The benefit of treatment should be re-assessed at regular intervals.",
-      "nl": "Het voordeel van de behandeling dient met regelmatige tussenpozen opnieuw te worden beoordeeld."
-    }
-  },
-  {
-    "translation": {
       "en": "Combining ARICLAIM with a pelvic floor muscle training (PFMT) program may be more effective than either treatment alone.",
       "nl": "Het combineren van ARICLAIM met een programma van bekkenbodemspiertraining kan effectiever zijn dan beide behandelingen afzonderlijk."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is recommended that consideration be given to concomitant PFMT.",
-      "nl": "Het wordt aanbevolen om gelijktijdige bekkenbodemspiertraining te overwegen."
     }
   },
   {
@@ -163,32 +61,14 @@
   },
   {
     "translation": {
-      "en": "No dosage adjustment is necessary for patients with mild or moderate renal dysfunction (creatinine clearance 30 to 80 ml/min).",
-      "nl": "Voor patiënten met lichte of matige nierdisfunctie (creatinineklaring 30 - 80 ml/min) is geen doseringsaanpassing noodzakelijk."
-    }
-  },
-  {
-    "translation": {
       "en": "Elderly.",
       "nl": "Ouderen."
     }
   },
   {
     "translation": {
-      "en": "Caution should be exercised when treating the elderly.",
-      "nl": "Bij het behandelen van ouderen is voorzichtigheid geboden."
-    }
-  },
-  {
-    "translation": {
       "en": "Children and adolescents.",
       "nl": "Kinderen en adolescenten."
-    }
-  },
-  {
-    "translation": {
-      "en": "The safety and efficacy of duloxetine in patients in these age groups have not been studied.",
-      "nl": "De veiligheid en werkzaamheid van duloxetine bij patiënten in deze leeftijdsgroepen zijn niet onderzocht."
     }
   },
   {
@@ -205,50 +85,8 @@
   },
   {
     "translation": {
-      "en": "Abrupt discontinuation should be avoided.",
-      "nl": "Plotseling stopzetten dient te worden vermeden."
-    }
-  },
-  {
-    "translation": {
       "en": "When stopping treatment with ARICLAIM the dose should be gradually reduced over a period of at least one to two weeks in order to reduce the risk of withdrawal reactions (see sections 4.4 and 4.8).",
       "nl": "Bij stopzetting van de behandeling met Ariclaim dient de dosering over een periode van tenminste 1 tot 2 weken geleidelijk te worden afgebouwd om de kans op onthoudingsverschijnselen zo klein mogelijk te houden (zie rubriek 4.4 en 4.8)."
-    }
-  },
-  {
-    "translation": {
-      "en": "If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.",
-      "nl": "Indien niet tolereerbare symptomen optreden na een afname van de dosering of na stopzetting van de behandeling, kan overwogen worden om de laatst voorgeschreven dosering te hervatten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Subsequently, the physician may continue decreasing the dose, but at a more gradual rate.",
-      "nl": "Vervolgens kan de arts doorgaan met verlagen van de dosering, echter in een langzamere mate."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.3 Contraindications",
-      "nl": "4.3 Contra-indicaties"
-    }
-  },
-  {
-    "translation": {
-      "en": "Hypersensitivity to the active substance or to any of the excipients.",
-      "nl": "Overgevoeligheid voor de werkzame stof of voor (één van) de hulpstoffen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Liver disease resulting in hepatic impairment (see section 5.2).",
-      "nl": "Een leveraandoening die leidt tot leverfunctiestoornis (zie rubriek 5.2)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Pregnancy and lactation (see section 4.6).",
-      "nl": "Zwangerschap en borstvoeding (zie rubriek 4.6)."
     }
   },
   {
@@ -265,26 +103,8 @@
   },
   {
     "translation": {
-      "en": "Severe renal impairment (creatinine clearance <30 ml/min) (see section 4.4).",
-      "nl": "Ernstige nierfunctiestoornis (creatinine klaring <30 ml/min) (zie rubriek 4.4)."
-    }
-  },
-  {
-    "translation": {
       "en": "The initiation of treatment with ARICLAIM is contraindicated in patients with uncontrolled hypertension that could expose patients to a potential risk of hypertensive crisis (see sections 4.4 and 4.8).",
       "nl": "Start van de behandeling met ARICLAIM is gecontra-indiceerd bij patiënten met ongecontroleerde hypertensie, dit zou tot een verhoogd risico op hypertensieve crisis bij deze patiënten kunnen leiden (zie rubriek 4.4 en 4.8)."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.4 Special warnings and precautions for use",
-      "nl": "4.4 Bijzondere waarschuwingen en voorzorgen bij gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "Mania and Seizures",
-      "nl": "Manie en convulsies"
     }
   },
   {
@@ -295,62 +115,8 @@
   },
   {
     "translation": {
-      "en": "Use with antidepressants",
-      "nl": "Gebruik samen met antidepressiva"
-    }
-  },
-  {
-    "translation": {
       "en": "The use of ARICLAIM in combination with antidepressants (especially with SSRI, SNRI and reversible MAOIs) is not recommended (see below \"Depression, suicidal ideation and behaviour\" and Section 4.5).",
       "nl": "Het gebruik van ARICLAIM in combinatie met antidepressiva (in het bijzonder SSRI, SNRI en reversibele MAOIs) wordt niet aanbevolen (zie ook Depressie, suïcidale gedachten en gedrag, en rubriek 4.5)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Mydriasis",
-      "nl": "Mydriasis"
-    }
-  },
-  {
-    "translation": {
-      "en": "Blood pressure and heart rate",
-      "nl": "Bloeddruk en hartslag"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine has been associated with an increase in blood pressure and clinically significant hypertension in some patients.",
-      "nl": "Duloxetine wordt geassocieerd met een verhoogde bloeddruk en klinisch significante hypertensie bij sommige patiënten."
-    }
-  },
-  {
-    "translation": {
-      "en": "This may be due to the noradrenergic effect of duloxetine.",
-      "nl": "Dit kan een gevolg zijn van het noradrenerge effect van duloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Cases of hypertensive crisis have been reported with duloxetine, especially in patients with pre-existing hypertension.",
-      "nl": "Gevallen van hypertensieve crisis zijn gerapporteerd met duloxetine, vooral bij patiënten met reeds bestaande hypertensie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Therefore, in patients with known hypertension and/or other cardiac disease, blood pressure monitoring is recommended, especially during the first month of treatment.",
-      "nl": "Daarom wordt bij patiënten met een verhoogde bloeddruk en/of hartaandoening controle van de bloeddruk aanbevolen, vooral gedurende de eerste maand van de behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine should be used with caution in patients whose conditions could be compromised by an increased heart rate or by an increase in blood pressure.",
-      "nl": "Duloxetine dient voorzichtig gebruikt te worden bij patiënten waarbij de conditie gepaard kan gaan met een versnelde hartslag of verhoogde bloeddruk."
-    }
-  },
-  {
-    "translation": {
-      "en": "Caution should also be exercised when duloxetine is used with drugs that may impair its metabolism (see section 4.5).",
-      "nl": "Voorzichtigheid is geboden wanneer duloxetine wordt gebruikt gelijktijdig met geneesmiddelen die het metabolisme kunnen verstoren (zie rubriek 4.5)."
     }
   },
   {
@@ -361,80 +127,8 @@
   },
   {
     "translation": {
-      "en": "In patients with uncontrolled hypertension duloxetine should not be initiated (see section 4.3).",
-      "nl": "Bij patiënten met ongecontroleerde hypertensie dient duloxetine niet gestart te worden (zie rubriek 4.3)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Renal impairment",
-      "nl": "Nierfunctiestoornissen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Increased plasma concentrations of duloxetine occur in patients with severe renal impairment on haemodialysis (creatinine clearance <30 ml/min).",
-      "nl": "Verhoogde plasmaconcentraties van duloxetine komen voor bij patiënten met ernstige nierfunctiestoornissen die hemodialyse ondergaan (creatinineklaring < 30 ml/min)."
-    }
-  },
-  {
-    "translation": {
-      "en": "For patients with severe renal impairment, see section 4.3.",
-      "nl": "Voor patiënten met ernstige nierfunctiestoornissen, zie rubriek 4.3."
-    }
-  },
-  {
-    "translation": {
-      "en": "See section 4.2 for information on patients with mild or moderate renal dysfunction.",
-      "nl": "Zie rubriek 4.2 voor informatie over patiënten met lichte of matige nierdisfunctie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Sucrose",
-      "nl": "Saccharose:"
-    }
-  },
-  {
-    "translation": {
       "en": "ARICLAIM hard gastro-resistant capsules contain sucrose.",
       "nl": "ARICLAIM harde maagsapresistente capsules bevatten saccharose."
-    }
-  },
-  {
-    "translation": {
-      "en": "Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrose-isomaltase insufficiency should not take this medicine.",
-      "nl": "Patiënten met de zeldzame erfelijke problemen fructose-intolerantie, glucose-galactosemalabsorptie of sucrose-isomaltase-insufficiëntie dienen dit geneesmiddel niet te gebruiken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Haemorrhage",
-      "nl": "Bloedingen"
-    }
-  },
-  {
-    "translation": {
-      "en": "There have been reports of bleeding abnormalities, such as ecchymoses, purpura and gastrointestinal haemorrhage with selective serotonin reuptake inhibitors (SSRIs) and serotonin/norepinephrine reuptake inhibitors (SNRIs).",
-      "nl": "Bij Selectieve Serotonine Heropname Remmers (SSRI's) en Serotonine/Noradrenaline Heropname Remmers (SNRI's) is melding gemaakt van bloedingsafwijkingen zoals ecchymoses, purpura en gastrointestinale bloedingen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Caution is advised in patients taking anticoagulants and/or medicinal products known to affect platelet function, and in patients with known bleeding tendencies.",
-      "nl": "Voorzichtigheid is geboden bij patiënten die gebruik maken van anticoagulantia en/of geneesmiddelen waarvan bekend is dat ze de plaatjesfunctie aantasten en bij patiënten van wie bekend is dat ze bloedingsneigingen hebben."
-    }
-  },
-  {
-    "translation": {
-      "en": "Discontinuation of treatment",
-      "nl": "Stopzetten van de behandeling"
-    }
-  },
-  {
-    "translation": {
-      "en": "Withdrawal symptoms when treatment is discontinued are common, particularly if discontinuation is abrupt (see section 4.8).",
-      "nl": "Onthoudingsverschijnselen bij stopzetting van de behandeling zijn gebruikelijk, vooral wanneer abrupt wordt gestopt (zie rubriek 4.8)."
     }
   },
   {
@@ -445,68 +139,8 @@
   },
   {
     "translation": {
-      "en": "The risk of withdrawal symptoms seen with SSRI's and SNRI's may be dependent on several factors including the duration and dose of therapy and the rate of dose reduction.",
-      "nl": "De kans op onthoudingsverschijnselen bij behandeling met SSRI's en SNRI's kan afhankelijk zijn van verschillende factoren waaronder de duur en de dosering van de behandeling en de snelheid van dosis reductie."
-    }
-  },
-  {
-    "translation": {
-      "en": "The most commonly reported reactions are listed in section 4.8.",
-      "nl": "De meest voorkomende symptomen zijn beschreven in rubriek 4.8."
-    }
-  },
-  {
-    "translation": {
-      "en": "Generally the symptoms are mild to moderate, however, in some patients they may be severe in intensity.",
-      "nl": "Over het algemeen zijn de symptomen licht tot matig van aard, echter bij sommige patiënten kan de intensiteit ernstig zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "They usually occur within the first few days of discontinuing treatment, but there have been very rare reports of such symptoms in patients who have inadvertently missed a dose.",
-      "nl": "Normaal gesproken treden deze op in de eerste dagen na stopzetting van de behandeling, er zijn echter zeldzame meldingen van patiënten die per ongeluk een dosis vergeten waren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Generally these symptoms are self-limiting and usually resolve within 2 weeks, though in some individuals they may be prolonged (2-3 months or more).",
-      "nl": "Over in het algemeen zijn deze symptomen zelfbeperkend en verdwijnen ze binnen 2 weken, hoewel ze bij sommige patiënten langer aanwezig kunnen zijn (2 -- 3 maanden, of langer)."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is therefore advised that duloxetine should be gradually tapered when discontinuing treatment over a period of no less than 2 weeks, according to the patient's needs (see section 4.2).",
-      "nl": "Daarom wordt geadviseerd om duloxetine geleidelijk af te bouwen over een periode van tenminste 2 weken, afhankelijk van de behoefte van de patiënt (zie rubriek 4.2)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hyponatremia",
-      "nl": "Hyponatriëmie"
-    }
-  },
-  {
-    "translation": {
       "en": "Hyponatremia has been reported rarely, predominantly in the elderly, when administering ARICLAIM.",
       "nl": "Hyponatriëmie is zelden zelden gemeld, voornamelijk bij ouderen, wanneer ARICLAIM wordt toegediend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Caution is required in patients at increased risk for hyponatremia; such as elderly, cirrhotic, or dehydrated patients or patients treated with diuretics.",
-      "nl": "Voorzichtigheid is geboden bij patiënten met een verhoogd risico op hyponatriëmie, zoals ouderen, cirrotische- of gedehydrateerde patiënten of patiënten behandeld met diuretica."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hyponatremia may be due to a syndrome of inappropriate anti-diuretic hormone secretion (SIADH).",
-      "nl": "Hyponatriëmie kan worden veroorzaakt als gevolg van het onvoldoende anti diuretisch hormoon secretie syndroom (SIADH)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Depression, suicidal ideation and behaviour",
-      "nl": "Depressie, suïcidale gedachten en gedrag"
     }
   },
   {
@@ -517,128 +151,14 @@
   },
   {
     "translation": {
-      "en": "Isolated cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation.",
-      "nl": "Op zichzelf staande gevallen van suïcidale gedachten en suïcidale gedragingen zijn gemeld tijdens therapie met duloxetine of vlak na het staken van de behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "Physicians should encourage patients to report any distressing thoughts or feelings or depressive symptoms at any time.",
-      "nl": "Artsen dienen patiënten te stimuleren om verontrustende gedachten of gevoelens of depressieve symptomen altijd te melden."
-    }
-  },
-  {
-    "translation": {
       "en": "If a decision to initiate antidepressant pharmacological therapy is taken, the gradual discontinuation of ARICLAIM is recommended (see Section 4.2).",
       "nl": "Als het besluit wordt genomen om antidepressiva farmacotherapie te initiëren, wordt een geleidelijke discontinuering van ARICLAIM aanbevolen (zie rubriek 4.2)."
     }
   },
   {
     "translation": {
-      "en": "Use in children and adolescents under 18 years of age",
-      "nl": "Gebruik bij kinderen en adolescenten jonger dan 18 jaar"
-    }
-  },
-  {
-    "translation": {
-      "en": "No clinical trials have been conducted with duloxetine in paediatric populations.",
-      "nl": "Er zijn geen klinische studies uitgevoerd met duloxetine bij pediatrische populaties."
-    }
-  },
-  {
-    "translation": {
       "en": "ARICLAIM should not be used in the treatment of children and adolescents under the age of 18 years.",
       "nl": "ARICLAIM dient niet te worden gebruikt bij de behandeling van kinderen en adolescenten jonger dan 18 jaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "Suicide-related behaviours (suicide attempts and suicidal thoughts), and hostility (predominantly aggression, oppositional behaviour and anger), were more frequently observed in clinical trials among children and adolescents treated with antidepressants compared to those treated with placebo.",
-      "nl": "Aan suïcide gerelateerde gedragingen (suïcidepogingen en suïcidale gedachten) en vijandigheid (voornamelijk agressie, oppositioneel gedrag en woede) werden in klinische studies vaker waargenomen bij kinderen en adolescenten behandeld met antidepressiva vergeleken met diegenen behandeld met placebo."
-    }
-  },
-  {
-    "translation": {
-      "en": "Long-term safety data in children and adolescents concerning growth, maturation and cognitive and behavioural development are lacking.",
-      "nl": "Langetermijngegevens over de veiligheid bij kinderen en adolescenten met betrekking tot groei, maturatie en cognitieve en gedragsontwikkeling ontbreken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal products containing duloxetine",
-      "nl": "Geneesmiddelen die duloxetine bevatten"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is used under different trademarks in several indications (treatment of diabetic neuropathic pain, major depressive episodes as well as stress urinary incontinence).",
-      "nl": "Duloxetine is beschikbaar onder verschillende merknamen voor verschillende indicaties (behandeling van diabetische neuropatische pijn, depressie en stress urine incontinentie)."
-    }
-  },
-  {
-    "translation": {
-      "en": "The use of more than one of these products concomitantly should be avoided.",
-      "nl": "Het gebruik van meer dan één van deze merknamen gelijktijdig moet worden vermeden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hepatitis/increased liver enzymes",
-      "nl": "Verhoogde lever enzymen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Cases of liver injury, including severe elevations of liver enzymes (>10 times upper limit of normal), hepatitis and jaundice have been reported with duloxetine (see section 4.8).",
-      "nl": "Zelden zijn gevallen van leverbeschadiging waaronder ernstige verhogingen van leverenzymen (> 10 maal de normale bovengrens), hepatitis en geelzucht gerapporteerd met duloxetine (zie rubriek 4.8)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Most of them occurred during the first months of treatment.",
-      "nl": "De meeste gevallen vonden plaats tijdens de eerste maanden van behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "The pattern of liver damage was predominantly hepatocellular.",
-      "nl": "Het patroon van leverbeschadiging was voornamelijk hepatocellulair."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine should be used with caution in patients treated with other drugs associated with hepatic injury.",
-      "nl": "Duloxetine moet met voorzichtigheid worden gebruikt bij patiënten die behandeld worden met andere geneesmiddelen geassocieerd met leverbeschadiging."
-    }
-  },
-  {
-    "translation": {
-      "en": "Akathisia/psychomotor restlessness",
-      "nl": "Acathisie / psychomotorische rusteloosheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "The use of duloxetine has been associated with the development of akathisia, characterised by a subjectively unpleasant or distressing restlessness and need to move often accompanied by an inability to sit or stand still.",
-      "nl": "Het gebruik van duloxetine wordt geassocieerd met het ontwikkelen van acathisie, gekarakteriseerd door een subjectieve onprettige, verontrustende rusteloosheid en de behoefte veel te bewegen gepaard gaand met het niet in staat zijn om stil te zitten of stil te staan."
-    }
-  },
-  {
-    "translation": {
-      "en": "This is most likely to occur within the first few weeks of treatment.",
-      "nl": "Dit gebeurt meestal binnen de eerste paar weken van de behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "In patients who develop these symptoms, increasing the dose may be detrimental.",
-      "nl": "Bij patiënten die deze symptomen ontwikkelen kan verhogen van de dosering schadelijk zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.5 Interaction with other medicinal products and other forms of interaction",
-      "nl": "4.5 Interacties met andere geneesmiddelen en andere vormen van interactie"
     }
   },
   {
@@ -655,12 +175,6 @@
   },
   {
     "translation": {
-      "en": "Serotonin syndrome: in rare cases, serotonin syndrome has been reported in patients using SSRIs concomitantly with serotonergic medicinal products.",
-      "nl": "Serotoninesyndroom: in zeldzame gevallen is melding gemaakt van het serotoninesyndroom bij patiënten die SSRI's gelijktijdig gebruikten met serotonerge geneesmiddelen."
-    }
-  },
-  {
-    "translation": {
       "en": "The use of ARICLAIM in combination with serotonergic antidepressants like SSRIs, tricyclics like clomipramine or amitriptyline, venlafaxine, or triptans, tramadol and tryptophan is not recommended.",
       "nl": "Het gebruik van ARICLAIM in combinatie met serotonerge antidepressiva zoals SSRI's, tricyclische antidepressiva zoals clomipramine of amitriptyline, venlafaxine, of triptanen, tramadol en tryptofaan wordt niet aanbevolen."
     }
@@ -673,62 +187,14 @@
   },
   {
     "translation": {
-      "en": "Effect of duloxetine on other drugs",
-      "nl": "Effecten van duloxetine op andere geneesmiddelen"
-    }
-  },
-  {
-    "translation": {
       "en": "Medicinal products metabolised by CYP1A2: The pharmacokinetics of theophylline, a CYP1A2 substrate, were not significantly affected by co-administration with duloxetine (60 mg twice daily).",
       "nl": "Geneesmiddelen gemetaboliseerd door CYP1A2: De farmacokinetiek van theofylline, een CYP1A2- sub straat, werd niet significant beïnvloed door gelijktijdige toediening van duloxetine (60 mg tweemaal daags)."
     }
   },
   {
     "translation": {
-      "en": "Medicinal products metabolised by CYP2D6: Duloxetine is a moderate inhibitor of CYP2D6.",
-      "nl": "Geneesmiddelen gemetaboliseerd door CYP2D6: Duloxetine is een matige remmer van CYP2D6."
-    }
-  },
-  {
-    "translation": {
-      "en": "When duloxetine was administered at a dose of 60 mg twice daily with a single dose of desipramine, a CYP2D6 substrate, the AUC of desipramine increased 3-fold.",
-      "nl": "Wanneer duloxetine werd toegediend als een dosis van 60 mg tweemaal daags met een enkele dosis desipramine, een CYP2D6 substraat, was de AUC van desipramine 3 maal zo hoog."
-    }
-  },
-  {
-    "translation": {
-      "en": "The co-administration of duloxetine (40 mg twice daily) increases steady state AUC of tolterodine (2 mg twice daily) by 71 %, but does not affect the pharmacokinetics of its active 5-hydroxyl metabolite and no dosage adjustment is recommended.",
-      "nl": "Gelijktijdige toediening van duloxetine (40 mg tweemaal daags) verhoogt de 'steady state AUC' van tolterodine (2 mg tweemaal daags) met 71%, maar heeft geen invloed op de farmacokinetiek van de actieve 5- hydroxymetaboliet hiervan en er wordt geen doseringsaanpassing aanbevolen."
-    }
-  },
-  {
-    "translation": {
       "en": "Caution is advised if ARICLAIM is co-administered with medicinal products that are predominantly metabolised by CYP2D6 (risperidone, tricyclic antidepressants [TCAs] such as nortriptyline, amitriptyline, and imipramine) particularly if they have a narrow therapeutic index (such as flecainide, propafenone and metoprolol).",
       "nl": "Voorzichtigheid is geboden als duloxetine gelijktijdig wordt toegediend met geneesmiddelen die voornamelijk worden gemetaboliseerd door CYP2D6 (risperidon, tricyclische antidepressiva [TCA's] zoals nortriptyline, amitryptiline en imipramine) met name als deze een smalle therapeutische breedte hebben (zoals flecainide, propafenon en metoprolol)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Oral contraceptives and other steroidal agents: results of in vitro studies demonstrate that duloxetine does not induce the catalytic activity of CYP3A.",
-      "nl": "Orale anticonceptiva en andere steroïden: uit de resultaten van in vitro-onderzoeken blijkt dat duloxetine niet aanzet tot de katalytische activiteit van CYP3A."
-    }
-  },
-  {
-    "translation": {
-      "en": "Specific in vivo drug interaction studies have not been performed.",
-      "nl": "Er zijn geen specifieke in vivo interactiestudies met geneesmiddelen uitgevoerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Furthermore, increases in INR values have been reported when duloxetine was co-administered with warfarin.",
-      "nl": "Verder zijn er toenames in INR waarden gerapporteerd wanneer duloxetine gelijktijdig werd toegediend met warfarine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Effects of other drugs on duloxetine",
-      "nl": "Effecten van andere geneesmiddelen op duloxetine"
     }
   },
   {
@@ -757,68 +223,8 @@
   },
   {
     "translation": {
-      "en": "Inducers of CYP1A2: Population pharmacokinetic studies analyses have shown that smokers have almost 50% lower plasma concentrations of duloxetine compared with non-smokers.",
-      "nl": "Middelen met CYP1A2-inducerende werking. uit farmacokinetische populatieanalyses is gebleken dat rokers bijna 50% lagere plasmaspiegels van duloxetine hebben dan niet-rokers."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.6 Pregnancy and lactation",
-      "nl": "4.6 Zwangerschap en borstvoeding"
-    }
-  },
-  {
-    "translation": {
-      "en": "Pregnancy",
-      "nl": "Zwangerschap"
-    }
-  },
-  {
-    "translation": {
-      "en": "There are no data on the use of duloxetine in pregnant women.",
-      "nl": "Er zijn geen gegevens over het gebruik van duloxetine bij zwangere vrouwen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Studies in animals have shown reproductive toxicity at systemic exposure levels (AUC) of duloxetine lower than the maximum clinical exposure (see section 5.3).",
-      "nl": "Uit experimenteel onderzoek bij dieren is reproductietoxiciteit gebleken bij systemische blootstellingsniveaus (AUC) van duloxetine die lager waren dan de maximale klinische blootstelling (zie 5.3)."
-    }
-  },
-  {
-    "translation": {
-      "en": "The potential risk for humans is unknown.",
-      "nl": "Het potentiële risico voor de mens is niet bekend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Withdrawal symptoms may occur in the neonate after maternal duloxetine use near term.",
-      "nl": "Onttrekkingsverschijnselen kunnen voorkomen bij de pasgeborene na gebruik van duloxetine door de moeder vlak voor de bevalling."
-    }
-  },
-  {
-    "translation": {
       "en": "ARICLAIM is contraindicated during pregnancy (see section 4.3).",
       "nl": "ARICLAIM is gecontra-indiceerd tijdens de zwangerschap (zie rubriek 4.3)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Breast feeding",
-      "nl": "Borstvoeding"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is very weakly excreted into human milk based on a study of 6 lactating patients, who did not breast feed their children .",
-      "nl": "Duloxetine wordt erg zwak uitgescheiden in de humane melk gebaseerd op een onderzoek met 6 patiënten die melkafscheiding hadden en die geen borstvoeding gaven aan hun kinderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The estimated daily infant dose on a mg/kg basis is approximately 0.14% of the maternal dose (see section 5.2).",
-      "nl": "De geschatte dagelijkse dosis voor het kind op een mg/kg basis is ongeveer 0,14% van de dosis van de moeder (zie rubriek 5.2)."
     }
   },
   {
@@ -829,50 +235,8 @@
   },
   {
     "translation": {
-      "en": "4.7 Effects on ability to drive and use machines",
-      "nl": "4.7 Beïnvloeding van de rijvaardigheid en van het vermogen om machines te bedienen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Although in controlled studies duloxetine has not been shown to impair psychomotor performance, cognitive function, or memory, it may be associated with sedation and dizziness.",
-      "nl": "Hoewel bij gecontroleerde onderzoeken niet is gebleken dat het gebruik van duloxetine de psychomotorische prestaties, de cognitieve functie of het geheugen vermindert, kan het gepaard gaan met sedatie en duizeligheid."
-    }
-  },
-  {
-    "translation": {
-      "en": "Therefore, patients should be cautioned about their ability to drive a car or operate hazardous machinery.",
-      "nl": "Derhalve dienen patiënten tot voorzichtigheid te worden gemaand bij het besturen van een auto of het bedienen van gevaarlijke machines."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.8 Undesirable effects",
-      "nl": "4.8 Bijwerkingen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Table 1 gives the adverse reactions observed from spontaneous reporting and in placebo-controlled clinical trials (comprising a total of 7977 patients, 4371 on duloxetine and 3606 on placebo) in SUI and other lower urinary tract disorders.",
-      "nl": "Tabel 1 beschrijft de bijwerkingen gezien uit spontane meldingen en in placebo gecontroleerde klinische studies bij SUI en lagere urineweg aandoeningen bestaande uit totaal 7.977 patienten (4.371 met duloxetine, 3.606 met placebo)."
-    }
-  },
-  {
-    "translation": {
       "en": "The most commonly reported adverse events in patients treated with ARICLAIM in clinical trials in SUI and other lower urinary tract disorders were nausea, dry mouthand fatigue -.",
       "nl": "De meest gemelde bijwerkingen bij patiënten behandeld met ARICLAIM in klinische studies in SUI en lagere urineweg aandoeningen waren misselijkheid, droge mond en vermoeidheid."
-    }
-  },
-  {
-    "translation": {
-      "en": "The data analysis of four 12-week, placebo-controlled clinical trials in patients with SUI, including 958 duloxetine-treated and 955 placebo-treated patients, showed that the onset of the reported adverse events typically occurred in the first week of therapy.",
-      "nl": "Uit de gegevensanalyse van vier 12 weken durende, placebo gecontroleerde klinische studies bij patiënten met SUI, onder wie 958 met duloxetine behandelde en 955 met placebo behandelde patiënten bleek dat de gemelde bijwerkingen doorgaans begonnen in de eerste week van de behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "However, the majority of the most frequent adverse events were mild to moderate and resolved within 30 days of occurrence (e.g. nausea).",
-      "nl": "De meeste van de vaakst voorkomende bijwerkingen waren echter licht tot matig van aard en verdwenen binnen 30 dagen nadat ze waren opgetreden (bijv. misselijkheid)."
     }
   },
   {
@@ -883,212 +247,14 @@
   },
   {
     "translation": {
-      "en": "[[TABLE]]",
-      "nl": "[[TABLE]]"
-    }
-  },
-  {
-    "translation": {
-      "en": "Cases of orthostatic hypotension and syncope have been reported especially at the initiation of treatment",
-      "nl": "Gevallen van orthostatische hypotensie en syncope zijn met name gemeld aan het begin van de behandeling"
-    }
-  },
-  {
-    "translation": {
-      "en": "See section 4.4",
-      "nl": "Zie rubriek 4.4"
-    }
-  },
-  {
-    "translation": {
-      "en": "Discontinuation of duloxetine (particularly when abrupt) commonly leads to withdrawal symptoms.",
-      "nl": "Wanneer gestopt wordt met duloxetine (met name bij abrupt stoppen) leidt dit vaak tot onthoudingsverschijnselen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dizziness, sensory disturbances (including paraesthesia), sleep disturbances (including insomnia and intense dreams), agitation or anxiety, nausea and/or vomiting, tremor and headache are the most commonly reported reactions.",
-      "nl": "Duizeligheid, gevoelsstoornissen (inbegrepen verlamming), slaapstoornissen (inbegrepen slapeloosheid en diepe dromen), agitatie of angst, misselijkheid en/of overgeven, tremor en hoofdpijn zijn de meest gemelde reacties."
-    }
-  },
-  {
-    "translation": {
-      "en": "Generally, for SSRIs and SNRIs, these events are mild to moderate and self-limiting, however, in some patients they may be severe and/or prolonged.",
-      "nl": "In het algemeen geldt voor SSRI's en SNRI's dat deze symptomen mild tot matig en zelfbeperkend zijn, hoewel ze bij sommige patiënten ernstig en/of langdurig zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is therefore advised that when duloxetine treatment is no longer required, gradual discontinuation by dose tapering should be carried out (see sections 4.2 and 4.4).",
-      "nl": "Daarom wordt geadviseerd om, wanneer duloxetine behandeling niet langer nodig is, geleidelijk aan te stoppen door de dosering langzaam af te bouwen (zie rubriek 4.2 en 4.4)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Electrocardiograms were obtained from 755 duloxetine-treated patients with SUI and 779 placebo-treated patients in 12-week clinical trials.",
-      "nl": "Tijdens 12 weken durende klinische studies werden elektrocardiogrammen gemaakt van 755 met duloxetine behandelde patiënten met SUI en 779 met placebo behandelde patiënten."
-    }
-  },
-  {
-    "translation": {
-      "en": "The heart rate-corrected QT interval in duloxetine-treated patients did not differ from that seen in placebo-treated patients.",
-      "nl": "Het voor hartritme gecorrigeerde QT-interval bij met duloxetine behandelde patiënten verschilde niet van dat waargenomen bij met placebo behandelde patiënten."
-    }
-  },
-  {
-    "translation": {
-      "en": "In the 12 week acute phase of three clinical trials of duloxetine in patients with diabetic neuropathic pain, small but statistically significant increases in fasting blood glucose were observed in duloxetine-treated patients .",
-      "nl": "In de 12 weken acute fase van drie klinische studies van duloxetine bij patiënten met diabetische neuropatische pijn, werd een kleine maar statistisch significante toename in nuchter bloedglucosewaarden waargenomen bij met duloxetine behandelde patiënten."
-    }
-  },
-  {
-    "translation": {
-      "en": "HbA1c was stable in both duloxetine-treated and placebo-treated patients.",
-      "nl": "HbA1c was stabiel bij zowel de duloxetine behandelde als de placebo behandelde patiënten."
-    }
-  },
-  {
-    "translation": {
-      "en": "In the extension phase of these studies, which lasted up to 52 weeks, there was an increase in HbA1c in both the duloxetine and routine care groups, but the mean increase was 0.3% greater in the duloxetine-treated group.",
-      "nl": "In de verlengde fase, welke tot 52 weken duurde, was er een toename van het HbA1c in zowel de duloxetine als de routine groep, maar de gemiddelde toename was 0,3% groter in de duloxetine behandelde groep."
-    }
-  },
-  {
-    "translation": {
-      "en": "There was also a small increase in fasting blood glucose and in total cholesterol in duloxetine-treated patients while those laboratory tests showed a slight decrease in the routine care group.",
-      "nl": "Er was ook een kleine toename van de nuchtere bloedglucose waarde en het totale cholesterol in de duloxetine behandelde groep terwijl deze lab waarden een kleine daling lieten zien in de routine groep."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.9 Overdose",
-      "nl": "4.9 Overdosering"
-    }
-  },
-  {
-    "translation": {
-      "en": "There is limited clinical experience with duloxetine overdose in humans.",
-      "nl": "De klinische ervaring met overdosering van duloxetine bij de mens is beperkt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Cases of overdoses, alone or in combination with other drugs, with duloxetine doses of almost 2000 mg were reported.",
-      "nl": "Gevallen van overdosering, alleen of in combinatie met andere middelen, zijn gemeld bij duloxetine doseringen van bijna 2000 mg."
-    }
-  },
-  {
-    "translation": {
-      "en": "Some fatalities have occurred, primarily with mixed overdoses, but also with duloxetine alone at a dose of approximately 1000 mg.",
-      "nl": "Enkele fatale gevolgen zijn opgetreden, vooral bij gecombineerde overdoseringen maar ook met enkel duloxetine bij een dosis van ongeveer 1000 mg."
-    }
-  },
-  {
-    "translation": {
-      "en": "Signs and symptoms of overdose (mostly with mixed drugs) included serotonin syndrome, somnolence, vomiting and seizures.",
-      "nl": "Tekenen en symptomen van overdosering (vooral bij gecombineerde middelen) zijn serotonine syndroom, slapeloosheid, overgeven en toevallen."
-    }
-  },
-  {
-    "translation": {
-      "en": "No specific antidote for duloxetine is known but if serotonin syndrome ensues, specific treatment (such as with cyproheptadine and/or temperature control) may be considered..",
-      "nl": "Er is geen specifiek antidotum tegen duloxetine bekend, maar indien het serotonine syndroom optreedt, kan specifieke behandeling overwogen worden (zoals met cyproheptadine en/of temperatuur controle)."
-    }
-  },
-  {
-    "translation": {
-      "en": "A free airway should be established.",
-      "nl": "De luchtwegen dienen te worden vrijgemaakt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Monitoring of cardiac and vital signs is recommended, along with appropriate symptomatic and supportive measures.",
-      "nl": "Aangeraden wordt de hartfuncties en de vitale functies nauwlettend te controleren en tevens adequate symptomatische en ondersteunende maatregelen te nemen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Gastric lavage may be indicated if performed soon after ingestion or in symptomatic patients.",
-      "nl": "Indien dit spoedig na inslikken wordt uitgevoerd of bij symptomatische patiënten kan maagspoeling zijn aangewezen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Activated charcoal may be useful in limiting absorption.",
-      "nl": "Om de absorptie te beperken kan geactiveerde kool worden gebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine has a large volume of distribution and forced diuresis, haemoperfusion, and exchange perfusion are unlikely to be beneficial.",
-      "nl": "Duloxetine heeft een groot verdelingsvolume en het is onwaarschijnlijk dat geforceerde diurese, hemoperfusie en wisselperfusie van nut zullen zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. PHARMACOLOGICAL PROPERTIES",
-      "nl": "5. FARMACOLOGISCHE EIGENSCHAPPEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "5.1 Pharmacodynamic properties",
-      "nl": "5.1 Farmacodynamische eigenschappen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is a combined serotonin (5-HT) and norepinephrine (NE) reuptake inhibitor.",
-      "nl": "Duloxetine is een gecombineerde serotonine(5-HT)- en noradrenaline(NA)-heropnameremmer."
-    }
-  },
-  {
-    "translation": {
-      "en": "It weakly inhibits dopamine reuptake with no significant affinity for histaminergic, dopaminergic, cholinergic and adrenergic receptors.",
-      "nl": "Het remt de heropname van dopamine in zwakke mate en heeft geen significante affiniteit voor histaminerge, dopaminerge, cholinerge en adrenerge receptoren."
-    }
-  },
-  {
-    "translation": {
-      "en": "In animal studies, increased levels of 5-HT and NE in the sacral spinal cord, lead to increased urethral tone via enhanced pudendal nerve stimulation to the urethral striated sphincter muscle only during the storage phase of the micturition cycle.",
-      "nl": "Bij dierproeven leiden verhoogde concentraties van 5-HT en NA in het sacrale ruggemerg tot een toegenomen tonus van de urethra door een verhoogde stimulatie van de nervus pudendus naar de urethrale dwarsgestreepte sfincterspier, die alleen tijdens de vulfase van de mictiecyclus optreedt."
-    }
-  },
-  {
-    "translation": {
       "en": "A similar mechanism in women is believed to result in stronger urethral closure during urine storage with physical stress that could explain the efficacy of duloxetine in the treatment of women with SUI.",
       "nl": "Van een vergelijkbaar mechanisme bij vrouwen, wordt aangenomen dat het resulteert in sterkere urethrale sluiting tijdens urine-opslag met fysieke stress wat de werkzaamheid van duloxetine bij de behandeling van vrouwen met SUI zou kunnen verklaren."
     }
   },
   {
     "translation": {
-      "en": "The efficacy of duloxetine 40 mg given twice daily in the treatment of SUI was established in four double-blind, placebo-controlled studies, that randomised 1913 women (22 to 83 years) with SUI; of these, 958 patients were randomised to duloxetine and 955 to placebo.",
-      "nl": "De werkzaamheid van duloxetine 40 mg tweemaal daags bij de behandeling van SUI werd vastgesteld in vier dubbelblinde, placebogecontroleerde onderzoeken waarbij 1913 vrouwen (22-83 jaar) met SUI werden gerandomiseerd; hierbij kregen 958 patiënten duloxetine en 955 patiënten een placebo toegewezen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The primary efficacy measures were Incontinence Episode Frequency (IEF) from diaries and an incontinence specific quality of life questionnaire score (I-QOL).",
-      "nl": "De voornaamste maatstaven voor de werkzaamheid waren de urine-incontinentie-episodefrequentie (IEF) uit dagboeken en een urine-incontinentiespecifieke levenskwaliteitsscore (I-QOL)."
-    }
-  },
-  {
-    "translation": {
       "en": "Incontinence Episode Frequency. in all four studies the duloxetine-treated group had a 50% or greater median decrease in IEF compared with 33% in the placebo-treated group.",
       "nl": "Urine-incontinentie-episodefrequentie: bij alle vier onderzoeken vertoonde de met duloxetine behandelde groep een mediane afname in IEF van 50% of meer tegenover veranderingen in de placebogroep van 33%."
-    }
-  },
-  {
-    "translation": {
-      "en": "Differences were observed at each visit after 4 weeks (duloxetine 54%, and placebo 22%), 8 weeks (52% and 29%), and 12 weeks (52% and 33%) of medication.",
-      "nl": "Er werden verschillen waargenomen bij iedere visite na 4 weken (duloxetine 54% en placebo 22%), na 8 weken (52% en 29%), en na 12 weken (52% en 33%) het geneesmiddel innemen."
-    }
-  },
-  {
-    "translation": {
-      "en": "In an additional study limited to patients with severe SUI, all responses with duloxetine were achieved within 2 weeks.",
-      "nl": "Bij een aanvullend onderzoek dat zich beperkte tot patiënten met ernstige SUI werden alle reacties met duloxetine binnen 2 weken bereikt."
     }
   },
   {
@@ -1111,12 +277,6 @@
   },
   {
     "translation": {
-      "en": "Using a global improvement scale (PGI), significantly more women using duloxetine considered their symptoms of stress incontinence to be improved with treatment compared with women using placebo (64.6% versus 50.1%, p<.001).",
-      "nl": "Met gebruikmaking van een schaal voor de globale verbetering (PGI), waren significant meer vrouwen die duloxetine gebruikten van mening dat hun symptomen van stress-incontinentie verbeterd waren tijdens de behandeling vergeleken met vrouwen die placebo namen (64,6% versus 50,1%, p<0,00 1)."
-    }
-  },
-  {
-    "translation": {
       "en": "ARICLAIM and Prior Continence Surgery. there are limited data that suggest that the benefits of ARICLAIM are not diminished in women with stress urinary incontinence who have previously undergone continence surgery.",
       "nl": "ARICLAIM en voorafgaande urine-incontinentiechirurgie: er zijn beperkte gegevens die suggereren dat de voordelen van ARICLAIM niet afnemen bij vrouwen met stress-urine-incontinentie die voorheen incontinentiechirurgie ondergaan hebben."
     }
@@ -1135,248 +295,14 @@
   },
   {
     "translation": {
-      "en": "5.2 Pharmacokinetic properties",
-      "nl": "5.2 Farmacokinetische gegevens"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is administered as a single enantiomer.",
-      "nl": "Duloxetine wordt als een enkele enantiomeer toegediend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is extensively metabolised by oxidative enzymes (CYP1A2 and the polymorphic CYP2D6), followed by conjugation.",
-      "nl": "Duloxetine wordt uitgebreid gemetaboliseerd door oxidatieve enzymen (CYP1A2 en het polymorfe CYP2D6), gevolgd door conjugatie."
-    }
-  },
-  {
-    "translation": {
       "en": "The pharmacokinetics of duloxetine demonstrate large intersubject variability (generally 50-60%), partly due to gender, age, smoking status and CYP2D6 metaboliser status.",
       "nl": "De farmacokinetiek van duloxetine varieert sterk tussen proefpersonen (over het algemeen 50-60%), gedeeltelijk vanwege geslacht, leeftijd, wel of niet roken en de status van metabolisatie door CYP2D6."
     }
   },
   {
     "translation": {
-      "en": "Duloxetine is well absorbed after oral administration with a Cmax occurring 6 hours post dose.",
-      "nl": "Duloxetine wordt na orale toediening goed geabsorbeerd en de Cmax wordt 6 uur na dosering bereikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "The absolute oral bioavailability of duloxetine ranged from 32% to 80% (mean of 50%; N=8 subjects).",
-      "nl": "De absolute orale biologische beschikbaarheid van duloxetine varieerde van 32% tot 80% (gemiddeld 50%; n = 8 proefpersonen)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Food delays the time to reach the peak concentration from 6 to 10 hours and it marginally decreases the extent of absorption (approximately 11%).",
-      "nl": "Voedsel vertraagt de benodigde tijd om de piekconcentratie te bereiken van 6 tot 10 uur en zorgt voor een marginale afname van de mate van absorptie (circa 11%)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is approximately 96% bound to human plasma proteins.",
-      "nl": "Duloxetine wordt voor circa 96% aan menselijke plasma-eiwitten gebonden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine binds to both albumin and alpha-1 acid glycoprotein.",
-      "nl": "Duloxetine bindt zowel aan albumine als aan alfa- 1-zuur-glycoproteïne."
-    }
-  },
-  {
-    "translation": {
-      "en": "Protein binding is not affected by renal or hepatic impairment.",
-      "nl": "De eiwitbinding wordt niet beïnvloed door nier- of leverfunctiestoornissen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is extensively metabolised and the metabolites are excreted principally in urine.",
-      "nl": "Duloxetine wordt uitgebreid gemetaboliseerd en de metabolieten worden voornamelijk in urine uitgescheiden."
-    }
-  },
-  {
-    "translation": {
       "en": "Both CYP2D6 and CYP 1A2 catalyse the formation of the two major metabolites glucuronide conjugate of 4-hydroxy duloxetine and sulphate conjugate of 5-hydroxy,6-methoxy duloxetine.",
       "nl": "Zowel CYP2D6 als CYP1A2 katalyseren de vorming van de twee belangrijkste metabolieten glucuronideconjugaat van 4-hydroxyduloxetine en sulfaatconjugaat van 5-hydroxy,6- methoxyduloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Based upon in vitro studies, the circulating metabolites of duloxetine are considered pharmacologically inactive.",
-      "nl": "Op basis van in vitro-onderzoeken worden de circulerende metabolieten van duloxetine als farmacologisch inactief beschouwd."
-    }
-  },
-  {
-    "translation": {
-      "en": "The pharmacokinetics of duloxetine in patients who are poor metabolisers with respect to CYP2D6 has not been specifically investigated.",
-      "nl": "De farmacokinetiek van duloxetine bij patiënten die langzame omzetters zijn met betrekking tot CYP2D6, is niet specifiek onderzocht."
-    }
-  },
-  {
-    "translation": {
-      "en": "Limited data suggest that the plasma levels of duloxetine are higher in these patients.",
-      "nl": "Beperkte data suggereren dat de plasmaspiegels van duloxetine bij deze patiënten hoger zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "The elimination half-life of duloxetine after an oral dose ranges from 8 to 17 hours (mean of 12 hours).",
-      "nl": "De eliminatie-halfwaardetijd van duloxetine na een orale dosis varieert van 8 tot 17 uur (gemiddeld 12 uur)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Special populations:",
-      "nl": "Speciale groepen patiënten:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Age: pharmacokinetic differences have been identified between younger and elderly females (\\u226565 years) (AUC increases by about 25% and half-life is about 25% longer in the elderly), although the magnitude of these changes is not sufficient to justify adjustments to the dose.",
-      "nl": "Leeftijd: hoewel er farmacokinetische verschillen zijn vastgesteld tussen jongere en oudere vrouwen (\\u2265 65 jaar) (AUC neemt toe met ongeveer 25% en de halfwaardetijd is ongeveer 25% langer bij ouderen) zijn deze verschillen niet groot genoeg om aanpassingen van de dosis te rechtvaardigen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Renal impairment: end stage renal disease (ESRD) patients receiving dialysis had a 2-fold higher duloxetine Cmax and AUC values compared to healthy subjects.",
-      "nl": "Nierfunctiestoornissen: patiënten met nierziekte in het eindstadium die dialyse ondergingen, hadden 2 keer zo hoge Cmax- en AUC-waarden voor duloxetine als gezonde proefpersonen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Pharmacokinetic data on duloxetine is limited in patients with mild or moderate renal impairment.",
-      "nl": "Farmacokinetische gegevens over duloxetine zijn beperkt bij patiënten met lichte of matige nierfunctiestoornissen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hepatic insufficiency: moderate liver disease (Child Pugh Class B) affected the pharmacokinetics of duloxetine.",
-      "nl": "Leverinsufficiëntie: matige leverziekte (Child-Pugh klasse B) beïnvloedde de farmacokinetiek van duloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Compared with healthy subjects, the apparent plasma clearance of duloxetine was 79% lower, the apparent terminal half-life was 2.3 times longer, and the AUC was 3.7 times higher in patients with moderate liver disease.",
-      "nl": "Vergeleken met gezonde proefpersonen was de schijnbare plasmaklaring van duloxetine 79% lager, de schijnbare terminale halfwaardetijd was 2,3 keer langer en de AUC was 3,7 keer hoger bij patiënten met matige leverziekte."
-    }
-  },
-  {
-    "translation": {
-      "en": "The pharmacokinetics of duloxetine and its metabolites have not been studied in patients with mild or severe hepatic insufficiency.",
-      "nl": "De farmacokinetiek van duloxetine en zijn metabolieten is niet bestudeerd bij patiënten met lichte of ernstige leverinsufficiëntie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Nursing mothers: The disposition of duloxetine was studied in 6 lactating women who were at least 12-weeks postpartum.",
-      "nl": "Moeders die borstvoeding geven: De eigenschappen van duloxetine zijn bestudeerd bij 6 moeders die borstvoeding gaven 12 weken postpartum."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is detected in breast milk, and steady-state concentrations in breast milk are about one-fourth those in plasma.",
-      "nl": "Duloxetine werd gedetecteerd in de moedermelk, en steady-state concentraties in moedermelk zijn ongeveer éénvierde van die in plasma."
-    }
-  },
-  {
-    "translation": {
-      "en": "The amount of duloxetine in breast milk is approximately 7 µg/day while on 40 mg twice daily dosing.",
-      "nl": "De hoeveelheid duloxetine in moedermelk is ongeveer 7 microgram/dag bij een dosering van 40 mg tweemaal daags."
-    }
-  },
-  {
-    "translation": {
-      "en": "Lactation did not influence duloxetine pharmacokinetics.",
-      "nl": "Het geven van borstvoeding had geen invloed op de farmacokinetiek van duloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "5.3 Precinical safety data",
-      "nl": "5.3 Gegevens uit het preklinisch veiligheidsonderzoek"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine was not genotoxic in a standard battery of tests and was not carcinogenic in rats.",
-      "nl": "Duloxetine was in een standaard serie testen niet genotoxisch en was niet carcinogeen bij ratten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Multinucleated cells were seen in the liver in the absence of other histopathological changes in the rat carcinogenicity study.",
-      "nl": "In de carcinogeniteitsstudie bij ratten werden meerkernige cellen gezien in de lever in afwezigheid van andere histopathologische veranderingen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The underlying mechanism and the clinical relevance are unknown.",
-      "nl": "Het onderliggende mechanisme en de klinische relevantie zijn onbekend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Female mice receiving duloxetine for 2 years had an increased incidence of hepatocellular adenomas and carcinomas at the high dose only (144 mg/kg/day), but these were considered to be secondary to hepatic microsomal enzyme induction.",
-      "nl": "Vrouwtjesmuizen die gedurende 2 jaar duloxetine kregen toegediend, hadden alleen bij de hoge dosis (144 mg/kg/dag) een verhoogde incidentie van hepatocellulaire adenomen en carcinomen, maar aangenomen werd dat deze het gevolg waren van inductie van microsomale leverenzymen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The relevance of this mouse data to humans is unknown.",
-      "nl": "In hoeverre deze gegevens bij de muis relevant zijn voor de mens is onbekend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Female rats receiving duloxetine before and during mating and early pregnancy had a decrease in maternal food consumption and body weight, oestrous cycle disruption, decreased live birth indices and progeny survival, and progeny growth retardation at systemic exposure levels estimated to be at the most at maximum clinical exposure (AUC).",
-      "nl": "Bij vrouwtjesratten die duloxetine toegediend kregen vóór en tijdens het paren en de vroege zwangerschap, nam de voedselconsumptie en het lichaamsgewicht van het moederdier af, werd de oestrus verstoord, nam het aantal levendgeboren en overlevende jongen af en was sprake van een vertraagde groei van de jongen, bij systemische blootstellingsniveaus, waarvan geschat wordt dat die ten hoogste overeenkwamen met de maximale klinische blootstelling (AUC)."
-    }
-  },
-  {
-    "translation": {
-      "en": "In an embryotoxicity study in the rabbit, a higher incidence of cardiovascular and skeletal malformations was observed at systemic exposure levels below the maximun clinical exposure (AUC).",
-      "nl": "In een embryotoxiciteitsstudie bij konijnen werd een hogere incidentie van cardiovasculaire malformaties en skeletmalformaties waargenomen bij systemische blootstellingsniveaus onder de maximale klinische blootstelling (AUC)."
-    }
-  },
-  {
-    "translation": {
-      "en": "No malformations were observed in another study testing a higher dose of a different salt of duloxetine.",
-      "nl": "Er werden geen malformaties waargenomen bij een andere studie, waarbij een hogere dosis van een verschillend zout van duloxetine werd getest."
-    }
-  },
-  {
-    "translation": {
-      "en": "In pre/postnatal toxicity study in the rat, duloxetine induced adverse behavioural effects in the offspring at systemic exposures levels below maximum clinical exposure (AUC).",
-      "nl": "In een pre-/postnatale toxiciteitsstudie bij de rat leidde duloxetine tot afwijkende gedragseffecten bij de nakomelingen bij systemische blootstellingsniveaus onder de maximale klinische blootstelling (AUC)."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. PHARMACEUTICAL PARTICULARS",
-      "nl": "6. FARMACEUTISCHE GEGEVENS"
-    }
-  },
-  {
-    "translation": {
-      "en": "6.1 List of excipients",
-      "nl": "6.1 Lijst van hulpstoffen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Capsule content:",
-      "nl": "Capsule-inhoud:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Hypromellose.",
-      "nl": "Hypromellose"
     }
   },
   {
@@ -1395,24 +321,6 @@
     "translation": {
       "en": "Titanium dioxide (E17 1)",
       "nl": "Titaniumdioxide (E1 71)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Triethyl citrate.",
-      "nl": "Triethylcitraat."
-    }
-  },
-  {
-    "translation": {
-      "en": "Capsule Shell:",
-      "nl": "Capsule-omhulsel:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Gelatin",
-      "nl": "Gelatine"
     }
   },
   {
@@ -1453,20 +361,8 @@
   },
   {
     "translation": {
-      "en": "Edible Ink:",
-      "nl": "Eetbare zwarte inkt:"
-    }
-  },
-  {
-    "translation": {
       "en": "Black Iron Oxide-Synthetic (E1 72)",
       "nl": "Zwart ijzeroxide -- synthetisch (E172)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Propylene glycol",
-      "nl": "Propyleenglycol"
     }
   },
   {
@@ -1477,110 +373,8 @@
   },
   {
     "translation": {
-      "en": "Capsule Shell Cap colour: Opaque Blue",
-      "nl": "Kleur van kapje van capsule-omhulsel: Ondoorschijnend blauw"
-    }
-  },
-  {
-    "translation": {
-      "en": "Capsule Shell Body colour: Opaque Orange",
-      "nl": "Kleur van romp van capsule-omhulsel: Ondoorschijnend oranje"
-    }
-  },
-  {
-    "translation": {
-      "en": "6.2 Incompatibilities",
-      "nl": "6.2 Gevallen van onverenigbaarheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "Not applicable.",
-      "nl": "Niet van toepassing."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.3 Shelf life",
-      "nl": "6.3 Houdbaarheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "3 years.",
-      "nl": "3 jaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.4 Special precautions for storage",
-      "nl": "6.4 Speciale voorzorgsmaatregelen bij bewaren"
-    }
-  },
-  {
-    "translation": {
-      "en": "Store in the original package.",
-      "nl": "Bewaar in de oorspronkelijke verpakking."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not store above 30°C.",
-      "nl": "Niet bewaren boven 30 °C."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.5 Nature and contents of container",
-      "nl": "6.5 Aard en inhoud van de verpakking"
-    }
-  },
-  {
-    "translation": {
-      "en": "Polyvinylchloride (PVC), Polyethylene (PE), and Polychlorotrifluoroethylene (PCTFE) blister sealed with an aluminum foil.",
-      "nl": "Polyvinylchloride (PVC), polyethyleen (PE) en polychlorotrifluoroethyleen (PCTFE) blister die is afgedicht met aluminiumfolie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Packs of 28, 56, 98, 140 and 196 (2x98) capsules.",
-      "nl": "Verpakkingen van 28, 56, 98, 140 en 196 (2x98) capsules."
-    }
-  },
-  {
-    "translation": {
-      "en": "Not all pack sizes may be marketed.",
-      "nl": "Het kan voorkomen dat niet alle verpakkingsgrootten in de handel worden gebracht."
-    }
-  },
-  {
-    "translation": {
-      "en": "8. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "8. NUMMER(S) VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "EU/1/04/283/002 EU/1/04/283/003 EU/1/04/283/004 EU/1/04/283/005 EU/1/04/283/006",
       "nl": "EU/1/04/283/002: EU/1/04/283/003: EU/1/04/283/004: EU/1/04/283/005: EU/1/04/283/006:"
-    }
-  },
-  {
-    "translation": {
-      "en": "9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION 11 August 2004",
-      "nl": "9. DATUM VAN EERSTE VERGUNNING/HERNIEUWING VAN DE VERGUNNING 11 augustus 2004"
-    }
-  },
-  {
-    "translation": {
-      "en": "10. DATE OF REVISION OF THE TEXT",
-      "nl": "10. DATUM VAN HERZIENING VAN DE TEKST"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. NAAM VAN HET GENEESMIDDEL"
     }
   },
   {
@@ -1591,200 +385,8 @@
   },
   {
     "translation": {
-      "en": "2. QUALITATIVE AND QUANTITATIVE COMPOSITION",
-      "nl": "2. KWALITATIEVE EN KWANTITATIEVE SAMENSTELLING"
-    }
-  },
-  {
-    "translation": {
-      "en": "The active ingredient in ARICLAIM is duloxetine.",
-      "nl": "Het werkzame bestanddeel in ARICLAIM is duloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Each capsule contains 20 mg of duloxetine as duloxetine hydrochloride.",
-      "nl": "Elke capsule bevat 20 mg duloxetine als duloxetine hydrochloride."
-    }
-  },
-  {
-    "translation": {
-      "en": "Excipients: sucrose.",
-      "nl": "Hulpstof: sacharose"
-    }
-  },
-  {
-    "translation": {
       "en": "For a full list of excipients, see section 6.1.",
       "nl": "Voor een volledige lijst van hulpstoffen, zie 6.1."
-    }
-  },
-  {
-    "translation": {
-      "en": "3. PHARMACEUTICAL FORM Hard gastro-resistant capsule.",
-      "nl": "3. FARMACEUTISCHE VORM Harde maagsapresistente capsule."
-    }
-  },
-  {
-    "translation": {
-      "en": "The capsule has an opaque blue body, imprinted with '20 mg' and an opaque blue cap, imprinted with '9544'.",
-      "nl": "De capsule heeft een ondoorschijnende blauwe romp met het opschrift '20 mg' en een ondoorschijnend blauw kapje met het opschrift '9544'."
-    }
-  },
-  {
-    "translation": {
-      "en": "4. CLINICAL PARTICULARS",
-      "nl": "4. KLINISCHE GEGEVENS"
-    }
-  },
-  {
-    "translation": {
-      "en": "4.1 Therapeutic indications",
-      "nl": "4.1 Therapeutische indicaties"
-    }
-  },
-  {
-    "translation": {
-      "en": "ARICLAIM is indicated for women for the treatment of moderate to severe Stress Urinary Incontinence (SUI), (see section 5.1).",
-      "nl": "ARICLAIM is geïndiceerd bij vrouwen voor de behandeling van matige tot ernstige Stress-Urine-Incontinentie (SUI; inspanningsincontinentie), (zie rubriek 5.1)."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.2 Posology and method of administration",
-      "nl": "4.2 Dosering en wijze van toediening"
-    }
-  },
-  {
-    "translation": {
-      "en": "The recommended dose of ARICLAIM is 40 mg twice daily without regard to meals.",
-      "nl": "De aanbevolen dosis van ARICLAIM is tweemaal daags 40 mg (onafhankelijk van de maaltijd in te nemen)."
-    }
-  },
-  {
-    "translation": {
-      "en": "After 2-4 weeks of treatment, patients should be re-assessed in order to evaluate the benefit and tolerability of the therapy.",
-      "nl": "Na 2-4 weken behandeling dienen patiënten opnieuw te worden beoordeeld om het voordeel en het verdragen van de behandeling te evalueren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Some patients may benefit from starting treatment at a dose of 20 mg twice daily for two weeks before increasing to the recommended dose of 40 mg twice daily.",
-      "nl": "Sommige patiënten kunnen baat hebben bij een start dosering van 20 mg tweemaal daags gedurende twee weken alvorens de dosering te verhogen tot de aanbevolen dosering van tweemaal daags 40 mg."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dose escalation may decrease, though not eliminate, the risk of nausea and dizziness.",
-      "nl": "Dosis escalatie kan het risico van misselijkheid en duizeligheid verminderen maar niet ongedaan maken."
-    }
-  },
-  {
-    "translation": {
-      "en": "However, limited data are available to support the efficacy of ARICLAIM 20 mg twice daily.",
-      "nl": "Er zijn echter beperkte gegevens beschikbaar die de werkzaamheid van ARICLAIM tweemaal daags 20 mg ondersteunen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The efficacy of ARICLAIM has not been evaluated for longer than 3 months in placebo-controlled studies.",
-      "nl": "De werkzaamheid van ARICLAIM is niet geëvalueerd gedurende een periode van meer dan drie maanden in placebogecontroleerde studies."
-    }
-  },
-  {
-    "translation": {
-      "en": "The benefit of treatment should be re-assessed at regular intervals.",
-      "nl": "Het voordeel van de behandeling dient met regelmatige tussenpozen opnieuw te worden beoordeeld."
-    }
-  },
-  {
-    "translation": {
-      "en": "Combining ARICLAIM with a pelvic floor muscle training (PFMT) program may be more effective than either treatment alone.",
-      "nl": "Het combineren van ARICLAIM met een programma van bekkenbodemspiertraining kan effectiever zijn dan beide behandelingen afzonderlijk."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is recommended that consideration be given to concomitant PFMT.",
-      "nl": "Het wordt aanbevolen om gelijktijdige bekkenbodemspiertraining te overwegen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hepatic insufficiency.",
-      "nl": "Leverinsufficiëntie."
-    }
-  },
-  {
-    "translation": {
-      "en": "ARICLAIM should not be used in women with liver disease resulting in hepatic impairment (see section 4.3).",
-      "nl": "ARICLAIM dient niet te worden gebruikt bij vrouwen met een leveraandoening die leidt tot leverfunctiestoornis (zie rubriek 4.3)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Renal insufficiency.",
-      "nl": "Nierinsufficiëntie."
-    }
-  },
-  {
-    "translation": {
-      "en": "No dosage adjustment is necessary for patients with mild or moderate renal dysfunction (creatinine clearance 30 to 80 ml/min).",
-      "nl": "Voor patiënten met lichte of matige nierdisfunctie (creatinineklaring 30 - 80 ml/min) is geen doseringsaanpassing noodzakelijk."
-    }
-  },
-  {
-    "translation": {
-      "en": "Elderly.",
-      "nl": "Ouderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Caution should be exercised when treating the elderly.",
-      "nl": "Bij het behandelen van ouderen is voorzichtigheid geboden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Children and adolescents.",
-      "nl": "Kinderen en adolescenten."
-    }
-  },
-  {
-    "translation": {
-      "en": "The safety and efficacy of duloxetine in patients in these age groups have not been studied.",
-      "nl": "De veiligheid en werkzaamheid van duloxetine bij patiënten in deze leeftijdsgroepen zijn niet onderzocht."
-    }
-  },
-  {
-    "translation": {
-      "en": "Therefore, administration of ARICLAIM to children and adolescents is not recommended.",
-      "nl": "Derhalve wordt toediening van ARICLAIM aan kinderen en adolescenten niet aanbevolen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Discontinuation of treatment.",
-      "nl": "Stopzetting van de behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "Abrupt discontinuation should be avoided.",
-      "nl": "Plotseling stopzetten dient te worden vermeden."
-    }
-  },
-  {
-    "translation": {
-      "en": "When stopping treatment with ARICLAIM the dose should be gradually reduced over a period of at least one to two weeks in order to reduce the risk of withdrawal reactions (see sections 4.4 and 4.8).",
-      "nl": "Bij stopzetting van de behandeling met Ariclaim dient de dosering over een periode van tenminste 1 tot 2 weken geleidelijk te worden afgebouwd om de kans op onthoudingsverschijnselen zo klein mogelijk te houden (zie rubriek 4.4 en 4.8)."
-    }
-  },
-  {
-    "translation": {
-      "en": "If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.",
-      "nl": "Indien niet tolereerbare symptomen optreden na een afname van de dosering of na stopzetting van de behandeling, kan overwogen worden om de laatst voorgeschreven dosering te hervatten."
     }
   },
   {
@@ -1795,212 +397,8 @@
   },
   {
     "translation": {
-      "en": "4.3 Contraindications",
-      "nl": "4.3 Contra-indicaties"
-    }
-  },
-  {
-    "translation": {
-      "en": "Hypersensitivity to the active substance or to any of the excipients.",
-      "nl": "Overgevoeligheid voor de werkzame stof of voor (één van) de hulpstoffen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Liver disease resulting in hepatic impairment (see section 5.2).",
-      "nl": "Een leveraandoening die leidt tot leverfunctiestoornis (zie rubriek 5.2)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Pregnancy and lactation (see section 4.6).",
-      "nl": "Zwangerschap en borstvoeding (zie rubriek 4.6)."
-    }
-  },
-  {
-    "translation": {
-      "en": "ARICLAIM should not be used in combination with nonselective, irreversible Monoamine Oxidase Inhibitors - MAOIs (see section 4.5).",
-      "nl": "ARICLAIM dient niet te worden gebruikt in combinatie met niet-selectieve, irreversibele Monoamine Oxidase Remmers - MAO-remmers (zie rubriek 4.5)."
-    }
-  },
-  {
-    "translation": {
-      "en": "ARICLAIM should not be used in combination with CYP1A2 inhibitors, like fluvoxamine, ciprofloxacin or enoxacine since the combination results in elevated plasma concentrations of duloxetine (see section 4.5).",
-      "nl": "ARICLAIM dient niet te worden gebruikt in combinatie met CYP1A2-remmers, zoals fluvoxamine, ciprofloxacine of enoxacine, aangezien de combinatie leidt tot verhoogde plasmaconcentraties van duloxetine (zie rubriek 4.5)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Severe renal impairment (creatinine clearance <30 ml/min) (see section 4.4).",
-      "nl": "Ernstige nierfunctiestoornis (creatinine klaring <30 ml/min)."
-    }
-  },
-  {
-    "translation": {
-      "en": "The initiation of treatment with ARICLAIM is contraindicated in patients with uncontrolled hypertension that could expose patients to a potential risk of hypertensive crisis (see sections 4.4 and 4.8).",
-      "nl": "Start van de behandeling met ARICLAIM is gecontra-indiceerd bij patiënten met ongecontroleerde hypertensie, dit zou tot een verhoogd risico op hypertensieve crisis bij deze patiënten kunnen leiden (zie rubriek 4.4 en 4.8)."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.4 Special warnings and precautions for use",
-      "nl": "4.4 Bijzondere waarschuwingen en voorzorgen bij gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "Mania and Seizures",
-      "nl": "Manie en convulsies"
-    }
-  },
-  {
-    "translation": {
-      "en": "ARICLAIM should be used with caution in patients with a history of mania or a diagnosis of bipolar disorder, and/or seizures.",
-      "nl": "ARICLAIM dient met omzichtigheid te worden gebruikt bij patiënten met een voorgeschiedenis van manie of de diagnose bipolaire stoornis en/of convulsies."
-    }
-  },
-  {
-    "translation": {
-      "en": "Use with antidepressants",
-      "nl": "Gebruik samen met antidepressiva"
-    }
-  },
-  {
-    "translation": {
       "en": "The use of ARICLAIM in combination with antidepressants (especially with SSRI, SNRI and reversible MAOIs) is not recommended (see below \"Depression, suicidal ideation and behaviour\" and Section 4.5).",
       "nl": "Het gebruik van ARICLAIM in combinatie met antidepressiva (in het bijzonder SSRI, SNRI en reversibele MAOIs) wordt niet aanbevolen (zie ook Depressie, suïcidale gedachten en gedrag, en rubriek 4.5)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Mydriasis",
-      "nl": "Mydriasis"
-    }
-  },
-  {
-    "translation": {
-      "en": "Blood pressure and heart rate",
-      "nl": "Bloeddruk en hartslag"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine has been associated with an increase in blood pressure and clinically significant hypertension in some patients.",
-      "nl": "Duloxetine wordt geassocieerd met een verhoogde bloeddruk en klinisch significante hypertensie bij sommige patiënten."
-    }
-  },
-  {
-    "translation": {
-      "en": "This may be due to the noradrenergic effect of duloxetine.",
-      "nl": "Dit kan een gevolg zijn van het noradrenerge effect van duloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Cases of hypertensive crisis have been reported with duloxetine, especially in patients with pre-existing hypertension.",
-      "nl": "Gevallen van hypertensieve crisis zijn gerapporteerd met duloxetine, vooral bij patiënten met reeds bestaande hypertensie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Therefore, in patients with known hypertension and/or other cardiac disease, blood pressure monitoring is recommended, especially during the first month of treatment.",
-      "nl": "Daarom wordt bij patiënten met een verhoogde bloeddruk en/of hartaandoening controle van de bloeddruk aanbevolen, vooral gedurende de eerste maand van de behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine should be used with caution in patients whose conditions could be compromised by an increased heart rate or by an increase in blood pressure.",
-      "nl": "Duloxetine dient voorzichtig gebruikt te worden bij patiënten waarbij de conditie gepaard kan gaan met een versnelde hartslag of verhoogde bloeddruk."
-    }
-  },
-  {
-    "translation": {
-      "en": "Caution should also be exercised when duloxetine is used with drugs that may impair its metabolism (see section 4.5).",
-      "nl": "Voorzichtigheid is geboden wanneer duloxetine wordt gebruikt gelijktijdig met geneesmiddelen die het metabolisme kunnen verstoren (zie rubriek 4.5)."
-    }
-  },
-  {
-    "translation": {
-      "en": "For patients who experience a sustained increase in blood pressure while receiving duloxetine either dose reduction or gradual discontinuation should be considered (see section 4.8).",
-      "nl": "Voor patiënten die een blijvende toename van de bloeddruk ervaren tijdens gebruik van duloxetine dient ofwel dosisverlaging, dan wel geleidelijk staken van de behandeling te worden overwogen (zie rubriek 4.8)."
-    }
-  },
-  {
-    "translation": {
-      "en": "In patients with uncontrolled hypertension duloxetine should not be initiated (see section 4.3).",
-      "nl": "Bij patiënten met ongecontroleerde hypertensie dient duloxetine niet gestart te worden (zie rubriek 4.3)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Renal impairment",
-      "nl": "Nierfunctiestoornissen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Increased plasma concentrations of duloxetine occur in patients with severe renal impairment on haemodialysis (creatinine clearance <30 ml/min).",
-      "nl": "Verhoogde plasmaconcentraties van duloxetine komen voor bij patiënten met ernstige nierfunctiestoornissen die hemodialyse ondergaan (creatinineklaring < 30 ml/min)."
-    }
-  },
-  {
-    "translation": {
-      "en": "For patients with severe renal impairment, see section 4.3.",
-      "nl": "Voor patiënten met ernstige nierfunctiestoornissen, zie rubriek 4.3."
-    }
-  },
-  {
-    "translation": {
-      "en": "See section 4.2 for information on patients with mild or moderate renal dysfunction.",
-      "nl": "Zie rubriek 4.2 voor informatie over patiënten met lichte of matige nierdisfunctie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Sucrose",
-      "nl": "Saccharose:"
-    }
-  },
-  {
-    "translation": {
-      "en": "ARICLAIM hard gastro-resistant capsules contain sucrose.",
-      "nl": "ARICLAIM harde maagsapresistente capsules bevatten saccharose."
-    }
-  },
-  {
-    "translation": {
-      "en": "Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrose-isomaltase insufficiency should not take this medicine.",
-      "nl": "Patiënten met de zeldzame erfelijke problemen fructose-intolerantie, glucose-galactosemalabsorptie of sucrose-isomaltase-insufficiëntie dienen dit geneesmiddel niet te gebruiken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Haemorrhage",
-      "nl": "Bloedingen"
-    }
-  },
-  {
-    "translation": {
-      "en": "There have been reports of bleeding abnormalities, such as ecchymoses, purpura and gastrointestinal haemorrhage with selective serotonin reuptake inhibitors (SSRIs) and serotonin/norepinephrine reuptake inhibitors (SNRIs).",
-      "nl": "Bij Selectieve Serotonine Heropname Remmers (SSRI's) en Serotonine/Noradrenaline Heropname Remmers (SNRI's) is melding gemaakt van bloedingsafwijkingen zoals ecchymoses, purpura en gastrointestinale bloedingen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Caution is advised in patients taking anticoagulants and/or medicinal products known to affect platelet function, and in patients with known bleeding tendencies.",
-      "nl": "Voorzichtigheid is geboden bij patiënten die gebruik maken van anticoagulantia en/of geneesmiddelen waarvan bekend is dat ze de plaatjesfunctie aantasten en bij patiënten van wie bekend is dat ze bloedingsneigingen hebben."
-    }
-  },
-  {
-    "translation": {
-      "en": "Discontinuation of treatment",
-      "nl": "Stopzetten van de behandeling"
-    }
-  },
-  {
-    "translation": {
-      "en": "Withdrawal symptoms when treatment is discontinued are common, particularly if discontinuation is abrupt (see section 4.8).",
-      "nl": "Onthoudingsverschijnselen bij stopzetting van de behandeling zijn gebruikelijk, vooral wanneer abrupt wordt gestopt (zie rubriek 4.8)."
     }
   },
   {
@@ -2011,260 +409,8 @@
   },
   {
     "translation": {
-      "en": "The risk of withdrawal symptoms seen with SSRI's and SNRI's may be dependent on several factors including the duration and dose of therapy and the rate of dose reduction.",
-      "nl": "De kans op onthoudingsverschijnselen bij behandeling met SSRI's en SNRI's kan afhankelijk zijn van verschillende factoren waaronder de duur en de dosering van de behandeling en de snelheid van dosis reductie."
-    }
-  },
-  {
-    "translation": {
-      "en": "The most commonly reported reactions are listed in section 4.8.",
-      "nl": "De meest voorkomende symptomen zijn beschreven in rubriek 4.8."
-    }
-  },
-  {
-    "translation": {
-      "en": "Generally the symptoms are mild to moderate, however, in some patients they may be severe in intensity.",
-      "nl": "Over het algemeen zijn de symptomen licht tot matig van aard, echter bij sommige patiënten kan de intensiteit ernstig zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "They usually occur within the first few days of discontinuing treatment, but there have been very rare reports of such symptoms in patients who have inadvertently missed a dose.",
-      "nl": "Normaal gesproken treden deze op in de eerste dagen na stopzetting van de behandeling, er zijn echter zeldzame meldingen van patiënten die per ongeluk een dosis vergeten waren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Generally these symptoms are self-limiting and usually resolve within 2 weeks, though in some individuals they may be prolonged (2-3 months or more).",
-      "nl": "Over in het algemeen zijn deze symptomen zelfbeperkend en verdwijnen ze binnen 2 weken, hoewel ze bij sommige patiënten langer aanwezig kunnen zijn (2 -- 3 maanden, of langer)."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is therefore advised that duloxetine should be gradually tapered when discontinuing treatment over a period of no less than 2 weeks, according to the patient's needs (see section 4.2).",
-      "nl": "Daarom wordt geadviseerd om duloxetine geleidelijk af te bouwen over een periode van tenminste 2 weken, afhankelijk van de behoefte van de patiënt (zie rubriek 4.2)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hyponatremia",
-      "nl": "Hyponatriëmie"
-    }
-  },
-  {
-    "translation": {
-      "en": "Hyponatremia has been reported rarely, predominantly in the elderly, when administering ARICLAIM.",
-      "nl": "Hyponatriëmie is zelden zelden gemeld, voornamelijk bij ouderen, wanneer ARICLAIM wordt toegediend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Caution is required in patients at increased risk for hyponatremia; such as elderly, cirrhotic, or dehydrated patients or patients treated with diuretics.",
-      "nl": "Voorzichtigheid is geboden bij patiënten met een verhoogd risico op hyponatriëmie, zoals ouderen, cirrotische- of gedehydrateerde patiënten of patiënten behandeld met diuretica."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hyponatremia may be due to a syndrome of inappropriate anti-diuretic hormone secretion (SIADH).",
-      "nl": "Hyponatriëmie kan worden veroorzaakt als gevolg van het onvoldoende anti diuretisch hormoon secretie syndroom (SIADH)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Depression, suicidal ideation and behaviour",
-      "nl": "Depressie, suïcidale gedachten en gedrag"
-    }
-  },
-  {
-    "translation": {
-      "en": "Although ARICLAIM is not indicated for the treatment of depression, its active ingredient (duloxetine) also exists as an antidepressant medication.",
-      "nl": "Hoewel ARICLAIM niet geïndiceerd is voor de behandeling van depressie, bestaat het actieve bestanddeel (duloxetine) ook als een antidepressivum."
-    }
-  },
-  {
-    "translation": {
-      "en": "Isolated cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation.",
-      "nl": "Op zichzelf staande gevallen van suïcidale gedachten en suïcidale gedragingen zijn gemeld tijdens therapie met duloxetine of vlak na het staken van de behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "Physicians should encourage patients to report any distressing thoughts or feelings or depressive symptoms at any time.",
-      "nl": "Artsen dienen patiënten te stimuleren om verontrustende gedachten of gevoelens of depressieve symptomen altijd te melden."
-    }
-  },
-  {
-    "translation": {
-      "en": "If a decision to initiate antidepressant pharmacological therapy is taken, the gradual discontinuation of ARICLAIM is recommended (see Section 4.2).",
-      "nl": "Als het besluit wordt genomen om antidepressiva farmacotherapie te initiëren, wordt een geleidelijke discontinuering van ARICLAIM aanbevolen (zie rubriek 4.2)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Use in children and adolescents under 18 years of age",
-      "nl": "Gebruik bij kinderen en adolescenten jonger dan 18 jaar"
-    }
-  },
-  {
-    "translation": {
-      "en": "No clinical trials have been conducted with duloxetine in paediatric populations.",
-      "nl": "Er zijn geen klinische studies uitgevoerd met duloxetine bij pediatrische populaties."
-    }
-  },
-  {
-    "translation": {
-      "en": "ARICLAIM should not be used in the treatment of children and adolescents under the age of 18 years.",
-      "nl": "ARICLAIM dient niet te worden gebruikt bij de behandeling van kinderen en adolescenten jonger dan 18 jaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "Suicide-related behaviours (suicide attempts and suicidal thoughts), and hostility (predominantly aggression, oppositional behaviour and anger), were more frequently observed in clinical trials among children and adolescents treated with antidepressants compared to those treated with placebo.",
-      "nl": "Aan suïcide gerelateerde gedragingen (suïcidepogingen en suïcidale gedachten) en vijandigheid (voornamelijk agressie, oppositioneel gedrag en woede) werden in klinische studies vaker waargenomen bij kinderen en adolescenten behandeld met antidepressiva vergeleken met diegenen behandeld met placebo."
-    }
-  },
-  {
-    "translation": {
-      "en": "Long-term safety data in children and adolescents concerning growth, maturation and cognitive and behavioural development are lacking.",
-      "nl": "Langetermijngegevens over de veiligheid bij kinderen en adolescenten met betrekking tot groei, maturatie en cognitieve en gedragsontwikkeling ontbreken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal products containing duloxetine",
-      "nl": "Geneesmiddelen die duloxetine bevatten"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is used under different trademarks in several indications (treatment of diabetic neuropathic pain, major depressive episodes as well as stress urinary incontinence).",
-      "nl": "Duloxetine is beschikbaar onder verschillende merknamen voor verschillende indicaties (behandeling van diabetische neuropatische pijn, depressie en stress urine incontinentie)."
-    }
-  },
-  {
-    "translation": {
-      "en": "The use of more than one of these products concomitantly should be avoided.",
-      "nl": "Het gebruik van meer dan één van deze merknamen gelijktijdig moet worden vermeden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hepatitis/increased liver enzymes",
-      "nl": "Verhoogde lever enzymen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Cases of liver injury, including severe elevations of liver enzymes (>10 times upper limit of normal), hepatitis and jaundice have been reported with duloxetine (see section 4.8).",
-      "nl": "Zelden zijn gevallen van leverbeschadiging waaronder ernstige verhogingen van leverenzymen (> 10 maal de normale bovengrens), hepatitis en geelzucht gerapporteerd met duloxetine (zie rubriek 4.8)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Most of them occurred during the first months of treatment.",
-      "nl": "De meeste gevallen vonden plaats tijdens de eerste maanden van behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "The pattern of liver damage was predominantly hepatocellular.",
-      "nl": "Het patroon van leverbeschadiging was voornamelijk hepatocellulair."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine should be used with caution in patients treated with other drugs associated with hepatic injury.",
-      "nl": "Duloxetine moet met voorzichtigheid worden gebruikt bij patiënten die behandeld worden met andere geneesmiddelen geassocieerd met leverbeschadiging."
-    }
-  },
-  {
-    "translation": {
-      "en": "Akathisia/psychomotor restlessness",
-      "nl": "Acathisie / psychomotorische rusteloosheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "The use of duloxetine has been associated with the development of akathisia, characterised by a subjectively unpleasant or distressing restlessness and need to move often accompanied by an inability to sit or stand still.",
-      "nl": "Het gebruik van duloxetine wordt geassocieerd met het ontwikkelen van acathisie, gekarakteriseerd door een subjectieve onprettige, verontrustende rusteloosheid en de behoefte veel te bewegen gepaard gaand met het niet in staat zijn om stil te zitten of stil te staan."
-    }
-  },
-  {
-    "translation": {
-      "en": "This is most likely to occur within the first few weeks of treatment.",
-      "nl": "Dit gebeurt meestal binnen de eerste paar weken van de behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "In patients who develop these symptoms, increasing the dose may be detrimental.",
-      "nl": "Bij patiënten die deze symptomen ontwikkelen kan verhogen van de dosering schadelijk zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.5 Interaction with other medicinal products and other forms of interaction",
-      "nl": "4.5 Interacties met andere geneesmiddelen en andere vormen van interactie"
-    }
-  },
-  {
-    "translation": {
       "en": "Monoamine oxidase inhibitors (MAOIs): due to the risk of serotonin syndrome, ARICLAIM should not be used in combination with nonselective, irreversible monoamine oxidase inhibitors (MAOIs), or within at least 14 days of discontinuing treatment with an MAOI.",
       "nl": "Monoamineoxidaseremmers (MAO-remmers): vanwege het risico op het serotoninesyndroom dient ARICLAIM niet te worden gebruikt in combinatie met niet-selectieve, irreversibele monoamineoxidaseremmers (MAO-remmers) of binnen minimaal 14 dagen na het stopzetten van de behandeling met een MAO-remmer."
-    }
-  },
-  {
-    "translation": {
-      "en": "Based on the half-life of duloxetine, at least 5 days should be allowed after stopping ARICLAIM before starting an MAOI (see section 4.3).",
-      "nl": "Op basis van de halfwaardetijd van duloxetine moet na het stopzetten van ARICLAIM tenminste 5 dagen worden gewacht voordat met een MAO-remmer kan worden begonnen (zie rubriek 4.3)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Serotonin syndrome: in rare cases, serotonin syndrome has been reported in patients using SSRIs concomitantly with serotonergic medicinal products.",
-      "nl": "Serotoninesyndroom: in zeldzame gevallen is melding gemaakt van het serotoninesyndroom bij patiënten die SSRI's gelijktijdig gebruikten met serotonerge geneesmiddelen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The use of ARICLAIM in combination with serotonergic antidepressants like SSRIs, tricyclics like clomipramine or amitriptyline, venlafaxine, or triptans, tramadol and tryptophan is not recommended.",
-      "nl": "Het gebruik van ARICLAIM in combinatie met serotonerge antidepressiva zoals SSRI's, tricyclische antidepressiva zoals clomipramine of amitriptyline, venlafaxine, of triptanen, tramadol en tryptofaan wordt niet aanbevolen."
-    }
-  },
-  {
-    "translation": {
-      "en": "CNS drugs: caution is advised when ARICLAIM is taken in combination with other centrally acting drugs or substances, including alcohol and sedative drugs (benzodiazepines, morphinomimetics, antipsychotics, phenobarbital, sedative antihistamines).",
-      "nl": "Centraal werkende geneesmiddelen: voorzichtigheid is geboden wanneer ARICLAIM wordt gebruikt in combinatie met andere centraal werkende geneesmiddelen of stoffen, waaronder alcohol en sedativa (benzodiazepinen, morfinomimetica, antipsychotica, fenobarbital, sedatieve antihistaminica)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Effect of duloxetine on other drugs",
-      "nl": "Effecten van duloxetine op andere geneesmiddelen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal products metabolised by CYP1A2: The pharmacokinetics of theophylline, a CYP1A2 substrate, were not significantly affected by co-administration with duloxetine (60 mg twice daily).",
-      "nl": "Geneesmiddelen gemetaboliseerd door CYP1A2: De farmacokinetiek van theofylline, een CYP1A2- sub straat, werd niet significant beïnvloed door gelijktijdige toediening van duloxetine (60 mg tweemaal daags)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal products metabolised by CYP2D6: Duloxetine is a moderate inhibitor of CYP2D6.",
-      "nl": "Geneesmiddelen gemetaboliseerd door CYP2D6: Duloxetine is een matige remmer van CYP2D6."
-    }
-  },
-  {
-    "translation": {
-      "en": "When duloxetine was administered at a dose of 60 mg twice daily with a single dose of desipramine, a CYP2D6 substrate, the AUC of desipramine increased 3-fold.",
-      "nl": "Wanneer duloxetine werd toegediend als een dosis van 60 mg tweemaal daags met een enkele dosis desipramine, een CYP2D6 substraat, was de AUC van desipramine 3 maal zo hoog."
-    }
-  },
-  {
-    "translation": {
-      "en": "The co-administration of duloxetine (40 mg twice daily) increases steady state AUC of tolterodine (2 mg twice daily) by 71 %, but does not affect the pharmacokinetics of its active 5-hydroxyl metabolite and no dosage adjustment is recommended.",
-      "nl": "Gelijktijdige toediening van duloxetine (40 mg tweemaal daags) verhoogt de 'steady state AUC' van tolterodine (2 mg tweemaal daags) met 71%, maar heeft geen invloed op de farmacokinetiek van de actieve 5- hydroxymetaboliet hiervan en er wordt geen doseringsaanpassing aanbevolen."
     }
   },
   {
@@ -2275,716 +421,8 @@
   },
   {
     "translation": {
-      "en": "Oral contraceptives and other steroidal agents: results of in vitro studies demonstrate that duloxetine does not induce the catalytic activity of CYP3A.",
-      "nl": "Orale anticonceptiva en andere steroïden: uit de resultaten van in vitro-onderzoeken blijkt dat duloxetine niet aanzet tot de katalytische activiteit van CYP3A."
-    }
-  },
-  {
-    "translation": {
-      "en": "Specific in vivo drug interaction studies have not been performed.",
-      "nl": "Er zijn geen specifieke in vivo interactiestudies met geneesmiddelen uitgevoerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Furthermore, increases in INR values have been reported when duloxetine was co-administered with warfarin.",
-      "nl": "Verder zijn er toenames in INR waarden gerapporteerd wanneer duloxetine gelijktijdig werd toegediend met warfarine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Effects of other drugs on duloxetine",
-      "nl": "Effecten van andere geneesmiddelen op duloxetine"
-    }
-  },
-  {
-    "translation": {
-      "en": "Antacids and H2 antagonists: co-administration of ARICLAIM with aluminium- and magnesium-containing antacids or with famotidine had no significant effect on the rate or extent of duloxetine absorption after administration of a 40 mg oral dose.",
-      "nl": "Antacida en H2-antagonisten: gelijktijdige toediening van ARICLAIM met aluminium en magnesium bevattende antacida of met famotidine had geen significant effect op de snelheid of mate van duloxetine-absorptie na orale toediening van een dosis van 40 mg."
-    }
-  },
-  {
-    "translation": {
-      "en": "Inhibitors of CYP1A2: because CYP1A2 is involved in duloxetine metabolism, concomitant use of ARICLAIM with potent inhibitors of CYP1A2 is likely to result in higher concentrations of duloxetine.",
-      "nl": "CYP1A2-remmers: omdat CYP1A2 bij het metabolisme van duloxetine is betrokken, zal gelijktijdig gebruik van ARICLAIM en sterke CYP1A2-remmers waarschijnlijk resulteren in hogere concentraties duloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Fluvoxamine (100 mg once daily), a potent inhibitor of CYP1A2, decreased the apparent plasma clearance of duloxetine by about 77% and increased AUC0-t 6-fold.",
-      "nl": "Fluvoxamine (100 mg eenmaal daags), een krachtige CYP1A2-remmer, verlaagde de schijnbare plasmaklaring van duloxetine met ongeveer 77% en verhoogde de AUC0-t. met een factor 6."
-    }
-  },
-  {
-    "translation": {
-      "en": "Therefore ARICLAIM should not be administered in combination with potent inhibitors of CYP 1A2 like fluvoxamine (see section 4.3).",
-      "nl": "Daarom dient ARICLAIM niet te worden toegediend in combinatie met krachtige CYP1A2-remmers zoals fluvoxamine (zie rubriek 4.3)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Inducers of CYP1A2: Population pharmacokinetic studies analyses have shown that smokers have almost 50% lower plasma concentrations of duloxetine compared with non-smokers.",
-      "nl": "Middelen met CYP1A2-inducerende werking. uit farmacokinetische populatieanalyses is gebleken dat rokers bijna 50% lagere plasmaspiegels van duloxetine hebben dan niet-rokers."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.6 Pregnancy and lactation",
-      "nl": "4.6 Zwangerschap en borstvoeding"
-    }
-  },
-  {
-    "translation": {
-      "en": "Pregnancy",
-      "nl": "Zwangerschap"
-    }
-  },
-  {
-    "translation": {
-      "en": "There are no data on the use of duloxetine in pregnant women.",
-      "nl": "Er zijn geen gegevens over het gebruik van duloxetine bij zwangere vrouwen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Studies in animals have shown reproductive toxicity at systemic exposure levels (AUC) of duloxetine lower than the maximum clinical exposure (see section 5.3).",
-      "nl": "Uit experimenteel onderzoek bij dieren is reproductietoxiciteit gebleken bij systemische blootstellingsniveaus (AUC) van duloxetine die lager waren dan de maximale klinische blootstelling (zie 5.3)."
-    }
-  },
-  {
-    "translation": {
-      "en": "The potential risk for humans is unknown.",
-      "nl": "Het potentiële risico voor de mens is niet bekend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Withdrawal symptoms may occur in the neonate after maternal duloxetine use near term.",
-      "nl": "Onttrekkingsverschijnselen kunnen voorkomen bij de pasgeborene na gebruik van duloxetine door de moeder vlak voor de bevalling."
-    }
-  },
-  {
-    "translation": {
-      "en": "ARICLAIM is contraindicated during pregnancy (see section 4.3).",
-      "nl": "ARICLAIM is gecontra-indiceerd tijdens de zwangerschap (zie rubriek 4.3)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Breast feeding",
-      "nl": "Borstvoeding"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is very weakly excreted into human milk based on a study of 6 lactating patients, who did not breast feed their children .",
-      "nl": "Duloxetine wordt erg zwak uitgescheiden in de humane melk gebaseerd op een onderzoek met 6 patiënten die melkafscheiding hadden en die geen borstvoeding gaven aan hun kinderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The estimated daily infant dose on a mg/kg basis is approximately 0.14% of the maternal dose (see section 5.2).",
-      "nl": "De geschatte dagelijkse dosis voor het kind op een mg/kg basis is ongeveer 0,14% van de dosis van de moeder (zie rubriek 5.2)."
-    }
-  },
-  {
-    "translation": {
-      "en": "As the safety of duloxetine in infants is not known, the use of ARICLAIM while breast-feeding is not recommended.",
-      "nl": "Aangezien de veiligheid van duloxetine bij kinderen niet is vastgesteld, is ARICLAIM gecontra-indiceerd tijdens het geven van borstvoeding (zie rubriek 4.3)."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.7 Effects on ability to drive and use machines",
-      "nl": "4.7 Beïnvloeding van de rijvaardigheid en van het vermogen om machines te bedienen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Although in controlled studies duloxetine has not been shown to impair psychomotor performance, cognitive function, or memory, it may be associated with sedation and dizziness.",
-      "nl": "Hoewel bij gecontroleerde onderzoeken niet is gebleken dat het gebruik van duloxetine de psychomotorische prestaties, de cognitieve functie of het geheugen vermindert, kan het gepaard gaan met sedatie en duizeligheid."
-    }
-  },
-  {
-    "translation": {
-      "en": "Therefore, patients should be cautioned about their ability to drive a car or operate hazardous machinery.",
-      "nl": "Derhalve dienen patiënten tot voorzichtigheid te worden gemaand bij het besturen van een auto of het bedienen van gevaarlijke machines."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.8 Undesirable effects",
-      "nl": "4.8 Bijwerkingen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Table 1 gives the adverse reactions observed from spontaneous reporting and in placebo-controlled clinical trials (comprising a total of 7977 patients, 4371 on duloxetine and 3606 on placebo) in SUI and other lower urinary tract disorders.",
-      "nl": "Tabel 1 beschrijft de bijwerkingen gezien uit spontane meldingen en in placebo gecontroleerde klinische studies bij SUI en lagere urineweg aandoeningen bestaande uit totaal 7.977 patienten (4.371 met duloxetine, 3.606 met placebo)."
-    }
-  },
-  {
-    "translation": {
-      "en": "The most commonly reported adverse events in patients treated with ARICLAIM in clinical trials in SUI and other lower urinary tract disorders were nausea, dry mouthand fatigue -.",
-      "nl": "De meest gemelde bijwerkingen bij patiënten behandeld met ARICLAIM in klinische studies in SUI en lagere urineweg aandoeningen waren misselijkheid, droge mond en vermoeidheid."
-    }
-  },
-  {
-    "translation": {
-      "en": "The data analysis of four 12-week, placebo-controlled clinical trials in patients with SUI, including 958 duloxetine-treated and 955 placebo-treated patients, showed that the onset of the reported adverse events typically occurred in the first week of therapy.",
-      "nl": "Uit de gegevensanalyse van vier 12 weken durende, placebo gecontroleerde klinische studies bij patiënten met SUI, onder wie 958 met duloxetine behandelde en 955 met placebo behandelde patiënten bleek dat de gemelde bijwerkingen doorgaans begonnen in de eerste week van de behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "However, the majority of the most frequent adverse events were mild to moderate and resolved within 30 days of occurrence (e.g. nausea).",
-      "nl": "De meeste van de vaakst voorkomende bijwerkingen waren echter licht tot matig van aard en verdwenen binnen 30 dagen nadat ze waren opgetreden (bijv. misselijkheid)."
-    }
-  },
-  {
-    "translation": {
       "en": "Frequency estimate: Very common (\\u2265 10%), common (\\u2265 1% and <10%), uncommon (\\u22650.1% and <1%), rare (\\u2265 0.01% and <0.1%), very rare (<0.01%), frequency not known (data from spontaneous reports)",
       "nl": "Frequentieschatting: Zeer vaak (\\u2265 10%), vaak (\\u2265 1% en < 10%), soms (\\u2265 0,1% en < 1%), zelden (\\u22650.0 1% and <0.1%), zeer zelden (<0.01%), gegevens van spontane meldingen (frequentie niet."
-    }
-  },
-  {
-    "translation": {
-      "en": "[[TABLE]]",
-      "nl": "[[TABLE]]"
-    }
-  },
-  {
-    "translation": {
-      "en": "Cases of orthostatic hypotension and syncope have been reported especially at the initiation of treatment",
-      "nl": "Gevallen van orthostatische hypotensie en syncope zijn met name gemeld aan het begin van de behandeling"
-    }
-  },
-  {
-    "translation": {
-      "en": "See section 4.4",
-      "nl": "Zie rubriek 4.4"
-    }
-  },
-  {
-    "translation": {
-      "en": "Discontinuation of duloxetine (particularly when abrupt) commonly leads to withdrawal symptoms.",
-      "nl": "Wanneer gestopt wordt met duloxetine (met name bij abrupt stoppen) leidt dit vaak tot onthoudingsverschijnselen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dizziness, sensory disturbances (including paraesthesia), sleep disturbances (including insomnia and intense dreams), agitation or anxiety, nausea and/or vomiting, tremor and headache are the most commonly reported reactions.",
-      "nl": "Duizeligheid, gevoelsstoornissen (inbegrepen verlamming), slaapstoornissen (inbegrepen slapeloosheid en diepe dromen), agitatie of angst, misselijkheid en/of overgeven, tremor en hoofdpijn zijn de meest gemelde reacties."
-    }
-  },
-  {
-    "translation": {
-      "en": "Generally, for SSRIs and SNRIs, these events are mild to moderate and self-limiting, however, in some patients they may be severe and/or prolonged.",
-      "nl": "In het algemeen geldt voor SSRI's en SNRI's dat deze symptomen mild tot matig en zelfbeperkend zijn, hoewel ze bij sommige patiënten ernstig en/of langdurig zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is therefore advised that when duloxetine treatment is no longer required, gradual discontinuation by dose tapering should be carried out (see sections 4.2 and 4.4).",
-      "nl": "Daarom wordt geadviseerd om, wanneer duloxetine behandeling niet langer nodig is, geleidelijk aan te stoppen door de dosering langzaam af te bouwen (zie rubriek 4.2 en 4.4)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Electrocardiograms were obtained from 755 duloxetine-treated patients with SUI and 779 placebo-treated patients in 12-week clinical trials.",
-      "nl": "Tijdens 12 weken durende klinische studies werden elektrocardiogrammen gemaakt van 755 met duloxetine behandelde patiënten met SUI en 779 met placebo behandelde patiënten."
-    }
-  },
-  {
-    "translation": {
-      "en": "The heart rate-corrected QT interval in duloxetine-treated patients did not differ from that seen in placebo-treated patients.",
-      "nl": "Het voor hartritme gecorrigeerde QT-interval bij met duloxetine behandelde patiënten verschilde niet van dat waargenomen bij met placebo behandelde patiënten."
-    }
-  },
-  {
-    "translation": {
-      "en": "In the 12 week acute phase of three clinical trials of duloxetine in patients with diabetic neuropathic pain, small but statistically significant increases in fasting blood glucose were observed in duloxetine-treated patients .",
-      "nl": "In de 12 weken acute fase van drie klinische studies van duloxetine bij patiënten met diabetische neuropatische pijn, werd een kleine maar statistisch significante toename in nuchter bloedglucosewaarden waargenomen bij met duloxetine behandelde patiënten."
-    }
-  },
-  {
-    "translation": {
-      "en": "HbA1c was stable in both duloxetine-treated and placebo-treated patients.",
-      "nl": "HbA1c was stabiel bij zowel de duloxetine behandelde als de placebo behandelde patiënten."
-    }
-  },
-  {
-    "translation": {
-      "en": "In the extension phase of these studies, which lasted up to 52 weeks, there was an increase in HbA1c in both the duloxetine and routine care groups, but the mean increase was 0.3% greater in the duloxetine-treated group.",
-      "nl": "In de verlengde fase, welke tot 52 weken duurde, was er een toename van het HbA1c in zowel de duloxetine als de routine groep, maar de gemiddelde toename was 0,3% groter in de duloxetine behandelde groep."
-    }
-  },
-  {
-    "translation": {
-      "en": "There was also a small increase in fasting blood glucose and in total cholesterol in duloxetine-treated patients while those laboratory tests showed a slight decrease in the routine care group.",
-      "nl": "Er was ook een kleine toename van de nuchtere bloedglucose waarde en het totale cholesterol in de duloxetine behandelde groep terwijl deze lab waarden een kleine daling lieten zien in de routine groep."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.9 Overdose",
-      "nl": "4.9 Overdosering"
-    }
-  },
-  {
-    "translation": {
-      "en": "There is limited clinical experience with duloxetine overdose in humans.",
-      "nl": "De klinische ervaring met overdosering van duloxetine bij de mens is beperkt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Cases of overdoses, alone or in combination with other drugs, with duloxetine doses of almost 2000 mg were reported.",
-      "nl": "Gevallen van overdosering, alleen of in combinatie met andere middelen, zijn gemeld bij duloxetine doseringen van bijna 2000 mg."
-    }
-  },
-  {
-    "translation": {
-      "en": "Some fatalities have occurred, primarily with mixed overdoses, but also with duloxetine alone at a dose of approximately 1000 mg.",
-      "nl": "Enkele fatale gevolgen zijn opgetreden, vooral bij gecombineerde overdoseringen maar ook met enkel duloxetine bij een dosis van ongeveer 1000 mg."
-    }
-  },
-  {
-    "translation": {
-      "en": "Signs and symptoms of overdose (mostly with mixed drugs) included serotonin syndrome, somnolence, vomiting and seizures.",
-      "nl": "Tekenen en symptomen van overdosering (vooral bij gecombineerde middelen) zijn serotonine syndroom, slapeloosheid, overgeven en toevallen."
-    }
-  },
-  {
-    "translation": {
-      "en": "No specific antidote for duloxetine is known but if serotonin syndrome ensues, specific treatment (such as with cyproheptadine and/or temperature control) may be considered..",
-      "nl": "Er is geen specifiek antidotum tegen duloxetine bekend, maar indien het serotonine syndroom optreedt, kan specifieke behandeling overwogen worden (zoals met cyproheptadine en/of temperatuur controle)."
-    }
-  },
-  {
-    "translation": {
-      "en": "A free airway should be established.",
-      "nl": "De luchtwegen dienen te worden vrijgemaakt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Monitoring of cardiac and vital signs is recommended, along with appropriate symptomatic and supportive measures.",
-      "nl": "Aangeraden wordt de hartfuncties en de vitale functies nauwlettend te controleren en tevens adequate symptomatische en ondersteunende maatregelen te nemen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Gastric lavage may be indicated if performed soon after ingestion or in symptomatic patients.",
-      "nl": "Indien dit spoedig na inslikken wordt uitgevoerd of bij symptomatische patiënten kan maagspoeling zijn aangewezen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Activated charcoal may be useful in limiting absorption.",
-      "nl": "Om de absorptie te beperken kan geactiveerde kool worden gebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine has a large volume of distribution and forced diuresis, haemoperfusion, and exchange perfusion are unlikely to be beneficial.",
-      "nl": "Duloxetine heeft een groot verdelingsvolume en het is onwaarschijnlijk dat geforceerde diurese, hemoperfusie en wisselperfusie van nut zullen zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. PHARMACOLOGICAL PROPERTIES",
-      "nl": "5. FARMACOLOGISCHE EIGENSCHAPPEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "5.1 Pharmacodynamic properties",
-      "nl": "5.1 Farmacodynamische eigenschappen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is a combined serotonin (5-HT) and norepinephrine (NE) reuptake inhibitor.",
-      "nl": "Duloxetine is een gecombineerde serotonine(5-HT)- en noradrenaline(NA)-heropnameremmer."
-    }
-  },
-  {
-    "translation": {
-      "en": "It weakly inhibits dopamine reuptake with no significant affinity for histaminergic, dopaminergic, cholinergic and adrenergic receptors.",
-      "nl": "Het remt de heropname van dopamine in zwakke mate en heeft geen significante affiniteit voor histaminerge, dopaminerge, cholinerge en adrenerge receptoren."
-    }
-  },
-  {
-    "translation": {
-      "en": "In animal studies, increased levels of 5-HT and NE in the sacral spinal cord, lead to increased urethral tone via enhanced pudendal nerve stimulation to the urethral striated sphincter muscle only during the storage phase of the micturition cycle.",
-      "nl": "Bij dierproeven leiden verhoogde concentraties van 5-HT en NA in het sacrale ruggemerg tot een toegenomen tonus van de urethra door een verhoogde stimulatie van de nervus pudendus naar de urethrale dwarsgestreepte sfincterspier, die alleen tijdens de vulfase van de mictiecyclus optreedt."
-    }
-  },
-  {
-    "translation": {
-      "en": "A similar mechanism in women is believed to result in stronger urethral closure during urine storage with physical stress that could explain the efficacy of duloxetine in the treatment of women with SUI.",
-      "nl": "Van een vergelijkbaar mechanisme bij vrouwen, wordt aangenomen dat het resulteert in sterkere urethrale sluiting tijdens urine-opslag met fysieke stress wat de werkzaamheid van duloxetine bij de behandeling van vrouwen met SUI zou kunnen verklaren."
-    }
-  },
-  {
-    "translation": {
-      "en": "The efficacy of duloxetine 40 mg given twice daily in the treatment of SUI was established in four double-blind, placebo-controlled studies, that randomised 1913 women (22 to 83 years) with SUI; of these, 958 patients were randomised to duloxetine and 955 to placebo.",
-      "nl": "De werkzaamheid van duloxetine 40 mg tweemaal daags bij de behandeling van SUI werd vastgesteld in vier dubbelblinde, placebogecontroleerde onderzoeken waarbij 1913 vrouwen (22-83 jaar) met SUI werden gerandomiseerd; hierbij kregen 958 patiënten duloxetine en 955 patiënten een placebo toegewezen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The primary efficacy measures were Incontinence Episode Frequency (IEF) from diaries and an incontinence specific quality of life questionnaire score (I-QOL).",
-      "nl": "De voornaamste maatstaven voor de werkzaamheid waren de urine-incontinentie-episodefrequentie (IEF) uit dagboeken en een urine-incontinentiespecifieke levenskwaliteitsscore (I-QOL)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Incontinence Episode Frequency. in all four studies the duloxetine-treated group had a 50% or greater median decrease in IEF compared with 33% in the placebo-treated group.",
-      "nl": "Urine-incontinentie-episodefrequentie: bij alle vier onderzoeken vertoonde de met duloxetine behandelde groep een mediane afname in IEF van 50% of meer tegenover veranderingen in de placebogroep van 33%."
-    }
-  },
-  {
-    "translation": {
-      "en": "Differences were observed at each visit after 4 weeks (duloxetine 54%, and placebo 22%), 8 weeks (52% and 29%), and 12 weeks (52% and 33%) of medication.",
-      "nl": "Er werden verschillen waargenomen bij iedere visite na 4 weken (duloxetine 54% en placebo 22%), na 8 weken (52% en 29%), en na 12 weken (52% en 33%) het geneesmiddel innemen."
-    }
-  },
-  {
-    "translation": {
-      "en": "In an additional study limited to patients with severe SUI, all responses with duloxetine were achieved within 2 weeks.",
-      "nl": "Bij een aanvullend onderzoek dat zich beperkte tot patiënten met ernstige SUI werden alle reacties met duloxetine binnen 2 weken bereikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "The efficacy of ARICLAIM has not been evaluated for longer than 3 months in placebo-controlled studies.",
-      "nl": "De werkzaamheid van ARICLAIM is niet geëvalueerd voor een langere periode dan drie maanden in placebogecontroleerde studies."
-    }
-  },
-  {
-    "translation": {
-      "en": "The clinical benefit of ARICLAIM compared with placebo has not been demonstrated in women with mild SUI, defined in randomised trials as those with IEF < 14 per week.",
-      "nl": "Het klinische voordeel van ARICLAIM vergeleken met placebo is niet aangetoond bij vrouwen met lichte SUI, in gerandomiseerde studies gedefinieerd als diegenen met een IEF van < 14 per week."
-    }
-  },
-  {
-    "translation": {
-      "en": "In these women, ARICLAIM may provide no benefit beyond that afforded by more conservative behavioural interventions.",
-      "nl": "Bij deze vrouwen kan ARICLAIM geen voordeel geven boven dat wat verkregen wordt door conservatievere gedragsinterventies."
-    }
-  },
-  {
-    "translation": {
-      "en": "Using a global improvement scale (PGI), significantly more women using duloxetine considered their symptoms of stress incontinence to be improved with treatment compared with women using placebo (64.6% versus 50.1%, p<.001).",
-      "nl": "Met gebruikmaking van een schaal voor de globale verbetering (PGI), waren significant meer vrouwen die duloxetine gebruikten van mening dat hun symptomen van stress-incontinentie verbeterd waren tijdens de behandeling vergeleken met vrouwen die placebo namen (64,6% versus 50,1%, p<0,00 1)."
-    }
-  },
-  {
-    "translation": {
-      "en": "ARICLAIM and Prior Continence Surgery. there are limited data that suggest that the benefits of ARICLAIM are not diminished in women with stress urinary incontinence who have previously undergone continence surgery.",
-      "nl": "ARICLAIM en voorafgaande urine-incontinentiechirurgie: er zijn beperkte gegevens die suggereren dat de voordelen van ARICLAIM niet afnemen bij vrouwen met stress-urine-incontinentie die voorheen incontinentiechirurgie ondergaan hebben."
-    }
-  },
-  {
-    "translation": {
-      "en": "ARICLAIM and Pelvic Floor Muscle Training (PFMT). during a 12-week blinded, randomised, controlled study, ARICLAIM demonstrated greater reductions in IEF compared with either placebo treatment or with PFMT alone.",
-      "nl": "ARICLAIM en bekkenbodemspiertraining: gedurende een 12 weken durend geblindeerd, gerandomiseerd, gecontroleerd onderzoek zorgde ARICLAIM voor grotere afnames in IEF dan bij alleen placebobehandeling of bij alleen bekkenbodemspiertraining."
-    }
-  },
-  {
-    "translation": {
-      "en": "Combined therapy (duloxetine + PFMT) showed greater improvement in both pad use and condition-specific quality of life measures than ARICLAIM alone or PFMT alone.",
-      "nl": "Gecombineerde behandeling (duloxetine + bekkenbodemspiertraining) zorgde voor een sterkere verbetering ten aanzien van zowel gebruik van incontinentiemateriaal als aandoeningsspecifieke maatstaven voor levenskwaliteit dan alleen ARICLAIM of alleen bekkenbodemspiertraining."
-    }
-  },
-  {
-    "translation": {
-      "en": "5.2 Pharmacokinetic properties",
-      "nl": "5.2 Farmacokinetische gegevens"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is administered as a single enantiomer.",
-      "nl": "Duloxetine wordt als een enkele enantiomeer toegediend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is extensively metabolised by oxidative enzymes (CYP1A2 and the polymorphic CYP2D6), followed by conjugation.",
-      "nl": "Duloxetine wordt uitgebreid gemetaboliseerd door oxidatieve enzymen (CYP1A2 en het polymorfe CYP2D6), gevolgd door conjugatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "The pharmacokinetics of duloxetine demonstrate large intersubject variability (generally 50-60%), partly due to gender, age, smoking status and CYP2D6 metaboliser status.",
-      "nl": "De farmacokinetiek van duloxetine varieert sterk tussen proefpersonen (over het algemeen 50-60%), gedeeltelijk vanwege geslacht, leeftijd, wel of niet roken en de status van metabolisatie door CYP2D6."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is well absorbed after oral administration with a Cmax occurring 6 hours post dose.",
-      "nl": "Duloxetine wordt na orale toediening goed geabsorbeerd en de Cmax wordt 6 uur na dosering bereikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "The absolute oral bioavailability of duloxetine ranged from 32% to 80% (mean of 50%; N=8 subjects).",
-      "nl": "De absolute orale biologische beschikbaarheid van duloxetine varieerde van 32% tot 80% (gemiddeld 50%; n = 8 proefpersonen)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Food delays the time to reach the peak concentration from 6 to 10 hours and it marginally decreases the extent of absorption (approximately 11%).",
-      "nl": "Voedsel vertraagt de benodigde tijd om de piekconcentratie te bereiken van 6 tot 10 uur en zorgt voor een marginale afname van de mate van absorptie (circa 11%)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is approximately 96% bound to human plasma proteins.",
-      "nl": "Duloxetine wordt voor circa 96% aan menselijke plasma-eiwitten gebonden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine binds to both albumin and alpha-1 acid glycoprotein.",
-      "nl": "Duloxetine bindt zowel aan albumine als aan alfa- 1-zuur-glycoproteïne."
-    }
-  },
-  {
-    "translation": {
-      "en": "Protein binding is not affected by renal or hepatic impairment.",
-      "nl": "De eiwitbinding wordt niet beïnvloed door nier- of leverfunctiestoornissen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is extensively metabolised and the metabolites are excreted principally in urine.",
-      "nl": "Duloxetine wordt uitgebreid gemetaboliseerd en de metabolieten worden voornamelijk in urine uitgescheiden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Both CYP2D6 and CYP 1A2 catalyse the formation of the two major metabolites glucuronide conjugate of 4-hydroxy duloxetine and sulphate conjugate of 5-hydroxy,6-methoxy duloxetine.",
-      "nl": "Zowel CYP2D6 als CYP1A2 katalyseren de vorming van de twee belangrijkste metabolieten glucuronideconjugaat van 4-hydroxyduloxetine en sulfaatconjugaat van 5-hydroxy,6- methoxyduloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Based upon in vitro studies, the circulating metabolites of duloxetine are considered pharmacologically inactive.",
-      "nl": "Op basis van in vitro-onderzoeken worden de circulerende metabolieten van duloxetine als farmacologisch inactief beschouwd."
-    }
-  },
-  {
-    "translation": {
-      "en": "The pharmacokinetics of duloxetine in patients who are poor metabolisers with respect to CYP2D6 has not been specifically investigated.",
-      "nl": "De farmacokinetiek van duloxetine bij patiënten die langzame omzetters zijn met betrekking tot CYP2D6, is niet specifiek onderzocht."
-    }
-  },
-  {
-    "translation": {
-      "en": "Limited data suggest that the plasma levels of duloxetine are higher in these patients.",
-      "nl": "Beperkte data suggereren dat de plasmaspiegels van duloxetine bij deze patiënten hoger zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "The elimination half-life of duloxetine after an oral dose ranges from 8 to 17 hours (mean of 12 hours).",
-      "nl": "De eliminatie-halfwaardetijd van duloxetine na een orale dosis varieert van 8 tot 17 uur (gemiddeld 12 uur)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Special populations:",
-      "nl": "Speciale groepen patiënten:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Age: pharmacokinetic differences have been identified between younger and elderly females (\\u226565 years) (AUC increases by about 25% and half-life is about 25% longer in the elderly), although the magnitude of these changes is not sufficient to justify adjustments to the dose.",
-      "nl": "Leeftijd: hoewel er farmacokinetische verschillen zijn vastgesteld tussen jongere en oudere vrouwen (\\u2265 65 jaar) (AUC neemt toe met ongeveer 25% en de halfwaardetijd is ongeveer 25% langer bij ouderen) zijn deze verschillen niet groot genoeg om aanpassingen van de dosis te rechtvaardigen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Renal impairment: end stage renal disease (ESRD) patients receiving dialysis had a 2-fold higher duloxetine Cmax and AUC values compared to healthy subjects.",
-      "nl": "Nierfunctiestoornissen: patiënten met nierziekte in het eindstadium die dialyse ondergingen, hadden 2 keer zo hoge Cmax- en AUC-waarden voor duloxetine als gezonde proefpersonen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Pharmacokinetic data on duloxetine is limited in patients with mild or moderate renal impairment.",
-      "nl": "Farmacokinetische gegevens over duloxetine zijn beperkt bij patiënten met lichte of matige nierfunctiestoornissen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hepatic insufficiency: moderate liver disease (Child Pugh Class B) affected the pharmacokinetics of duloxetine.",
-      "nl": "Leverinsufficiëntie: matige leverziekte (Child-Pugh klasse B) beïnvloedde de farmacokinetiek van duloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Compared with healthy subjects, the apparent plasma clearance of duloxetine was 79% lower, the apparent terminal half-life was 2.3 times longer, and the AUC was 3.7 times higher in patients with moderate liver disease.",
-      "nl": "Vergeleken met gezonde proefpersonen was de schijnbare plasmaklaring van duloxetine 79% lager, de schijnbare terminale halfwaardetijd was 2,3 keer langer en de AUC was 3,7 keer hoger bij patiënten met matige leverziekte."
-    }
-  },
-  {
-    "translation": {
-      "en": "The pharmacokinetics of duloxetine and its metabolites have not been studied in patients with mild or severe hepatic insufficiency.",
-      "nl": "De farmacokinetiek van duloxetine en zijn metabolieten is niet bestudeerd bij patiënten met lichte of ernstige leverinsufficiëntie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Nursing mothers: The disposition of duloxetine was studied in 6 lactating women who were at least 12-weeks postpartum.",
-      "nl": "Moeders die borstvoeding geven: De eigenschappen van duloxetine zijn bestudeerd bij 6 moeders die borstvoeding gaven 12 weken postpartum."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is detected in breast milk, and steady-state concentrations in breast milk are about one-fourth those in plasma.",
-      "nl": "Duloxetine werd gedetecteerd in de moedermelk, en steady-state concentraties in moedermelk zijn ongeveer éénvierde van die in plasma."
-    }
-  },
-  {
-    "translation": {
-      "en": "The amount of duloxetine in breast milk is approximately 7 µg/day while on 40 mg twice daily dosing.",
-      "nl": "De hoeveelheid duloxetine in moedermelk is ongeveer 7 microgram/dag bij een dosering van 40 mg tweemaal daags."
-    }
-  },
-  {
-    "translation": {
-      "en": "Lactation did not influence duloxetine pharmacokinetics.",
-      "nl": "Het geven van borstvoeding had geen invloed op de farmacokinetiek van duloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "5.3 Precinical safety data",
-      "nl": "5.3 Gegevens uit het preklinisch veiligheidsonderzoek"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine was not genotoxic in a standard battery of tests and was not carcinogenic in rats.",
-      "nl": "Duloxetine was in een standaard serie testen niet genotoxisch en was niet carcinogeen bij ratten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Multinucleated cells were seen in the liver in the absence of other histopathological changes in the rat carcinogenicity study.",
-      "nl": "In de carcinogeniteitsstudie bij ratten werden meerkernige cellen gezien in de lever in afwezigheid van andere histopathologische veranderingen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The underlying mechanism and the clinical relevance are unknown.",
-      "nl": "Het onderliggende mechanisme en de klinische relevantie zijn onbekend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Female mice receiving duloxetine for 2 years had an increased incidence of hepatocellular adenomas and carcinomas at the high dose only (144 mg/kg/day), but these were considered to be secondary to hepatic microsomal enzyme induction.",
-      "nl": "Vrouwtjesmuizen die gedurende 2 jaar duloxetine kregen toegediend, hadden alleen bij de hoge dosis (144 mg/kg/dag) een verhoogde incidentie van hepatocellulaire adenomen en carcinomen, maar aangenomen werd dat deze het gevolg waren van inductie van microsomale leverenzymen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The relevance of this mouse data to humans is unknown.",
-      "nl": "In hoeverre deze gegevens bij de muis relevant zijn voor de mens is onbekend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Female rats receiving duloxetine before and during mating and early pregnancy had a decrease in maternal food consumption and body weight, oestrous cycle disruption, decreased live birth indices and progeny survival, and progeny growth retardation at systemic exposure levels estimated to be at the most at maximum clinical exposure (AUC).",
-      "nl": "Bij vrouwtjesratten die duloxetine toegediend kregen vóór en tijdens het paren en de vroege zwangerschap, nam de voedselconsumptie en het lichaamsgewicht van het moederdier af, werd de oestrus verstoord, nam het aantal levendgeboren en overlevende jongen af en was sprake van een vertraagde groei van de jongen, bij systemische blootstellingsniveaus, waarvan geschat wordt dat die ten hoogste overeenkwamen met de maximale klinische blootstelling (AUC)."
-    }
-  },
-  {
-    "translation": {
-      "en": "In an embryotoxicity study in the rabbit, a higher incidence of cardiovascular and skeletal malformations was observed at systemic exposure levels below the maximun clinical exposure (AUC).",
-      "nl": "In een embryotoxiciteitsstudie bij konijnen werd een hogere incidentie van cardiovasculaire malformaties en skeletmalformaties waargenomen bij systemische blootstellingsniveaus onder de maximale klinische blootstelling (AUC)."
-    }
-  },
-  {
-    "translation": {
-      "en": "No malformations were observed in another study testing a higher dose of a different salt of duloxetine.",
-      "nl": "Er werden geen malformaties waargenomen bij een andere studie, waarbij een hogere dosis van een verschillend zout van duloxetine werd getest."
-    }
-  },
-  {
-    "translation": {
-      "en": "In pre/postnatal toxicity study in the rat, duloxetine induced adverse behavioural effects in the offspring at systemic exposures levels below maximum clinical exposure (AUC).",
-      "nl": "In een pre-/postnatale toxiciteitsstudie bij de rat leidde duloxetine tot afwijkende gedragseffecten bij de nakomelingen bij systemische blootstellingsniveaus onder de maximale klinische blootstelling (AUC)."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. PHARMACEUTICAL PARTICULARS",
-      "nl": "6. FARMACEUTISCHE GEGEVENS"
-    }
-  },
-  {
-    "translation": {
-      "en": "6.1 List of excipients",
-      "nl": "6.1 Lijst van hulpstoffen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Capsule content:",
-      "nl": "Capsule-inhoud:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Hypromellose.",
-      "nl": "Hypromellose"
-    }
-  },
-  {
-    "translation": {
-      "en": "Hydroxypropyl methylcellulose acetate succinate",
-      "nl": "Hydroxypropylmethylcellulose-acetaatsuccinaat"
-    }
-  },
-  {
-    "translation": {
-      "en": "Sucrose",
-      "nl": "Saccharose"
-    }
-  },
-  {
-    "translation": {
-      "en": "Capsule Shell:",
-      "nl": "Capsule-omhulsel:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Gelatin",
-      "nl": "Gelatine"
-    }
-  },
-  {
-    "translation": {
-      "en": "Sodium Lauryl Sulfate",
-      "nl": "Natriumlaurylsulfaat"
-    }
-  },
-  {
-    "translation": {
-      "en": "Titanium Dioxide (E1 71)",
-      "nl": "Titaniumdioxide (E1 71)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Indigo Carmine (E132)",
-      "nl": "Indigocarmijn (E132)"
     }
   },
   {
@@ -2995,122 +433,8 @@
   },
   {
     "translation": {
-      "en": "Edible Ink:",
-      "nl": "Eetbare zwarte inkt:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Black Iron Oxide-Synthetic (E1 72)",
-      "nl": "Zwart ijzeroxide -- synthetisch (E172)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Propylene glycol",
-      "nl": "Propyleenglycol"
-    }
-  },
-  {
-    "translation": {
-      "en": "Shellac",
-      "nl": "Schellak."
-    }
-  },
-  {
-    "translation": {
-      "en": "Capsule Shell Cap colour: Opaque Blue",
-      "nl": "Kleur van kapje van capsule-omhulsel: Ondoorschijnend blauw"
-    }
-  },
-  {
-    "translation": {
-      "en": "Capsule Shell Body colour: Opaque blue",
-      "nl": "Kleur van romp van capsule-omhulsel: Ondoorschijnend blauw"
-    }
-  },
-  {
-    "translation": {
-      "en": "6.2 Incompatibilities",
-      "nl": "6.2 Gevallen van onverenigbaarheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "Not applicable.",
-      "nl": "Niet van toepassing."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.3 Shelf life",
-      "nl": "6.3 Houdbaarheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "3 years.",
-      "nl": "3 jaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.4 Special precautions for storage",
-      "nl": "6.4 Speciale voorzorgsmaatregelen bij bewaren"
-    }
-  },
-  {
-    "translation": {
-      "en": "Store in the original package.",
-      "nl": "Bewaar in de oorspronkelijke verpakking."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not store above 30°C.",
-      "nl": "Niet bewaren boven 30 °C."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.5 Nature and contents of container",
-      "nl": "6.5 Aard en inhoud van de verpakking"
-    }
-  },
-  {
-    "translation": {
-      "en": "Polyvinylchloride (PVC), Polyethylene (PE), and Polychlorotrifluoroethylene (PCTFE) blister sealed with an aluminum foil.",
-      "nl": "Polyvinylchloride (PVC), polyethyleen (PE) en polychlorotrifluoroethyleen (PCTFE) blister die is afgedicht met aluminiumfolie."
-    }
-  },
-  {
-    "translation": {
       "en": "Packs of 28 and 56 capsules.",
       "nl": "Verpakkingen van 28 en 56 capsules."
-    }
-  },
-  {
-    "translation": {
-      "en": "Not all pack sizes may be marketed.",
-      "nl": "Het kan voorkomen dat niet alle verpakkingsgrootten in de handel worden gebracht."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.6 Special precautions for disposal",
-      "nl": "6.6 Speciale voorzorgsmaatregelen voor het verwijderen"
-    }
-  },
-  {
-    "translation": {
-      "en": "No special requirements.",
-      "nl": "Geen bijzondere vereisten."
-    }
-  },
-  {
-    "translation": {
-      "en": "8. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "8. NUMMER(S) VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
     }
   },
   {
@@ -3121,248 +445,8 @@
   },
   {
     "translation": {
-      "en": "9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION 11 August 2004",
-      "nl": "9. DATUM VAN EERSTE VERGUNNING/HERNIEUWING VAN DE VERGUNNING 11 augustus 2004"
-    }
-  },
-  {
-    "translation": {
-      "en": "10. DATE OF REVISION OF THE TEXT",
-      "nl": "10. DATUM VAN HERZIENING VAN DE TEKST"
-    }
-  },
-  {
-    "translation": {
-      "en": "ANNEX II",
-      "nl": "BIJLAGE II"
-    }
-  },
-  {
-    "translation": {
-      "en": "A. MANUFACTURING AUTHORISATION HOLDER(S) RESPONSIBLE FOR BATCH RELEASE",
-      "nl": "A. HOUDER VAN DE VERGUNNING VOOR DE VERVAARDIGING VERANTWOORDELIJK VOOR VRIJGIFTE"
-    }
-  },
-  {
-    "translation": {
-      "en": "B. CONDITIONS OF THE MARKETING AUTHORISATION",
-      "nl": "B. VOORWAARDEN VERBONDEN AAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "A MANUFACTURING AUTHORISATION HOLDER(S) RESPONSIBLE FOR BATCH RELEASE",
-      "nl": "A. HOUDER VAN DE VERGUNNING VOOR DE VERVAARDIGING VERANTWOORDELIJK VOOR VRIJGIFTE"
-    }
-  },
-  {
-    "translation": {
-      "en": "Name and address of the manufacturer(s) responsible for batch release",
-      "nl": "Naam en adres van de fabrikant verantwoordelijk voor vrijgifte"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lilly SA",
-      "nl": "Lilly SA"
-    }
-  },
-  {
-    "translation": {
-      "en": "Avenida de la Industria No 30 28108 Alcobendas",
-      "nl": "Avenida de la Industria No 30 28108 Alcobendas"
-    }
-  },
-  {
-    "translation": {
-      "en": "Madrid",
-      "nl": "Madrid"
-    }
-  },
-  {
-    "translation": {
-      "en": "Spain",
-      "nl": "Spain"
-    }
-  },
-  {
-    "translation": {
-      "en": "B CONDITIONS OF THE MARKETING AUTHORISATION",
-      "nl": "B. VOORWAARDEN VERBONDEN AAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE IMPOSED ON THE MARKETING AUTHORISATION HOLDER",
-      "nl": "VOORWAARDEN OF BEPERKINGEN OPGELEGD AAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN TEN AANZIEN VAN DE LEVERING EN HET GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal product subject to medical prescription.",
-      "nl": "Aan medisch recept onderworpen geneesmiddel."
-    }
-  },
-  {
-    "translation": {
-      "en": "CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT",
-      "nl": "VOORWAARDEN OF BEPERKINGEN MET BETREKKING TOT EEN VEILIG EN DOELTREFFEND GEBRUIK VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
-      "en": "Not applicable.",
-      "nl": "Niet van toepassing"
-    }
-  },
-  {
-    "translation": {
-      "en": "OTHER CONDITIONS",
-      "nl": "ANDERE VOORWAARDEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "ANNEX III",
-      "nl": "BIJLAGE III"
-    }
-  },
-  {
-    "translation": {
-      "en": "PARTICULARS TO APPEAR ON THE OUTER PACKAGING CARTONS FOR 40 MG HARD GASTRO-RESISTANT CAPSULES",
-      "nl": "GEGEVENS DIE OP DE BUITENVERPAKKING MOETEN WORDEN VERMELD: KARTONNEN DOOSJES VOOR 40 MG HARDE MAAGSAPRESISTENTE CAPSULES"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. BENAMING VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. STATEMENT OF ACTIVE SUBSTANCE(S)",
-      "nl": "2. GEHALTE AAN WERKZAME STOF(FEN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Each capsule contains 40 mg duloxetine (as hydrochloride).",
-      "nl": "Elke capsule bevat 40 mg duloxetine (als hydrochloride)."
-    }
-  },
-  {
-    "translation": {
-      "en": "3. LIST OF EXCIPIENTS",
-      "nl": "3. LIJST VAN HULPSTOFFEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Contains sucrose.",
-      "nl": "Bevat sacharose"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. PHARMACEUTICAL FORM AND CONTENTS",
-      "nl": "4. FARMACEUTISCHE VORM EN INHOUD"
-    }
-  },
-  {
-    "translation": {
-      "en": "packs of 28, 56, 98, 140 capsules.",
-      "nl": "Verpakking van 28, 56, 98, 140 capsules."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. METHOD AND ROUTE(S) OF ADMINISTRATION",
-      "nl": "5. WIJZE VAN GEBRUIK EN TOEDIENINGSWEG(EN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Read the package leaflet before use.",
-      "nl": "Voor het gebruik de bijsluiter lezen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Oral use.",
-      "nl": "Oraal gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN",
-      "nl": "6. EEN SPECIALE WAARSCHUWING DAT HET GENEESMIDDEL BUITEN HET BEREIK EN ZICHT VAN KINDEREN DIENT TE WORDEN GEHOUDEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Houd het geneesmiddel buiten het bereik en het zicht van kinderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "7. OTHER SPECIAL WARNING(S), IF NECESSARY",
-      "nl": "7. ANDERE SPECIALE WAARSCHUWING(EN), INDIEN NODIG"
-    }
-  },
-  {
-    "translation": {
-      "en": "8. EXPIRY DATE",
-      "nl": "8. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "EXP {MM/YYYY}.",
-      "nl": "EXP {MM/JJJJ}."
-    }
-  },
-  {
-    "translation": {
-      "en": "9. SPECIAL STORAGE CONDITIONS",
-      "nl": "9. BIJZONDERE VOORZORGSMAATREGELEN VOOR DE BEWARING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Store in the original package.",
-      "nl": "Bewaar in de oorspronkelijke verpakking."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not store above 30 °C.",
-      "nl": "Niet bewaren boven 30 °C."
-    }
-  },
-  {
-    "translation": {
-      "en": "10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE",
-      "nl": "10. BIJZONDERE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE GENEESMIDDELEN OF DAARVAN AFGELEIDE AFVALSTOFFEN (INDIEN VAN TOEPASSING)"
-    }
-  },
-  {
-    "translation": {
-      "en": "11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "11. NAAM EN ADRES VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "Eli Lilly Nederland BY, Grootslag 1-5, NL-399 1 RA, Houten, The Netherlands.",
       "nl": "Eli Lilly Nederland BY, Grootslag 1-5, NL-399 1 RA, Houten, Nederland."
-    }
-  },
-  {
-    "translation": {
-      "en": "12. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "12. NUMMER(S) VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
     }
   },
   {
@@ -3373,188 +457,14 @@
   },
   {
     "translation": {
-      "en": "13. BATCH NUMBER",
-      "nl": "13. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lot:",
-      "nl": "Lot:"
-    }
-  },
-  {
-    "translation": {
-      "en": "14. GENERAL CLASSIFICATION FOR SUPPLY",
-      "nl": "14. ALGEMENE INDELING VOOR DE AFLEVERING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal product subject to medical prescription.",
-      "nl": "Geneesmiddel op medisch voorschrift."
-    }
-  },
-  {
-    "translation": {
-      "en": "15. INSTRUCTIONS ON USE",
-      "nl": "15. INSTRUCTIES VOOR GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "16. INFORMATION IN BRAILLE",
-      "nl": "16. INFORMATIE OVER BRAILLE"
-    }
-  },
-  {
-    "translation": {
       "en": "ARICLAIM 40 mg",
       "nl": "ARICLAIM 40 mg"
     }
   },
   {
     "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. BENAMING VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
       "en": "ARICLAIM 40 mg hard gastro-resistant capsules Duloxetine",
       "nl": "ARICLAIM 40 mg, harde maagsapresistente capsules Duloxetine"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. STATEMENT OF ACTIVE SUBSTANCE(S)",
-      "nl": "2. GEHALTE AAN WERKZAME STOF(FEN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Each capsule contains 40 mg duloxetine (as hydrochloride).",
-      "nl": "Elke capsule bevat 40 mg duloxetine (als hydrochloride)."
-    }
-  },
-  {
-    "translation": {
-      "en": "3. LIST OF EXCIPIENTS",
-      "nl": "3. LIJST VAN HULPSTOFFEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Contains sucrose.",
-      "nl": "Bevat sacharose"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. PHARMACEUTICAL FORM AND CONTENTS",
-      "nl": "4. FARMACEUTISCHE VORM EN INHOUD"
-    }
-  },
-  {
-    "translation": {
-      "en": "98 capsules",
-      "nl": "98 capsules."
-    }
-  },
-  {
-    "translation": {
-      "en": "Component of a multipack comprising 2 packs, each containing 98 capsules.",
-      "nl": "Onderdeel van een meervoudige verpakking bestaande uit 2 verpakkingen, waarvan ieder 98 capsules bevat."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. METHOD AND ROUTE(S) OF ADMINISTRATION",
-      "nl": "5. WIJZE VAN GEBRUIK EN TOEDIENINGSWEG(EN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Read the package leaflet before use.",
-      "nl": "Voor het gebruik de bijsluiter lezen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Oral use.",
-      "nl": "Oraal gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN",
-      "nl": "6. EEN SPECIALE WAARSCHUWING DAT HET GENEESMIDDEL BUITEN HET BEREIK EN ZICHT VAN KINDEREN DIENT TE WORDEN GEHOUDEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Houd het geneesmiddel buiten het bereik en het zicht van kinderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "7. OTHER SPECIAL WARNING(S), IF NECESSARY",
-      "nl": "7. ANDERE SPECIALE WAARSCHUWING(EN), INDIEN NODIG"
-    }
-  },
-  {
-    "translation": {
-      "en": "8. EXPIRY DATE",
-      "nl": "8. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "EXP {MM/YYYY}",
-      "nl": "EXP {MM/JJJJ}."
-    }
-  },
-  {
-    "translation": {
-      "en": "9. SPECIAL STORAGE CONDITIONS",
-      "nl": "9. BIJZONDERE VOORZORGSMAATREGELEN VOOR DE BEWARING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Store in the original package.",
-      "nl": "Bewaar in de oorspronkelijke verpakking."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not store above 30 °C.",
-      "nl": "Niet bewaren boven 30 °C."
-    }
-  },
-  {
-    "translation": {
-      "en": "10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE",
-      "nl": "10. BIJZONDERE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE GENEESMIDDELEN OF DAARVAN AFGELEIDE AFVALSTOFFEN (INDIEN VAN TOEPASSING)"
-    }
-  },
-  {
-    "translation": {
-      "en": "11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "11. NAAM EN ADRES VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Eli Lilly Nederland BY, Grootslag 1-5, NL-399 1 RA, Houten, The Netherlands.",
-      "nl": "Eli Lilly Nederland BY, Grootslag 1-5, NL-399 1 RA, Houten, Nederland."
-    }
-  },
-  {
-    "translation": {
-      "en": "12. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "12. NUMMER(S) VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
     }
   },
   {
@@ -3565,242 +475,8 @@
   },
   {
     "translation": {
-      "en": "13. BATCH NUMBER",
-      "nl": "13. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lot:",
-      "nl": "Lot:"
-    }
-  },
-  {
-    "translation": {
-      "en": "14. GENERAL CLASSIFICATION FOR SUPPLY",
-      "nl": "14. ALGEMENE INDELING VOOR DE AFLEVERING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal product subject to medical prescription.",
-      "nl": "Geneesmiddel op medisch voorschrift."
-    }
-  },
-  {
-    "translation": {
-      "en": "15. INSTRUCTIONS ON USE",
-      "nl": "15. INSTRUCTIES VOOR GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "16. INFORMATION IN BRAILLE",
-      "nl": "16. INFORMATIE OVER BRAILLE"
-    }
-  },
-  {
-    "translation": {
-      "en": "ARICLAIM 40 mg",
-      "nl": "ARICLAIM 40 mg"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. BENAMING VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
-      "en": "ARICLAIM 40 mg hard gastro-resistant capsules Duloxetine",
-      "nl": "ARICLAIM 40 mg, harde maagsapresistente capsules Duloxetine"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. STATEMENT OF ACTIVE SUBSTANCE(S)",
-      "nl": "2. GEHALTE AAN WERKZAME STOF(FEN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Each capsule contains 40 mg duloxetine (as hydrochloride).",
-      "nl": "Elke capsule bevat 40 mg duloxetine (als hydrochloride)."
-    }
-  },
-  {
-    "translation": {
-      "en": "3. LIST OF EXCIPIENTS",
-      "nl": "3. LIJST VAN HULPSTOFFEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Contains sucrose.",
-      "nl": "Bevat sacharose."
-    }
-  },
-  {
-    "translation": {
-      "en": "4. PHARMACEUTICAL FORM AND CONTENTS",
-      "nl": "4. FARMACEUTISCHE VORM EN INHOUD"
-    }
-  },
-  {
-    "translation": {
-      "en": "Multipack comprising 2 packs, each containing 98 capsules.",
-      "nl": "Meervoudige verpakking bestaande uit 2 verpakkingen, waarvan ieder 98 capsules bevat."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. METHOD AND ROUTE(S) OF ADMINISTRATION",
-      "nl": "5. WIJZE VAN GEBRUIK EN TOEDIENINGSWEG(EN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Read the package leaflet before use.",
-      "nl": "Voor het gebruik de bijsluiter lezen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Oral use.",
-      "nl": "Oraal gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN",
-      "nl": "6. EEN SPECIALE WAARSCHUWING DAT HET GENEESMIDDEL BUITEN HET BEREIK EN ZICHT VAN KINDEREN DIENT TE WORDEN GEHOUDEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Houd het geneesmiddel buiten het bereik en het zicht van kinderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "7. OTHER SPECIAL WARNING(S), IF NECESSARY",
-      "nl": "7. ANDERE SPECIALE WAARSCHUWING(EN), INDIEN NODIG"
-    }
-  },
-  {
-    "translation": {
-      "en": "8. EXPIRY DATE",
-      "nl": "8. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "EXP {MM/YYYY}",
-      "nl": "EXP {MM/JJJJ}."
-    }
-  },
-  {
-    "translation": {
-      "en": "9. SPECIAL STORAGE CONDITIONS",
-      "nl": "9. BIJZONDERE VOORZORGSMAATREGELEN VOOR DE BEWARING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Store in the original package.",
-      "nl": "Bewaar in de oorspronkelijke verpakking."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not store above 30 °C.",
-      "nl": "Niet bewaren boven 30 °C."
-    }
-  },
-  {
-    "translation": {
-      "en": "10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE",
-      "nl": "10. BIJZONDERE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE GENEESMIDDELEN OF DAARVAN AFGELEIDE AFVALSTOFFEN (INDIEN VAN TOEPASSING)"
-    }
-  },
-  {
-    "translation": {
-      "en": "11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "11. NAAM EN ADRES VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Eli Lilly Nederland BY, Grootslag 1-5, NL-399 1 RA, Houten, The Netherlands.",
-      "nl": "Eli Lilly Nederland BY, Grootslag 1-5, NL-399 1 RA, Houten, Nederland."
-    }
-  },
-  {
-    "translation": {
-      "en": "12. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "12. NUMMER(S) VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "EU/1/04/283/006",
       "nl": "EU/1/04/283/006"
-    }
-  },
-  {
-    "translation": {
-      "en": "13. BATCH NUMBER",
-      "nl": "13. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lot:",
-      "nl": "Lot:"
-    }
-  },
-  {
-    "translation": {
-      "en": "14. GENERAL CLASSIFICATION FOR SUPPLY",
-      "nl": "14. ALGEMENE INDELING VOOR DE AFLEVERING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal product subject to medical prescription.",
-      "nl": "Geneesmiddel op medisch voorschrift."
-    }
-  },
-  {
-    "translation": {
-      "en": "15. INSTRUCTIONS ON USE",
-      "nl": "15. INSTRUCTIES VOOR GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "16. INFORMATION IN BRAILLE",
-      "nl": "16. INFORMATIE OVER BRAILLE"
-    }
-  },
-  {
-    "translation": {
-      "en": "ARICLAIM 40 mg",
-      "nl": "ARICLAIM 40 mg"
-    }
-  },
-  {
-    "translation": {
-      "en": "MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS (40 mg hard gastro-resistant capsules)",
-      "nl": "GEGEVENS DIE TEN MINSTE OP BLISTERVERPAKKINGEN OF STRIPS MOETEN WORDEN VERMELD (40 MG HARDE MAAGSAPRESISTENTE CAPSULES)"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. NAAM VAN HET GENEESMIDDEL"
     }
   },
   {
@@ -3811,284 +487,14 @@
   },
   {
     "translation": {
-      "en": "2. NAME OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "2. NAAM VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lilly",
-      "nl": "Lilly"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. EXPIRY DATE",
-      "nl": "3. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "<EXP {MM/YYYY}.",
-      "nl": "EXP {MM/JJJJ}."
-    }
-  },
-  {
-    "translation": {
-      "en": "4. BATCH NUMBER",
-      "nl": "4. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lot:",
-      "nl": "Lot:"
-    }
-  },
-  {
-    "translation": {
-      "en": "5. OTHER",
-      "nl": "5. OVERIGE"
-    }
-  },
-  {
-    "translation": {
-      "en": "PARTICULARS TO APPEAR ON THE OUTER PACKAGING CARTONS FOR 20 MG HARD GASTRO-RESISTANT CAPSULES",
-      "nl": "GEGEVENS DIE OP DE BUITENVERPAKKING MOETEN WORDEN VERMELD: KARTONNEN DOOSJES VOOR 20 MG HARDE MAAGSAPRESISTENTE CAPSULES"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. BENAMING VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. STATEMENT OF ACTIVE SUBSTANCE(S)",
-      "nl": "2. GEHALTE AAN WERKZAME STOF(FEN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Each capsule contains 20 mg duloxetine (as hydrochloride).",
-      "nl": "Elke capsule bevat 20 mg duloxetine (als hydrochloride)."
-    }
-  },
-  {
-    "translation": {
-      "en": "3. LIST OF EXCIPIENTS",
-      "nl": "3. LIJST VAN HULPSTOFFEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Contains sucrose.",
-      "nl": "Bevat sacharose."
-    }
-  },
-  {
-    "translation": {
-      "en": "4. PHARMACEUTICAL FORM AND CONTENTS",
-      "nl": "4. FARMACEUTISCHE VORM EN INHOUD"
-    }
-  },
-  {
-    "translation": {
-      "en": "Packs of 28 capsules.",
-      "nl": "28 harde maagsapresistente capsules."
-    }
-  },
-  {
-    "translation": {
-      "en": "Packs of 56 capsules.",
-      "nl": "56 harde maagsapresistente capsules."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. METHOD AND ROUTE(S) OF ADMINISTRATION",
-      "nl": "5. WIJZE VAN GEBRUIK EN TOEDIENINGSWEG(EN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN",
-      "nl": "6. EEN SPECIALE WAARSCHUWING DAT HET GENEESMIDDEL BUITEN HET BEREIK EN ZICHT VAN KINDEREN DIENT TE WORDEN GEHOUDEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Houd het geneesmiddel buiten het bereik en het zicht van kinderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "7. OTHER SPECIAL WARNING(S), IF NECESSARY",
-      "nl": "7. ANDERE SPECIALE WAARSCHUWING(EN), INDIEN NODIG"
-    }
-  },
-  {
-    "translation": {
-      "en": "8. EXPIRY DATE",
-      "nl": "8. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "EXP {MM/YYYY}.",
-      "nl": "EXP {MM/JJJJ}."
-    }
-  },
-  {
-    "translation": {
-      "en": "9. SPECIAL STORAGE CONDITIONS",
-      "nl": "9. BIJZONDERE VOORZORGSMAATREGELEN VOOR DE BEWARING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Store in the original package.",
-      "nl": "Bewaar in de oorspronkelijke verpakking."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not store above 30 °C.",
-      "nl": "Niet bewaren boven 30 °C."
-    }
-  },
-  {
-    "translation": {
-      "en": "10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE",
-      "nl": "10. BIJZONDERE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE GENEESMIDDELEN OF DAARVAN AFGELEIDE AFVALSTOFFEN (INDIEN VAN TOEPASSING)"
-    }
-  },
-  {
-    "translation": {
-      "en": "11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "11. NAAM EN ADRES VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Eli Lilly Nederland BY, Grootslag 1-5, NL-399 1 RA, Houten, The Netherlands.",
-      "nl": "Eli Lilly Nederland BY, Grootslag 1-5, NL-399 1 RA, Houten, Nederland."
-    }
-  },
-  {
-    "translation": {
-      "en": "12. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "12. NUMMER(S) VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "EU/1/04/283/00 1 EU/1/04/283/007",
-      "nl": "EU/1/04/283/00 1 EU/1/04/283/007"
-    }
-  },
-  {
-    "translation": {
-      "en": "13. BATCH NUMBER",
-      "nl": "13. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lot:",
-      "nl": "Lot:"
-    }
-  },
-  {
-    "translation": {
-      "en": "14. GENERAL CLASSIFICATION FOR SUPPLY",
-      "nl": "14. ALGEMENE INDELING VOOR DE AFLEVERING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal product subject to medical prescription.",
-      "nl": "Geneesmiddel op medisch voorschrift."
-    }
-  },
-  {
-    "translation": {
-      "en": "15. INSTRUCTIONS ON USE",
-      "nl": "15. INSTRUCTIES VOOR GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "16. INFORMATION IN BRAILLE",
-      "nl": "16. INFORMATIE OVER BRAILLE"
-    }
-  },
-  {
-    "translation": {
       "en": "ARICLAIM 20 mg",
       "nl": "ARICLAIM 20 mg"
     }
   },
   {
     "translation": {
-      "en": "MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS (20 mg hard gastro-resistant capsules)",
-      "nl": "GEGEVENS DIE TEN MINSTE OP BLISTERVERPAKKINGEN OF STRIPS MOETEN WORDEN VERMELD (20 MG HARDE MAAGSAPRESISTENTE CAPSULES)"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. NAAM VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
       "en": "ARICLAIM 20 mg hard gastro-resistant capsules Duloxetine",
       "nl": "ARICLAIM 20 mg harde maagsapresistente capsules Duloxetine"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. NAME OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "2. NAAM VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lilly",
-      "nl": "Lilly"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. EXPIRY DATE",
-      "nl": "3. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "<EXP {MM/YYYY}.",
-      "nl": "EXP {MM/JJJJ}."
-    }
-  },
-  {
-    "translation": {
-      "en": "4. BATCH NUMBER",
-      "nl": "4. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lot:",
-      "nl": "Lot:"
-    }
-  },
-  {
-    "translation": {
-      "en": "5. OTHER",
-      "nl": "5. OVERIGE"
     }
   },
   {
@@ -4111,50 +517,14 @@
   },
   {
     "translation": {
-      "en": "Duloxetine (as hydrochloride)",
-      "nl": "Duloxetine (als hydrochloride)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Read all of this leaflet carefully before you start taking this medicine.",
-      "nl": "Lees de hele bijsluiter aandachtig door alvorens dit geneesmiddel te gebruiken."
-    }
-  },
-  {
-    "translation": {
       "en": "- If you have any further questions, ask your doctor or pharmacist.",
       "nl": "- Heeft u nog vragen, raadpleeg dan uw arts of apotheker.."
     }
   },
   {
     "translation": {
-      "en": "- This medicine has been prescribed for you.",
-      "nl": "- Dit geneesmiddel is aan u persoonlijk voorgeschreven."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not pass it on to others.",
-      "nl": "Geef dit geneesmiddel niet door aan anderen."
-    }
-  },
-  {
-    "translation": {
       "en": "It may harm them, even if their symptoms are the same as yours.",
       "nl": "Dit geneesmiddel kan schadelijk voor hen zijn, zelfs als de verschijnselen dezelfde zijn als waarvoor u het geneesmiddel heeft gekregen.."
-    }
-  },
-  {
-    "translation": {
-      "en": "- If any of the side effects gets serious, or if you notice any side effects not listed in this leaflet, please tell your doctor or pharmacist.",
-      "nl": "- Wanneer één van de bijwerkingen ernstig wordt of in geval er bij u een bijwerking optreedt die niet in deze bijsluiter is vermeld, raadpleeg dan uw arts of apotheker."
-    }
-  },
-  {
-    "translation": {
-      "en": "In this leaflet:",
-      "nl": "In deze bijsluiter:"
     }
   },
   {
@@ -4177,26 +547,8 @@
   },
   {
     "translation": {
-      "en": "4. Possible side effects",
-      "nl": "4. Mogelijke bijwerkingen"
-    }
-  },
-  {
-    "translation": {
       "en": "5. How to store ARICLAIM",
       "nl": "5. Hoe bewaart u ARICLAIM"
-    }
-  },
-  {
-    "translation": {
-      "en": "6. Further information",
-      "nl": "6. Aanvullende informatie"
-    }
-  },
-  {
-    "translation": {
-      "en": "Stress urinary incontinence is a medical condition in which patients have accidental loss or leakage of urine during physical exertion or activities such as laughing, coughing, sneezing, lifting, or exercise.",
-      "nl": "Stress-urine-incontinentie is een medische aandoening waarbij patiënten ongewild urine verliezen of urine lekken tijdens lichamelijke inspanning of activiteiten zoals lachen, hoesten, niezen, tillen of sporten."
     }
   },
   {
@@ -4231,30 +583,6 @@
   },
   {
     "translation": {
-      "en": "- If you are taking or have taken within the last 14 days, another medicine known as a monoamine oxidase inhibitor - MAOI (see section below 'Taking other medicines').",
-      "nl": "- als u een ander geneesmiddel dat bekend is als monoamineoxidaseremmer (MAO-remmer) gebruikt of de laatste 14 dagen heeft gebruikt (zie onderstaande rubriek: 'Gebruik van andere geneesmiddelen')."
-    }
-  },
-  {
-    "translation": {
-      "en": "- If you have liver disease.",
-      "nl": "- als u een leverziekte heeft."
-    }
-  },
-  {
-    "translation": {
-      "en": "- If you are pregnant or breast-feeding.",
-      "nl": "- als u zwanger bent of borstvoeding geeft."
-    }
-  },
-  {
-    "translation": {
-      "en": "- If you are taking a potent inhibitor of a liver enzyme called CYP1A2, like fluvoxamine, ciprofloxacin or enoxacine.",
-      "nl": "- als u een krachtige remmer van een leverenzym genaamd CYP1A2 neemt, zoals fluvoxamine, ciprofloxacine of enoxacine."
-    }
-  },
-  {
-    "translation": {
       "en": "- If you have severe kidney disease.",
       "nl": "- wanner u een ernstige nierziekte heeft."
     }
@@ -4273,48 +601,6 @@
   },
   {
     "translation": {
-      "en": "- If you are taking medicines to treat depression.",
-      "nl": "- Indien u geneesmiddelen gebruikt voor de behandeling van depressie;"
-    }
-  },
-  {
-    "translation": {
-      "en": "- You have kidney disease.",
-      "nl": "- U heeft een nierziekte."
-    }
-  },
-  {
-    "translation": {
-      "en": "- You have a history of seizures (fits).",
-      "nl": "- U heeft een voorgeschiedenis van insulten (toevallen)."
-    }
-  },
-  {
-    "translation": {
-      "en": "- You have a history of mania or bipolar disorder.",
-      "nl": "- U heeft een voorgeschiedenis van manie of een bipolaire stoornis."
-    }
-  },
-  {
-    "translation": {
-      "en": "- You have eye problems such as certain kinds of glaucoma (increased pressure in the eye).",
-      "nl": "- U heeft oogproblemen zoals bepaalde soorten glaucoom (verhoogde druk in het oog)."
-    }
-  },
-  {
-    "translation": {
-      "en": "- You have a history of bleeding disorders (tendency to develop bruises).",
-      "nl": "- U heeft een voorgeschiedenis van bloedingsstoornissen (neiging om bloeduitstortingen te krijgen)."
-    }
-  },
-  {
-    "translation": {
-      "en": "- If you are younger than 18 years.",
-      "nl": "- Indien u jonger bent dan 18 jaar."
-    }
-  },
-  {
-    "translation": {
       "en": "- If you have high blood pressure.",
       "nl": "- Indien u hoge bloeddruk heeft."
     }
@@ -4327,32 +613,8 @@
   },
   {
     "translation": {
-      "en": "You should tell your doctor if this happens to you.",
-      "nl": "U dient uw arts hiervan op de hoogte te stellen indien dit gebeurt."
-    }
-  },
-  {
-    "translation": {
       "en": "Although ARICLAIM is not indicated for the treatment of depression, its active ingredient (duloxetine) also exists as an antidepressant medication.",
       "nl": "Hoewel ARICLAIM niet bedoeld is voor de behandeling van depressie, bevat het wel hetzelfde actieve bestanddeel (duloxetine) als een geneesmiddel tegen depressies (een antidepressivum)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Isolated cases of suicidal thoughts and behaviours have been reported during duloxetine therapy or early after treatment discontinuation.",
-      "nl": "Op zichzelf staande gevallen van suïcidale gedachten en suïcidale gedragingen zijn gemeld tijdens therapie met duloxetine of vlak na het staken van de behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "Tell your doctor immediately if you have any distressing thoughts or feelings at any time or if you are feeling changes in mood like sadness, apathy or agitation, or if you start treatment for depression.",
-      "nl": "Vertel het altijd onmiddellijk aan uw arts indien u verontrustende gedachten of gevoelens hebt of indien u stemmingsveranderingen zoals verdriet, lusteloosheid of opwinding voelt, of indien u start met de behandeling voor depressie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Use in children and adolescents under 18 years of age",
-      "nl": "Gebruik bij kinderen en adolescenten jonger dan 18 jaar"
     }
   },
   {
@@ -4363,20 +625,8 @@
   },
   {
     "translation": {
-      "en": "Also, you should know that patients under 18 have an increased risk of side-effects such as suicide attempt, suicidal thoughts and hostility (predominantly aggression, oppositional behaviour and anger) when they take this class of medicines.",
-      "nl": "Ook moet u weten dat patiënten onder 18 jaar een verhoogd risico hebben op bijwerkingen zoals poging tot zelfdoding, gedachten van zelfdoding en vijandigheid (voornamelijk agressie, oppositioneel gedrag en woede), wanneer zij deze klasse van geneesmiddelen nemen."
-    }
-  },
-  {
-    "translation": {
       "en": "Also, the long-term safety effects concerning growth, maturation, and cognitive and behavioural development of ARICLAIM in this age group have not yet been demonstrated.",
       "nl": "Tevens zijn de effecten op de lange termijn van ARICLAIM met betrekking tot groei, maturatie en cognitieve en gedragsontwikkeling bij deze leeftijdsgroep nog niet aangetoond."
-    }
-  },
-  {
-    "translation": {
-      "en": "Taking other medicines",
-      "nl": "Gebruik in combinatie met andere geneesmiddelen"
     }
   },
   {
@@ -4435,44 +685,8 @@
   },
   {
     "translation": {
-      "en": "CNS drugs: caution is advised when ARICLAIM is taken in combination with other centrally acting drugs or substances, including alcohol and sedative drugs (benzodiazepines, morphinomimetics, antipsychotics, phenobarbital, sedative antihistamines).",
-      "nl": "Centraal werkende geneesmiddelen: voorzichtigheid is geboden wanneer ARICLAIM wordt gebruikt in combinatie met andere centraal werkende geneesmiddelen of stoffen, waaronder alcohol en sedativa (benzodiazepinen, morfinomimetica, antipsychotica, fenobarbital, sedatieve antihistaminica)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Inform your doctor if you are taking any of these drugs.",
-      "nl": "Informeer uw arts indien u één van deze geneesmiddelen gebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Serotonin syndrome: you should tell your doctor if you are taking any of the medicines that act in a similar way to duloxetine.",
-      "nl": "Serotoninesyndroom: u dient uw arts in te lichten als u een geneesmiddel gebruikt dat op een vergelijkbare wijze werkt als duloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Examples of these medicines include: triptans, tramadol, tryptophan, certain antidepressants: SSRIs (such as paroxetine and fluoxetine), tricyclics (such as clomipramine, amitriptyline) and venlafaxine.",
-      "nl": "Voorbeelden van deze geneesmiddelen zijn: triptanen, tramadol, tryptofaan, enkele antidepressiva: SSRI's (zoals paroxetine en fluoxetine), tricyclische antidepressiva (zoals clomipramine, amitriptyline) en venlafaxine."
-    }
-  },
-  {
-    "translation": {
       "en": "These medicines increase the risk of side effects; if you get any unusual symptom taking any of these medicines together with ARICLAIM, you should see your doctor.",
       "nl": "Deze geneesmiddelen verhogen het risico van bijwerkingen; als u bij gebruik van één van deze geneesmiddelen samen met ARICLAIM ongebruikelijke symptomen krijgt, dient u uw arts te bezoeken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Oral -anticoagulants: You should tell you doctor if you are taking oral -- anticoagulants (medicines which thin the blood).",
-      "nl": "Orale anticoagulantia: U dient uw arts te informeren indien u orale anticoagulantia gebruikt (middelen die het bloed dunner maken)."
-    }
-  },
-  {
-    "translation": {
-      "en": "These medicines might increase the risk of bleeding.",
-      "nl": "Deze geneesmiddelen zouden het risico op bloedingen kunnen verhogen."
     }
   },
   {
@@ -4495,12 +709,6 @@
   },
   {
     "translation": {
-      "en": "Pregnancy and breast-feeding",
-      "nl": "Zwangerschap en het geven van borstvoeding"
-    }
-  },
-  {
-    "translation": {
       "en": "ARICLAIM should not be used during pregnancy and if you are breast feeding.",
       "nl": "ARICLAIM mag niet worden gebruikt tijdens de zwangerschap en indien u borstvoeding geeft."
     }
@@ -4509,18 +717,6 @@
     "translation": {
       "en": "Tell your doctor if you become pregnant, or you are trying to become pregnant, while you are taking ARICLAIM.",
       "nl": "Vertel het aan uw arts als u tijdens het gebruik van ARICLAIM zwanger wordt of probeert zwanger te worden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Ask your doctor or pharmacist for advice before taking any medicine.",
-      "nl": "Vraag uw arts of apotheker om advies voordat u een geneesmiddel inneemt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Driving and using machines",
-      "nl": "Rijvaardigheid en het gebruik van machines"
     }
   },
   {
@@ -4543,12 +739,6 @@
   },
   {
     "translation": {
-      "en": "If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicinal product.",
-      "nl": "Als uw arts u heeft verteld dat u sommige suikers niet verdraagt, dient u contact op te nemen met uw arts voordat u dit geneesmiddel gebruikt."
-    }
-  },
-  {
-    "translation": {
       "en": "3. HOW TO TAKE ARICLAIM",
       "nl": "3. HOE WORDT ARICLAIM GEBRUIKT"
     }
@@ -4557,12 +747,6 @@
     "translation": {
       "en": "Always take ARICLAIM exactly as your doctor has told you.",
       "nl": "Volg bij gebruik van ARICLAIM nauwgezet het advies van uw arts."
-    }
-  },
-  {
-    "translation": {
-      "en": "You should check with your doctor or pharmacist if you are not sure.",
-      "nl": "Raadpleeg bij twijfel uw arts of uw apotheker."
     }
   },
   {
@@ -4581,12 +765,6 @@
     "translation": {
       "en": "ARICLAIM is for oral use.",
       "nl": "ARICLAIM dient via de mond te worden ingenomen."
-    }
-  },
-  {
-    "translation": {
-      "en": "You should swallow your capsule whole with a drink of water.",
-      "nl": "U dient de capsule in zijn geheel met water in te nemen."
     }
   },
   {
@@ -4615,18 +793,6 @@
   },
   {
     "translation": {
-      "en": "If you miss a dose, take it as soon as you remember.",
-      "nl": "Als u een dosis mist, neemt u deze in zodra u eraan denkt."
-    }
-  },
-  {
-    "translation": {
-      "en": "However, if it is time for your next dose, skip the missed dose and take only a single dose as usual.",
-      "nl": "Als het echter tijd is voor uw volgende dosis, slaat u de gemiste dosis over en gebruikt u alleen de gebruikelijke enkele dosis."
-    }
-  },
-  {
-    "translation": {
       "en": "Do not take more than the daily amount of ARICLAIM that has been prescribed for you in one day.",
       "nl": "Gebruik niet meer dan de hoeveelheid ARICLAIM die bij u is voorgeschreven voor één dag."
     }
@@ -4639,12 +805,6 @@
   },
   {
     "translation": {
-      "en": "Do not stop taking your capsules without the advice of your doctor even if you feel better.",
-      "nl": "Stop niet met het innemen van uw capsules zonder dat dit door uw arts is geadviseerd, ook als u zich beter voelt."
-    }
-  },
-  {
-    "translation": {
       "en": "If your doctor thinks that you no longer need ARICLAIM he will ask you to reduce your dose over 2 weeks.",
       "nl": "Als uw arts van mening is dat u niet langer behoefte heeft aan ARICLAIM zal hij/zij u vragen om uw dosis gedurende 2 weken af te bouwen."
     }
@@ -4653,18 +813,6 @@
     "translation": {
       "en": "Some patients, who suddenly stop taking ARICLAIM after more than 1 week of therapy, have felt dizzy, sick (nausea) or had a headache.",
       "nl": "Sommige patiënten die na meer dan 1 week behandeling plotseling stopten met het gebruik van ARICLAIM voelden zich duizelig, werden misselijk of kregen hoofdpijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "These symptoms are usually not serious and disappear within a few days, but if you have symptoms that are troublesome you should ask your doctor for advice.",
-      "nl": "Deze symptomen zijn doorgaans niet ernstig en verdwijnen binnen een paar dagen, maar als u symptomen heeft die storend zijn, dient u uw arts om advies te vragen."
-    }
-  },
-  {
-    "translation": {
-      "en": "4. POSSIBLE SIDE EFFECTS",
-      "nl": "4. MOGELIJKE BIJWERKINGEN"
     }
   },
   {
@@ -4693,20 +841,8 @@
   },
   {
     "translation": {
-      "en": "Infections: Throat inflammation.",
-      "nl": "Infecties: Keelontsteking"
-    }
-  },
-  {
-    "translation": {
       "en": "Psychiatric disorders: Trouble sleeping, anxiety, nervousness or feeling agitated .",
       "nl": "Psychische stoornissen: Slaapproblemen, angst, nervositeit of opwinding."
-    }
-  },
-  {
-    "translation": {
-      "en": "Less common side effects affecting you mentally are feeling disorientated, having abnormal dreams , lack of motivation or experiencing hallucinations and mania (a disorder which symptoms are over activity, racing thoughts and decreased need for sleep).",
-      "nl": "Minder vaak voorkomende bijwerkingen die u mentaal kunnen beïnvloeden zijn: desoriëntatie, abnormale dromen, gebrek aan motivatie of optreden van hallucinaties en manie (een stoornis met symptomen van overactiviteit, snelle gedachten en afgenomen slaapbehoefte)."
     }
   },
   {
@@ -4717,20 +853,8 @@
   },
   {
     "translation": {
-      "en": "Less common effects could be tasting things differently than usual, fits, stiffness, spasms and involuntary movements of the muscles, a sensation of restlessness or an inability to sit or stand still or \"Serotonin syndrome\" (a rare reaction which may cause feelings of great happiness, drowsiness, clumsiness, restlessness, feeling of being drunk, fever, sweating or rigid muscles).",
-      "nl": "Minder vaak voorkomende effecten kunnen zijn: een andere smaak, stoornis in oplettendheid, toevallen, stijfheid, spasmen en onwillekeurige bewegingen van de spieren, een gevoel van rusteloosheid of een onvermogen om stil te zitten of stil te staan of het \"Serotonine Syndroom\" (een zeldzame reactie wat gevoelens kan veroorzaken als grote vreugde, sufheid, lompheid, rusteloosheid, gevoel van dronken zijn, koorts, zweten of stijve spieren)."
-    }
-  },
-  {
-    "translation": {
       "en": "Digestive disorders: Constipation, diarrhoea, being sick (vomiting) or heartburn.",
       "nl": "Spijsverteringsstoornissen: Obstipatie, diarree, ziek gevoel (overgeven) of zuurbranden."
-    }
-  },
-  {
-    "translation": {
-      "en": "You may also have a lack of appetite and weight change (loss or increase).",
-      "nl": "U kunt ook last krijgen van verminderde eetlust en verandering in gewicht (toe- of afname)."
     }
   },
   {
@@ -4741,56 +865,8 @@
   },
   {
     "translation": {
-      "en": "Liver disorders: Inflammation of the liver that may cause abdominal pain, tiredness and yellow coloration of the skin.",
-      "nl": "Leveraandoeningen: Ontsteking van de lever die abdominale pijn kan veroorzaken, moeheid en gele verkleuring van de huid."
-    }
-  },
-  {
-    "translation": {
-      "en": "Less common effects are flushing, increase in blood pressure, feeling cold in your fingers and/or toes, feeling dizzy (particularly when standing up too quickly), fast or irregular heart beat, night sweats, cold sweats or fainting.",
-      "nl": "Minder vaak voorkomende effecten zijn blozen, toename van de bloeddruk, koud gevoel in de vingers en/of tenen, duizeligheid (vooral wanneer u te snel opstaat), snelle of onregelmatige hartslag, nachtelijk zweten, koud zweet of flauwvallen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Reproductive system disorders: sexual problems (less sex drive, changes in orgasm).",
-      "nl": "Voortplantingsstelselstoornissen: Sexuele problemen (minder zin in sex, veranderingen in orgasme)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Skin disorders: Allergic reactions (itchy) rash, blisters or sensitivity to sunlight.",
-      "nl": "Aandoeningen van de huid: Allergische reacties, (jeukende) uitslag, blaren of gevoeligheid voor zonlicht."
-    }
-  },
-  {
-    "translation": {
-      "en": "Bone and muscle disorders: Muscle pain, muscle tightness, twitching and contraction of the jaw muscle.",
-      "nl": "Bot- en spier aandoeningen: Spierpijn, spierstijfheid, kramp en contractie van de kaakspier."
-    }
-  },
-  {
-    "translation": {
-      "en": "Urinary system disorders: Some patients need to pass urine during the night or may have difficulty or inability to pass urine.",
-      "nl": "Urinewegaandoeningen: Sommige patiënten moeten 's nachts plassen of kunnen moeilijk of helemaal niet plassen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Some patients may have abnormal urine odour.",
-      "nl": "Sommige patiënten kunnen een abnormale geur van de urine hebben."
-    }
-  },
-  {
-    "translation": {
       "en": "General disorders: Less common side effects include grinding of teeth, dehydration, feeling hot/cold, thirst or throat tightness, decrease of activity of the thyroid gland, chest or stomach pain or stiffness.",
       "nl": "Algemene aandoeningen: Soms komt voor: tandenknarsen, uitdroging, warm/koud gevoel, dorst of strak gevoel bij de keel, afgenomen werking van de schildklier, pijn op de borst of in de buik of stijfheid.."
-    }
-  },
-  {
-    "translation": {
-      "en": "If any of the side effects gets serious, or if you notice any side effects not listed in this leaflet, please tell your doctor or pharmacist.",
-      "nl": "Als u bijwerkingen constateert die niet in deze bijsluiter worden vermeld, licht dan uw arts of apotheker in."
     }
   },
   {
@@ -4801,32 +877,8 @@
   },
   {
     "translation": {
-      "en": "Keep out of the reach and sight of children",
-      "nl": "Buiten het bereik en het zicht van kinderen houden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Store in the original pack.",
-      "nl": "Bewaar in de oorspronkelijke verpakking."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not store above 30 °C.",
-      "nl": "Niet bewaren boven 30 °C."
-    }
-  },
-  {
-    "translation": {
       "en": "Do not use ARICLAIM after the expiry date which is stated on the carton.",
       "nl": "Gebruik ARICLAIM niet meer na de vervaldatum die staat vermeld op de doos."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. FURTHER INFORMATION",
-      "nl": "6. AANVULLENDE INFORMATIE"
     }
   },
   {
@@ -4843,24 +895,6 @@
   },
   {
     "translation": {
-      "en": "The active substance is duloxetine.",
-      "nl": "Het werkzame bestanddeel is duloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Each capsule contains 20 or 40 mg of duloxetine (as duloxetine hydrochloride)",
-      "nl": "Elke capsule bevat 20 of 40 mg duloxetine (als duloxetinehydrochloride)."
-    }
-  },
-  {
-    "translation": {
-      "en": "The other ingredients are:",
-      "nl": "De andere bestanddelen zijn:"
-    }
-  },
-  {
-    "translation": {
       "en": "Capsule content: hypromellose, hydroxypropyl methylcellulose acetate succinate, sucrose, sugar spheres, talc, titanium dioxide (E171), triethyl citrate.",
       "nl": "Capsule inhoud: hypromellose, hydroxypropylmethylcellulose-acetaatsuccinaat, sacharose, suikerbolletjes, talk, titaniumdioxide (E 171), triethylcitraat."
     }
@@ -4869,12 +903,6 @@
     "translation": {
       "en": "Capsule shell: gelatin, sodium lauryl sulphate, titanium dioxide (E171), indigo carmine (E132), iron oxide red and iron oxide yellow, edible black ink.",
       "nl": "Capsule wand: gelatine, natriumlaurylsulfaat, titaniumdioxide (E171), indigo carmijn (E132), rood ijzeroxide en geel ijzeroxide, eetbare zwarte inkt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Edible Ink: Black Iron Oxide-Synthetic (E172), Propylene glycol, Shellac.",
-      "nl": "Eetbare inkt: zwart ijzeroxide - synthetisch (E172), propyleenglycol, schellak."
     }
   },
   {
@@ -4909,18 +937,6 @@
   },
   {
     "translation": {
-      "en": "Not all pack sizes may be marketed.",
-      "nl": "Het kan voorkomen dat niet alle verpakkingsgrootten in de handel worden gebracht."
-    }
-  },
-  {
-    "translation": {
-      "en": "Marketing Authorisation Holder and Manufacturer",
-      "nl": "Registratiehouder en fabrikant"
-    }
-  },
-  {
-    "translation": {
       "en": "Marketing Authorisation Holder: Marketing Authorisation Holder: Eli Lilly Nederland BY, Grootslag 1-5, NL-3991 RA Houten, The Netherlands.",
       "nl": "Registratiehouder: Eli Lilly Nederland BY, Grootslag 1-5, NL-3991 RA Houten, Nederland."
     }
@@ -4929,18 +945,6 @@
     "translation": {
       "en": "For any information about this medicine product, please contact the local representative of the Marketing Authorisation Holder.",
       "nl": "Neem voor alle informatie met betrekking tot dit geneesmiddel contact op met de lokale vertegenwoordiger van de houder van de vergunning voor het in de handel brengen:"
-    }
-  },
-  {
-    "translation": {
-      "en": "[[TABLE]]",
-      "nl": "< !TABLE ]]"
-    }
-  },
-  {
-    "translation": {
-      "en": "This leaflet was last approved in",
-      "nl": "Deze bijsluiter is voor de laatste keer goedgekeurd op"
     }
   }
 ]

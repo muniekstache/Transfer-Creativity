@@ -1,32 +1,8 @@
 [
   {
     "translation": {
-      "en": "ANNEX I",
-      "nl": "BIJLAGE I"
-    }
-  },
-  {
-    "translation": {
-      "en": "SUMMARY OF PRODUCT CHARACTERISTICS",
-      "nl": "SAMENVATTING VAN DE PRODUCTKENMERKEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. NAAM VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
       "en": "FORSTEO 20 micrograms/80 microliters, solution for injection, in pre-filled pen",
       "nl": "FORSTEO 20 microgram/80 microliter, oplossing voor injectie in voorgevulde pen."
-    }
-  },
-  {
-    "translation": {
-      "en": "2. QUALITATIVE AND QUANTITATIVE COMPOSITION",
-      "nl": "2. KWALITATIEVE EN KWANTITATIEVE SAMENSTELLING"
     }
   },
   {
@@ -75,12 +51,6 @@
     "translation": {
       "en": "In postmenopausal women, a significant reduction in the incidence of vertebral and non-vertebral fractures but not hip fractures has been demonstrated.",
       "nl": "Bij postmenopauzale vrouwen is er een significante afname aangetoond in de incidentie van wervel- en niet vertebrale-fracturen, maar niet van heupfracturen."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.2 Posology and method of administration",
-      "nl": "4.2 Dosering en wijze van toediening"
     }
   },
   {
@@ -169,12 +139,6 @@
   },
   {
     "translation": {
-      "en": "4.3 Contraindications",
-      "nl": "4.3 Contra-indicaties"
-    }
-  },
-  {
-    "translation": {
       "en": "- Hypersensitivity to the active substance or to any of the excipients.",
       "nl": "- Overgevoeligheid voor het actieve substraat of voor één van de hulpstoffen"
     }
@@ -213,12 +177,6 @@
     "translation": {
       "en": "- Patients with skeletal malignancies or bone metastases should be excluded from treatment with teriparatide.",
       "nl": "- Patiënten met een maligniteit van het skelet of botmetastasen moeten worden uitgesloten van behandeling met teriparatide."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.4 Special warnings and precautions for use",
-      "nl": "4.4 Bijzondere waarschuwingen en voorzorgen bij gebruik"
     }
   },
   {
@@ -343,12 +301,6 @@
   },
   {
     "translation": {
-      "en": "4.6 Pregnancy and lactation",
-      "nl": "4.6 Zwangerschap en borstvoeding"
-    }
-  },
-  {
-    "translation": {
       "en": "Studies in rabbits have shown reproductive toxicity (see section 5.3).",
       "nl": "Uit onderzoeken bij konijnen is reproductie toxiciteit gebleken (zie rubriek 5.3)."
     }
@@ -367,12 +319,6 @@
   },
   {
     "translation": {
-      "en": "4.7 Effects on ability to drive and use machines",
-      "nl": "4.7 Beïnvloeding van de rijvaardigheid en het vermogen om machines te bedienen"
-    }
-  },
-  {
-    "translation": {
       "en": "No studies on the effects on the ability to drive and use machines have been performed.",
       "nl": "Er zijn geen onderzoeken verricht naar de effecten op de rijvaardigheid en het vermogen om machines te bedienen."
     }
@@ -387,12 +333,6 @@
     "translation": {
       "en": "These patients should refrain from driving or the use of machines until symptoms have subsided.",
       "nl": "Deze patiënten moeten afzien van autorijden of het bedienen van machines tot de symptomen verdwenen zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.8 Undesirable effects",
-      "nl": "4.8 Bijwerkingen"
     }
   },
   {
@@ -439,12 +379,6 @@
   },
   {
     "translation": {
-      "en": "FORSTEO",
-      "nl": "FORSTEO"
-    }
-  },
-  {
-    "translation": {
       "en": "Placebo",
       "nl": "Placebo"
     }
@@ -477,12 +411,6 @@
     "translation": {
       "en": "Depression",
       "nl": "Depressie"
-    }
-  },
-  {
-    "translation": {
-      "en": "Nervous System Disorders",
-      "nl": "Aandoeningen van het zenuwstelsel"
     }
   },
   {
@@ -589,12 +517,6 @@
   },
   {
     "translation": {
-      "en": "Musculoskeletal and Connective Tissue and Bone Disorders",
-      "nl": "Aandoeningen van skeletspieren, bindweefsel en botten"
-    }
-  },
-  {
-    "translation": {
       "en": "Muscle cramps",
       "nl": "Spierkramp"
     }
@@ -631,26 +553,8 @@
   },
   {
     "translation": {
-      "en": "FORSTEO",
-      "nl": "FORSTEO"
-    }
-  },
-  {
-    "translation": {
-      "en": "Placebo",
-      "nl": "Placebo"
-    }
-  },
-  {
-    "translation": {
       "en": "System Organ Class",
       "nl": "Systeem/orgaanklasse"
-    }
-  },
-  {
-    "translation": {
-      "en": "Cardiac Disorders",
-      "nl": "Aandoeningen van het hart"
     }
   },
   {
@@ -661,20 +565,8 @@
   },
   {
     "translation": {
-      "en": "Respiratory, Thoracic and Mediastinal Disorders",
-      "nl": "Aandoeningen van het ademhalingsstelsel, de borstkas en het mediastinum"
-    }
-  },
-  {
-    "translation": {
       "en": "Emphysema",
       "nl": "Emphysema"
-    }
-  },
-  {
-    "translation": {
-      "en": "Gastrointestinal Disorders",
-      "nl": "Aandoeningen van het maagdarmstelsel"
     }
   },
   {
@@ -711,12 +603,6 @@
     "translation": {
       "en": "Site Conditions",
       "nl": "Erytheem op de op de plaats van toediening"
-    }
-  },
-  {
-    "translation": {
-      "en": "Investigations",
-      "nl": "Onderzoeken"
     }
   },
   {
@@ -793,12 +679,6 @@
   },
   {
     "translation": {
-      "en": "Metabolism and Nutrition Disorders",
-      "nl": "Stofwisselings- en voedingsstoornissen"
-    }
-  },
-  {
-    "translation": {
       "en": "Uncommon: Hypercalcemia greater than 2.76 mmol/l (1 1mg/dl).",
       "nl": "Soms: Hypercalciëmie meer dan 2,76 mmol/l (1 1mg/dl)"
     }
@@ -811,20 +691,8 @@
   },
   {
     "translation": {
-      "en": "Musculoskeletal and Connective Tissue and Bone Disorders",
-      "nl": "Aandoeningen van skeletspieren, bindweefsel en botten"
-    }
-  },
-  {
-    "translation": {
       "en": "Uncommon: myalgia, arthralgia,",
       "nl": "Soms: Arthralgie, myalgie."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.9 Overdose",
-      "nl": "4.9 Overdosering"
     }
   },
   {
@@ -903,18 +771,6 @@
     "translation": {
       "en": "Treatment of suspected overdose should include transitory discontinuation of FORSTEO, monitoring of serum calcium, and implementation of appropriate supportive measures, such as hydration.",
       "nl": "Bij een vermoeden van overdosering moet de behandeling onder meer bestaan uit tijdelijk staken van FORSTEO, controleren van het serum calcium en toepassen van adequate ondersteunende maatregelen, zoals hydratie."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. PHARMACOLOGICAL PROPERTIES",
-      "nl": "5. FARMACOLOGISCHE EIGENSCHAPPEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "5.1 Pharmacodynamic properties",
-      "nl": "5.1 Farmacodynamische eigenschappen"
     }
   },
   {
@@ -1017,12 +873,6 @@
     "translation": {
       "en": "Fracture Incidence in Postmenopausal Women:",
       "nl": "Incidentie van fracturen bij postmenopauzale vrouwen:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Placebo",
-      "nl": "Placebo"
     }
   },
   {
@@ -1159,12 +1009,6 @@
   },
   {
     "translation": {
-      "en": "5.2 Pharmacokinetic properties",
-      "nl": "5.2 Farmacokinetische gegevens"
-    }
-  },
-  {
-    "translation": {
       "en": "FORSTEO is eliminated through hepatic and extra-hepatic clearance (approximately 62 l/hr in women and 94 l/hr in men).",
       "nl": "FORSTEO wordt via hepatische en extrahepatische klaring geëlimineerd (ongeveer 62 l/u bij vrouwen en 94 l/u bij mannen)."
     }
@@ -1209,12 +1053,6 @@
     "translation": {
       "en": "Dosage adjustment based on age is not required.",
       "nl": "Aanpassing van de dosering aan de leeftijd is niet noodzakelijk."
-    }
-  },
-  {
-    "translation": {
-      "en": "5.3 Precinical safety data",
-      "nl": "5.3 Gegevens uit het preklinisch veiligheidsonderzoek"
     }
   },
   {
@@ -1267,18 +1105,6 @@
   },
   {
     "translation": {
-      "en": "6. PHARMACEUTICAL PARTICULARS",
-      "nl": "6. FARMACEUTISCHE GEGEVENS"
-    }
-  },
-  {
-    "translation": {
-      "en": "6.1 List of excipients",
-      "nl": "6.1 Lijst van hulpstoffen"
-    }
-  },
-  {
-    "translation": {
       "en": "Glacial acetic acid",
       "nl": "IJsazijnzuur,"
     }
@@ -1297,32 +1123,14 @@
   },
   {
     "translation": {
-      "en": "6.2 Incompatibilities",
-      "nl": "6.2 Gevallen van onverenigbaarheid"
-    }
-  },
-  {
-    "translation": {
       "en": "In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.",
       "nl": "In verband met het ontbreken van onderzoek naar onverenigbaarheden, mag dit geneesmiddel niet met andere geneesmiddelen gemengd worden."
     }
   },
   {
     "translation": {
-      "en": "6.3 Shelf life",
-      "nl": "6.3 Houdbaarheid"
-    }
-  },
-  {
-    "translation": {
       "en": "2 years",
       "nl": "2 jaar"
-    }
-  },
-  {
-    "translation": {
-      "en": "6.4 Special precautions for storage",
-      "nl": "6.4 Speciale voorzorgsmaatregelen bij bewaren"
     }
   },
   {
@@ -1339,20 +1147,8 @@
   },
   {
     "translation": {
-      "en": "Do not freeze.",
-      "nl": "Niet in de vriezer bewaren."
-    }
-  },
-  {
-    "translation": {
       "en": "Do not store the injection device with the needle attached.",
       "nl": "Niet bewaren met de naald bevestigd op het injectie apparaat."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.5 Nature and contents of container",
-      "nl": "6.5 Aard en inhoud van de verpakking"
     }
   },
   {
@@ -1371,12 +1167,6 @@
     "translation": {
       "en": "Each pen contains 28 doses of 20 micrograms (per 80 microliters).",
       "nl": "Elke pen bevat 28 doses van 20 microgram (per 80 microliter)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Not all pack sizes may be marketed.",
-      "nl": "Het kan voorkomen dat niet alle verpakkingsgrootten in de handel worden gebracht."
     }
   },
   {
@@ -1447,32 +1237,8 @@
   },
   {
     "translation": {
-      "en": "ANNEX II",
-      "nl": "BIJLAGE II"
-    }
-  },
-  {
-    "translation": {
       "en": "A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURING AUTHORISATION HOLDERS RESPONSIBLE FOR BATCH RELEASE",
       "nl": "A. FABRIKANT VAN HET BIOLOGISCH WERKZAME BESTANDDEEL EN HOUDER VAN DE VERGUNNING VOOR DE VERVAARDIGING VERANTWOORDELIJK VOOR VRIJGIFTE"
-    }
-  },
-  {
-    "translation": {
-      "en": "B. CONDITIONS OF THE MARKETING AUTHORISATION",
-      "nl": "B. VOORWAARDEN VERBONDEN AAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURING AUTHORISATION HOLDERS RESPONSIBLE FOR BATCH RELEASE",
-      "nl": "A. FABRIKANT VAN HET BIOLOGISCH WERKZAME BESTANDDEEL EN HOUDER VAN DE VERGUNNING VOOR DE VERVAARDIGING VERANTWOORDELIJK VOOR VRIJGIFTE"
-    }
-  },
-  {
-    "translation": {
-      "en": "Name and address of the manufacturer of the biological active substance",
-      "nl": "Naam en adres van de fabrikant van het biologisch werkzame bestanddeel"
     }
   },
   {
@@ -1489,18 +1255,6 @@
   },
   {
     "translation": {
-      "en": "The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.",
-      "nl": "In de gedrukte bijsluiter van het geneesmiddel dienen de naam en het adres van de fabrikant die verantwoordelijk is voor vrijgifte van de desbetreffende partij te zijn opgenomen."
-    }
-  },
-  {
-    "translation": {
-      "en": "B. CONDITIONS OF THE MARKETING AUTHORISATION",
-      "nl": "B. VOORWAARDEN VERBONDEN AAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "- CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE IMPOSED ON THE MARKETING AUTHORISATION HOLDER",
       "nl": "- AAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN GESTELDE VOORWAARDEN OF BEPERKINGEN TEN AANZIEN VAN DE LEVERING EN HET GEBRUIK"
     }
@@ -1509,24 +1263,6 @@
     "translation": {
       "en": "Medicinal product subject to medical prescription.",
       "nl": "Aan medisch voorschrift onderworpen geneesmiddel."
-    }
-  },
-  {
-    "translation": {
-      "en": "- CONDITIONS OR RESTRICTIONS WITH REGARDS TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT",
-      "nl": "- VOORWAARDEN OF BEPERKINGEN MET BETREKKING TOT EEN VEILIG EN DOELTREFFEND GEBRUIK VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
-      "en": "Not applicable.",
-      "nl": "Niet van toepassing."
-    }
-  },
-  {
-    "translation": {
-      "en": "- OTHER CONDITIONS",
-      "nl": "- ANDERE VOORWAARDEN"
     }
   },
   {
@@ -1567,50 +1303,14 @@
   },
   {
     "translation": {
-      "en": "ANNEX III",
-      "nl": "BIJLAGE III"
-    }
-  },
-  {
-    "translation": {
-      "en": "LABELLING AND PACKAGE LEAFLET",
-      "nl": "ETIKETTERING EN BIJSLUITER"
-    }
-  },
-  {
-    "translation": {
-      "en": "A. LABELLING",
-      "nl": "A. ETIKETTERING"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. BENAMING VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
       "en": "FORSTEO 20 micrograms/80 microliters, solution for injection in pre-filled pen Teriparatide",
       "nl": "FORSTEO 20 microgram/80 microliter, oplossing voor injectie in een voorgevulde pen Teriparatide"
     }
   },
   {
     "translation": {
-      "en": "2. STATEMENT OF ACTIVE SUBSTANCE(S)",
-      "nl": "2. GEHALTE AAN WERKZAME STOF(FEN)"
-    }
-  },
-  {
-    "translation": {
       "en": "Each ml contains 250 micrograms of teriparatide.",
       "nl": "Elke ml bevat 250 microgram teriparatide"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. LIST OF EXCIPIENTS",
-      "nl": "3. LIJST VAN HULPSTOFFEN"
     }
   },
   {
@@ -1627,68 +1327,14 @@
   },
   {
     "translation": {
-      "en": "4. PHARMACEUTICAL FORM AND CONTENTS",
-      "nl": "4. FARMACEUTISCHE VORM EN INHOUD"
-    }
-  },
-  {
-    "translation": {
-      "en": "Solution for injection.",
-      "nl": "Oplossing voor injectie."
-    }
-  },
-  {
-    "translation": {
       "en": "Each pen contains 28 doses of 20 micrograms (per 80 microliters).",
       "nl": "Elke pen bevat 28 doses van 20 microgram (per 80 microliters)."
     }
   },
   {
     "translation": {
-      "en": "5. METHOD AND ROUTE(S) OF ADMINISTRATION",
-      "nl": "5. WIJZE VAN GEBRUIK EN TOEDIENINGSWEG(EN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Subcutaneous use",
-      "nl": "Subcutaan gebruik"
-    }
-  },
-  {
-    "translation": {
       "en": "IMPORTANT: READ THE PACKAGE LEAFLET BEFORE USE",
       "nl": "BELANGRIJK: LEES VOOR GEBRUIK DE BIJSLUITER"
-    }
-  },
-  {
-    "translation": {
-      "en": "6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN",
-      "nl": "6. EEN SPECIALE WAARSCHUWING DAT HET GENEESMIDDEL BUITEN HET BEREIK EN ZICHT VAN KINDEREN DIENT TE WORDEN GEHOUDEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Houd het geneesmiddel buiten het bereik en het zicht van kinderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "7. OTHER SPECIAL WARNING(S), IF NECESSARY",
-      "nl": "7. ANDERE SPECIALE WAARSCHUWING(EN), INDIEN NODIG"
-    }
-  },
-  {
-    "translation": {
-      "en": "8. EXPIRY DATE",
-      "nl": "8. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "EXP {MM/YYYY}",
-      "nl": "EXP: {MM/JJJJ}"
     }
   },
   {
@@ -1705,56 +1351,14 @@
   },
   {
     "translation": {
-      "en": "9. SPECIAL STORAGE CONDITIONS",
-      "nl": "9. BIJZONDERE VOORZORGSMAATREGELEN VOOR DE BEWARING"
-    }
-  },
-  {
-    "translation": {
       "en": "Store in a refrigerator.",
       "nl": "Bewaren in de koelkast."
     }
   },
   {
     "translation": {
-      "en": "Do not freeze.",
-      "nl": "Niet in de vriezer bewaren."
-    }
-  },
-  {
-    "translation": {
-      "en": "10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE",
-      "nl": "10. BIJZONDERE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE GENEESMIDDELEN OF DAARVAN AFGELEIDE AFVALSTOFFEN (INDIEN VAN TOEPASSING)"
-    }
-  },
-  {
-    "translation": {
-      "en": "11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "11. NAAM EN ADRES VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Eli Lilly Nederland B.V.",
-      "nl": "Eli Lilly Nederland B.V."
-    }
-  },
-  {
-    "translation": {
       "en": "Grootslag 1-5, NL-3991 RA Houten",
       "nl": "Grootslag 1-5, NL-3991 RA Houten"
-    }
-  },
-  {
-    "translation": {
-      "en": "The Netherlands",
-      "nl": "Nederland"
-    }
-  },
-  {
-    "translation": {
-      "en": "12. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "12. NUMMER(S) VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
     }
   },
   {
@@ -1777,56 +1381,8 @@
   },
   {
     "translation": {
-      "en": "Lot",
-      "nl": "Lot"
-    }
-  },
-  {
-    "translation": {
-      "en": "14. GENERAL CLASSIFICATION FOR SUPPLY",
-      "nl": "14. ALGEMENE INDELING VOOR DE AFLEVERING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal product subject to medical prescription.",
-      "nl": "Geneesmiddel op medisch voorschrift."
-    }
-  },
-  {
-    "translation": {
-      "en": "15. INSTRUCTIONS ON USE",
-      "nl": "15. INSTRUCTIES VOOR GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "16. INFORMATION IN BRAILLE",
-      "nl": "16. INFORMATIE IN BRAILLE"
-    }
-  },
-  {
-    "translation": {
-      "en": "FORSTEO",
-      "nl": "FORSTEO"
-    }
-  },
-  {
-    "translation": {
       "en": "FORSTEO 20 micrograms/80 microliters, solution for injection in pre-filled pen Teriparatide",
       "nl": "FORSTEO 20 microgram/80 microliter, oplossing voor injectie in een voorgevulde pen teriparatide"
-    }
-  },
-  {
-    "translation": {
-      "en": "Subcutaneous use",
-      "nl": "Subcutaan gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. METHOD OF ADMINISTRATION",
-      "nl": "2. WIJZE VAN TOEDIENING"
     }
   },
   {
@@ -1837,44 +1393,8 @@
   },
   {
     "translation": {
-      "en": "3. EXPIRY DATE",
-      "nl": "3. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. BATCH NUMBER",
-      "nl": "4. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lot",
-      "nl": "Lot"
-    }
-  },
-  {
-    "translation": {
-      "en": "5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT",
-      "nl": "5. INHOUD UITGEDRUKT IN GEWICHT, VOLUME OF EENHEID"
-    }
-  },
-  {
-    "translation": {
       "en": "3 ml",
       "nl": "3 ml"
-    }
-  },
-  {
-    "translation": {
-      "en": "6. OTHER",
-      "nl": "6. OVERIGE"
-    }
-  },
-  {
-    "translation": {
-      "en": "B. PACKAGE LEAFLET",
-      "nl": "B. BIJSLUITER"
     }
   },
   {
@@ -1915,12 +1435,6 @@
   },
   {
     "translation": {
-      "en": "In this leaflet:",
-      "nl": "In deze bijsluiter:"
-    }
-  },
-  {
-    "translation": {
       "en": "1. What FORSTEO is and what it is used for",
       "nl": "1. Wat is FORSTEO en waarvoor wordt het gebruikt"
     }
@@ -1939,20 +1453,8 @@
   },
   {
     "translation": {
-      "en": "4. Possible side effects",
-      "nl": "4. Mogelijke bijwerkingen"
-    }
-  },
-  {
-    "translation": {
       "en": "5 How to store FORSTEO",
       "nl": "5. Hoe bewaart u FORSTEO"
-    }
-  },
-  {
-    "translation": {
-      "en": "6. Further information",
-      "nl": "6. Aanvullende informatie"
     }
   },
   {
@@ -2097,12 +1599,6 @@
     "translation": {
       "en": "Forsteo can be given with or without food.",
       "nl": "FORSTEO kan met of zonder voedsel gegeven worden"
-    }
-  },
-  {
-    "translation": {
-      "en": "Pregnancy and breast-feeding",
-      "nl": "Zwangerschap en borstvoeding"
     }
   },
   {
@@ -2263,12 +1759,6 @@
   },
   {
     "translation": {
-      "en": "4. POSSIBLE SIDE EFFECTS",
-      "nl": "4. MOGELIJKE BIJWERKINGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "Like all medicines, FORSTEO can cause side effects, although not everybody gets them.",
       "nl": "Zoals alle geneesmiddelen kan FORSTEO bijwerkingen veroorzaken, hoewel niet iedereen deze bijwerkingen krijgt."
     }
@@ -2347,12 +1837,6 @@
   },
   {
     "translation": {
-      "en": "If any of the side effects gets serious, or if you notice any side effects not listed in this leaflet, please tell your doctor or pharmacist.",
-      "nl": "Wanneer één van de bijwerkingen ernstig wordt of als er bij u een bijwerking optreedt die niet in deze bijsluiter is vermeld, raadpleeg dan uw arts of apotheker."
-    }
-  },
-  {
-    "translation": {
       "en": "Do not use FORSTEO after the expiry date which is stated on the carton and pen.",
       "nl": "Gebruik FORSTEO niet meer na de vervaldatum die staat vermeld op de doos en pen na EXP."
     }
@@ -2403,30 +1887,6 @@
     "translation": {
       "en": "Do not use FORSTEO if solid particles appear or if the solution is cloudy or coloured.",
       "nl": "Gebruik FORSTEO niet als er vaste deeltjes in de oplossing verschijnen of als de oplossing troebel of gekleurd is."
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicines should not be disposed of via wastewater or household waste.",
-      "nl": "Geneesmiddelen dienen niet weggegooid te worden via het afvalwater of met huishoudelijk afval."
-    }
-  },
-  {
-    "translation": {
-      "en": "Ask your pharmacist how to dispose of medicines no longer required.",
-      "nl": "Vraag uw apotheker wat u met medicijnen moet doen wanneer ze niet meer nodig zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "These measures will help to protect the environment.",
-      "nl": "Deze maatregelen zullen helpen bij de bescherming van het milieu."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. FURTHER INFORMATION",
-      "nl": "6. AANVULLENDE INFORMATIE"
     }
   },
   {
@@ -2497,12 +1957,6 @@
   },
   {
     "translation": {
-      "en": "For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder.",
-      "nl": "Neem voor alle informatie met betrekking tot dit geneesmiddel contact op met de lokale vertegenwoordiger van de houder van de vergunning voor het in de handel brengen."
-    }
-  },
-  {
-    "translation": {
       "en": "Lietuva",
       "nl": "Lietuva"
     }
@@ -2511,12 +1965,6 @@
     "translation": {
       "en": "Eli Lilly Holdings Limited",
       "nl": "Eli Lilly Holdings Limited"
-    }
-  },
-  {
-    "translation": {
-      "en": "Tel.",
-      "nl": "Tel."
     }
   },
   {
@@ -2553,12 +2001,6 @@
     "translation": {
       "en": "User Manual",
       "nl": "Gebruikershandleiding"
-    }
-  },
-  {
-    "translation": {
-      "en": "Instructions for Use",
-      "nl": "Gebruiksaanwijzing"
     }
   },
   {
@@ -2677,12 +2119,6 @@
   },
   {
     "translation": {
-      "en": "I.",
-      "nl": "I."
-    }
-  },
-  {
-    "translation": {
       "en": "Preparing the pen",
       "nl": "Het klaarmaken van de pen"
     }
@@ -2727,12 +2163,6 @@
     "translation": {
       "en": "5. Use an alcohol swab to wipe the rubber seal on the end of the pen.",
       "nl": "5. Gebruik een alcoholdoekje om de rubberen afsluiting op het uiteinde van de pen schoon te maken."
-    }
-  },
-  {
-    "translation": {
-      "en": "II.",
-      "nl": "II."
     }
   },
   {
@@ -2863,12 +2293,6 @@
   },
   {
     "translation": {
-      "en": "IV.",
-      "nl": "IV."
-    }
-  },
-  {
-    "translation": {
       "en": "Setting the dose",
       "nl": "Het instellen van de dosis"
     }
@@ -2925,12 +2349,6 @@
     "translation": {
       "en": "4. If you cannot dial to the number \"2\", see the \"Questions and answers\" section at the end of this manual.",
       "nl": "4. Mocht u er niet in slagen de doseerknop tot het cijfer \"2\" te draaien, raadpleeg dan de rubriek \"Vragen en antwoorden\" aan het einde van deze handleiding."
-    }
-  },
-  {
-    "translation": {
-      "en": "V.",
-      "nl": "V."
     }
   },
   {
@@ -3009,12 +2427,6 @@
     "translation": {
       "en": "See the \"Questions and Answer\" section at the end of this manual.",
       "nl": "Raadpleeg de rubriek \"Vragen en Antwoorden\" aan het einde van deze handleiding."
-    }
-  },
-  {
-    "translation": {
-      "en": "VI.",
-      "nl": "VI."
     }
   },
   {
@@ -3127,12 +2539,6 @@
   },
   {
     "translation": {
-      "en": "Continue to hold it down firmly and count slowly to 5.",
-      "nl": "Blijf stevig ingedrukt houden en tel langzaam tot 5."
-    }
-  },
-  {
-    "translation": {
       "en": "Then turn the dose knob clockwise until the arrow (\\u2192) appears in the dose window and raised notches on the pen and dose knob are in line.",
       "nl": "Draai de doseerknop dan met de klok mee totdat de pijl (\\u2192) in het doseervenster verschijnt en de verhoogde markeringen op de pen en op de doseerknop op één lijn liggen."
     }
@@ -3177,12 +2583,6 @@
     "translation": {
       "en": "2. Push in the injection button completely (even if you see a (0) in the window) until you see a diamond (- ) or arrow (\\u2192) in the dose window.",
       "nl": "2. De injectieknop volledig in te drukken (ook als u een \"0\" in het venster ziet) totdat u een ruit (- ) of een pijl (\\u2192) in het doseervenster ziet."
-    }
-  },
-  {
-    "translation": {
-      "en": "To obtain an accurate dose you must:",
-      "nl": "Om een nauwkeurige nieuwe dosis te verkrijgen dient u:"
     }
   },
   {

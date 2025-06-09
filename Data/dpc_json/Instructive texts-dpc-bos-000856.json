@@ -1,18 +1,6 @@
 [
   {
     "translation": {
-      "en": "Product Features",
-      "nl": "Afgebeelde componenten"
-    }
-  },
-  {
-    "translation": {
-      "en": "The numbering of the product features refers to the illustration of the machine on the graphics page.",
-      "nl": "De componenten zijn genummerd zoals op de afbeelding van het elektrische gereedschap op de pagina met afbeeldingen."
-    }
-  },
-  {
-    "translation": {
       "en": "1 Lock-off button",
       "nl": "1 Inschakelblokkering"
     }
@@ -193,56 +181,14 @@
   },
   {
     "translation": {
-      "en": "* Not all of the accessories illustrated or described are included as standard delivery.",
-      "nl": "* In de gebruiksaanwijzing afgebeeld en beschreven toebehoren wordt niet altijd standaard meegeleverd."
-    }
-  },
-  {
-    "translation": {
-      "en": "For Your Safety",
-      "nl": "Voor uw veiligheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "Read all safety warnings and all instructions.",
-      "nl": "Lees alle veiligheidswaarschuwingen en alle voorschriften."
-    }
-  },
-  {
-    "translation": {
-      "en": "Failure to follow the warnings and instructions may result in electric shock, fire and/or serious injury.",
-      "nl": "Als de waarschuwingen en voorschriften niet worden opgevolgd, kan dit een elektrische schok, brand of ernstig letsel tot gevolg hebben."
-    }
-  },
-  {
-    "translation": {
       "en": "Additionally, the general safety instructions either in the enclosed booklet or those added in the centre of these operating instructions must be observed.",
       "nl": "Bovendien moeten de algemene veiligheidsvoorschriften in de bijgevoegde brochure of in het gedeelte in het midden van deze gebruiksaanwijzing worden opgevolgd."
     }
   },
   {
     "translation": {
-      "en": "SAVE THESE INSTRUCTIONS.",
-      "nl": "BEWAAR DEZE VOORSCHRIFTEN GOED."
-    }
-  },
-  {
-    "translation": {
       "en": "* When working with the machine, always hold it firmly with both hands and provide for a secure stance.",
       "nl": "* Houd het elektrische gereedschap tijdens de werkzaamheden stevig met beide handen vast en zorg ervoor dat u stevig staat."
-    }
-  },
-  {
-    "translation": {
-      "en": "The power tool is guided more secure with both hands.",
-      "nl": "Het elektrische gereedschap wordt met twee handen veiliger geleid."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Secure the workpiece.",
-      "nl": "* Zet het werkstuk vast."
     }
   },
   {
@@ -259,20 +205,8 @@
   },
   {
     "translation": {
-      "en": "Asbestos is considered carcinogenic.",
-      "nl": "Asbest geldt als kankerverwekkend."
-    }
-  },
-  {
-    "translation": {
       "en": "* Take protective measures when dust can develop during working that is harmful to one's health, combustible or explosive.",
       "nl": "* Tref veiligheidsmaatregelen wanneer er bij de werkzaamheden stoffen kunnen ontstaan die schadelijk voor de gezondheid, brandbaar of explosief zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "Example: Some dusts are regarded as carcinogenic.",
-      "nl": "Bijvoorbeeld: sommige soorten stof gelden als kankerverwekkend."
     }
   },
   {
@@ -303,12 +237,6 @@
     "translation": {
       "en": "Do not touch the damaged cable and pull the mains plug when the cable is damaged while working.",
       "nl": "Raak de beschadigde kabel niet aan en trek de stekker uit het stopcontact als de kabel tijdens de werkzaamheden beschadigd wordt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Damaged cables increase the risk of an electric shock.",
-      "nl": "Beschadigde kabels vergroten het risico van een elektrische schok."
     }
   },
   {
@@ -673,18 +601,6 @@
   },
   {
     "translation": {
-      "en": "Contact with electric lines can lead to fire and electric shock.",
-      "nl": "Contact met elektrische leidingen kan tot brand of een elektrische schok leiden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Damaging a gas line can lead to explosion.",
-      "nl": "Beschadiging van een gasleiding kan tot een explosie leiden."
-    }
-  },
-  {
-    "translation": {
       "en": "Penetrating a water line causes property damage or may cause an electric shock.",
       "nl": "Breuk van een waterleiding veroorzaakt materiële schade en kan een elektrische schok veroorzaken."
     }
@@ -715,12 +631,6 @@
   },
   {
     "translation": {
-      "en": "Intended Use",
-      "nl": "Gebruik volgens bestemming"
-    }
-  },
-  {
-    "translation": {
       "en": "PKS 54/PKS 66",
       "nl": "PKS 54/PKS 66"
     }
@@ -739,20 +649,8 @@
   },
   {
     "translation": {
-      "en": "The machine is intended for lengthways and crossways cutting of wood with straight cutting lines as well as mitre angles to 45° while resting firmly on the work piece.",
-      "nl": "De machine is bestemd voor het met een vaste steun en een recht verlopende zaaglijn schulpen, afkorten en tot 45° verstek zagen in hout."
-    }
-  },
-  {
-    "translation": {
       "en": "With suitable saw blades, non-ferrous metal, light building materials and plastic can also be sawed.",
       "nl": "Met geschikte zaagbladen kunnen ook non-ferrometalen, lichte bouwmaterialen en kunststoffen worden gezaagd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Before Putting into Operation",
-      "nl": "Voor de ingebruikneming"
     }
   },
   {
@@ -823,26 +721,8 @@
   },
   {
     "translation": {
-      "en": "Loosen the screw 26, adjust the riving knife 6 and retighten the screw.",
-      "nl": "Draai de schroef (26) los, stel het spouwmes (6) in en draai de schroef weer vast."
-    }
-  },
-  {
-    "translation": {
-      "en": "Observe the values given in the figure.",
-      "nl": "Neem de in de afbeelding aangegeven waarden in acht."
-    }
-  },
-  {
-    "translation": {
       "en": "Adjusting the Cutting Depth (see figure B )",
       "nl": "Zaagdiepte instellen (zie afbeelding B)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Before any work on the machine itself, pull the mains plug.",
-      "nl": "Trek altijd voor werkzaamheden aan de machine de stekker uit het stopcontact."
     }
   },
   {
@@ -907,20 +787,8 @@
   },
   {
     "translation": {
-      "en": "Before any work on the machine itself, pull the mains plug.",
-      "nl": "Trek altijd voor werkzaamheden aan de machine de stekker uit het stopcontact."
-    }
-  },
-  {
-    "translation": {
       "en": "Loosen the winged screws 4 and 15.",
       "nl": "Draai de vleugelschroeven (4) en (15) los."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is best to place the machine on the face side of the blade guard.",
-      "nl": "Leg de machine bij voorkeur op de voorzijde van de beschermkap."
     }
   },
   {
@@ -981,30 +849,6 @@
     "translation": {
       "en": "Note: It is best to carry out a trial cut.",
       "nl": "Opmerking: zaag bij voorkeur eerst proefsgewijs."
-    }
-  },
-  {
-    "translation": {
-      "en": "Starting Operation",
-      "nl": "Ingebruikneming"
-    }
-  },
-  {
-    "translation": {
-      "en": "Observe correct mains voltage: The voltage of the power source must agree with the voltage specified on the nameplate of the machine.",
-      "nl": "Let op de netspanning: De spanning van de stroombron moet overeenkomen met de gegevens op het typeplaatje."
-    }
-  },
-  {
-    "translation": {
-      "en": "Equipment marked with 230 V can also be connected to 220 V.",
-      "nl": "Met 230 V aangeduide machines kunnen ook worden gebruikt met een spanning van 220 V."
-    }
-  },
-  {
-    "translation": {
-      "en": "Switching On and Off",
-      "nl": "In- en uitschakelen"
     }
   },
   {
@@ -1077,12 +921,6 @@
     "translation": {
       "en": "Changing the Tool (see figure A )",
       "nl": "Inzetgereedschap wisselen (zie afbeelding A)"
-    }
-  },
-  {
-    "translation": {
-      "en": "* Before any work on the machine itself, pull the mains plug.",
-      "nl": "* Trek altijd voor werkzaamheden aan de machine de stekker uit het stopcontact."
     }
   },
   {
@@ -1171,12 +1009,6 @@
   },
   {
     "translation": {
-      "en": "Tilt back the retracting blade guard 7 and hold firmly.",
-      "nl": "Draai de pendelbeschermkap (7) terug en houd deze vast."
-    }
-  },
-  {
-    "translation": {
       "en": "Place the saw blade onto the mounting flange 20.",
       "nl": "Plaats het zaagblad op de opnameflens (20)."
     }
@@ -1213,56 +1045,14 @@
   },
   {
     "translation": {
-      "en": "Dust/Chip Extraction",
-      "nl": "Afzuiging van stof en spanen"
-    }
-  },
-  {
-    "translation": {
-      "en": "External Dust Extraction",
-      "nl": "Externe afzuiging"
-    }
-  },
-  {
-    "translation": {
       "en": "The machine can be plugged directly into the receptacle of a Bosch all-purpose vacuum cleaner with remote starting control.",
       "nl": "De machine kan rechtstreeks worden aangesloten op het stopcontact van een Bosch-allroundzuiger met afstandsbediening."
     }
   },
   {
     "translation": {
-      "en": "The vacuum cleaner starts automatically when the machine is switched on.",
-      "nl": "Deze wordt bij het inschakelen van de machine automatisch gestart."
-    }
-  },
-  {
-    "translation": {
-      "en": "The vacuum cleaner must be suitable for the material to be worked.",
-      "nl": "De stofzuiger moet geschikt zijn voor het te bewerken materiaal."
-    }
-  },
-  {
-    "translation": {
-      "en": "When vacuuming dry dust that is especially detrimental to health or carcinogenic, use a special vacuum cleaner.",
-      "nl": "Gebruik bij het afzuigen van bijzonder gevaarlijk, kankerverwerkend, droog stof een speciale zuiger."
-    }
-  },
-  {
-    "translation": {
-      "en": "For external dust extraction with a vacuum cleaner, an extraction adapter must be used as required (see accessories).",
-      "nl": "Voor de externe afzuiging met een stofzuiger moet eventueel een afzuigadapter worden gebruikt (zie toebehoren)."
-    }
-  },
-  {
-    "translation": {
       "en": "Insert extraction adapter and vacuum connection firmly.",
       "nl": "Steek de afzuigadapter of de zuigslangaansluiting stevig vast."
-    }
-  },
-  {
-    "translation": {
-      "en": "Integrated Dust Extraction",
-      "nl": "Eigen afzuiging"
     }
   },
   {
@@ -1281,12 +1071,6 @@
     "translation": {
       "en": "Empty the dust bag regularly to maintain an optimum vacuuming function.",
       "nl": "Maak de stofzak op tijd leeg om de optimale stofopname in stand te houden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Operating Instructions",
-      "nl": "Tips voor de werkzaamheden"
     }
   },
   {
@@ -1437,12 +1221,6 @@
     "translation": {
       "en": "The vacuum cleaner must be approved for the extraction of masonry dust.",
       "nl": "De stofzuiger moet zijn goedgekeurd voor het zuigen van steenstof."
-    }
-  },
-  {
-    "translation": {
-      "en": "Tips",
-      "nl": "Tips"
     }
   },
   {
@@ -1603,50 +1381,8 @@
   },
   {
     "translation": {
-      "en": "Maintenance and Cleaning",
-      "nl": "Onderhoud en reiniging"
-    }
-  },
-  {
-    "translation": {
-      "en": "* Before any work on the machine itself, pull the mains plug.",
-      "nl": "* Trek altijd voor werkzaamheden aan de machine de stekker uit het stopcontact."
-    }
-  },
-  {
-    "translation": {
       "en": "In all correspondence and spare parts orders, please always include the 10-digit article number given on the nameplate of the machine.",
       "nl": "Vermeld bij vragen en bestellingen van vervangingsonderdelen altijd het uit tien cijfers bestaande zaaknummer overeenkomstig het typeplaatje van de machine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Only for EC countries:",
-      "nl": "Alleen voor landen van de EU:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not dispose of power tools into household waste!",
-      "nl": "Gooi elektrische gereedschappen niet bij het huisvuil."
-    }
-  },
-  {
-    "translation": {
-      "en": "According to the European Directive 2002/96/EC on waste electrical and electronic equipment and its incorporation into national law, power tools that are no longer suitable for use must be separately collected and sent for recovery in an environmental-friendly manner.",
-      "nl": "Volgens de Europese richtlijn 2002/96/EG over elektrische en elektronische oude apparaten en de omzetting van de richtlijn in nationaal recht moeten niet meer bruikbare elektrische gereedschappen apart worden ingezameld en op een voor het milieu verantwoorde wijze worden hergebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Noise/Vibration Information",
-      "nl": "Informatie over geluid en trillingen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Measured values determined according to EN 60 745.",
-      "nl": "Meetwaarden vastgesteld volgens EN 60 745."
     }
   },
   {
@@ -1663,12 +1399,6 @@
   },
   {
     "translation": {
-      "en": "Wear hearing protection!",
-      "nl": "Draag een gehoorbescherming."
-    }
-  },
-  {
-    "translation": {
       "en": "The typical hand/arm vibration is below 2.5 m/s2.",
       "nl": "De trillingen van hand en arm zijn kenmerkend minder dan 2,5 m/s2."
     }
@@ -1677,18 +1407,6 @@
     "translation": {
       "en": "The vibration emission level given in this information sheet has been measured in accordance with a standardised test given in EN 60745 and may be used to compare one tool with another.",
       "nl": "Het in deze gebruiksaanwijzing vermelde trillingsniveau is gemeten met een volgens EN 60 745 genormeerde meetmethode en kan worden gebruikt voor het vergelijken van gereedschappen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The vibration emission level will vary because of the ways in which a power tool can be used and may increase above the level given in this information sheet.",
-      "nl": "Het trillingsniveau verandert afhankelijk van het gebruik van het elektrische gereedschap en kan in sommige gevallen boven de in deze gebruiksaanwijzing aangegeven waarde liggen."
-    }
-  },
-  {
-    "translation": {
-      "en": "This could lead to a significant underestimate of exposure when the tool is used regularly in such a way.",
-      "nl": "De trillingsbelasting kan onderschat worden als het elektrische gereedschap regelmatig op dergelijke wijze wordt gebruikt."
     }
   },
   {
@@ -1707,12 +1425,6 @@
     "translation": {
       "en": "We declare under our sole responsibility that this product is in conformity with the following standards or standardization documents: EN 60 745 according to the provisions of the directives 89/336/EEC, 98/37/EC.",
       "nl": "Wij verklaren op eigen verantwoording dat dit product voldoet aan de volgende normen en normatieve documenten: EN 60 745 volgens de bepalingen van de richtlijnen 89/336/EEG en 98/37/EG."
-    }
-  },
-  {
-    "translation": {
-      "en": "Subject to change without notice",
-      "nl": "Wijzigingen voorbehouden"
     }
   }
 ]

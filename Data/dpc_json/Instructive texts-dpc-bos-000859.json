@@ -1,164 +1,8 @@
 [
   {
     "translation": {
-      "en": "Read all instructions.",
-      "nl": "Lees alle voorschriften."
-    }
-  },
-  {
-    "translation": {
-      "en": "Failure to follow all instructions listed below may result in electric shock, fire and/or serious injury.",
-      "nl": "Wanneer de volgende voorschriften niet in acht worden genomen, kan dit een elektrische schok, brand of ernstig letsel tot gevolg hebben."
-    }
-  },
-  {
-    "translation": {
-      "en": "The term \"power tool\" in all of the warnings listed below refers to your mains operated (corded) power tool or battery operated (cordless) power tool.",
-      "nl": "Het hierna gebruikte begrip \"elektrisch gereedschap\" heeft betrekking op elektrische gereedschappen voor gebruik op het stroomnet (met netsnoer) en op elektrische gereedschappen voor gebruik met een accu (zonder netsnoer)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Save these instructions.",
-      "nl": "Bewaar deze voorschriften goed."
-    }
-  },
-  {
-    "translation": {
-      "en": "1) Work area",
-      "nl": "1) Werkomgeving"
-    }
-  },
-  {
-    "translation": {
-      "en": "a) Keep work area clean and well lit.",
-      "nl": "a) Houd uw werkomgeving schoon en opgeruimd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Cluttered and dark areas invite accidents.",
-      "nl": "Een rommelige of onverlichte werkomgeving kan tot ongevallen leiden."
-    }
-  },
-  {
-    "translation": {
-      "en": "b) Do not operate power tools in explosive atmospheres, such as in the presence of flammable liquids, gases or dust.",
-      "nl": "b) Werk met het gereedschap niet in een omgeving met explosiegevaar waarin zich brandbare vloeistoffen, brandbare gassen of brandbaar stof bevinden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Power tools create sparks which may ignite the dust or fumes.",
-      "nl": "Elektrische gereedschappen veroorzaken vonken die het stof of de dampen tot ontsteking kunnen brengen."
-    }
-  },
-  {
-    "translation": {
-      "en": "c) Keep children and bystanders away while operating a power tool.",
-      "nl": "c) Houd kinderen en andere personen tijdens het gebruik van het elektrische gereedschap uit de buurt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Distractions can cause you to lose control.",
-      "nl": "Wanneer u wordt afgeleid, kunt u de controle over het gereedschap verliezen."
-    }
-  },
-  {
-    "translation": {
-      "en": "2) Electrical safety",
-      "nl": "2) Elektrische veiligheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "a) Power tool plugs must match the outlet.",
-      "nl": "a) De aansluitstekker van het gereedschap moet in het stopcontact passen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Never modify the plug in any way.",
-      "nl": "De stekker mag in geen geval worden veranderd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not use any adapter plugs with earthed (grounded) power tools.",
-      "nl": "Gebruik geen adapterstekkers in combinatie met geaarde gereedschappen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Unmodified plugs and matching outlets will reduce risk of electric shock.",
-      "nl": "Onveranderde stekkers en passende stopcontacten beperken het risico van een elektrische schok."
-    }
-  },
-  {
-    "translation": {
       "en": "b) Avoid body contact with earthed or grounded surfaces such as pipes, radiators, ranges and refrigerators.",
       "nl": "b) Voorkom aanraking van het lichaam met geaarde oppervlakken, bijvoorbeeld van buizen, verwarmingen, fornuizen en koelkasten."
-    }
-  },
-  {
-    "translation": {
-      "en": "There is an increased risk of electric shock if your body is earthed or grounded.",
-      "nl": "Er bestaat een verhoogd risico door een elektrische schok wanneer uw lichaam geaard is."
-    }
-  },
-  {
-    "translation": {
-      "en": "c) Do not expose power tools to rain or wet conditions.",
-      "nl": "c) Houd het gereedschap uit de buurt van regen en vocht."
-    }
-  },
-  {
-    "translation": {
-      "en": "Water entering a power tool will increase the risk of electric shock.",
-      "nl": "Het binnendringen van water in het elektrische gereedschap vergroot het risico van een elektrische schok."
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep cord away from heat, oil, sharp edges or moving parts.",
-      "nl": "Houd de kabel uit de buurt van hitte, olie, scherpe randen en bewegende gereedschapdelen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Damaged or entangled cords increase the risk of electric shock.",
-      "nl": "Beschadigde of in de war geraakte kabels vergroten het risico van een elektrische schok."
-    }
-  },
-  {
-    "translation": {
-      "en": "e) When operating a power tool outdoors, use an extension cord suitable for outdoor use.",
-      "nl": "e) Wanneer u buitenshuis met elektrisch gereedschap werkt, dient u alleen verlengkabels te gebruiken die voor gebruik buitenshuis zijn goedgekeurd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Use of a cord suitable for outdoor use reduces the risk of electric shock.",
-      "nl": "Het gebruik van een voor gebruik buitenshuis geschikte verlengkabel beperkt het risico van een elektrische schok."
-    }
-  },
-  {
-    "translation": {
-      "en": "3) Personal safety",
-      "nl": "3) Veiligheid van personen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not use a power tool while you are tired or under the influence of drugs, alcohol or medication.",
-      "nl": "Gebruik het gereedschap niet wanneer u moe bent of onder invloed staat van drugs, alcohol of medicijnen."
-    }
-  },
-  {
-    "translation": {
-      "en": "A moment of inattention while operating power tools may result in serious personal injury.",
-      "nl": "Een moment van onoplettendheid bij het gebruik van het gereedschap kan tot ernstige verwondingen leiden."
     }
   },
   {
@@ -169,86 +13,8 @@
   },
   {
     "translation": {
-      "en": "c) Avoid accidental starting.",
-      "nl": "c) Voorkom per ongeluk inschakelen."
-    }
-  },
-  {
-    "translation": {
       "en": "Ensure the switch is in the off position before plugging in.",
       "nl": "Controleer dat de schakelaar in de stand \"UIT\" staat voordat u de stekker in het stopcontact steekt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Carrying power tools with your finger on the switch or plugging in power tools that have the switch on invites accidents.",
-      "nl": "Wanneer u bij het dragen van het gereedschap uw vinger aan de schakelaar hebt of wanneer u het gereedschap ingeschakeld op de stroomvoorziening aansluit, kan dit tot ongevallen leiden."
-    }
-  },
-  {
-    "translation": {
-      "en": "d) Remove any adjusting key or wrench before turning the power tool on.",
-      "nl": "d) Verwijder instelgereedschappen of schroefsleutels voordat u het gereedschap inschakelt."
-    }
-  },
-  {
-    "translation": {
-      "en": "A wrench or a key left attached to a rotating part of the power tool may result in personal injury.",
-      "nl": "Een instelgereedschap of sleutel in een draaiend deel van het gereedschap kan tot verwondingen leiden."
-    }
-  },
-  {
-    "translation": {
-      "en": "e) Do not overreach.",
-      "nl": "e) Overschat uzelf niet."
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep proper footing and balance at all times.",
-      "nl": "Zorg ervoor dat u stevig staat en steeds in evenwicht blijft."
-    }
-  },
-  {
-    "translation": {
-      "en": "This enables better control of the power tool in unexpected situations.",
-      "nl": "Daardoor kunt u het gereedschap in onverwachte situaties beter onder controle houden."
-    }
-  },
-  {
-    "translation": {
-      "en": "f) Dress properly.",
-      "nl": "f) Draag geschikte kleding."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not wear loose clothing or jewellery.",
-      "nl": "Draag geen loshangende kleding of sieraden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep your hair, clothing and gloves away from moving parts.",
-      "nl": "Houd haren, kleding en handschoenen uit de buurt van bewegende delen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Loose clothes, jewellery or long hair can be caught in moving parts.",
-      "nl": "Loshangende kleding, lange haren en sieraden kunnen door bewegende delen worden meegenomen."
-    }
-  },
-  {
-    "translation": {
-      "en": "g) If devices are provided for the connection of dust extraction and collection facilities, ensure these are connected and properly used.",
-      "nl": "g) Wanneer stofafzuigings- of stofopvangvoorzieningen kunnen worden gemonteerd, dient u zich ervan te verzekeren dat deze zijn aangesloten en juist worden gebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Use of these devices can reduce dust related hazards.",
-      "nl": "Het gebruik van deze voorzieningen beperkt het gevaar door stof."
     }
   },
   {
@@ -259,116 +25,8 @@
   },
   {
     "translation": {
-      "en": "a) Do not force the power tool.",
-      "nl": "a) Overbelast het gereedschap niet."
-    }
-  },
-  {
-    "translation": {
-      "en": "Use the correct power tool for your application.",
-      "nl": "Gebruik voor uw werkzaamheden het daarvoor bestemde elektrische gereedschap."
-    }
-  },
-  {
-    "translation": {
-      "en": "The correct power tool will do the job better and safer at the rate for which it was designed.",
-      "nl": "Met het passende elektrische gereedschap werkt u beter en veiliger binnen het aangegeven capaciteitsbereik."
-    }
-  },
-  {
-    "translation": {
-      "en": "b) Do not use the power tool if the switch does not turn it on and off.",
-      "nl": "b) Gebruik geen elektrisch gereedschap waarvan de schakelaar defect is."
-    }
-  },
-  {
-    "translation": {
-      "en": "Any power tool that cannot be controlled with the switch is dangerous and must be repaired.",
-      "nl": "Elektrisch gereedschap dat niet meer kan worden in- of uitgeschakeld, is gevaarlijk en moet worden gerepareerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "c) Disconnect the plug from the power source before making any adjustments, changing accessories, or storing power tools.",
-      "nl": "c) Trek de stekker uit het stopcontact voordat u het gereedschap instelt, toebehoren wisselt of het gereedschap weglegt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Such preventive safety measures reduce the risk of starting the power tool accidentally.",
-      "nl": "Deze voorzorgsmaatregel voorkomt onbedoeld starten van het gereedschap."
-    }
-  },
-  {
-    "translation": {
-      "en": "Power tools are dangerous in the hands of untrained users.",
-      "nl": "Elektrische gereedschappen zijn gevaarlijk wanneer deze door onervaren personen worden gebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "e) Maintain power tools.",
-      "nl": "e) Verzorg het gereedschap zorgvuldig."
-    }
-  },
-  {
-    "translation": {
       "en": "Check for misalignment or binding of moving parts, breakage of parts and any other condition that may affect the power tools operation.",
       "nl": "Controleer of bewegende delen van het gereedschap correct functioneren en niet vastklemmen en of onderdelen zodanig gebroken of beschadigd zijn dat de werking van het gereedschap nadelig wordt benvloed."
-    }
-  },
-  {
-    "translation": {
-      "en": "If damaged, have the power tool repaired before use.",
-      "nl": "Laat deze beschadigde onderdelen voor het gebruik repareren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Many accidents are caused by poorly maintained power tools.",
-      "nl": "Veel ongevallen hebben hun oorzaak in slecht onderhouden elektrische gereedschappen."
-    }
-  },
-  {
-    "translation": {
-      "en": "f) Keep cutting tools sharp and clean.",
-      "nl": "f) Houd snijdende inzetgereedschappen scherp en schoon."
-    }
-  },
-  {
-    "translation": {
-      "en": "Properly maintained cutting tools with sharp cutting edges are less likely to bind and are easier to control.",
-      "nl": "Zorgvuldig onderhouden snijdende inzetgereedschappen met scherpe snijkanten klemmen minder snel vast en zijn gemakkelijker te geleiden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Use of the power tool for operations different from those intended could result in a hazardous situation.",
-      "nl": "Het gebruik van elektrische gereedschappen voor andere dan de voorziene toepassingen kan tot gevaarlijke situaties leiden."
-    }
-  },
-  {
-    "translation": {
-      "en": "5) Service",
-      "nl": "5) Service"
-    }
-  },
-  {
-    "translation": {
-      "en": "a) Have your power tool serviced by a qualified repair person using only identical replacement parts.",
-      "nl": "a) Laat het gereedschap alleen repareren door gekwalificeerd en vakkundig personeel en alleen met originele vervangingsonderdelen."
-    }
-  },
-  {
-    "translation": {
-      "en": "This will ensure that the safety of the power tool is maintained.",
-      "nl": "Daarmee wordt gewaarborgd dat de veiligheid van het gereedschap in stand blijft."
-    }
-  },
-  {
-    "translation": {
-      "en": "Secure the work piece.",
-      "nl": "Zet het werkstuk vast."
     }
   },
   {
@@ -415,18 +73,6 @@
   },
   {
     "translation": {
-      "en": "Material mixtures are especially dangerous.",
-      "nl": "Materiaalmengsels zijn bijzonder gevaarlijk."
-    }
-  },
-  {
-    "translation": {
-      "en": "Light metal dust can burn or explode.",
-      "nl": "Stof van lichte metalen kan ontvlammen of exploderen."
-    }
-  },
-  {
-    "translation": {
       "en": "Never leave the power tool before it has come to a complete standstill.",
       "nl": "Verlaat het elektrische gereedschap nooit voordat het volledig tot stilstand is gekomen."
     }
@@ -435,12 +81,6 @@
     "translation": {
       "en": "Coasting tools can cause injuries.",
       "nl": "Uitlopende inzetgereedschappen kunnen verwondingen veroorzaken."
-    }
-  },
-  {
-    "translation": {
-      "en": "A damaged cable increases the risk of an electrical shock.",
-      "nl": "Beschadigde kabels vergroten het risico van een elektrische schok."
     }
   },
   {
@@ -601,12 +241,6 @@
   },
   {
     "translation": {
-      "en": "Such saw blades can easily break.",
-      "nl": "Dergelijke zaagbladen kunnen gemakkelijk breken."
-    }
-  },
-  {
-    "translation": {
       "en": "Do not take hold of the saw blade after working before it has cooled.",
       "nl": "Pak het zaagblad na de werkzaamheden niet vast voordat het afgekoeld is."
     }
@@ -651,12 +285,6 @@
     "translation": {
       "en": "While reading the operating instructions, refer to the corresponding illustrations of the power tool on the front pages.",
       "nl": "Raadpleeg tijdens het lezen van de gebruiksaanwijzing de bijbehorende afbeeldingen van het elektrische gereedschap op de voorste pagina's."
-    }
-  },
-  {
-    "translation": {
-      "en": "Intended Use",
-      "nl": "Gebruik volgens bestemming"
     }
   },
   {
@@ -1101,12 +729,6 @@
     "translation": {
       "en": "Measurement uncertainty K = 3 dB",
       "nl": "Meetonzekerheid K = 3 dB."
-    }
-  },
-  {
-    "translation": {
-      "en": "Wear ear protection!",
-      "nl": "Draag oorbeschermers."
     }
   },
   {
@@ -1783,26 +1405,8 @@
   },
   {
     "translation": {
-      "en": "Ensure that the protective hood is properly positioned.",
-      "nl": "Controleer dat de beschermkap correct geplaatst is."
-    }
-  },
-  {
-    "translation": {
       "en": "When sawing, it must always rest on the work piece.",
       "nl": "Die moet bij het zagen altijd op het werkstuk aansluiten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Changing the Tool",
-      "nl": "Inzetgereedschap wisselen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Before all work on the machine, pull the mains plug.",
-      "nl": "Trek altijd eerst de stekker uit het stopcontact voor werkzaamheden aan het gereedschap."
     }
   },
   {
@@ -1933,56 +1537,14 @@
   },
   {
     "translation": {
-      "en": "Take protective measures when dust is produced while working that can be detrimental to health, combustible or explosive.",
-      "nl": "Tref veiligheidsmaatregelen wanneer er bij werkzaamheden stoffen kunnen ontstaan die schadelijk voor de gezondheid, brandbaar of explosief zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "For example, some dusts are considered carcinogenic.",
-      "nl": "Bijvoorbeeld: sommige soorten stof gelden als kankerverwekkend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Wear a dust protection mask and use dust/chip extraction, if it can be connected.",
-      "nl": "Draag een stofmasker en gebruik een afzuiging voor stof en spanen, als deze kan worden aangesloten."
-    }
-  },
-  {
-    "translation": {
-      "en": "External Dust Extraction",
-      "nl": "Externe afzuiging"
-    }
-  },
-  {
-    "translation": {
       "en": "To increase the vacuuming performance, an additional dust extractor can be connected to the vacuuming connection piece 5.",
       "nl": "Sluit bovendien een stofafzuiging op de zuigaansluiting (5) aan om het afzuigvermogen te vergroten."
     }
   },
   {
     "translation": {
-      "en": "The vacuum cleaner must be suitable for the material to be worked.",
-      "nl": "De stofzuiger moet geschikt zijn voor het te bewerken materiaal."
-    }
-  },
-  {
-    "translation": {
-      "en": "When vacuuming dry dust that is especially detrimental to health or carcinogenic, use a special vacuum cleaner.",
-      "nl": "Gebruik bij het afzuigen van bijzonder gevaarlijk, kankerverwerkend, droog stof een speciale zuiger."
-    }
-  },
-  {
-    "translation": {
       "en": "Extending the Saw Table",
       "nl": "Zaagtafel vergroten"
-    }
-  },
-  {
-    "translation": {
-      "en": "Before all work on the machine, pull the mains plug.",
-      "nl": "Trek altijd eerst de stekker uit het stopcontact voor werkzaamheden aan het gereedschap."
     }
   },
   {
@@ -2061,12 +1623,6 @@
     "translation": {
       "en": "Adjusting the Mitre and Bevel Angles",
       "nl": "Verstekhoek instellen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Before all work on the machine, pull the mains plug.",
-      "nl": "Trek altijd eerst de stekker uit het stopcontact voor werkzaamheden aan het gereedschap."
     }
   },
   {
@@ -2251,12 +1807,6 @@
   },
   {
     "translation": {
-      "en": "Putting into Operation",
-      "nl": "Ingebruikneming"
-    }
-  },
-  {
-    "translation": {
       "en": "Switching On",
       "nl": "Inschakelen"
     }
@@ -2301,18 +1851,6 @@
     "translation": {
       "en": "To put the power tool back into operation, the green \"On\" switch 63 must be pressed again.",
       "nl": "Als u het elektrische gereedschap daarna weer wilt inschakelen, dient u opnieuw op de groene inschakelknop (63) te drukken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Working Instructions",
-      "nl": "Tips voor de werkzaamheden"
-    }
-  },
-  {
-    "translation": {
-      "en": "Before all work on the machine, pull the mains plug.",
-      "nl": "Trek altijd eerst de stekker uit het stopcontact voor werkzaamheden aan het gereedschap."
     }
   },
   {
@@ -2401,26 +1939,8 @@
   },
   {
     "translation": {
-      "en": "Sawing",
-      "nl": "Zagen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Before all work on the machine, pull the mains plug.",
-      "nl": "Trek altijd eerst de stekker uit het stopcontact voor werkzaamheden aan het gereedschap."
-    }
-  },
-  {
-    "translation": {
       "en": "In case the auxiliary parallel fence 48 is behind the cutting line, loosen the two screws of the attachment set 49 and slide the auxiliary parallel fence.",
       "nl": "Wanneer de extra parallelgeleider (48) zich achter de zaaglijn bevindt, draai dan beide schroeven van de bevestigingsset (49) los en verschuif de extra parallelgeleider."
-    }
-  },
-  {
-    "translation": {
-      "en": "The distance between the saw blade and the auxiliary parallel fence can be a maximum of 15 mm.",
-      "nl": "De afstand tussen zaagblad en extra parallelgeleider mag maximaal 15 mm bedragen."
     }
   },
   {
@@ -2445,18 +1965,6 @@
     "translation": {
       "en": "Raise or lower the saw blade with the hand wheel 12 far enough so that the top saw teeth protrude approx. 5 mm above the surface of the work piece.",
       "nl": "Beweeg het zaagblad met het handwiel (12) zo ver omhoog of omlaag dat de bovenste zaagtanden ca. 5 mm boven het oppervlak van het werkstuk staan."
-    }
-  },
-  {
-    "translation": {
-      "en": "Ensure that the protective hood is properly positioned.",
-      "nl": "Controleer dat de beschermkap correct geplaatst is."
-    }
-  },
-  {
-    "translation": {
-      "en": "When sawing, it must always rest on the work piece.",
-      "nl": "Deze moet bij het zagen altijd op het werkstuk aansluiten."
     }
   },
   {
@@ -2521,20 +2029,8 @@
   },
   {
     "translation": {
-      "en": "Follow the working steps in the Section \"Sawing Straight Cuts\" accordingly.",
-      "nl": "Volg verder de aanwijzingen in het gedeelte \"Recht zagen.\""
-    }
-  },
-  {
-    "translation": {
       "en": "Sawing Horizontal Mitre Angles with the Aid of the Sliding Table",
       "nl": "Horizontale verstekhoek met behulp van de schuiftafel zagen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Set the desired horizontal mitre angle with the aid of the locking knob 47.",
-      "nl": "Stel de gewenste horizontale verstekhoek met behulp van de vastzetknop (47) in."
     }
   },
   {
@@ -2557,20 +2053,8 @@
   },
   {
     "translation": {
-      "en": "Follow the working steps in the Section \"Sawing Straight Cuts\" accordingly.",
-      "nl": "Volg verder de aanwijzingen in het gedeelte \"Recht zagen.\""
-    }
-  },
-  {
-    "translation": {
       "en": "Checking and Adjusting Basic Adjustments",
       "nl": "Basisinstellingen controleren en instellen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Before all work on the machine, pull the mains plug.",
-      "nl": "Trek altijd eerst de stekker uit het stopcontact voor werkzaamheden aan het gereedschap."
     }
   },
   {
@@ -2677,12 +2161,6 @@
   },
   {
     "translation": {
-      "en": "Before all work on the machine, pull the mains plug.",
-      "nl": "Trek altijd eerst de stekker uit het stopcontact voor werkzaamheden aan het gereedschap."
-    }
-  },
-  {
-    "translation": {
       "en": "Storing the Power Tool",
       "nl": "Elektrisch gereedschap opbergen"
     }
@@ -2749,18 +2227,6 @@
   },
   {
     "translation": {
-      "en": "Maintenance",
-      "nl": "Onderhoud"
-    }
-  },
-  {
-    "translation": {
-      "en": "Before all work on the machine, pull the mains plug.",
-      "nl": "Trek altijd eerst de stekker uit het stopcontact voor werkzaamheden aan het gereedschap."
-    }
-  },
-  {
-    "translation": {
       "en": "Always keep the machine and the ventilation slits clean for efficient and safe working.",
       "nl": "Houd gereedschap en ventilatieopeningen altijd schoon om goed en veilig te werken."
     }
@@ -2811,18 +2277,6 @@
     "translation": {
       "en": "According to the European Guide Lines 2002/96/EG on old electric and electronic equipment and their translation into national laws, power tools that are no longer usable must be collected separately and recycled in an environmentally friendly manner.",
       "nl": "Volgens de Europese richtlijn 2002/96/EG over elektrische en elektronische oude apparaten en de omzetting van de richtlijn in nationaal recht moeten niet meer bruikbare elektrische gereedschappen apart worden ingezameld en op een voor het milieu verantwoorde wijze worden hergebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Service",
-      "nl": "Service"
-    }
-  },
-  {
-    "translation": {
-      "en": "Exploded views and information on spare parts can be found under: www.bosch-pt.com",
-      "nl": "Explosietekeningen en informatie over vervangingsonderdelen vindt u op: www.bosch-pt.com"
     }
   },
   {

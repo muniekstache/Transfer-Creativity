@@ -67,12 +67,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Hold rotary switch until the drive stops; tool is in the swivel position.",
       "nl": "Draaischakelaar vasthouden tot de aandrijving stilstaat; het hulpstuk bevindt zich in parkeerpositie."
     }
@@ -85,26 +79,8 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "If the power is interrupted, the appliance remains switched on and restarts when the power is restored.",
       "nl": "Bij een stroomonderbreking blijft het apparaat ingeschakeld en na de stroomonderbreking gaat het weer open."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -397,24 +373,6 @@
   },
   {
     "translation": {
-      "en": "Warning!",
-      "nl": "Attentie!"
-    }
-  },
-  {
-    "translation": {
-      "en": "Warning!",
-      "nl": "Attentie!"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Stirrer, whisk and kneading hook",
       "nl": "Roergarde, garde en kneedhaak"
     }
@@ -541,24 +499,6 @@
   },
   {
     "translation": {
-      "en": "Switch off the appliance with the rotary switch.",
-      "nl": "Het apparaat uitschakelen met de draaischakelaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "If the appliance features a standby, set the rotary switch to P and hold until the drive stops.",
-      "nl": "Bij apparaten met parkeerschakeling de draaischakelaar op P zetten en vasthouden tot de aandrijving stilstaat."
-    }
-  },
-  {
-    "translation": {
-      "en": "Remove the lid.",
-      "nl": "Het deksel verwijderen."
-    }
-  },
-  {
-    "translation": {
       "en": "Press the release button and move the swivel arm to position 6.",
       "nl": "Ontgrendelknop indrukken en de draaiarm in bedrijfsstand 6 zetten."
     }
@@ -619,20 +559,8 @@
   },
   {
     "translation": {
-      "en": "Warning!",
-      "nl": "Attentie!"
-    }
-  },
-  {
-    "translation": {
       "en": "Processing liquids in the glass blender (available from specialist outlets): maximum setting 3.",
       "nl": "Verwerken van vloeistof in de glazen mixer (verkrijgbaar in de speciaalzaak): maximaal op stand 3."
-    }
-  },
-  {
-    "translation": {
-      "en": "Add a max. 0.5 litres/ 18 fl. oz. of hot or frothing liquid.",
-      "nl": "Maximaal 0,5 liter hete of schuimende vloeistof in de mixer doen."
     }
   },
   {
@@ -703,18 +631,6 @@
   },
   {
     "translation": {
-      "en": "After blending",
-      "nl": "Na gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "Switch off the appliance with the rotary switch.",
-      "nl": "Apparaat uitschakelen met de draaischakelaar."
-    }
-  },
-  {
-    "translation": {
       "en": "Rotate the blender in a clockwise direction and remove.",
       "nl": "Mixer met de klok meedraaien en verwijderen."
     }
@@ -741,12 +657,6 @@
     "translation": {
       "en": "Never immerse the base unit in water or hold under running water.",
       "nl": "Het basisapparaat nooit in water dompelen of onder stromend water houden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Warning!",
-      "nl": "Attentie!"
     }
   },
   {
@@ -807,18 +717,6 @@
     "translation": {
       "en": "The blender can be disassembled for cleaning.",
       "nl": "De mixer kan uit elkaar worden genomen voor de reiniging."
-    }
-  },
-  {
-    "translation": {
-      "en": "Warning!",
-      "nl": "Attentie!"
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not use abrasive cleaning agents.",
-      "nl": "Geen schurende reinigingsmiddelen gebruiken."
     }
   },
   {
@@ -1003,12 +901,6 @@
   },
   {
     "translation": {
-      "en": "Basic recipe",
-      "nl": "Basisrecept"
-    }
-  },
-  {
-    "translation": {
       "en": "3-4 eggs",
       "nl": "3-4 eieren"
     }
@@ -1045,20 +937,8 @@
   },
   {
     "translation": {
-      "en": "Basic recipe",
-      "nl": "Basisrecept"
-    }
-  },
-  {
-    "translation": {
       "en": "1 egg",
       "nl": "1 ei"
-    }
-  },
-  {
-    "translation": {
-      "en": "1 pinch of salt",
-      "nl": "snufje zout"
     }
   },
   {
@@ -1099,20 +979,8 @@
   },
   {
     "translation": {
-      "en": "Basic recipe",
-      "nl": "Basisrecept"
-    }
-  },
-  {
-    "translation": {
       "en": "500 g/1 lb 2of flour",
       "nl": "500 g meel"
-    }
-  },
-  {
-    "translation": {
-      "en": "1 egg",
-      "nl": "1 ei"
     }
   },
   {
@@ -1129,12 +997,6 @@
   },
   {
     "translation": {
-      "en": "1 pinch of salt",
-      "nl": "snufje zout"
-    }
-  },
-  {
-    "translation": {
       "en": "Maximum quantity: 1 x basic recipe",
       "nl": "Max. hoeveelheid: 11/2 x basisrecept"
     }
@@ -1147,12 +1009,6 @@
   },
   {
     "translation": {
-      "en": "2 eggs",
-      "nl": "2 eieren"
-    }
-  },
-  {
-    "translation": {
       "en": "2 tsp. mustard",
       "nl": "2 theelepels mosterd"
     }
@@ -1161,12 +1017,6 @@
     "translation": {
       "en": "1/4 I/9 fl of oil",
       "nl": "1/4 I olie"
-    }
-  },
-  {
-    "translation": {
-      "en": "1 pinch of salt",
-      "nl": "snufje zout"
     }
   },
   {

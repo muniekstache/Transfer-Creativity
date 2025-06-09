@@ -1,50 +1,8 @@
 [
   {
     "translation": {
-      "en": "EUROPEAN PUBLIC ASSESSMENT REPORT (EPAR)",
-      "nl": "EUROPEES OPENBAAR BEOORDELINGSRAPPORT (EPAR)"
-    }
-  },
-  {
-    "translation": {
       "en": "PROMERIS DUO",
       "nl": "PROMERIS DUO"
-    }
-  },
-  {
-    "translation": {
-      "en": "EPAR summary for the public",
-      "nl": "EPAR-samenvatting voor het publiek"
-    }
-  },
-  {
-    "translation": {
-      "en": "This document is a summary of the European Public Assessment Report.",
-      "nl": "Dit document is een samenvatting van het Europees openbaar beoordelingsrapport (EPAR)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Its purpose is to explain how the assessment done by the Committee for Medicinal Products for Veterinary Use (CVMP) on the basis of the documentation provided, led to the recommendations on the conditions of use.",
-      "nl": "Doel ervan is uit te leggen hoe de op studies gebaseerde beoordeling van het Comité voor geneesmiddelen voor diergeneeskundig gebruik (CVMP) heeft geleid tot de aanbevelingen wat betreft de gebruiksvoorwaarden."
-    }
-  },
-  {
-    "translation": {
-      "en": "This document cannot replace a face-to-face discussion with your veterinarian.",
-      "nl": "Dit document vormt geen vervanging voor rechtstreeks overleg met uw dierenarts."
-    }
-  },
-  {
-    "translation": {
-      "en": "If you need more information about your animal 's medical condition or treatment, contact your veterinarian.",
-      "nl": "Neem contact op met uw dierenarts als u meer informatie wilt over de aandoening of behandeling van uw dier."
-    }
-  },
-  {
-    "translation": {
-      "en": "If you want more information on the basis of the CVMP recommendations, read the Scientific Discussion (also part of the EPAR).",
-      "nl": "De wetenschappelijke discussie waarop de aanbevelingen van het CVMP zijn gebaseerd, is eveneens in het EPAR opgenomen."
     }
   },
   {
@@ -223,38 +181,14 @@
   },
   {
     "translation": {
-      "en": "What are the precautions for the person who gives the medicine or comes into contact with the animal?",
-      "nl": "Welke voorzorgsmaatregelen moet degene nemen die het geneesmiddel toedient of met het dier in aanraking komt?"
-    }
-  },
-  {
-    "translation": {
-      "en": "Recently treated animals should not be allowed to sleep in the same bed as their owners, especially children.",
-      "nl": "Onlangs behandelde dieren mogen niet in hetzelfde bed als hun eigenaar slapen, vooral niet als het om kinderen gaat."
-    }
-  },
-  {
-    "translation": {
       "en": "Amitraz is a monoamine oxidase inhibitor (MOAI); therefore people taking MOAI-containing medication, such as antidepressants, should take particular care when handling this product.",
       "nl": "Amitraz is een monoamine oxidase inhibitor (MOAI); gebruikers van geneesmiddelen die een monoamine oxidase inhibitor bevatten, zoals antidepressiva, moeten uiterst voorzichtig zijn bij gebruik van dit middel."
     }
   },
   {
     "translation": {
-      "en": "Skin contact with the pipette content should be avoided.",
-      "nl": "Vermijd contact van de huid met de inhoud van de pipet."
-    }
-  },
-  {
-    "translation": {
       "en": "The use of protective gloves when handling the product is therefore recommended.",
       "nl": "Aangeraden wordt om bij toediening van het middel beschermende handschoenen te dragen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Skin should be washed and eyes should be rinsed with water, if accidental exposure occurred.",
-      "nl": "Was de huid en spoel de ogen, wanneer deze per ongeluk in contact zijn gekomen met het middel."
     }
   },
   {
@@ -283,12 +217,6 @@
   },
   {
     "translation": {
-      "en": "The benefit-risk balance may be found in module 6 of this EPAR.",
-      "nl": "Een overzicht van de voordelen en risico's vindt u in module 6 van dit EPAR."
-    }
-  },
-  {
-    "translation": {
       "en": "Other information about ProMeris Duo:",
       "nl": "Overige informatie over ProMeris Duo:"
     }
@@ -297,18 +225,6 @@
     "translation": {
       "en": "The European Commission granted a marketing authorisation valid throughout the European Union, for ProMeris Duo to Fort Dodge Animal Health on 19.12.2006.",
       "nl": "De Europese Commissie heeft de firma Fort Dodge Animal Health op 19.12.2006 een in de hele Europese Unie geldende vergunning voor het in de handel brengen van ProMeris Duo verleend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Information on the prescription status of this product may be found on the label/outer package.",
-      "nl": "Op het etiket/de buitenverpakking staat of dit middel al dan niet uitsluitend op recept verkrijgbaar is."
-    }
-  },
-  {
-    "translation": {
-      "en": "This summary was last updated on 19.12.2006.",
-      "nl": "Deze samenvatting is voor het laatst bijgewerkt op 19.12.2006."
     }
   }
 ]

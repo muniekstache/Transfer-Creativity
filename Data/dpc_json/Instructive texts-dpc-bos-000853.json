@@ -1,90 +1,6 @@
 [
   {
     "translation": {
-      "en": "For Your Safety",
-      "nl": "Voor uw veiligheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "All instructions must be read completely and strictly followed to ensure safe and secure working with the measuring instrument.",
-      "nl": "Alle aanwijzingen moeten worden gelezen om zonder gevaren en veilig met het meetgereedschap te werken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not make the warning signs on the measuring instrument unreadable.",
-      "nl": "Maak waarschuwingsplaatjes op het meetgereedschap nooit onleesbaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "SAVE THESE INSTRUCTIONS IN A SECURE PLACE.",
-      "nl": "BEWAAR DEZE VOORSCHRIFTEN GOED."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Do not direct the laser beam at persons or animals and do not look directly into the laser beam.",
-      "nl": "Plak over het waarschuwingsplaatje het meegeleverde waarschuwingsplaatje in uw eigen taal voordat u het gereedschap voor het eerst gebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Looking directly into the laser beam - especially with optical light collecting instruments such as binoculars, etc. - can damage the eyes.",
-      "nl": "Rechtstreeks in de laserstraal kijken (in het bijzonder met optische bundelende instrumenten, zoals een verrekijker) kan het oog beschadigen."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Do not use the laser viewing glasses as protective glasses.",
-      "nl": "* Gebruik de laserbril niet als veiligheidsbril."
-    }
-  },
-  {
-    "translation": {
-      "en": "The laser viewing glasses serve for better recognition of the laser beam, however, they do not protect against the laser radiation.",
-      "nl": "De laserbril dient voor het beter herkennen van de laserstraal, maar biedt geen bescherming tegen de laserstralen."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Do not use the laser viewing glasses as sun glasses or in street traffic.",
-      "nl": "* Gebruik de laserbril niet als zonnebril en niet in het verkeer."
-    }
-  },
-  {
-    "translation": {
-      "en": "The laser viewing glasses do not provide complete UV protection and reduce colour perception.",
-      "nl": "De laserbril biedt geen volledige bescherming tegen ultravioletstralen en vermindert de waarneming van kleuren."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Have the measuring instrument repaired only by qualified specialist personnel and only with original replacement parts.",
-      "nl": "* Laat het meetgereedschap alleen repareren door gekwalificeerd, vakkundig personeel en alleen met originele vervangingsonderdelen."
-    }
-  },
-  {
-    "translation": {
-      "en": "In this manner, it is ensured that the safety of the instrument is maintained.",
-      "nl": "Daarmee wordt gewaarborgd dat de veiligheid van het meetgereedschap in stand blijft."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Do not allow children to use the laser measuring instrument without supervision.",
-      "nl": "* Laat kinderen het lasermeetgereedschap niet zonder toezicht gebruiken."
-    }
-  },
-  {
-    "translation": {
-      "en": "They could unintentionally blind other persons.",
-      "nl": "Anders zouden zij onbedoeld andere personen kunnen verblinden."
-    }
-  },
-  {
-    "translation": {
       "en": "* Be careful when actuating the reel-in button 12.",
       "nl": "* Voorzichtig bij het bedienen van de terugspoelknop 12."
     }
@@ -93,12 +9,6 @@
     "translation": {
       "en": "During reeling in, keep hands away from the measuring tape.",
       "nl": "Houd tijdens het naar binnen trekken uw handen uit de buurt van de rolmaat."
-    }
-  },
-  {
-    "translation": {
-      "en": "Product Elements",
-      "nl": "Onderdelen van het apparaat"
     }
   },
   {
@@ -241,18 +151,6 @@
   },
   {
     "translation": {
-      "en": "* Not all the accessories illustrated or described are included in standard delivery.",
-      "nl": "* Afgebeeld en beschreven toebehoren wordt niet altijd standaard meegeleverd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Intended Use",
-      "nl": "Gebruik volgens bestemming"
-    }
-  },
-  {
-    "translation": {
       "en": "The measuring instrument is intended for the measuring of distances as well as for the determination and checking of horizontal or vertical lines.",
       "nl": "Het meetgereedschap is bestemd voor het meten van afstanden en voor het vaststellen en controleren van horizontale en verticale lijnen."
     }
@@ -295,26 +193,8 @@
   },
   {
     "translation": {
-      "en": "Inserting/Replacing the Batteries",
-      "nl": "Batterijen inzetten of vervangen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Use Alkali-Manganese batteries exclusively.",
-      "nl": "Gebruik uitsluitend alkali-mangaan-batterijen."
-    }
-  },
-  {
-    "translation": {
       "en": "Open the battery compartment cover 14 and insert the batteries provided.",
       "nl": "Open het deksel van het batterijvak (14) en plaats de meegeleverde batterijen."
-    }
-  },
-  {
-    "translation": {
-      "en": "When inserting the batteries, pay attention to the correct polarisation.",
-      "nl": "Let bij het plaatsen van de batterijen op de juiste polen."
     }
   },
   {
@@ -343,44 +223,14 @@
   },
   {
     "translation": {
-      "en": "Always replace all batteries at the same time.",
-      "nl": "Vervang altijd alle batterijen tegelijkertijd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Use only batteries from a single manufacturer and with the same capacity.",
-      "nl": "Gebruik alleen batterijen van hetzelfde merk en met dezelfde capaciteit."
-    }
-  },
-  {
-    "translation": {
-      "en": "Putting into Operation",
-      "nl": "Ingebruikneming"
-    }
-  },
-  {
-    "translation": {
       "en": "Before switching on, press the reel-in button 12 and completely rewind the measuring tape.",
       "nl": "Bedien vóór het inschakelen de terugspoelknop (12) en spoel de rolmaat volledig terug."
     }
   },
   {
     "translation": {
-      "en": "Switching On/Off",
-      "nl": "In- en uitschakelen"
-    }
-  },
-  {
-    "translation": {
       "en": "When switched on, the instrument immediately emits a laser beam from the outlet opening 8.",
       "nl": "Onmiddellijk na het inschakelen zendt het gereedschap een laserstraal uit de laserstraalopening (8)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not direct the laser beam at persons or animals and do not look directly into the laser beam (especially not with optical instruments).",
-      "nl": "Richt de laserstraal niet op personen of dieren en kijk zelf niet in de laserstraal (in het bijzonder niet met optische instrumenten)."
     }
   },
   {
@@ -459,42 +309,6 @@
     "translation": {
       "en": "By repeated pressing of the button for changing the measuring unit 4 with a pointed object, a change can be made at any time between the measuring units of centimetres and feet/inches.",
       "nl": "Druk met een spits voorwerp op de toets (4) voor het wisselen van de maateenheid om tussen de maateenheden centimeter en voet/inch te wisselen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Laser Viewing Glasses (Accessory)",
-      "nl": "Laserbril (toebehoren)"
-    }
-  },
-  {
-    "translation": {
-      "en": "The laser viewing glasses filter out the ambient light.",
-      "nl": "De laserbril filtert het omgevingslicht."
-    }
-  },
-  {
-    "translation": {
-      "en": "As a result, the red light of the laser appears brighter to the eye.",
-      "nl": "Daardoor schijnt het rode licht van de laser voor het oog helderder."
-    }
-  },
-  {
-    "translation": {
-      "en": "The laser viewing glasses (accessory) are not protective glasses against laser radiation.",
-      "nl": "De laserbril (toebehoren) is geen beschermingsbril tegen laserstralen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not use them as protective glasses against strong sun light or in traffic.",
-      "nl": "Gebruik de bril niet als beschermingsbril tegen zonnestralen en niet in het verkeer."
-    }
-  },
-  {
-    "translation": {
-      "en": "Measurement Functions",
-      "nl": "Meetfuncties"
     }
   },
   {
@@ -595,12 +409,6 @@
   },
   {
     "translation": {
-      "en": "Maintenance and Cleaning",
-      "nl": "Onderhoud en reiniging"
-    }
-  },
-  {
-    "translation": {
       "en": "Before each use, check the instrument.",
       "nl": "Controleer het gereedschap voor elk gebruik."
     }
@@ -615,18 +423,6 @@
     "translation": {
       "en": "Always keep the instrument clean and dry.",
       "nl": "Houd het apparaat altijd schoon en droog."
-    }
-  },
-  {
-    "translation": {
-      "en": "Wipe off dirt with a damp, soft cloth.",
-      "nl": "Verwijder vuil met een vochtige, zachte doek."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not use aggressive cleaning agents or solvents.",
-      "nl": "Gebruik geen scherpe reinigings- of oplosmiddelen."
     }
   },
   {
@@ -657,54 +453,6 @@
     "translation": {
       "en": "The measuring instrument, accessories and packaging should be disposed of for recycling in a environmental friendly manner.",
       "nl": "Meetgereedschappen, toebehoren en verpakkingen dienen op een voor het milieu verantwoorde manier te worden hergebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Only for EU countries",
-      "nl": "Alleen voor landen van de EU"
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not dispose of measuring instruments in the household waste!",
-      "nl": "Gooi meetgereedschappen niet bij het huisvuil!"
-    }
-  },
-  {
-    "translation": {
-      "en": "According to the European Guidelines 2002/96/EG for waste electric and electronic equipment and its implementation into national law, measuring instruments that are no longer usable must be collected separately and recycled in an environmentally friendly manner.",
-      "nl": "Volgens de Europese richtlijn 2002/96/EG over elektrische en elektronische oude apparaten en de omzetting van de richtlijn in nationaal recht moeten niet meer bruikbare meetgereedschappen apart worden ingezameld en op een voor het milieu verantwoorde wijze worden hergebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Batteries",
-      "nl": "Accu's en batterijen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not throw batteries into the household waste, fire or water.",
-      "nl": "Gooi accu's of batterijen niet bij het huisvuil en evenmin in het vuur of het water."
-    }
-  },
-  {
-    "translation": {
-      "en": "Batteries should be collected, recycled or disposed of in an environmentally friendly manner.",
-      "nl": "Accu's en batterijen moeten worden ingezameld, gerecycled of op een voor het milieu verantwoorde wijze worden afgevoerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Only for EU countries",
-      "nl": "Alleen voor landen van de EU"
-    }
-  },
-  {
-    "translation": {
-      "en": "Specifications subject to change without notice",
-      "nl": "Wijzigingen voorbehouden"
     }
   }
 ]

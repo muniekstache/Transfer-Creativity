@@ -1,32 +1,8 @@
 [
   {
     "translation": {
-      "en": "Noise/Vibration Information",
-      "nl": "Informatie over geluid en trillingen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Measured values determined according to EN 50 144.",
-      "nl": "Meetwaarden vastgesteld volgens EN 50 144."
-    }
-  },
-  {
-    "translation": {
       "en": "Typically the A-weighted sound pressure level of the product is 78 dB(A).",
       "nl": "Het A-gewaardeerde geluidsdrukniveau van de machine bedraagt kenmerkend 78 dB(A)."
-    }
-  },
-  {
-    "translation": {
-      "en": "The noise level when working can exceed 85 dB(A).",
-      "nl": "Tijdens het werken kan het geluidsniveau 85 dB(A) overschrijden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Wear ear protection!",
-      "nl": "Draag oorbeschermers."
     }
   },
   {
@@ -79,38 +55,8 @@
   },
   {
     "translation": {
-      "en": "* Not all the accessories illustrated or described are included in standard delivery.",
-      "nl": "* Afgebeeld en beschreven toebehoren wordt niet altijd standaard meegeleverd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Intended Use",
-      "nl": "Gebruik volgens bestemming"
-    }
-  },
-  {
-    "translation": {
       "en": "The machine is intended for the fragmentary removal and scraping off of coverings, the remains of adhesives, paints or filler material and for the smoothing of irregularities as well as for carving work in soft wood.",
       "nl": "De machine is bestemd voor het gedeeltelijk verwijderen en afschaven van lagen en van lijm-, verf- en plamuurresten, het gladmaken van oneffenheden en het uitvoeren van houtsnijwerkzaamheden in zacht hout."
-    }
-  },
-  {
-    "translation": {
-      "en": "For Your Safety",
-      "nl": "Voor uw veiligheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "Working safely with this machine is possible only when the operating and safety information are read completely and the instructions contained therein are strictly followed.",
-      "nl": "Veilig werken met de machine is alleen mogelijk indien u de gebruiksaanwijzing en de veiligheidsvoorschriften volledig leest en de daarin gegeven voorschriften strikt opvolgt."
-    }
-  },
-  {
-    "translation": {
-      "en": "In addition, the general safety notes in the enclosed booklet must be observed.",
-      "nl": "Houd u bovendien aan de algemene veiligheidsvoorschriften in de bijgevoegde brochure."
     }
   },
   {
@@ -121,20 +67,8 @@
   },
   {
     "translation": {
-      "en": "Never use the machine with a damaged cable.",
-      "nl": "Gebruik de machine nooit met een beschadigde kabel."
-    }
-  },
-  {
-    "translation": {
       "en": "* Connect machines that are used in the open via a FI protection switch with an actuating current of 30 mA maximum.",
       "nl": "* Sluit gereedschap dat buitenshuis wordt gebruikt aan via een aardlekschakelaar met een inschakelstroom van maximaal 30 mA."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not operate the machine in rain or moisture.",
-      "nl": "Gebruik het gereedschap niet in de regen of in een vochtige omgeving."
     }
   },
   {
@@ -145,26 +79,8 @@
   },
   {
     "translation": {
-      "en": "* Wear safety glasses.",
-      "nl": "* Draag een veiligheidsbril."
-    }
-  },
-  {
-    "translation": {
       "en": "* Danger of injury from material particles that splinter off and fly about.",
       "nl": "* Door rondvliegende materiaalsplinters bestaat verwondingsgevaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Secure the workpiece.",
-      "nl": "* Zet het werkstuk vast."
-    }
-  },
-  {
-    "translation": {
-      "en": "A workpiece clamped with clamping devices or in a vice is held more secure than by hand.",
-      "nl": "Een met spanvoorzieningen of een bankschroef vastgehouden werkstuk wordt beter vastgehouden dan u met uw hand kunt doen."
     }
   },
   {
@@ -195,18 +111,6 @@
     "translation": {
       "en": "* When working with the machine, always hold it firmly with both hands and provide for a secure stance.",
       "nl": "* Houd tijdens de werkzaamheden de machine altijd stevig met beide handen vast en zorg ervoor dat u stevig staat."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Never allow children to use the machine.",
-      "nl": "* Laat kinderen de machine nooit gebruiken."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Bosch is able to ensure flawless functioning of the machine only if the original accessories intended for it are used.",
-      "nl": "* Bosch kan een juiste werking van de machine uitsluitend waarborgen wanneer voor deze machine bedoeld origineel toebehoren wordt gebruikt."
     }
   },
   {
@@ -289,30 +193,6 @@
   },
   {
     "translation": {
-      "en": "Putting into Operation",
-      "nl": "Ingebruikneming"
-    }
-  },
-  {
-    "translation": {
-      "en": "Ensure that the mains voltage is correct!",
-      "nl": "Let op de netspanning."
-    }
-  },
-  {
-    "translation": {
-      "en": "The voltage of the power source must agree with the value given on the nameplate of the machine.",
-      "nl": "De spanning van de stroombron moet overeenkomen met de gegevens op het typeplaatje."
-    }
-  },
-  {
-    "translation": {
-      "en": "Machines designated for 230 V can also be operated with 220 V.",
-      "nl": "Met 230 V aangeduide machines kunnen ook worden gebruikt met een spanning van 220 V."
-    }
-  },
-  {
-    "translation": {
       "en": "Wear safety glasses and protective gloves.",
       "nl": "Draag een veiligheidsbril en werkhandschoenen."
     }
@@ -325,26 +205,8 @@
   },
   {
     "translation": {
-      "en": "Switching On/Off",
-      "nl": "In- en uitschakelen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Switching on:",
-      "nl": "Inschakelen:"
-    }
-  },
-  {
-    "translation": {
       "en": "Slide the on/off switch 2 toward the front.",
       "nl": "Duw de aan-/uit-schakelaar (2) naar voren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Switching off:",
-      "nl": "Uitschakelen:"
     }
   },
   {
@@ -399,12 +261,6 @@
     "translation": {
       "en": "If not enough material is removed, switch to the next higher step.",
       "nl": "Kies de volgende hogere stand indien de materiaalafname te gering is."
-    }
-  },
-  {
-    "translation": {
-      "en": "Working Instructions",
-      "nl": "Tips voor de werkzaamheden"
     }
   },
   {
@@ -753,18 +609,6 @@
     "translation": {
       "en": "For the associated insertion tools, see the Section Tool Recommendations.",
       "nl": "Zie voor toebehoren het gedeelte \"Adviezen over inzetgereedschappen.\""
-    }
-  },
-  {
-    "translation": {
-      "en": "Maintenance and Cleaning",
-      "nl": "Onderhoud en reiniging"
-    }
-  },
-  {
-    "translation": {
-      "en": "* Before any work on the machine itself, pull the mains plug.",
-      "nl": "* Trek altijd voor werkzaamheden aan de machine de stekker uit het stopcontact."
     }
   },
   {

@@ -67,18 +67,6 @@
   },
   {
     "translation": {
-      "en": "Not all the accessories illustrated or described are included in standard delivery.",
-      "nl": "Afgebeeld en beschreven toebehoren wordt niet altijd standaard meegeleverd."
-    }
-  },
-  {
-    "translation": {
-      "en": "For your safety",
-      "nl": "Voor uw veiligheid"
-    }
-  },
-  {
-    "translation": {
       "en": "Working safely with this machine is possible only when the operating and safety information are read completely and the instructions contained therein are strictly followed.",
       "nl": "Veilig werken met de machine is alleen mogelijk indien u de gebruiksaanwijzing en de veiligheidsvoorschriften volledig leest en de daarin gegeven voorschriften strikt opvolgt."
     }
@@ -121,18 +109,6 @@
   },
   {
     "translation": {
-      "en": "* Connect machines that are used in the open via a residual current device (RCD) with an actuating current of 30 mA maximum.",
-      "nl": "* Sluit gereedschap dat buitenshuis wordt gebruikt aan via een aardlekschakelaar met een inschakelstroom van maximaal 30 mA."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not operate the machine in rain or moisture.",
-      "nl": "Gebruik het gereedschap niet in de regen of in een vochtige omgeving."
-    }
-  },
-  {
-    "translation": {
       "en": "* Before each use of the machine, check the cable and plug.",
       "nl": "* Controleer machine, kabel en stekker altijd voor gebruik."
     }
@@ -145,26 +121,8 @@
   },
   {
     "translation": {
-      "en": "Have repairs performed only by a qualified technician.",
-      "nl": "Laat reparaties uitsluitend door een vakman uitvoeren."
-    }
-  },
-  {
-    "translation": {
       "en": "Never open the machine yourself.",
       "nl": "Open de machine nooit zelf."
-    }
-  },
-  {
-    "translation": {
-      "en": "* If the cable is damaged or cut through while working, do not touch the cable but immediately pull the mains plug.",
-      "nl": "* Raak de kabel niet aan, maar trek onmiddellijk de stekker uit het stopcontact indien tijdens de werkzaamheden de stroomkabel wordt beschadigd of doorgesneden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Never use the machine with a damaged cable.",
-      "nl": "Gebruik de machine nooit met een beschadigde kabel."
     }
   },
   {
@@ -213,12 +171,6 @@
     "translation": {
       "en": "* The machine may be connected only to a properly earthed power system.",
       "nl": "* De machine mag alleen worden aangesloten op een volgens de voorschriften geaard stroomnet."
-    }
-  },
-  {
-    "translation": {
-      "en": "The socket and extension cable must have a functional protective conductor.",
-      "nl": "Stopcontact en verlengkabel moeten een correct werkende aardleiding bezitten."
     }
   },
   {
@@ -301,12 +253,6 @@
   },
   {
     "translation": {
-      "en": "* Danger of scalding!",
-      "nl": "* Verbrandingsgevaar!"
-    }
-  },
-  {
-    "translation": {
       "en": "In case the unit falls over, hot water enters the hose and can run out the end of the hose.",
       "nl": "Indien de machine omvalt, komt er heet water in de slang terecht dat aan het einde van de slang naar buiten kan lopen."
     }
@@ -333,12 +279,6 @@
     "translation": {
       "en": "* Never leave the unit unattended when switched on.",
       "nl": "* Machine in ingeschakelde toestand nooit onbeheerd laten."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Never allow children to use the machine.",
-      "nl": "* Laat kinderen de machine nooit gebruiken."
     }
   },
   {
@@ -385,18 +325,6 @@
   },
   {
     "translation": {
-      "en": "Never open the tank and the bayonet connections during operation.",
-      "nl": "Tank- en bajonetsluitingen tijdens het gebruik nooit openen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Danger of scalding!",
-      "nl": "Verbrandingsgevaar!"
-    }
-  },
-  {
-    "translation": {
       "en": "The Overheating Protection built into the heating element switches the heating element off when water is not refilled in time.",
       "nl": "De in de verwarming geïntegreerde beveiliging tegen oververhitting schakelt het verwarmingselement uit als niet op tijd water wordt bijgevuld."
     }
@@ -411,12 +339,6 @@
     "translation": {
       "en": "For further procedures, see Filling or Refilling with Water.",
       "nl": "Voor overige handelingen zie \"Vullen of bijvullen met water.\""
-    }
-  },
-  {
-    "translation": {
-      "en": "Before Use",
-      "nl": "Voor de ingebruikneming"
     }
   },
   {
@@ -453,12 +375,6 @@
     "translation": {
       "en": "Release the safety lock 9.",
       "nl": "Veiligheidsblokkering (9) loslaten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Never open the tank and the bayonet connections during operation.",
-      "nl": "Tank- en bajonetsluitingen tijdens het gebruik nooit openen."
     }
   },
   {
@@ -501,12 +417,6 @@
     "translation": {
       "en": "Take care when loosening the tank cap.",
       "nl": "Voorzichtig bij het losdraaien van de tankdeksel."
-    }
-  },
-  {
-    "translation": {
-      "en": "Danger of scalding!",
-      "nl": "Verbrandingsgevaar!"
     }
   },
   {
@@ -571,24 +481,6 @@
   },
   {
     "translation": {
-      "en": "Putting into Operation",
-      "nl": "Ingebruikneming"
-    }
-  },
-  {
-    "translation": {
-      "en": "Ensure that the mains voltage is correct!",
-      "nl": "Let op de netspanning."
-    }
-  },
-  {
-    "translation": {
-      "en": "The voltage of the power source must agree with the value given on the nameplate of the machine.",
-      "nl": "De spanning van de stroombron moet overeenkomen met de gegevens op het typeplaatje."
-    }
-  },
-  {
-    "translation": {
       "en": "Machines designated for 230 V can also be operated with 220 V.",
       "nl": "Met 230 V aangeduide machines kunnen ook worden gebruikt met een spanning van 220 V."
     }
@@ -643,12 +535,6 @@
   },
   {
     "translation": {
-      "en": "* Never leave the unit unattended when switched on.",
-      "nl": "* Machine in ingeschakelde toestand nooit onbeheerd laten."
-    }
-  },
-  {
-    "translation": {
       "en": "After a few minutes, steam is emitted.",
       "nl": "Na enkele minuten komt er stoom uit de machine."
     }
@@ -657,12 +543,6 @@
     "translation": {
       "en": "The unit is ready for use.",
       "nl": "De machine kan nu worden gebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Working Instructions",
-      "nl": "Tips voor de werkzaamheden"
     }
   },
   {
@@ -741,18 +621,6 @@
     "translation": {
       "en": "For removing wallpaper in corners or recesses, use the steam nozzle (accessory).",
       "nl": "Om behang in hoeken of nissen los te maken, stoomsproeier (toebehoren) gebruiken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Danger of scalding!",
-      "nl": "Verbrandingsgevaar!"
-    }
-  },
-  {
-    "translation": {
-      "en": "In case the unit falls over, hot water enters the hose and can run out the end of the hose.",
-      "nl": "Indien de machine omvalt, komt er heet water in de slang terecht dat aan het einde van de slang naar buiten kan lopen."
     }
   },
   {
@@ -841,18 +709,6 @@
   },
   {
     "translation": {
-      "en": "Malfunctions",
-      "nl": "Storingen"
-    }
-  },
-  {
-    "translation": {
-      "en": "General",
-      "nl": "Algemeen"
-    }
-  },
-  {
-    "translation": {
       "en": "For malfunctions while working (e.g., no steam emerges as a result of a kinked or pinched hose), always switch off the unit first, pull the mains plug and allow to cool.",
       "nl": "Bij storingen tijdens de werkzaamheden (er komt bijvoorbeeld geen stoom uit het einde van de slang als gevolg van een geknikte of afgeklemde slang) altijd eerst de machine uitschakelen, stekker uit het stopcontact trekken en machine laten afkoelen."
     }
@@ -867,12 +723,6 @@
     "translation": {
       "en": "Never open the bayonet connector first!",
       "nl": "Nooit eerst de bajonetsluitingen openen!"
-    }
-  },
-  {
-    "translation": {
-      "en": "Danger of scalding!",
-      "nl": "Verbrandingsgevaar!"
     }
   },
   {
@@ -913,18 +763,6 @@
   },
   {
     "translation": {
-      "en": "Maintenance and Cleaning",
-      "nl": "Onderhoud en reiniging"
-    }
-  },
-  {
-    "translation": {
-      "en": "* Before any work on the machine itself, pull the mains plug.",
-      "nl": "* Trek altijd voor werkzaamheden aan de machine de stekker uit het stopcontact."
-    }
-  },
-  {
-    "translation": {
       "en": "* Always keep the machine clean so that it functions properly and accurately.",
       "nl": "* Houd de machine altijd schoon om goed en veilig te werken."
     }
@@ -951,12 +789,6 @@
     "translation": {
       "en": "Use commercially available decalcifying agent preferably with a citric acid basis.",
       "nl": "Gebruik normale ontkalkingsmiddelen, bij voorkeur citroenzuur."
-    }
-  },
-  {
-    "translation": {
-      "en": "Switch off the unit and pull the plug from the wall socket.",
-      "nl": "Machine uitschakelen en stekker uit het stopcontact trekken."
     }
   },
   {
@@ -1017,12 +849,6 @@
     "translation": {
       "en": "- Never open the machine yourself.",
       "nl": "- Machine nooit openen."
-    }
-  },
-  {
-    "translation": {
-      "en": "These instructions are printed on recycled paper manufactured without chlorine.",
-      "nl": "Deze gebruiksaanwijzing is vervaardigd van chloorvrij gebleekt kringlooppapier."
     }
   },
   {

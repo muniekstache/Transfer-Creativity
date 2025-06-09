@@ -1,32 +1,8 @@
 [
   {
     "translation": {
-      "en": "This appliance is designed for domestic and not industrial use.",
-      "nl": "Dit apparaat is bedoeld voor huishoudelijk en niet voor zakelijk gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "Use the appliance for processing normal quantities of food for domestic use.",
-      "nl": "Gebruik het apparaat uitsluitend voor verwerkingshoeveelheden en -tijden die gebruikelijk zijn in het huishouden."
-    }
-  },
-  {
-    "translation": {
       "en": "These operating instructions refer to various models.",
       "nl": "Deze gebruiksaanwijzing beschrijft verschillende modellen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Overview",
-      "nl": "In één oogopslag"
-    }
-  },
-  {
-    "translation": {
-      "en": "Please fold out the illustrated pages.",
-      "nl": "De pagina's met afbeeldingen uitklappen a.u.b."
     }
   },
   {
@@ -145,12 +121,6 @@
   },
   {
     "translation": {
-      "en": "Safety instructions",
-      "nl": "Veiligheidsvoorschriften"
-    }
-  },
-  {
-    "translation": {
       "en": "Risk of electric shock!",
       "nl": "Gevaar van elektrische schokken!"
     }
@@ -187,12 +157,6 @@
   },
   {
     "translation": {
-      "en": "Operating the appliance",
-      "nl": "Bedienen"
-    }
-  },
-  {
-    "translation": {
       "en": "For blending mayonnaises, sauces, drinks, baby food and for cutting onions, ice, cooked fruit and vegetables.",
       "nl": "Voor het mixen van mayonaise, sauzen, mixdranken en babyvoeding, en het fijnsnijden van uien, ijs, gekookte groente en fruit."
     }
@@ -201,12 +165,6 @@
     "translation": {
       "en": "For pureeing soups.",
       "nl": "Voor het pureren van soepen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Warning!",
-      "nl": "Attentie!"
     }
   },
   {
@@ -277,12 +235,6 @@
   },
   {
     "translation": {
-      "en": "- Insert the mains plug.",
-      "nl": "- Stekker in het stopcontact steken."
-    }
-  },
-  {
-    "translation": {
       "en": "Universal cutter",
       "nl": "Universele fijnsnijder"
     }
@@ -291,12 +243,6 @@
     "translation": {
       "en": "For cutting herbs, onions, fruit, vegetables, ice, hard cheese and meat (see also \"Tips for cutting food in the universal cutter\").",
       "nl": "Voor het fijnsnijden van kruiden, uien, fruit, groente, ijs, harde kaas en vlees (zie ook \" Tips voor het fijnsnijden in de universele fijnsnijder\")."
-    }
-  },
-  {
-    "translation": {
-      "en": "Warning!",
-      "nl": "Attentie!"
     }
   },
   {
@@ -343,12 +289,6 @@
   },
   {
     "translation": {
-      "en": "- Insert the mains plug.",
-      "nl": "- Stekker in het stopcontact steken."
-    }
-  },
-  {
-    "translation": {
       "en": "- Grip the base unit and universal cutter and press the ON button (2).",
       "nl": "- Basisapparaat en universele fijnsnijder vasthouden en de inschakeltoets (2) indrukken."
     }
@@ -357,12 +297,6 @@
     "translation": {
       "en": "After using the appliance/ Cleaning the appliance",
       "nl": "Na het gebruik/ reinigen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Warning!",
-      "nl": "Attentie!"
     }
   },
   {
@@ -439,20 +373,8 @@
   },
   {
     "translation": {
-      "en": "Warning!",
-      "nl": "Attentie!"
-    }
-  },
-  {
-    "translation": {
       "en": "Never immerse the universal cutter attachment in water and do not clean in the dishwasher.",
       "nl": "Het opzetstuk niet in water dompelen en niet reinigen in de afwasautomaat."
-    }
-  },
-  {
-    "translation": {
-      "en": "- Pull out the mains plug.",
-      "nl": "- Stekker uit het stopcontact trekken."
     }
   },
   {
@@ -483,36 +405,6 @@
     "translation": {
       "en": "Wipe the attachment with a damp cloth only.",
       "nl": "Het opzetstuk alleen afvegen met een vochtige doek."
-    }
-  },
-  {
-    "translation": {
-      "en": "Guarantee",
-      "nl": "Garantie"
-    }
-  },
-  {
-    "translation": {
-      "en": "The guarantee conditions for this appliance are as defined by our representative in the country in which it is sold.",
-      "nl": "Voor dit apparaat gelden de garantievoorwaarden die worden uitgegeven door de vertegenwoordiging van ons bedrijf in het land van aankoop."
-    }
-  },
-  {
-    "translation": {
-      "en": "Details regarding these conditions can be obtained from the dealer from whom the appliance was purchased.",
-      "nl": "De leverancier bij wie u het apparaat hebt gekocht, geeft u hierover graag meer informatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "The bill of sale or receipt must be produced when making any claim under the terms of this guarantee.",
-      "nl": "Om aanspraak te maken op de garantie hebt u altijd uw aankoopbewijs nodig."
-    }
-  },
-  {
-    "translation": {
-      "en": "Subject to change without notice.",
-      "nl": "Wijzigingen voorbehouden."
     }
   }
 ]

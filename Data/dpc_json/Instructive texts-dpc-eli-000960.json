@@ -1,32 +1,8 @@
 [
   {
     "translation": {
-      "en": "ANNEX I",
-      "nl": "BIJLAGE I"
-    }
-  },
-  {
-    "translation": {
-      "en": "SUMMARY OF PRODUCT CHARACTERISTICS",
-      "nl": "SAMENVATTING VAN DE PRODUCTKENMERKEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. NAAM VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
       "en": "CYMBALTA 30 mg hard gastro-resistant capsules",
       "nl": "CYMBALTA 30 mg harde maagsapresistente capsules"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. QUALITATIVE AND QUANTITATIVE COMPOSITION",
-      "nl": "2. KWALITATIEVE EN KWANTITATIEVE SAMENSTELLING"
     }
   },
   {
@@ -43,24 +19,6 @@
   },
   {
     "translation": {
-      "en": "Excipients: sucrose.",
-      "nl": "Hulpstof: sacharose"
-    }
-  },
-  {
-    "translation": {
-      "en": "For a full list of excipients, see section 6.1.",
-      "nl": "Voor een volledige lijst van hulpstoffen, zie rubriek 6.1."
-    }
-  },
-  {
-    "translation": {
-      "en": "3. PHARMACEUTICAL FORM",
-      "nl": "3. FARMACEUTISCHE VORM"
-    }
-  },
-  {
-    "translation": {
       "en": "Hard gastro-resistant capsule.",
       "nl": "Harde maagsapresistente capsule."
     }
@@ -73,18 +31,6 @@
   },
   {
     "translation": {
-      "en": "4. CLINICAL PARTICULARS",
-      "nl": "4. KLINISCHE GEGEVENS"
-    }
-  },
-  {
-    "translation": {
-      "en": "4.1 Therapeutic indications",
-      "nl": "4.1 Therapeutische indicaties"
-    }
-  },
-  {
-    "translation": {
       "en": "Treatment of major depressive episodes.",
       "nl": "Behandeling van depressieve episoden."
     }
@@ -93,12 +39,6 @@
     "translation": {
       "en": "Treatment of diabetic peripheral neuropathic pain in adults.",
       "nl": "Behandeling van diabetische perifere neuropathische pijn bij volwassenen."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.2 Posology and method of administration",
-      "nl": "4.2 Dosering en wijze van toediening"
     }
   },
   {
@@ -159,12 +99,6 @@
     "translation": {
       "en": "The starting and recommended maintenance dose is 60 mg daily with or without food.",
       "nl": "De startdosis en aanbevolen onderhoudsdosis is dagelijks 60 mg met of zonder voedsel."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dosages above 60 mg once daily, up to a maximum dose of 120 mg per day administered in evenly divided doses, have been evaluated from a safety perspective in clinical trials.",
-      "nl": "Doseringen hoger dan 60 mg eenmaal daags, tot een maximale dosis van 120 mg per dag toegediend in gelijk verdeelde doses, zijn in klinische onderzoeken beoordeeld op veiligheid."
     }
   },
   {
@@ -283,24 +217,6 @@
   },
   {
     "translation": {
-      "en": "Abrupt discontinuation should be avoided.",
-      "nl": "Plotseling stopzetten dient te worden vermeden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Subsequently, the physician may continue decreasing the dose, but at a more gradual rate.",
-      "nl": "Vervolgens kan de arts doorgaan met verlagen van de dosering, echter in een langzamere mate."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.3 Contraindications",
-      "nl": "4.3 Contra-indicaties"
-    }
-  },
-  {
-    "translation": {
       "en": "Hypersensitivity to the active substance or to any of the excipients.",
       "nl": "Overgevoeligheid voor het werkzame bestanddeel of voor één van de hulpstoffen."
     }
@@ -309,12 +225,6 @@
     "translation": {
       "en": "Concomitant use of CYMBALTA with nonselective, irreversible Monoamine Oxidase Inhibitors (MAOIs) is contraindicated (see section 4.5).",
       "nl": "Gelijktijdig gebruik van CYMBALTA met niet-selectieve, irreversibele Monoamine-Oxidaseremmers (MAO-remmers) is gecontra-indiceerd (zie rubriek 4.5)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Liver disease resulting in hepatic impairment (see section 5.2).",
-      "nl": "Een leveraandoening die leidt tot leverfunctiestoornis (zie rubriek 5.2)."
     }
   },
   {
@@ -337,12 +247,6 @@
   },
   {
     "translation": {
-      "en": "4.4 Special warnings and precautions for use",
-      "nl": "4.4 Bijzondere waarschuwingen en voorzorgen bij gebruik"
-    }
-  },
-  {
-    "translation": {
       "en": "Mania and seizures",
       "nl": "Manie en convulsies"
     }
@@ -355,62 +259,14 @@
   },
   {
     "translation": {
-      "en": "Mydriasis",
-      "nl": "Mydriasis"
-    }
-  },
-  {
-    "translation": {
-      "en": "Blood pressure and heart rate",
-      "nl": "Bloeddruk en hartslag"
-    }
-  },
-  {
-    "translation": {
       "en": "Duloxetine has been associated with an increase in blood pressure and clinically significant hypertension in some patients.",
       "nl": "CYMBALTA wordt geassocieerd met een verhoogde bloeddruk en klinisch significante hypertensie bij bepaalde patiënten."
     }
   },
   {
     "translation": {
-      "en": "This may be due to the noradrenergic effect of duloxetine.",
-      "nl": "Dit kan een gevolg zijn van het noradrenerge effect van duloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Cases of hypertensive crisis have been reported with duloxetine, especially in patients with pre-existing hypertension.",
-      "nl": "Gevallen van hypertensieve crisis zijn gerapporteerd met duloxetine, vooral bij patiënten met reeds bestaande hypertensie."
-    }
-  },
-  {
-    "translation": {
       "en": "Therefore, in patients with known hypertension and/or other cardiac disease, blood pressure monitoring is recommended, especially during the first month of treatment.",
       "nl": "Daarom wordt bij patiënten met bekende hypertensie en/of andere hartziekte wordt geëigende controle van de bloeddruk aanbevolen, vooral gedurende de eerste maand van de behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine should be used with caution in patients whose conditions could be compromised by an increased heart rate or by an increase in blood pressure.",
-      "nl": "Duloxetine dient voorzichtig gebruikt te worden bij patiënten waarbij de conditie gepaard kan gaan met een versnelde hartslag of verhoogde bloeddruk."
-    }
-  },
-  {
-    "translation": {
-      "en": "Caution should also be exercised when duloxetine is used with drugs that may impair its metabolism (see section 4.5).",
-      "nl": "Voorzichtigheid is geboden wanneer duloxetine wordt gebruikt gelijktijdig met geneesmiddelen die het metabolisme kunnen verstoren (zie rubriek 4.5)."
-    }
-  },
-  {
-    "translation": {
-      "en": "For patients who experience a sustained increase in blood pressure while receiving duloxetine either dose reduction or gradual discontinuation should be considered (see section 4.8).",
-      "nl": "Voor patiënten die een blijvende toename van de bloeddruk ervaren tijdens gebruik van duloxetine dient ofwel dosisverlaging, dan wel geleidelijk staken van de behandeling te worden overwogen (zie rubriek 4.8)."
-    }
-  },
-  {
-    "translation": {
-      "en": "In patients with uncontrolled hypertension duloxetine should not be initiated (see section 4.3).",
-      "nl": "Bij patiënten met ongecontroleerde hypertensie dient duloxetine niet gestart te worden (zie rubriek 4.3)."
     }
   },
   {
@@ -429,18 +285,6 @@
     "translation": {
       "en": "For patients with severe renal impairment, see section 4.3.",
       "nl": "Voor patiënten met ernstige nierfunctiestoornis, zie rubriek 4.3."
-    }
-  },
-  {
-    "translation": {
-      "en": "See section 4.2 for information on patients with mild or moderate renal dysfunction.",
-      "nl": "Zie rubriek 4.2 voor informatie over patiënten met lichte of matige nierdisfunctie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Use with antidepressants",
-      "nl": "Gebruik samen met antidepressiva"
     }
   },
   {
@@ -541,26 +385,8 @@
   },
   {
     "translation": {
-      "en": "Use in children and adolescents under 18 years of age",
-      "nl": "Gebruik bij kinderen en adolescenten jonger dan 18 jaar"
-    }
-  },
-  {
-    "translation": {
-      "en": "No clinical trials have been conducted with duloxetine in paediatric populations.",
-      "nl": "Er zijn geen klinische studies uitgevoerd met duloxetine bij pediatrische populaties."
-    }
-  },
-  {
-    "translation": {
       "en": "CYMBALTA should not be used in the treatment of children and adolescents under the age of 18 years.",
       "nl": "CYMBALTA dient niet te worden gebruikt bij de behandeling van kinderen en adolescenten jonger dan 18 jaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "Suicide-related behaviours (suicide attempts and suicidal thoughts), and hostility (predominantly aggression, oppositional behaviour and anger), were more frequently observed in clinical trials among children and adolescents treated with antidepressants compared to those treated with placebo.",
-      "nl": "Aan suïcide gerelateerde gedragingen (suïcidepogingen en suïcidale gedachten) en vijandigheid (voornamelijk agressie, oppositioneel gedrag en woede) werden in klinische studies vaker waargenomen bij kinderen en adolescenten behandeld met antidepressiva vergeleken met diegenen behandeld met placebo."
     }
   },
   {
@@ -595,12 +421,6 @@
   },
   {
     "translation": {
-      "en": "Haemorrhage",
-      "nl": "Bloedingen"
-    }
-  },
-  {
-    "translation": {
       "en": "There have been reports of bleeding abnormalities, such as ecchymoses, purpura and gastrointestinal haemorrhage with selective serotonin reuptake inhibitors (SSRIs) and serotonin/norepinephrine reuptake inhibitors (SNRIs).",
       "nl": "Bij Selectieve Serotonine Heropname Remmers (SSRI's) en Serotonine/Noradrenaline Heropname Remmers (SNRI's) is melding gemaakt van bloedingsafwijkingen zoals ecchymosen, purpura en gastrointestinale bloedingen."
     }
@@ -613,38 +433,14 @@
   },
   {
     "translation": {
-      "en": "Hyponatremia",
-      "nl": "Hyponatriëmie"
-    }
-  },
-  {
-    "translation": {
       "en": "Hyponatremia has been reported rarely, predominantly in the elderly, when administering CYMBALTA.",
       "nl": "Hyponatriëmie is zelden gemeld, voornamelijk bij ouderen, wanneer CYMBALTA wordt toegediend."
     }
   },
   {
     "translation": {
-      "en": "Caution is required in patients at increased risk for hyponatremia; such as elderly, cirrhotic, or dehydrated patients or patients treated with diuretics.",
-      "nl": "Voorzichtigheid is geboden bij patiënten met een verhoogd risico op hyponatriëmie, zoals ouderen, cirrotische- of gedehydrateerde patiënten of patiënten behandeld met diuretica."
-    }
-  },
-  {
-    "translation": {
       "en": "Hyponatremia may be due to a syndrome of inappropriate anti-diuretic hormone secretion (SIADH).",
       "nl": "Hyponatriëmie kan worden veroorzaakt als gevolg van het onvoldoende antidiuretisch hormoon secretie syndroom (SIADH)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Discontinuation of treatment",
-      "nl": "Stopzetten van de behandeling"
-    }
-  },
-  {
-    "translation": {
-      "en": "Withdrawal symptoms when treatment is discontinued are common, particularly if discontinuation is abrupt (see section 4.8).",
-      "nl": "Onthoudingsverschijnselen bij stopzetting van de behandeling zijn gebruikelijk, vooral wanneer abrupt wordt gestopt (zie rubriek 4.8)."
     }
   },
   {
@@ -661,38 +457,8 @@
   },
   {
     "translation": {
-      "en": "The most commonly reported reactions are listed in section 4.8.",
-      "nl": "De meest voorkomende symptomen zijn beschreven in rubriek 4.8."
-    }
-  },
-  {
-    "translation": {
       "en": "Generally these symptoms are mild to moderate, however, in some patients they may be severe in intensity.",
       "nl": "Over het algemeen zijn de symptomen licht tot matig van aard, echter bij sommige patiënten kan de intensiteit ernstig zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "They usually occur within the first few days of discontinuing treatment, but there have been very rare reports of such symptoms in patients who have inadvertently missed a dose.",
-      "nl": "Normaal gesproken treden deze op in de eerste dagen na stopzetting van de behandeling, er zijn echter zeldzame meldingen van patiënten die per ongeluk een dosis vergeten waren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Generally these symptoms are self-limiting and usually resolve within 2 weeks, though in some individuals they may be prolonged (2-3 months or more).",
-      "nl": "Over in het algemeen zijn deze symptomen zelfbeperkend en verdwijnen ze binnen 2 weken, hoewel ze bij sommige patiënten langer aanwezig kunnen zijn (2 -- 3 maanden, of langer)."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is therefore advised that duloxetine should be gradually tapered when discontinuing treatment over a period of no less than 2 weeks, according to the patient's needs (see section 4.2).",
-      "nl": "Daarom wordt geadviseerd om duloxetine geleidelijk af te bouwen over een periode van tenminste 2 weken, afhankelijk van de behoefte van de patiënt (zie rubriek 4.2)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Elderly",
-      "nl": "Ouderen"
     }
   },
   {
@@ -709,36 +475,6 @@
   },
   {
     "translation": {
-      "en": "Akathisia/psychomotor restlessness",
-      "nl": "Acathisie / psychomotorische rusteloosheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "The use of duloxetine has been associated with the development of akathisia, characterised by a subjectively unpleasant or distressing restlessness and need to move often accompanied by an inability to sit or stand still.",
-      "nl": "Het gebruik van duloxetine wordt geassocieerd met het ontwikkelen van acathisie, gekarakteriseerd door een subjectieve onprettige, verontrustende rusteloosheid en de behoefte veel te bewegen gepaard gaand met het niet in staat zijn om stil te zitten of stil te staan."
-    }
-  },
-  {
-    "translation": {
-      "en": "This is most likely to occur within the first few weeks of treatment.",
-      "nl": "Dit gebeurt meestal binnen de eerste paar weken van de behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "In patients who develop these symptoms, increasing the dose may be detrimental.",
-      "nl": "Bij patiënten die deze symptomen ontwikkelen kan verhogen van de dosering schadelijk zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal products containing duloxetine",
-      "nl": "Geneesmiddelen die duloxetine bevatten"
-    }
-  },
-  {
-    "translation": {
       "en": "Duloxetine is used under different trademarks in several indications (treatment of diabetic neuropathic pain, major depressive episodes as well as stress urinary incontinence).",
       "nl": "Duloxetine wordt toegepast onder verschillende handelsmerken bij verscheidene indicaties (behandeling van zowel diabetische neuropathische pijn, als depressieve episoden als stress-urine-incontinentie)."
     }
@@ -747,30 +483,6 @@
     "translation": {
       "en": "The use of more than one of these products concomitantly should be avoided.",
       "nl": "Het gelijktijdige gebruik van meer dan één van deze producten dient te worden vermeden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hepatitis/increased liver enzymes",
-      "nl": "Verhoogde lever enzymen"
-    }
-  },
-  {
-    "translation": {
-      "en": "The pattern of liver damage was predominantly hepatocellular.",
-      "nl": "Het patroon van leverbeschadiging was voornamelijk hepatocellulair."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine should be used with caution in patients treated with other drugs associated with hepatic injury.",
-      "nl": "Duloxetine moet met voorzichtigheid worden gebruikt bij patiënten die behandeld worden met andere geneesmiddelen geassocieerd met leverbeschadiging."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.5 Interaction with other medicinal products and other forms of interaction",
-      "nl": "4.5 Interacties met andere geneesmiddelen en andere vormen van interactie"
     }
   },
   {
@@ -835,32 +547,8 @@
   },
   {
     "translation": {
-      "en": "Medicinal products metabolised by CYP2D6: Duloxetine is a moderate inhibitor of CYP2D6.",
-      "nl": "Geneesmiddelen gemetaboliseerd door CYP2D6: Duloxetine is een matige remmer van CYP2D6."
-    }
-  },
-  {
-    "translation": {
-      "en": "When duloxetine was administered at a dose of 60 mg twice daily with a single dose of desipramine, a CYP2D6 substrate, the AUC of desipramine increased 3-fold.",
-      "nl": "Wanneer duloxetine werd toegediend als een dosis van 60 mg tweemaal daags met een enkele dosis desipramine, een CYP2D6 substraat, was de AUC van desipramine 3 maal zo hoog."
-    }
-  },
-  {
-    "translation": {
-      "en": "The co-administration of duloxetine (40 mg twice daily) increases steady state AUC of tolterodine (2 mg twice daily) by 71 %, but does not affect the pharmacokinetics of its active 5-hydroxyl metabolite and no dosage adjustment is recommended.",
-      "nl": "Gelijktijdige toediening van duloxetine (40 mg tweemaal daags) verhoogt de 'steady state AUC' van tolterodine (2 mg tweemaal daags) met 71%, maar heeft geen invloed op de farmacokinetiek van de actieve 5- hydroxymetaboliet hiervan en er wordt geen doseringsaanpassing aanbevolen."
-    }
-  },
-  {
-    "translation": {
       "en": "Caution is advised if CYMBALTA is co-administered with medicinal products that are predominantly metabolised by CYP2D6 (risperidone, tricyclic antidepressants [TCAs] such as nortriptyline, amitriptyline, and imipramine) particularly if they have a narrow therapeutic index (such as flecainide, propafenone and metoprolol).",
       "nl": "Voorzichtigheid is geboden als CYMBALTA gelijktijdig wordt toegediend met geneesmiddelen die voornamelijk worden gemetaboliseerd door CYP2D6 (risperidon, tricyclische antidepressiva [TCA's] zoals nortriptyline, amitryptiline en imipramine) met name als deze een smalle therapeutische breedte hebben (zoals flecainide, propafenon en metoprolol)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Oral contraceptives and other steroidal agents: results of in vitro studies demonstrate that duloxetine does not induce the catalytic activity of CYP3A.",
-      "nl": "Orale anticonceptiva en andere steroïden: uit de resultaten van in vitro-onderzoeken blijkt dat duloxetine niet aanzet tot de katalytische activiteit van CYP3A."
     }
   },
   {
@@ -873,18 +561,6 @@
     "translation": {
       "en": "Anticoagulants and antiplatelet agents: Caution should be exercised when duloxetine is combined with oral anticoagulants or antiplatelet agents due to a potential increased risk of bleeding.",
       "nl": "Anticoagulantia en antiplatelet middelen: Voorzichtigheid is geboden wanneer duloxetine wordt gecombineerd met orale anticoagulantia of antiplatelet middelen door een potentieel verhoogd risico op bloedingen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Furthermore, increases in INR values have been reported when duloxetine was co-administered with warfarin.",
-      "nl": "Verder zijn er toenames in INR waarden gerapporteerd wanneer duloxetine gelijktijdig werd toegediend met warfarine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Effects of other drugs on duloxetine",
-      "nl": "Effecten van andere geneesmiddelen op duloxetine"
     }
   },
   {
@@ -919,32 +595,8 @@
   },
   {
     "translation": {
-      "en": "4.6 Pregnancy and lactation",
-      "nl": "4.6 Zwangerschap en borstvoeding"
-    }
-  },
-  {
-    "translation": {
-      "en": "Pregnancy",
-      "nl": "Zwangerschap"
-    }
-  },
-  {
-    "translation": {
-      "en": "There are no data on the use of duloxetine in pregnant women.",
-      "nl": "Er zijn geen gegevens over het gebruik van duloxetine bij zwangere vrouwen."
-    }
-  },
-  {
-    "translation": {
       "en": "Studies in animals have shown reproductive toxicity at systemic exposure levels (AUC) of duloxetine lower than the maximum clinical exposure (see section 5.3).",
       "nl": "Uit experimenteel onderzoek bij dieren is reproductietoxiciteit gebleken bij systemische blootstellingsniveaus (AUC) van duloxetine die lager waren dan de maximale klinische blootstelling (zie rubriek 5.3)."
-    }
-  },
-  {
-    "translation": {
-      "en": "The potential risk for humans is unknown.",
-      "nl": "Het potentiële risico voor de mens is niet bekend."
     }
   },
   {
@@ -967,50 +619,14 @@
   },
   {
     "translation": {
-      "en": "Breast feeding",
-      "nl": "Borstvoeding"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is very weakly excreted into human milk based on a study of 6 lactating patients, who did not breast feed their children .",
-      "nl": "Duloxetine wordt erg zwak uitgescheiden in de humane melk gebaseerd op een onderzoek met 6 patiënten die melkafscheiding hadden en die geen borstvoeding gaven aan hun kinderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The estimated daily infant dose on a mg/kg basis is approximately 0.14% of the maternal dose (see section 5.2).",
-      "nl": "De geschatte dagelijkse dosis voor het kind op een mg/kg basis is ongeveer 0,14% van de dosis van de moeder (zie rubriek 5.2)."
-    }
-  },
-  {
-    "translation": {
       "en": "As the safety of duloxetine in infants is not known, the use of CYMBALTA while breast-feeding is not recommended.",
       "nl": "Aangezien de veiligheid van duloxetine bij kinderen niet is vastgesteld, wordt het gebruik van CYMBALTA tijdens het geven van borstvoeding niet aanbevolen."
     }
   },
   {
     "translation": {
-      "en": "4.7 Effects on ability to drive and use machines",
-      "nl": "4.7 Beïnvloeding van de rijvaardigheid en van het vermogen om machines te bedienen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Although in controlled studies duloxetine has not been shown to impair psychomotor performance, cognitive function, or memory, it may be associated with sedation and dizziness.",
-      "nl": "Hoewel bij gecontroleerde onderzoeken niet is gebleken dat het gebruik van duloxetine de psychomotorische prestaties, de cognitieve functie of het geheugen vermindert, kan het gepaard gaan met sedatie en duizeligheid."
-    }
-  },
-  {
-    "translation": {
       "en": "Patients should be cautioned about their ability to drive a car or operate hazardous machinery.",
       "nl": "Derhalve dienen patiënten tot voorzichtigheid te worden gemaand bij het besturen van een auto of het bedienen van gevaarlijke machines."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.8 Undesirable effects",
-      "nl": "4.8 Bijwerkingen"
     }
   },
   {
@@ -1051,12 +667,6 @@
   },
   {
     "translation": {
-      "en": "[[TABLE]]",
-      "nl": "[[TABLE]]"
-    }
-  },
-  {
-    "translation": {
       "en": "Cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation (see section 4.4)",
       "nl": "Gevallen van suicidale gedachten en gedrag zijn gemeld tijdens behandeling met duloxetine of kort na beëindiging van de behandeling (zie rubriek 4.4)"
     }
@@ -1065,30 +675,6 @@
     "translation": {
       "en": "Cases of orthostatic hypotension and syncope have been reported especially at the initiation of treatment.",
       "nl": "Gevallen van orthostatische hypotensie en syncope zijn met name gemeld bij het begin van de behandeling"
-    }
-  },
-  {
-    "translation": {
-      "en": "See section 4.4",
-      "nl": "Zie rubriek 4.4"
-    }
-  },
-  {
-    "translation": {
-      "en": "Discontinuation of duloxetine (particularly when abrupt) commonly leads to withdrawal symptoms.",
-      "nl": "Wanneer gestopt wordt met duloxetine (met name bij abrupt stoppen) leidt dit vaak tot onthoudingsverschijnselen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dizziness, sensory disturbances (including paraesthesia), sleep disturbances (including insomnia and intense dreams), agitation or anxiety, nausea and/or vomiting, tremor and headache are the most commonly reported reactions.",
-      "nl": "Duizeligheid, gevoelsstoornissen (inbegrepen verlamming), slaapstoornissen (inbegrepen slapeloosheid en diepe dromen), agitatie of angst, misselijkheid en/of overgeven, tremor en hoofdpijn zijn de meest gemelde reacties."
-    }
-  },
-  {
-    "translation": {
-      "en": "Generally, for SSRIs and SNRIs, these events are mild to moderate and self-limiting, however, in some patients they may be severe and/or prolonged.",
-      "nl": "In het algemeen geldt voor SSRI's en SNRI's dat deze symptomen mild tot matig en zelfbeperkend zijn, hoewel ze bij sommige patiënten ernstig en/of langdurig zijn."
     }
   },
   {
@@ -1105,24 +691,6 @@
   },
   {
     "translation": {
-      "en": "HbA1c was stable in both duloxetine-treated and placebo-treated patients.",
-      "nl": "HbA1c was stabiel bij zowel de duloxetine behandelde als de placebo behandelde patiënten."
-    }
-  },
-  {
-    "translation": {
-      "en": "In the extension phase of these studies, which lasted up to 52 weeks, there was an increase in HbA1c in both the duloxetine and routine care groups, but the mean increase was 0.3% greater in the duloxetine-treated group.",
-      "nl": "In de verlengde fase, welke tot 52 weken duurde, was er een toename van het HbA1c in zowel de duloxetine als de routine groep, maar de gemiddelde toename was 0,3% groter in de duloxetine behandelde groep."
-    }
-  },
-  {
-    "translation": {
-      "en": "There was also a small increase in fasting blood glucose and in total cholesterol in duloxetine-treated patients while those laboratory tests showed a slight decrease in the routine care group.",
-      "nl": "Er was ook een kleine toename van de nuchtere bloedglucose waarde en het totale cholesterol in de duloxetine behandelde groep terwijl deze lab waarden een kleine daling lieten zien in de routine groep."
-    }
-  },
-  {
-    "translation": {
       "en": "The heart rate-corrected QT interval in duloxetine-treated patients did not differ from that seen in placebo-treated patients.",
       "nl": "Het voor de hartslagfrequentie gecorrigeerde QT-interval bij met duloxetine behandelde patiënten week niet af van dat bij met placebo behandelde patiënten."
     }
@@ -1135,80 +703,8 @@
   },
   {
     "translation": {
-      "en": "4.9 Overdose",
-      "nl": "4.9 Overdosering"
-    }
-  },
-  {
-    "translation": {
-      "en": "There is limited clinical experience with duloxetine overdose in humans.",
-      "nl": "De klinische ervaring met overdosering van duloxetine bij de mens is beperkt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Cases of overdoses, alone or in combination with other drugs, with duloxetine doses of almost 2000 mg were reported.",
-      "nl": "Gevallen van overdosering, alleen of in combinatie met andere middelen, zijn gemeld bij duloxetine doseringen van bijna 2000 mg."
-    }
-  },
-  {
-    "translation": {
-      "en": "Some fatalities have occurred, primarily with mixed overdoses, but also with duloxetine alone at a dose of approximately 1000 mg.",
-      "nl": "Enkele fatale gevolgen zijn opgetreden, vooral bij gecombineerde overdoseringen maar ook met enkel duloxetine bij een dosis van ongeveer 1000 mg."
-    }
-  },
-  {
-    "translation": {
-      "en": "Signs and symptoms of overdose (mostly with mixed drugs) included serotonin syndrome, somnolence, vomiting and seizures.",
-      "nl": "Tekenen en symptomen van overdosering (vooral bij gecombineerde middelen) zijn serotonine syndroom, slapeloosheid, overgeven en toevallen."
-    }
-  },
-  {
-    "translation": {
       "en": "No specific antidote is known for duloxetine but if serotonin syndrome ensues, specific treatment (such as with cyproheptadine and/or temperature control) may be considered.",
       "nl": "Er is geen specifiek antidotum tegen duloxetine bekend, maar indien het serotonine syndroom optreedt, kan specifieke behandeling overwogen worden (zoals met cyproheptadine en/of temperatuur controle)."
-    }
-  },
-  {
-    "translation": {
-      "en": "A free airway should be established.",
-      "nl": "De luchtwegen dienen te worden vrijgemaakt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Monitoring of cardiac and vital signs is recommended, along with appropriate symptomatic and supportive measures.",
-      "nl": "Aangeraden wordt de hartfuncties en de vitale functies nauwlettend te controleren en tevens adequate symptomatische en ondersteunende maatregelen te nemen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Gastric lavage may be indicated if performed soon after ingestion or in symptomatic patients.",
-      "nl": "Indien dit spoedig na inslikken wordt uitgevoerd of bij symptomatische patiënten kan maagspoeling zijn aangewezen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Activated charcoal may be useful in limiting absorption.",
-      "nl": "Om de absorptie te beperken kan geactiveerde kool worden gebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine has a large volume of distribution and forced diuresis, haemoperfusion, and exchange perfusion are unlikely to be beneficial.",
-      "nl": "Duloxetine heeft een groot verdelingsvolume en het is onwaarschijnlijk dat geforceerde diurese, hemoperfusie en wisselperfusie van nut zullen zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. PHARMACOLOGICAL PROPERTIES",
-      "nl": "5. FARMACOLOGISCHE EIGENSCHAPPEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "5.1 Pharmacodynamic properties",
-      "nl": "5.1 Farmacodynamische eigenschappen"
     }
   },
   {
@@ -1231,12 +727,6 @@
   },
   {
     "translation": {
-      "en": "It weakly inhibits dopamine reuptake with no significant affinity for histaminergic, dopaminergic, cholinergic and adrenergic receptors.",
-      "nl": "Het remt de heropname van dopamine in zwakke mate en heeft geen significante affiniteit voor histaminerge, dopaminerge, cholinerge en adrenerge receptoren."
-    }
-  },
-  {
-    "translation": {
       "en": "Duloxetine dose-dependently increases extracellular levels of serotonin and noradrenaline in various brain areas of animals.",
       "nl": "Duloxetine verhoogt op dosisafhankelijke wijze de extracellulaire spiegels van serotonine en noradrenaline in verscheidene hersengebieden bij dieren."
     }
@@ -1251,12 +741,6 @@
     "translation": {
       "en": "The pain inhibitory action of duloxetine is believed to be a result of potentiation of descending inhibitory pain pathways within the central nervous system.",
       "nl": "Het pijn remmend vermogen van duloxetine wordt verondersteld een resultaat te zijn van versterking van de afdalende remmende pijnbanen in het centraal zenuwstelsel."
-    }
-  },
-  {
-    "translation": {
-      "en": "Major Depressive Episodes:",
-      "nl": "Depressieve episoden:"
     }
   },
   {
@@ -1333,12 +817,6 @@
   },
   {
     "translation": {
-      "en": "Diabetic Peripheral Neuropathic Pain:",
-      "nl": "Diabetische perifere neuropathische pijn:"
-    }
-  },
-  {
-    "translation": {
       "en": "The efficacy of duloxetine as a treatment for diabetic neuropathic pain was established in 2 randomised, 12-week, double-blind, placebo-controlled, fixed dose studies in adults (22 to 88 years) having diabetic neuropathic pain for at least 6 months.",
       "nl": "De werkzaamheid van duloxetine voor de behandeling van diabetische perifere neuropathische pijn is vastgesteld in twee gerandomiseerde, twaalf weken durende dubbelblinde, placebo vaste dosering gecontroleerde studies in volwassenen (22 tot 88 jaar) met diabetische neuropathische pijn voor de duur van tenminste zes maanden."
     }
@@ -1411,36 +889,6 @@
   },
   {
     "translation": {
-      "en": "5.2 Pharmacokinetic properties",
-      "nl": "5.2 Farmacokinetische gegevens"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is administered as a single enantiomer.",
-      "nl": "Duloxetine wordt als een enkele enantiomeer toegediend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is extensively metabolised by oxidative enzymes (CYP1A2 and the polymorphic CYP2D6), followed by conjugation.",
-      "nl": "Duloxetine wordt uitgebreid gemetaboliseerd door oxidatieve enzymen (CYP1A2 en het polymorfe CYP2D6), gevolgd door conjugatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "The pharmacokinetics of duloxetine demonstrate large intersubject variability (generally 5 0-60%), partly due to gender, age, smoking status and CYP2D6 metaboliser status.",
-      "nl": "De farmacokinetiek van duloxetine varieert sterk tussen proefpersonen (over het algemeen 50-60%), gedeeltelijk vanwege geslacht, leeftijd, wel of niet roken en de status van metabolisatie door CYP2D6."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is well absorbed after oral administration with a Cmax occurring 6 hours post dose.",
-      "nl": "Duloxetine wordt na orale toediening goed geabsorbeerd en de Cmax wordt 6 uur na dosering bereikt."
-    }
-  },
-  {
-    "translation": {
       "en": "The absolute oral bioavailability of duloxetine ranged from 32% to 80% (mean of 5 0%).",
       "nl": "De absolute orale biologische beschikbaarheid van duloxetine varieerde van 32% tot 80% (gemiddeld 50%)."
     }
@@ -1459,50 +907,14 @@
   },
   {
     "translation": {
-      "en": "Duloxetine is approximately 96% bound to human plasma proteins.",
-      "nl": "Duloxetine wordt voor circa 96% aan menselijke plasma-eiwitten gebonden."
-    }
-  },
-  {
-    "translation": {
       "en": "Duloxetine binds to both albumin and alpha-l acid glycoprotein.",
       "nl": "Duloxetine bindt zowel aan albumine als aan alfa-1-zuur-glycoproteïne."
     }
   },
   {
     "translation": {
-      "en": "Protein binding is not affected by renal or hepatic impairment.",
-      "nl": "De eiwitbinding wordt niet beïnvloed door nier- of leverfunctiestoornissen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is extensively metabolised and the metabolites are excreted principally in urine.",
-      "nl": "Duloxetine wordt uitgebreid gemetaboliseerd en de metabolieten worden voornamelijk in urine uitgescheiden."
-    }
-  },
-  {
-    "translation": {
       "en": "Both cytochromes P450-2D6 and 1A2 catalyse the formation of the two major metabolites glucuronide conjugate of 4-hydroxy duloxetine and sulphate conjugate of 5hydroxy,6-methoxy duloxetine.",
       "nl": "Zowel cytochroom P450-2D6 als 1A2 katalyseren de vorming van de twee belangrijkste metabolieten glucuronideconjugaat van 4-hydroxyduloxetine en sulfaatconjugaat van 5- hydroxy,6-methoxyduloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Based upon in vitro studies, the circulating metabolites of duloxetine are considered pharmacologically inactive.",
-      "nl": "Op basis van in vitro-onderzoeken worden de circulerende metabolieten van duloxetine als farmacologisch inactief beschouwd."
-    }
-  },
-  {
-    "translation": {
-      "en": "The pharmacokinetics of duloxetine in patients who are poor metabolisers with respect to CYP2D6 has not been specifically investigated.",
-      "nl": "De farmacokinetiek van duloxetine bij patiënten die langzame omzetters zijn met betrekking tot CYP2D6, is niet specifiek onderzocht."
-    }
-  },
-  {
-    "translation": {
-      "en": "Limited data suggest that the plasma levels of duloxetine are higher in these patients.",
-      "nl": "Beperkte data suggereren dat de plasmaspiegels van duloxetine bij deze patiënten hoger zijn."
     }
   },
   {
@@ -1525,12 +937,6 @@
   },
   {
     "translation": {
-      "en": "Special populations:",
-      "nl": "Speciale groepen patiënten:"
-    }
-  },
-  {
-    "translation": {
       "en": "Gender: pharmacokinetic differences have been identified between males and females (apparent plasma clearance is approximatively 50% lower in females).",
       "nl": "Geslacht: farmacokinetische verschillen zijn geïdentificeerd tussen mannen en vrouwen (de schijnbare plasmaklaring is bij vrouwen ongeveer 50% lager)."
     }
@@ -1539,12 +945,6 @@
     "translation": {
       "en": "Based upon the overlap in the range of clearance, gender-based pharmacokinetic differences do not justify the recommendation for using a lower dose for female patients.",
       "nl": "Op basis van de overlap in de klaringsspreiding vormen farmacokinetische verschillen op grond van geslacht geen rechtvaardiging voor de aanbeveling om een lagere dosis voor vrouwelijke patiënten te gebruiken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Age: pharmacokinetic differences have been identified between younger and elderly females (\\u226565 years) (AUC increases by about 25% and half-life is about 25% longer in the elderly), although the magnitude of these changes is not sufficient to justify adjustments to the dose.",
-      "nl": "Leeftijd: hoewel er farmacokinetische verschillen zijn vastgesteld tussen jongere en oudere vrouwen (\\u2265 65 jaar) (AUC neemt toe met ongeveer 25% en de halfwaardetijd is ongeveer 25% langer bij ouderen) zijn deze verschillen niet groot genoeg om aanpassingen van de dosis te rechtvaardigen."
     }
   },
   {
@@ -1561,86 +961,8 @@
   },
   {
     "translation": {
-      "en": "Pharmacokinetic data on duloxetine is limited in patients with mild or moderate renal impairment.",
-      "nl": "Farmacokinetische gegevens over duloxetine zijn beperkt bij patiënten met lichte of matige nierfunctiestoornissen."
-    }
-  },
-  {
-    "translation": {
       "en": "Hepatic impairment: moderate liver disease (Child Pugh Class B) affected the pharmacokinetics of duloxetine.",
       "nl": "Leverinsufficiëntie: matige leverziekte (Child-Pugh klasse B) beïnvloedde de farmacokinetiek van duloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Compared with healthy subjects, the apparent plasma clearance of duloxetine was 79% lower, the apparent terminal half-life was 2.3 times longer, and the AUC was 3.7 times higher in patients with moderate liver disease.",
-      "nl": "Vergeleken met gezonde proefpersonen was de schijnbare plasmaklaring van duloxetine 79% lager, de schijnbare terminale halfwaardetijd was 2,3 keer langer en de AUC was 3,7 keer hoger bij patiënten met matige leverziekte."
-    }
-  },
-  {
-    "translation": {
-      "en": "The pharmacokinetics of duloxetine and its metabolites have not been studied in patients with mild or severe hepatic insufficiency.",
-      "nl": "De farmacokinetiek van duloxetine en zijn metabolieten is niet bestudeerd bij patiënten met lichte of ernstige leverinsufficiëntie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Nursing mothers: The disposition of duloxetine was studied in 6 lactating women who were at least 12-weeks postpartum.",
-      "nl": "Moeders die borstvoeding geven: De eigenschappen van duloxetine zijn bestudeerd bij 6 moeders die borstvoeding gaven 12 weken postpartum."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is detected in breast milk, and steady-state concentrations in breast milk are about one-fourth those in plasma.",
-      "nl": "Duloxetine werd gedetecteerd in de moedermelk, en steady-state concentraties in moedermelk zijn ongeveer éénvierde van die in plasma."
-    }
-  },
-  {
-    "translation": {
-      "en": "The amount of duloxetine in breast milk is approximately 7 µg/day while on 40 mg twice daily dosing.",
-      "nl": "De hoeveelheid duloxetine in moedermelk is ongeveer 7 microgram/dag bij een dosering van 40 mg tweemaal daags."
-    }
-  },
-  {
-    "translation": {
-      "en": "Lactation did not influence duloxetine pharmacokinetics.",
-      "nl": "Het geven van borstvoeding had geen invloed op de farmacokinetiek van duloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "5.3 Precinical safety data",
-      "nl": "5.3 Gegevens uit het preklinisch veiligheidsonderzoek"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine was not genotoxic in a standard battery of tests and was not carcinogenic in rats.",
-      "nl": "Duloxetine was in een standaard serie testen niet genotoxisch en was niet carcinogeen bij ratten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Multinucleated cells were seen in the liver in the absence of other histopathological changes in the rat carcinogenicity study.",
-      "nl": "In de carcinogeniteitsstudie bij ratten werden meerkernige cellen gezien in de lever in afwezigheid van andere histopathologische veranderingen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The underlying mechanism and the clinical relevance are unknown.",
-      "nl": "Het onderliggende mechanisme en de klinische relevantie zijn onbekend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Female mice receiving duloxetine for 2 years had an increased incidence of hepatocellular adenomas and carcinomas at the high dose only (144 mg/kg/day), but these were considered to be secondary to hepatic microsomal enzyme induction.",
-      "nl": "Vrouwtjesmuizen die gedurende 2 jaar duloxetine kregen toegediend, hadden alleen bij de hoge dosis (144 mg/kg/dag) een verhoogde incidentie van hepatocellulaire adenomen en carcinomen, maar aangenomen werd dat deze het gevolg waren van inductie van microsomale leverenzymen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The relevance of this mouse data to humans is unknown.",
-      "nl": "In hoeverre deze gegevens bij de muis relevant zijn voor de mens is onbekend."
     }
   },
   {
@@ -1651,32 +973,8 @@
   },
   {
     "translation": {
-      "en": "In an embryotoxicity study in the rabbit, a higher incidence of cardiovascular and skeletal malformations was observed at systemic exposure levels below the maximum clinical exposure (AUC).",
-      "nl": "In een embryotoxiciteitsstudie bij konijnen werd een hogere incidentie van cardiovasculaire malformaties en skeletmalformaties waargenomen bij systemische blootstellingsniveaus onder de maximale klinische blootstelling (AUC)."
-    }
-  },
-  {
-    "translation": {
-      "en": "No malformations were observed in another study testing a higher dose of a different salt of duloxetine.",
-      "nl": "Er werden geen malformaties waargenomen bij een andere studie, waarbij een hogere dosis van een verschillend zout van duloxetine werd getest."
-    }
-  },
-  {
-    "translation": {
       "en": "In prenatal/postnatal toxicity studies in the rat, duloxetine induced adverse behavioural effects in the offspring at exposures below maximum clinical exposure (AUC).",
       "nl": "In pre-/postnatale toxiciteitsstudies bij de rat leidde duloxetine tot afwijkende gedragseffecten bij de nakomelingen bij blootstellingsniveaus onder de maximale klinische blootstelling (AUC)."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. PHARMACEUTICAL PARTICULARS",
-      "nl": "6. FARMACEUTISCHE GEGEVENS"
-    }
-  },
-  {
-    "translation": {
-      "en": "6.1 List of excipients",
-      "nl": "6.1 Lijst van hulpstoffen"
     }
   },
   {
@@ -1687,56 +985,8 @@
   },
   {
     "translation": {
-      "en": "Hypromellose.",
-      "nl": "Hypromellose"
-    }
-  },
-  {
-    "translation": {
-      "en": "Hydroxypropyl methylcellulose acetate succinate",
-      "nl": "Hydroxypropylmethylcellulose-acetaatsuccinaat"
-    }
-  },
-  {
-    "translation": {
-      "en": "Sucrose",
-      "nl": "Sacharose"
-    }
-  },
-  {
-    "translation": {
-      "en": "Sugar spheres",
-      "nl": "Suikerbolletjes"
-    }
-  },
-  {
-    "translation": {
-      "en": "Talc",
-      "nl": "Talk"
-    }
-  },
-  {
-    "translation": {
-      "en": "Titanium dioxide (E 171)",
-      "nl": "Titaniumdioxide (E1 71)"
-    }
-  },
-  {
-    "translation": {
       "en": "Triethyl citrate.",
       "nl": "Triëthylcitraat."
-    }
-  },
-  {
-    "translation": {
-      "en": "Gelatin",
-      "nl": "Gelatine"
-    }
-  },
-  {
-    "translation": {
-      "en": "Sodium Lauryl Sulfate",
-      "nl": "Natriumlaurylsulfaat"
     }
   },
   {
@@ -1789,42 +1039,6 @@
   },
   {
     "translation": {
-      "en": "6.2 Incompatibilities",
-      "nl": "6.2 Gevallen van onverenigbaarheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "Not applicable.",
-      "nl": "Niet van toepassing."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.3 Shelf life",
-      "nl": "6.3 Houdbaarheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "3 years.",
-      "nl": "3 jaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.4 Special precautions for storage",
-      "nl": "6.4 Speciale voorzorgsmaatregelen bij bewaren"
-    }
-  },
-  {
-    "translation": {
-      "en": "Store in the original package.",
-      "nl": "Bewaar in de oorspronkelijke verpakking."
-    }
-  },
-  {
-    "translation": {
       "en": "Polyvinylchloride (PVC), Polyethylene (PE), and Polychlorotrifluoroethylene (PCTFE) blister sealed with an aluminum foil.",
       "nl": "Polyvinylchloride (PVC), polyethyleen (PE) en polychlorotrifluoro-ethyleen (PCTFE) blister die is afgedicht met aluminiumfolie."
     }
@@ -1833,30 +1047,6 @@
     "translation": {
       "en": "CYMBALTA 30 mg is available in packs of 7 ,28 and 98 capsules.",
       "nl": "CYMBALTA 30 mg is verkrijgbaar in verpakkingen van 7 28 en 98 capsules."
-    }
-  },
-  {
-    "translation": {
-      "en": "Not all pack sizes may be marketed.",
-      "nl": "Het kan voorkomen dat niet alle verpakkingsgrootten in de handel worden gebracht."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.6 Special precautions for disposal",
-      "nl": "6.6 Speciale voorzorgsmaatregelen voor het verwijderen"
-    }
-  },
-  {
-    "translation": {
-      "en": "No special requirements.",
-      "nl": "Geen bijzondere vereisten."
-    }
-  },
-  {
-    "translation": {
-      "en": "8. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "8. NUMMER(S) VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
     }
   },
   {
@@ -1873,32 +1063,8 @@
   },
   {
     "translation": {
-      "en": "10. DATE OF REVISION OF THE TEXT",
-      "nl": "10. DATUM VAN HERZIENING VAN DE TEKST"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. NAAM VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
       "en": "CYMBALTA 60 mg hard gastro-resistant capsules",
       "nl": "CYMBALTA 60 mg harde maagsapresistente capsules"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. QUALITATIVE AND QUANTITATIVE COMPOSITION",
-      "nl": "2. KWALITATIEVE EN KWANTITATIEVE SAMENSTELLING"
-    }
-  },
-  {
-    "translation": {
-      "en": "The active ingredient in CYMBALTA is duloxetine.",
-      "nl": "Het werkzame bestanddeel in CYMBALTA is duloxetine."
     }
   },
   {
@@ -1909,116 +1075,8 @@
   },
   {
     "translation": {
-      "en": "Excipients: sucrose.",
-      "nl": "Hulpstof: sacharose"
-    }
-  },
-  {
-    "translation": {
-      "en": "For a full list of excipients, see section 6.1.",
-      "nl": "Voor een volledige lijst van hulpstoffen, zie rubriek 6.1."
-    }
-  },
-  {
-    "translation": {
-      "en": "3. PHARMACEUTICAL FORM",
-      "nl": "3. FARMACEUTISCHE VORM"
-    }
-  },
-  {
-    "translation": {
-      "en": "Hard gastro-resistant capsule.",
-      "nl": "Harde maagsapresistente capsule."
-    }
-  },
-  {
-    "translation": {
       "en": "The CYMBALTA 60 mg capsule has an opaque green body, imprinted with '60 mg' and an opaque blue cap, imprinted with '9542'.",
       "nl": "De CYMBALTA 60 mg-capsule heeft een ondoorzichtig groene romp met het opschrift '60 mg' en een ondoorzichtig blauw kapje met het opschrift '9542'."
-    }
-  },
-  {
-    "translation": {
-      "en": "4. CLINICAL PARTICULARS",
-      "nl": "4. KLINISCHE GEGEVENS"
-    }
-  },
-  {
-    "translation": {
-      "en": "4.1 Therapeutic indications",
-      "nl": "4.1 Therapeutische indicaties"
-    }
-  },
-  {
-    "translation": {
-      "en": "Treatment of major depressive episodes.",
-      "nl": "Behandeling van depressieve episoden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Treatment of diabetic peripheral neuropathic pain in adults.",
-      "nl": "Behandeling van diabetische perifere neuropathische pijn bij volwassenen."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.2 Posology and method of administration",
-      "nl": "4.2 Dosering en wijze van toediening"
-    }
-  },
-  {
-    "translation": {
-      "en": "For oral use.",
-      "nl": "Voor oraal gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "Adults",
-      "nl": "Volwassenen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Major Depressive Episodes:",
-      "nl": "Depressieve episoden:"
-    }
-  },
-  {
-    "translation": {
-      "en": "The starting and recommended maintenance dose is 60 mg once daily with or without food.",
-      "nl": "De startdosis en aanbevolen onderhoudsdosis is 60 mg eenmaal daags met of zonder voedsel."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dosages above 60 mg once daily, up to a maximum dose of 120 mg per day administered in evenly divided doses, have been evaluated from a safety perspective in clinical trials.",
-      "nl": "Doseringen hoger dan 60 mg eenmaal daags, tot een maximale dosis van 120 mg per dag toegediend in gelijk verdeelde doses, zijn in klinische onderzoeken beoordeeld op veiligheid."
-    }
-  },
-  {
-    "translation": {
-      "en": "However, there is no clinical evidence suggesting that patients not responding to the initial recommended dose may benefit from dose up-titrations.",
-      "nl": "Er is echter geen klinisch bewijs dat erop wijst dat patiënten die niet reageren op de aanbevolen startdosis, baat zouden kunnen hebben bij optitreren van de dosis."
-    }
-  },
-  {
-    "translation": {
-      "en": "Therapeutic response is usually seen after 2-4 weeks of treatment.",
-      "nl": "Therapeutische respons wordt gewoonlijk na 2-4 weken behandeling waargenomen."
-    }
-  },
-  {
-    "translation": {
-      "en": "After consolidation of the antidepressive response, it is recommended to continue treatment for several months, in order to avoid relapse.",
-      "nl": "Na consolidatie van de antidepressieve respons wordt aanbevolen de behandeling gedurende een aantal maanden voort te zetten om terugval te voorkomen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Diabetic Peripheral Neuropathic Pain:",
-      "nl": "Diabetische perifere neuropathische pijn:"
     }
   },
   {
@@ -2029,50 +1087,8 @@
   },
   {
     "translation": {
-      "en": "Dosages above 60 mg once daily, up to a maximum dose of 120 mg per day administered in evenly divided doses, have been evaluated from a safety perspective in clinical trials.",
-      "nl": "Doseringen hoger dan 60 mg eenmaal daags, tot een maximale dosis van 120 mg per dag toegediend in gelijk verdeelde doses, zijn in klinische onderzoeken beoordeeld op veiligheid."
-    }
-  },
-  {
-    "translation": {
-      "en": "The plasma concentration of duloxetine displays large inter-individual variability (see 5.2).",
-      "nl": "De plasmaconcentratie van duloxetine vertoont grote inter-individuele variabiliteit (zie rubriek 5.2)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hence, some patients that respond insufficiently to 60 mg may benefit from a higher dose.",
-      "nl": "Om die reden kunnen sommige patiënten, die onvoldoende reageren op 60 mg, baat hebben bij een hogere dosis."
-    }
-  },
-  {
-    "translation": {
-      "en": "The medicinal product response should be evaluated after 2 months' of treatment.",
-      "nl": "De respons van het geneesmiddel dient na 2 maanden behandeling te worden geëvalueerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Additional response after this time is unlikely (see 5.1).",
-      "nl": "Een additionele respons na deze periode is onwaarschijnlijk (zie rubriek 5.1)."
-    }
-  },
-  {
-    "translation": {
       "en": "The therapeutic benefit should regularly (at least every three months) be reassessed.",
       "nl": "Het therapeutisch voordeel dient regelmatig (tenminste iedere drie maanden) opnieuw te worden beoordeeld."
-    }
-  },
-  {
-    "translation": {
-      "en": "Elderly",
-      "nl": "Ouderen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Major Depressive Episodes: No dosage adjustment is recommended for elderly patients solely on the basis of age.",
-      "nl": "Depressieve episoden: Er wordt geen doseringsaanpassing aanbevolen voor oudere patiënten uitsluitend op basis van leeftijd."
     }
   },
   {
@@ -2083,122 +1099,8 @@
   },
   {
     "translation": {
-      "en": "Diabetic Peripheral Neuropathic Pain: No dosage adjustment is recommended for elderly patients solely on the basis of age.",
-      "nl": "Diabetische perifere neuropathische pijn: Er wordt geen doseringsaanpassing aanbevolen voor oudere patiënten uitsluitend op basis van leeftijd."
-    }
-  },
-  {
-    "translation": {
-      "en": "However, caution should be exercised when treating the elderly (see section 5.2).",
-      "nl": "Voorzichtigheid is echter geboden bij het behandelen van ouderen (zie rubriek 5.2)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Children and adolescents",
-      "nl": "Kinderen en adolescenten"
-    }
-  },
-  {
-    "translation": {
-      "en": "The safety and efficacy of duloxetine in these age groups have not been studied.",
-      "nl": "De veiligheid en werkzaamheid van duloxetine in deze leeftijdsgroepen zijn niet onderzocht."
-    }
-  },
-  {
-    "translation": {
-      "en": "Therefore, administration of CYMBALTA to children and adolescents is not recommended (see section 4.4).",
-      "nl": "Derhalve wordt toediening van CYMBALTA aan kinderen en adolescenten niet aanbevolen (zie rubriek 4.4)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hepatic impairment",
-      "nl": "Leverfunctiestoornis"
-    }
-  },
-  {
-    "translation": {
-      "en": "CYMBALTA should not be used in patients with liver disease resulting in hepatic impairment (see sections 4.3 and 5.2).",
-      "nl": "CYMBALTA dient niet te worden gebruikt bij patiënten met een leveraandoening die leidt tot leverfunctiestoornis (zie de rubrieken 4.3 en 5.2)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Renal insufficiency",
-      "nl": "Nierinsufficiëntie"
-    }
-  },
-  {
-    "translation": {
-      "en": "No dosage adjustment is necessary for patients with mild or moderate renal dysfunction (creatinine clearance 30 to 80 ml/min).",
-      "nl": "Voor patiënten met lichte of matige nierdisfunctie (creatinineklaring 30 tot 80 ml/min) is geen doseringsaanpassing noodzakelijk."
-    }
-  },
-  {
-    "translation": {
-      "en": "See section 4.3 for severe renal impairment.",
-      "nl": "Zie rubriek 4.3 voor ernstige nierfunctiestoornis."
-    }
-  },
-  {
-    "translation": {
-      "en": "Discontinuation of treatment",
-      "nl": "Stopzetting van behandeling"
-    }
-  },
-  {
-    "translation": {
-      "en": "Abrupt discontinuation should be avoided.",
-      "nl": "Plotseling stopzetten dient te worden vermeden."
-    }
-  },
-  {
-    "translation": {
       "en": "When stopping treatment with CYMBALTA the dose should be gradually reduced over a period of at least one to two weeks in order to reduce the risk of withdrawal reactions (see sections 4.4 and 4.8).",
       "nl": "Bij stopzetting van de behandeling met Cymbalta dient de dosering over een periode van tenminste 1 tot 2 weken geleidelijk te worden afgebouwd om de kans op onthoudingsverschijnselen zo klein mogelijk te houden (zie rubriek 4.4 en 4.8)."
-    }
-  },
-  {
-    "translation": {
-      "en": "If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.",
-      "nl": "Indien niet tolereerbare symptomen optreden na een afname van de dosering of na stopzetting van de behandeling, kan overwogen worden om de laatst voorgeschreven dosering te hervatten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Subsequently, the physician may continue decreasing the dose, but at a more gradual rate.",
-      "nl": "Vervolgens kan de arts doorgaan met verlagen van de dosering, echter in een langzamere mate."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.3 Contraindications",
-      "nl": "4.3 Contra-indicaties"
-    }
-  },
-  {
-    "translation": {
-      "en": "Hypersensitivity to the active substance or to any of the excipients.",
-      "nl": "Overgevoeligheid voor het werkzame bestanddeel of voor één van de hulpstoffen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Concomitant use of CYMBALTA with nonselective, irreversible Monoamine Oxidase Inhibitors (MAOIs) is contraindicated (see section 4.5).",
-      "nl": "Gelijktijdig gebruik van CYMBALTA met niet-selectieve, irreversibele Monoamine-Oxidaseremmers (MAO-remmers) is gecontra-indiceerd (zie rubriek 4.5)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Liver disease resulting in hepatic impairment (see section 5.2).",
-      "nl": "Een leveraandoening die leidt tot leverfunctiestoornis (zie rubriek 5.2)."
-    }
-  },
-  {
-    "translation": {
-      "en": "CYMBALTA should not be used in combination with fluvoxamine, ciprofloxacin or enoxacine (i.e. potent CYP 1A2 inhibitors) since the combination results in elevated plasma concentrations of duloxetine (see section 4.5).",
-      "nl": "CYMBALTA dient niet te worden gebruikt in combinatie met fluvoxamine, ciprofloxacine of enoxacine (d.w.z. krachtige CYP 1A2-remmers) aangezien de combinatie leidt tot verhoogde plasmaconcentraties van duloxetine (zie rubriek 4.5)."
     }
   },
   {
@@ -2209,290 +1111,8 @@
   },
   {
     "translation": {
-      "en": "The initiation of treatment with CYMBALTA is contraindicated in patients with uncontrolled hypertension that could expose patients to a potential risk of hypertensive crisis (see sections 4.4 and 4.8).",
-      "nl": "Start van de behandeling met CYMBALTA is gecontra-indiceerd bij patiënten met ongecontroleerde hypertensie, dit zou tot een verhoogd risico op hypertensieve crisis bij deze patiënten kunnen leiden (zie rubriek 4.4 en 4.8)."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.4 Special warnings and precautions for use",
-      "nl": "4.4 Bijzondere waarschuwingen en voorzorgen bij gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "Mania and seizures",
-      "nl": "Manie en convulsies"
-    }
-  },
-  {
-    "translation": {
-      "en": "CYMBALTA should be used with caution in patients with a history of mania or a diagnosis of bipolar disorder, and/or seizures.",
-      "nl": "CYMBALTA dient met voorzichtigheid te worden gebruikt bij patiënten met een voorgeschiedenis van manie of met de diagnose bipolaire stoornis en/of convulsies."
-    }
-  },
-  {
-    "translation": {
-      "en": "Mydriasis",
-      "nl": "Mydriasis"
-    }
-  },
-  {
-    "translation": {
-      "en": "Blood pressure and heart rate",
-      "nl": "Bloeddruk en hartslag"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine has been associated with an increase in blood pressure and clinically significant hypertension in some patients.",
-      "nl": "CYMBALTA wordt geassocieerd met een verhoogde bloeddruk en klinisch significante hypertensie bij bepaalde patiënten."
-    }
-  },
-  {
-    "translation": {
-      "en": "This may be due to the noradrenergic effect of duloxetine.",
-      "nl": "Dit kan een gevolg zijn van het noradrenerge effect van duloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Cases of hypertensive crisis have been reported with duloxetine, especially in patients with pre-existing hypertension.",
-      "nl": "Gevallen van hypertensieve crisis zijn gerapporteerd met duloxetine, vooral bij patiënten met reeds bestaande hypertensie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Therefore, in patients with known hypertension and/or other cardiac disease, blood pressure monitoring is recommended, especially during the first month of treatment.",
-      "nl": "Daarom wordt bij patiënten met bekende hypertensie en/of andere hartziekte wordt geëigende controle van de bloeddruk aanbevolen, vooral gedurende de eerste maand van de behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine should be used with caution in patients whose conditions could be compromised by an increased heart rate or by an increase in blood pressure.",
-      "nl": "Duloxetine dient voorzichtig gebruikt te worden bij patiënten waarbij de conditie gepaard kan gaan met een versnelde hartslag of verhoogde bloeddruk."
-    }
-  },
-  {
-    "translation": {
-      "en": "Caution should also be exercised when duloxetine is used with drugs that may impair its metabolism (see section 4.5).",
-      "nl": "Voorzichtigheid is geboden wanneer duloxetine wordt gebruikt gelijktijdig met geneesmiddelen die het metabolisme kunnen verstoren (zie rubriek 4.5)."
-    }
-  },
-  {
-    "translation": {
-      "en": "For patients who experience a sustained increase in blood pressure while receiving duloxetine either dose reduction or gradual discontinuation should be considered (see section 4.8).",
-      "nl": "Voor patiënten die een blijvende toename van de bloeddruk ervaren tijdens gebruik van duloxetine dient ofwel dosisverlaging, dan wel geleidelijk staken van de behandeling te worden overwogen (zie rubriek 4.8)."
-    }
-  },
-  {
-    "translation": {
-      "en": "In patients with uncontrolled hypertension duloxetine should not be initiated (see section 4.3).",
-      "nl": "Bij patiënten met ongecontroleerde hypertensie dient duloxetine niet gestart te worden (zie rubriek 4.3)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Renal impairment",
-      "nl": "Nierfunctiestoornis"
-    }
-  },
-  {
-    "translation": {
-      "en": "Increased plasma concentrations of duloxetine occur in patients with severe renal impairment on haemodialysis (creatinine clearance <30 ml/min).",
-      "nl": "Verhoogde plasmaconcentraties van duloxetine komen voor bij patiënten met ernstige nierfunctiestoornis die hemodialyse ondergaan (creatinineklaring < 30 ml/min)."
-    }
-  },
-  {
-    "translation": {
-      "en": "For patients with severe renal impairment, see section 4.3.",
-      "nl": "Voor patiënten met ernstige nierfunctiestoornis, zie rubriek 4.3."
-    }
-  },
-  {
-    "translation": {
-      "en": "See section 4.2 for information on patients with mild or moderate renal dysfunction.",
-      "nl": "Zie rubriek 4.2 voor informatie over patiënten met lichte of matige nierdisfunctie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Use with antidepressants",
-      "nl": "Gebruik samen met antidepressiva"
-    }
-  },
-  {
-    "translation": {
-      "en": "Caution should be exercised when using CYMBALTA in combination with antidepressants.",
-      "nl": "Voorzichtigheid is geboden bij gebruik van CYMBALTA in combinatie met antidepressiva."
-    }
-  },
-  {
-    "translation": {
-      "en": "In particular the combination with selective reversible MAOIs is not recommended.",
-      "nl": "Met name de combinatie met selectieve reversibele MAO-remmers wordt niet aanbevolen."
-    }
-  },
-  {
-    "translation": {
-      "en": "St John's wort",
-      "nl": "Sint-janskruid"
-    }
-  },
-  {
-    "translation": {
-      "en": "Undesirable effects may be more common during concomitant use of CYMBALTA and herbal preparations containing St John's wort (Hypericum perforatum).",
-      "nl": "Ongewenste effecten kunnen vaker optreden tijdens gelijktijdig gebruik van CYMBALTA en kruidenpreparaten met sint-janskruid (Hypericum perforatum)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Suicide",
-      "nl": "Suïcide"
-    }
-  },
-  {
-    "translation": {
-      "en": "Major Depressive Episodes",
-      "nl": "Depressieve episoden"
-    }
-  },
-  {
-    "translation": {
-      "en": "Depression is associated with an increased risk of suicidal thoughts, self harm and suicide.",
-      "nl": "Depressie staat in verband met een verhoogd risico van suïcidale gedachten, zichzelf letsel toebrengen en suïcide."
-    }
-  },
-  {
-    "translation": {
-      "en": "This risk persists until significant remission occurs.",
-      "nl": "Het risico blijft bestaan totdat belangrijke remissie optreedt."
-    }
-  },
-  {
-    "translation": {
-      "en": "As improvement may not occur during the first few weeks or more of treatment, patients should be closely monitored until such improvement occurs.",
-      "nl": "Aangezien het kan zijn dat er geen verbetering optreedt gedurende de eerste paar weken of langer van de behandeling, dient nauwkeurig toezicht te worden gehouden op deze patiënten totdat een dergelijke verbetering optreedt."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is general clinical experience with all antidepressant therapies that the risk of suicide may increase in the early stages of recovery.",
-      "nl": "Het is een algemene klinische ervaring dat het risico van suïcide kan toenemen in de vroege stadia van herstel bij alle therapieën met antidepressiva."
-    }
-  },
-  {
-    "translation": {
-      "en": "Cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation.",
-      "nl": "Gevallen van suïcidale gedachten en suïcidale gedragingen zijn gemeld tijdens therapie met duloxetine of vlak na het staken van de behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "Close supervision of high-risk patients should accompany drug therapy (see section 4.8).",
-      "nl": "Intensief toezicht op patiënten met een hoog suïciderisico is noodzakelijk bij de medicamenteuze behandeling (zie rubriek 4.8)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Patients, (and caregivers of patients) should be alerted about the need to monitor for the emergence of suicidal ideation/behaviour or thoughts of harming themselves and to seek medical advice immediately if these symptoms present.",
-      "nl": "Patiënten (en verzorgers van patiënten) dienen bewust te worden gemaakt van de noodzaak om toezicht te houden op het optreden van suïcidale gedachten/gedrag of gedachten van zichzelf letsel toebrengen en om onmiddellijk medisch advies te zoeken indien deze symptomen zich voordoen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Diabetic Peripheral Neuropathic Pain",
-      "nl": "Diabetische perifere neuropathische pijn"
-    }
-  },
-  {
-    "translation": {
-      "en": "As with other medicinal products with similar pharmacological action (antidepressants), isolated cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation.",
-      "nl": "Evenals bij andere geneesmiddelen met een vergelijkbaar farmacologisch werkingsmechanisme (antidepressiva), zijn op zichzelf staande gevallen van suïcidale gedachten en suïcidale gedragingen gemeld tijdens therapie met duloxetine of vlak na het staken van de behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "Physicians should encourage patients to report any distressing thoughts or feelings at any time.",
-      "nl": "Artsen dienen patiënten te stimuleren om verontrustende gedachten of gevoelens altijd te melden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Use in children and adolescents under 18 years of age",
-      "nl": "Gebruik bij kinderen en adolescenten jonger dan 18 jaar"
-    }
-  },
-  {
-    "translation": {
-      "en": "No clinical trials have been conducted with duloxetine in paediatric populations.",
-      "nl": "Er zijn geen klinische studies uitgevoerd met duloxetine bij pediatrische populaties."
-    }
-  },
-  {
-    "translation": {
-      "en": "CYMBALTA should not be used in the treatment of children and adolescents under the age of 18 years.",
-      "nl": "CYMBALTA dient niet te worden gebruikt bij de behandeling van kinderen en adolescenten jonger dan 18 jaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "Suicide-related behaviours (suicide attempts and suicidal thoughts), and hostility (predominantly aggression, oppositional behaviour and anger), were more frequently observed in clinical trials among children and adolescents treated with antidepressants compared to those treated with placebo.",
-      "nl": "Aan suïcide gerelateerde gedragingen (suïcidepogingen en suïcidale gedachten) en vijandigheid (voornamelijk agressie, oppositioneel gedrag en woede) werden in klinische studies vaker waargenomen bij kinderen en adolescenten behandeld met antidepressiva vergeleken met diegenen behandeld met placebo."
-    }
-  },
-  {
-    "translation": {
-      "en": "If, based on clinical need, a decision to treat is nevertheless taken, the patient should be carefully monitored for the appearance of suicidal symptoms.",
-      "nl": "Indien desalniettemin, op basis van een klinische noodzaak, de beslissing wordt genomen om te behandelen, dient de patiënt zorgvuldig te worden gecontroleerd voor het optreden van suïcidale symptomen."
-    }
-  },
-  {
-    "translation": {
-      "en": "In addition, long-term safety data in children and adolescents concerning growth, maturation and cognitive and behavioural development are lacking.",
-      "nl": "Daarnaast ontbreken langetermijngegevens over de veiligheid bij kinderen en adolescenten met betrekking tot groei, maturatie en cognitieve en gedragsontwikkeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "Sucrose",
-      "nl": "Sacharose"
-    }
-  },
-  {
-    "translation": {
-      "en": "CYMBALTA hard gastro-resistant capsules contain sucrose.",
-      "nl": "CYMBALTA harde maagsapresistente capsules bevatten sacharose."
-    }
-  },
-  {
-    "translation": {
-      "en": "Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrose-isomaltase insufficiency should not take this medicine.",
-      "nl": "Patiënten met de zeldzame erfelijke problemen fructose-intolerantie, glucose-galactosemalabsorptie of sacharose-isomaltase-insufficiëntie dienen dit geneesmiddel niet te gebruiken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Haemorrhage",
-      "nl": "Bloedingen"
-    }
-  },
-  {
-    "translation": {
       "en": "There have been reports of bleeding abnormalities, such as ecchymoses, purpura and gastrointestinal haemorrhage with selective serotonin reuptake inhibitors (SSRIs) and serotonin/norepinephrine reuptake inhibitors (SNRIs).",
       "nl": "Bij Selectieve Serotonine Heropname Remmers (SSRI's) en Serotonin/Noradrenaline Heropname Remmers (SNRI's) is melding gemaakt van bloedingsafwijkingen zoals ecchymosen, purpura en gastrointestinale bloedingen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Caution is advised in patients taking anticoagulants and/or medicinal products known to affect platelet function, and in patients with known bleeding tendencies.",
-      "nl": "Voorzichtigheid is geboden bij patiënten die gebruik maken van anticoagulantia en/of geneesmiddelen waarvan bekend is dat ze de bloedplaatjesfunctie beïnvloeden en bij patiënten van wie bekend is dat ze bloedingsneigingen hebben."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hyponatremia",
-      "nl": "Hyponatriëmie"
     }
   },
   {
@@ -2503,74 +1123,8 @@
   },
   {
     "translation": {
-      "en": "Caution is required in patients at increased risk for hyponatremia; such as elderly, cirrhotic, or dehydrated patients or patients treated with diuretics.",
-      "nl": "Voorzichtigheid is geboden bij patiënten met een verhoogd risico op hyponatriëmie, zoals ouderen, cirrotische- of gedehydrateerde patiënten of patiënten behandeld met diuretica."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hyponatremia may be due to a syndrome of inappropriate anti-diuretic hormone secretion (SIADH).",
-      "nl": "Hyponatriëmie kan worden veroorzaakt als gevolg van het onvoldoende antidiuretisch hormoon secretie syndroom (SIADH)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Discontinuation of treatment",
-      "nl": "Stopzetten van de behandeling"
-    }
-  },
-  {
-    "translation": {
-      "en": "Withdrawal symptoms when treatment is discontinued are common, particularly if discontinuation is abrupt (see section 4.8).",
-      "nl": "Onthoudingsverschijnselen bij stopzetting van de behandeling zijn gebruikelijk, vooral wanneer abrupt wordt gestopt (zie rubriek 4.8)."
-    }
-  },
-  {
-    "translation": {
       "en": "In clinical trials adverse events seen on abrupt treatment discontinuation occurred in approximately 44.8% of patients treated with CYMBALTA and 22.6% of patients taking placebo.",
       "nl": "In een klinisch onderzoek werden bijwerkingen waargenomen na abrupt stopzetten van de behandeling in 45% van de patiënten behandeld met Cymbalta en in 23% van de patiënten behandeld met placebo."
-    }
-  },
-  {
-    "translation": {
-      "en": "The risk of withdrawal symptoms seen with S SRI's and SNRI's may be dependent on several factors including the duration and dose of therapy and the rate of dose reduction.",
-      "nl": "De kans op onthoudingsverschijnselen bij behandeling met SSRI's en SNRI's kan afhankelijk zijn van verschillende factoren waaronder de duur en de dosering van de behandeling en de snelheid van dosis reductie."
-    }
-  },
-  {
-    "translation": {
-      "en": "The most commonly reported reactions are listed in section 4.8.",
-      "nl": "De meest voorkomende symptomen zijn beschreven in rubriek 4.8."
-    }
-  },
-  {
-    "translation": {
-      "en": "Generally these symptoms are mild to moderate, however, in some patients they may be severe in intensity.",
-      "nl": "Over het algemeen zijn de symptomen licht tot matig van aard, echter bij sommige patiënten kan de intensiteit ernstig zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "They usually occur within the first few days of discontinuing treatment, but there have been very rare reports of such symptoms in patients who have inadvertently missed a dose.",
-      "nl": "Normaal gesproken treden deze op in de eerste dagen na stopzetting van de behandeling, er zijn echter zeldzame meldingen van patiënten die per ongeluk een dosis vergeten waren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Generally these symptoms are self-limiting and usually resolve within 2 weeks, though in some individuals they may be prolonged (2-3 months or more).",
-      "nl": "Over in het algemeen zijn deze symptomen zelfbeperkend en verdwijnen ze binnen 2 weken, hoewel ze bij sommige patiënten langer aanwezig kunnen zijn (2 -- 3 maanden, of langer)."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is therefore advised that duloxetine should be gradually tapered when discontinuing treatment over a period of no less than 2 weeks, according to the patient's needs (see section 4.2).",
-      "nl": "Daarom wordt geadviseerd om duloxetine geleidelijk af te bouwen over een periode van tenminste 2 weken, afhankelijk van de behoefte van de patiënt (zie rubriek 4.2)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Elderly",
-      "nl": "Ouderen"
     }
   },
   {
@@ -2581,314 +1135,8 @@
   },
   {
     "translation": {
-      "en": "Therefore, caution should be exercised when treating the elderly with the maximum dosage (see sections 4.2 and 5.2).",
-      "nl": "Voorzichtigheid is daarom geboden bij het behandelen van ouderen met de maximum dosering (zie de rubrieken 4.2 en 5.2)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Akathisia/psychomotor restlessness",
-      "nl": "Acathisie / psychomotorische rusteloosheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "The use of duloxetine has been associated with the development of akathisia, characterised by a subjectively unpleasant or distressing restlessness and need to move often accompanied by an inability to sit or stand still.",
-      "nl": "Het gebruik van duloxetine wordt geassocieerd met het ontwikkelen van acathisie, gekarakteriseerd door een subjectieve onprettige, verontrustende rusteloosheid en de behoefte veel te bewegen gepaard gaand met het niet in staat zijn om stil te zitten of stil te staan."
-    }
-  },
-  {
-    "translation": {
-      "en": "This is most likely to occur within the first few weeks of treatment.",
-      "nl": "Dit gebeurt meestal binnen de eerste paar weken van de behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "In patients who develop these symptoms, increasing the dose may be detrimental.",
-      "nl": "Bij patiënten die deze symptomen ontwikkelen kan verhogen van de dosering schadelijk zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal products containing duloxetine",
-      "nl": "Geneesmiddelen die duloxetine bevatten"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is used under different trademarks in several indications (treatment of diabetic neuropathic pain, major depressive episodes as well as stress urinary incontinence).",
-      "nl": "Duloxetine wordt toegepast onder verschillende handelsmerken bij verscheidene indicaties (behandeling van zowel diabetische neuropathische pijn, als depressieve episoden als stress-urine-incontinentie)."
-    }
-  },
-  {
-    "translation": {
       "en": "The use of more than one of these products concomitantly should be avoided.",
       "nl": "Het gelijktijdig gebruik van meer dan één van deze producten dient te worden vermeden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hepatitis/increased liver enzymes",
-      "nl": "Verhoogde lever enzymen"
-    }
-  },
-  {
-    "translation": {
-      "en": "The pattern of liver damage was predominantly hepatocellular.",
-      "nl": "Het patroon van leverbeschadiging was voornamelijk hepatocellulair."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine should be used with caution in patients treated with other drugs associated with hepatic injury.",
-      "nl": "Duloxetine moet met voorzichtigheid worden gebruikt bij patiënten die behandeld worden met andere geneesmiddelen geassocieerd met leverbeschadiging."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.5 Interaction with other medicinal products and other forms of interaction",
-      "nl": "4.5 Interacties met andere geneesmiddelen en andere vormen van interactie"
-    }
-  },
-  {
-    "translation": {
-      "en": "CNS medicinal products: the risk of using duloxetine in combination with other CNS-active medicinal products has not been systematically evaluated, except in the cases described in this section.",
-      "nl": "Geneesmiddelen die een effect uitoefenen op het CZS: het risico van het gebruik van duloxetine in combinatie met andere geneesmiddelen die een effect uitoefenen op het CZS is niet systematisch onderzocht, behalve in de gevallen beschreven in deze rubriek."
-    }
-  },
-  {
-    "translation": {
-      "en": "Consequently, caution is advised when CYMBALTA is taken in combination with other centrally acting medicinal products and substances including alcohol and sedative medicinal products (e.g. benzodiazepines, morphinomimetics, antipsychotics, phenobarbital, sedative antihistamines).",
-      "nl": "Daarom wordt voorzichtigheid geadviseerd wanneer CYMBALTA wordt gebruikt in combinatie met andere centraal werkende geneesmiddelen en stoffen waaronder alcohol en sedativa (bijvoorbeeld benzodiazepinen, morfinomimetica, antipsychotica, fenobarbital, sederende antihistaminica)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Monoamine Oxidase Inhibitors (MA OIs): due to the risk of serotonin syndrome, CYMBALTA should not be used in combination with nonselective irreversible monoamine oxidase inhibitors (MAOIs), or within at least 14 days of discontinuing treatment with an MAOI.",
-      "nl": "Monoamineoxidaseremmers (MAO-remmers): vanwege het risico op het serotoninesyndroom dient CYMBALTA niet te worden gebruikt in combinatie met niet-selectieve, irreversibele monoamineoxidaseremmers (MAO-remmers) of binnen minimaal 14 dagen na het stopzetten van de behandeling met een MAO-remmer."
-    }
-  },
-  {
-    "translation": {
-      "en": "Based on the half-life of duloxetine, at least 5 days should be allowed after stopping CYMBALTA before starting an MAOI (see section 4.3).",
-      "nl": "Op basis van de halfwaardetijd van duloxetine moet na het stopzetten van CYMBALTA tenminste 5 dagen worden gewacht voordat met een MAO-remmer kan worden begonnen (zie rubriek 4.3)."
-    }
-  },
-  {
-    "translation": {
-      "en": "For selective, reversible MAOIs, like moclobemide, the risk of serotonin syndrome is lower.",
-      "nl": "Voor selectieve, reversibele MAO-remmers, zoals moclobemide, is het risico van serotoninesyndroom lager."
-    }
-  },
-  {
-    "translation": {
-      "en": "However, the concomitant use of CYMBALTA with selective, reversible MAOIs is not recommended (see section 4.4).",
-      "nl": "Gelijktijdig gebruik van CYMBALTA met selectieve, reversibele MAO-remmers wordt echter niet aangeraden (zie rubriek 4.4)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Serotonin syndrome: in rare cases, serotonin syndrome has been reported in patients using SSRIs (e.g. paroxetine, fluoxetine) concomitantly with serotonergic medicinal products.",
-      "nl": "Serotoninesyndroom: in zeldzame gevallen is melding gemaakt van het serotoninesyndroom bij patiënten die SSRI's (bijv. paroxetine, fluoxetine) gelijktijdig gebruiken met serotonerge geneesmiddelen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Caution is advisable if CYMBALTA is used concomitantly with serotonergic antidepressants like SSRIs, tricyclics like clomipramine or amitriptyline, St John's wort (Hypericum perforatum), venlafaxine or triptans, tramadol, pethidine and tryptophan.",
-      "nl": "Voorzichtigheid is geboden als CYMBALTA tegelijk wordt gebruikt met serotonerge antidepressiva zoals SSRI's, tricyclische antidepressiva zoals clomipramine of amitriptyline, sint-janskruid (Hypericum perforatum), venlafaxine of triptanen, tramadol, pethidine en tryptofaan."
-    }
-  },
-  {
-    "translation": {
-      "en": "Effect of duloxetine on other drugs",
-      "nl": "Effect van duloxetine op andere geneesmiddelen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal products metabolised by CYP1A2: The pharmacokinetics of theophylline, a CYP 1A2 substrate, were not significantly affected by co-administration with duloxetine (60 mg twice daily).",
-      "nl": "Geneesmiddelen gemetaboliseerd door CYP1A2: De farmacokinetiek van theofylline, een CYP 1A2- substraat, werd niet significant beïnvloed door gelijktijdige toediening van duloxetine (60 mg tweemaal daags)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal products metabolised by CYP2D6: Duloxetine is a moderate inhibitor of CYP2D6.",
-      "nl": "Geneesmiddelen gemetaboliseerd door CYP2D6: Duloxetine is een matige remmer van CYP2D6."
-    }
-  },
-  {
-    "translation": {
-      "en": "When duloxetine was administered at a dose of 60 mg twice daily with a single dose of desipramine, a CYP2D6 substrate, the AUC of desipramine increased 3-fold.",
-      "nl": "Wanneer duloxetine werd toegediend als een dosis van 60 mg tweemaal daags met een enkele dosis desipramine, een CYP2D6 substraat, was de AUC van desipramine 3 maal zo hoog."
-    }
-  },
-  {
-    "translation": {
-      "en": "The co-administration of duloxetine (40 mg twice daily) increases steady state AUC of tolterodine (2 mg twice daily) by 71 %, but does not affect the pharmacokinetics of its active 5-hydroxyl metabolite and no dosage adjustment is recommended.",
-      "nl": "Gelijktijdige toediening van duloxetine (40 mg tweemaal daags) verhoogt de 'steady state AUC' van tolterodine (2 mg tweemaal daags) met 71%, maar heeft geen invloed op de farmacokinetiek van de actieve 5- hydroxymetaboliet hiervan en er wordt geen doseringsaanpassing aanbevolen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Caution is advised if CYMBALTA is co-administered with medicinal products that are predominantly metabolised by CYP2D6 (risperidone, tricyclic antidepressants [TCAs] such as nortriptyline, amitriptyline, and imipramine) particularly if they have a narrow therapeutic index (such as flecainide, propafenone and metoprolol).",
-      "nl": "Voorzichtigheid is geboden als CYMBALTA gelijktijdig wordt toegediend met geneesmiddelen die voornamelijk worden gemetaboliseerd door CYP2D6 (risperidon, tricyclische antidepressiva [TCA's] zoals nortriptyline, amitryptiline en imipramine) met name als deze een smalle therapeutische breedte hebben (zoals flecainide, propafenon en metoprolol)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Oral contraceptives and other steroidal agents: results of in vitro studies demonstrate that duloxetine does not induce the catalytic activity of CYP3A.",
-      "nl": "Orale anticonceptiva en andere steroïden: uit de resultaten van in vitro-onderzoeken blijkt dat duloxetine niet aanzet tot de katalytische activiteit van CYP3A."
-    }
-  },
-  {
-    "translation": {
-      "en": "Specific in vivo drug interaction studies have not been performed.",
-      "nl": "Er zijn geen specifieke in vivo interactie studies met geneesmiddelen uitgevoerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Anticoagulants and antiplatelet agents: Caution should be exercised when duloxetine is combined with oral anticoagulants or antiplatelet agents due to a potential increased risk of bleeding.",
-      "nl": "Anticoagulantia en antiplatelet middelen: Voorzichtigheid is geboden wanneer duloxetine wordt gecombineerd met orale anticoagulantia of antiplatelet middelen door een potentieel verhoogd risico op bloedingen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Furthermore, increases in INR values have been reported when duloxetine was co-administered with warfarin.",
-      "nl": "Verder zijn er toenames in INR waarden gerapporteerd wanneer duloxetine gelijktijdig werd toegediend met warfarine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Effects of other drugs on duloxetine",
-      "nl": "Effecten van andere geneesmiddelen op duloxetine"
-    }
-  },
-  {
-    "translation": {
-      "en": "Antacids and H2 antagonists: co-administration of duloxetine with aluminium- and magnesium-containing antacids or duloxetine with famotidine had no significant effect on the rate or extent of duloxetine absorption after administration of a 40 mg oral dose.",
-      "nl": "Antacida en H2-antagonisten: gelijktijdige toediening van duloxetine met aluminium en magnesium bevattende antacida of met famotidine had geen significant effect op de snelheid of mate van duloxetine-absorptie na orale toediening van een dosis van 40 mg."
-    }
-  },
-  {
-    "translation": {
-      "en": "Inhibitors of CYP 1A2: because CYP1A2 is involved in duloxetine metabolism, concomitant use of duloxetine with potent inhibitors of CYP1A2 is likely to result in higher concentrations of duloxetine.",
-      "nl": "CYP1A2-remmers: omdat CYP1A2 bij het metabolisme van duloxetine is betrokken, zal gelijktijdig gebruik van duloxetine en sterke CYP1A2-remmers waarschijnlijk resulteren in hogere concentraties duloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Fluvoxamine (100 mg once daily), a potent inhibitor of CYP 1A2, decreased the apparent plasma clearance of duloxetine by about 77% and increased AUCo-t 6-fold.",
-      "nl": "Fluvoxamine (100 mg eenmaal daags), een krachtige CYP 1A2-remmer, verlaagde de schijnbare plasmaklaring van duloxetine met ongeveer 77% en verhoogde de AUC0-t. met een factor 6."
-    }
-  },
-  {
-    "translation": {
-      "en": "Therefore CYMBALTA should not be administered in combination with potent inhibitors of CYP 1A2 like fluvoxamine (see section 4.3).",
-      "nl": "Daarom dient CYMBALTA niet te worden toegediend in combinatie met krachtige CYP 1A2-remmers zoals fluvoxamine (zie rubriek 4.3)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Inducers of CYP1A2: Population pharmacokinetic analyses have shown that smokers have almost 50% lower plasma concentrations of duloxetine compared with non-smokers.",
-      "nl": "Middelen met CYP1A2-inducerende werking: uit farmacokinetische populatieanalyses is gebleken dat rokers bijna 50% lagere plasmaspiegels van duloxetine hebben dan niet-rokers."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.6 Pregnancy and lactation",
-      "nl": "4.6 Zwangerschap en borstvoeding"
-    }
-  },
-  {
-    "translation": {
-      "en": "Pregnancy",
-      "nl": "Zwangerschap"
-    }
-  },
-  {
-    "translation": {
-      "en": "There are no data on the use of duloxetine in pregnant women.",
-      "nl": "Er zijn geen gegevens over het gebruik van duloxetine bij zwangere vrouwen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Studies in animals have shown reproductive toxicity at systemic exposure levels (AUC) of duloxetine lower than the maximum clinical exposure (see section 5.3).",
-      "nl": "Uit experimenteel onderzoek bij dieren is reproductietoxiciteit gebleken bij systemische blootstellingsniveaus (AUC) van duloxetine die lager waren dan de maximale klinische blootstelling (zie rubriek 5.3)."
-    }
-  },
-  {
-    "translation": {
-      "en": "The potential risk for humans is unknown.",
-      "nl": "Het potentiële risico voor de mens is niet bekend."
-    }
-  },
-  {
-    "translation": {
-      "en": "As with other serotoninergic drugs, discontinuation symptoms may occur in the neonate after maternal duloxetine use near term.",
-      "nl": "Net als bij andere serotonerge geneesmiddelen, kunnen onttrekkingsverschijnselen voorkomen bij de pasgeborene na gebruik van duloxetine door de moeder vlak voor de bevalling."
-    }
-  },
-  {
-    "translation": {
-      "en": "CYMBALTA should be used in pregnancy only if the potential benefit justifies the potential risk to the foetus.",
-      "nl": "CYMBALTA dient alleen tijdens de zwangerschap te worden gebruikt als de potentiële voordelen het potentiële risico voor de foetus rechtvaardigen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Women should be advised to notify their physician if they become pregnant, or intend to become pregnant, during therapy.",
-      "nl": "Vrouwen moet worden geadviseerd dat ze hun arts informeren als ze tijdens de behandeling zwanger worden of zwanger willen worden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Breast feeding",
-      "nl": "Borstvoeding"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is very weakly excreted into human milk based on a study of 6 lactating patients, who did not breast feed their children .",
-      "nl": "Duloxetine wordt erg zwak uitgescheiden in de humane melk gebaseerd op een onderzoek met 6 patiënten die melkafscheiding hadden en die geen borstvoeding gaven aan hun kinderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The estimated daily infant dose on a mg/kg basis is approximately 0.14% of the maternal dose (see section 5.2).",
-      "nl": "De geschatte dagelijkse dosis voor het kind op een mg/kg basis is ongeveer 0,14% van de dosis van de moeder (zie rubriek 5.2)."
-    }
-  },
-  {
-    "translation": {
-      "en": "As the safety of duloxetine in infants is not known, the use of CYMBALTA while breast-feeding is not recommended.",
-      "nl": "Aangezien de veiligheid van duloxetine bij kinderen niet is vastgesteld, wordt het gebruik van CYMBALTA tijdens het geven van borstvoeding niet aanbevolen."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.7 Effects on ability to drive and use machines",
-      "nl": "4.7 Beïnvloeding van de rijvaardigheid en van het vermogen om machines te bedienen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Although in controlled studies duloxetine has not been shown to impair psychomotor performance, cognitive function, or memory, it may be associated with sedation and dizziness.",
-      "nl": "Hoewel bij gecontroleerde onderzoeken niet is gebleken dat het gebruik van duloxetine de psychomotorische prestaties, de cognitieve functie of het geheugen vermindert, kan het gepaard gaan met sedatie en duizeligheid."
-    }
-  },
-  {
-    "translation": {
-      "en": "Patients should be cautioned about their ability to drive a car or operate hazardous machinery.",
-      "nl": "Derhalve dienen patiënten tot voorzichtigheid te worden gemaand bij het besturen van een auto of het bedienen van gevaarlijke machines."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.8 Undesirable effects",
-      "nl": "4.8 Bijwerkingen"
     }
   },
   {
@@ -2899,290 +1147,8 @@
   },
   {
     "translation": {
-      "en": "The most commonly reported adverse reactions in patients with depression treated with CYMBALTA were nausea, dry mouth, headache and diarrhoea.",
-      "nl": "De meest gemelde bijwerkingen bij patiënten met depressie behandeld met CYMBALTA waren misselijkheid, droge mond, hoofdpijn en diarree."
-    }
-  },
-  {
-    "translation": {
-      "en": "However, the majority of common adverse reactions were mild to moderate, they usually started early in therapy, and most tended to subside even as therapy was continued.",
-      "nl": "De meerderheid van de vaak voorkomende bijwerkingen waren echter licht tot matig, traden gewoonlijk op aan het begin van de behandeling en verdwenen meestal, ook al werd de behandeling voortgezet."
-    }
-  },
-  {
-    "translation": {
-      "en": "The most commonly observed adverse reactions in patients with diabetic neuropathic pain treated with CYMBALTA were: nausea; somnolence; headache and dizziness.",
-      "nl": "De meest gemelde bijwerkingen bij patiënten met diabetische neuropathische pijn behandeld met CYMBALTA waren: misselijkheid; slaperigheid; hoofdpijn en duizeligheid."
-    }
-  },
-  {
-    "translation": {
-      "en": "Table 1: Adverse reactions",
-      "nl": "Tabel 1"
-    }
-  },
-  {
-    "translation": {
-      "en": "Frequency estimate: Very common (\\u2265 10%), common (\\u2265 1% and <10%), uncommon (\\u22650.1% and <1%), rare (\\u22650.0 1% and <0.1%), very rare (<0.01%), frequency not known (data from spontaneous reports).",
-      "nl": "Frequentieschatting: Zeer vaak (\\u22651 0%), vaak (\\u2265 1% and <10%), soms (\\u22650.1% and <1%), zelden (\\u22650.01% and <0.1%), zeer zelden (<0.0 1%), gegevens van spontane meldingen (frequentie niet bekend)."
-    }
-  },
-  {
-    "translation": {
-      "en": "[[TABLE]]",
-      "nl": "[[TABLE]]"
-    }
-  },
-  {
-    "translation": {
-      "en": "Cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation (see section 4.4)",
-      "nl": "Gevallen van suicidale gedachten en gedrag zijn gemeld tijdens behandeling met duloxetine of kort na beëindiging van de behandeling (zie rubriek 4.4)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Cases of orthostatic hypotension and syncope have been reported especially at the initiation of treatment.",
-      "nl": "Gevallen van orthostatische hypotensie en syncope zijn met name gemeld bij het begin van de behandeling"
-    }
-  },
-  {
-    "translation": {
-      "en": "See section 4.4",
-      "nl": "Zie rubriek 4.4"
-    }
-  },
-  {
-    "translation": {
-      "en": "Discontinuation of duloxetine (particularly when abrupt) commonly leads to withdrawal symptoms.",
-      "nl": "Wanneer gestopt wordt met duloxetine (met name bij abrupt stoppen) leidt dit vaak tot onthoudingsverschijnselen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dizziness, sensory disturbances (including paraesthesia), sleep disturbances (including insomnia and intense dreams), agitation or anxiety, nausea and/or vomiting, tremor and headache are the most commonly reported reactions.",
-      "nl": "Duizeligheid, gevoelsstoornissen (inbegrepen verlamming), slaapstoornissen (inbegrepen slapeloosheid en diepe dromen), agitatie of angst, misselijkheid en/of overgeven, tremor en hoofdpijn zijn de meest gemelde reacties."
-    }
-  },
-  {
-    "translation": {
-      "en": "Generally, for SSRIs and SNRIs, these events are mild to moderate and self-limiting, however, in some patients they may be severe and/or prolonged.",
-      "nl": "In het algemeen geldt voor SSRI's en SNRI's dat deze symptomen mild tot matig en zelfbeperkend zijn, hoewel ze bij sommige patiënten ernstig en/of langdurig zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "It is therefore advised that when duloxetine treatment is no longer required, gradual discontinuation by dose tapering should be carried out (see sections 4.2 and 4.4).",
-      "nl": "Daarom wordt geadviseerd om, wanneer duloxetine behandeling niet langer nodig is, geleidelijk aan te stoppen door de dosering langzaam af te bouwen (zie de rubrieken 4.2 en 4.4)."
-    }
-  },
-  {
-    "translation": {
-      "en": "In the extension phase of these studies, which lasted up to 52 weeks, there was an increase in HbA1c in both the duloxetine and routine care groups, but the mean increase was 0.3% greater in the duloxetine-treated group.",
-      "nl": "In de verlengde fase, welke tot 52 weken duurde, was er een toename van het HbA1c in zowel de duloxetine als de routine groep, maar de gemiddelde toename was 0,3% groter in de duloxetine behandelde groep."
-    }
-  },
-  {
-    "translation": {
-      "en": "There was also a small increase in fasting blood glucose and in total cholesterol in duloxetine-treated patients while those laboratory tests showed a slight decrease in the routine care group.",
-      "nl": "Er was ook een kleine toename van de nuchtere bloedglucose waarde en het totale cholesterol in de duloxetine behandelde groep terwijl deze lab waarden een kleine daling lieten zien in de routine groep."
-    }
-  },
-  {
-    "translation": {
-      "en": "The heart rate-corrected QT interval in duloxetine-treated patients did not differ from that seen in placebo-treated patients.",
-      "nl": "Het voor de hartslagfrequentie gecorrigeerde QT-interval bij met duloxetine behandelde patiënten week niet af van dat bij met placebo behandelde patiënten."
-    }
-  },
-  {
-    "translation": {
-      "en": "No clinically significant differences were observed for QT, PR, QRS, or QTcB measurements between duloxetine-treated and placebo-treated patients.",
-      "nl": "Er werden geen klinisch significante verschillen waargenomen voor QT-, PR-, QRS-, of QTcB-metingen tussen patiënten behandeld met duloxetine en patiënten behandeld met placebo."
-    }
-  },
-  {
-    "translation": {
-      "en": "4.9 Overdose",
-      "nl": "4.9 Overdosering"
-    }
-  },
-  {
-    "translation": {
-      "en": "There is limited clinical experience with duloxetine overdose in humans.",
-      "nl": "De klinische ervaring met overdosering van duloxetine bij de mens is beperkt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Cases of overdoses, alone or in combination with other drugs, with duloxetine doses of almost 2000 mg were reported.",
-      "nl": "Gevallen van overdosering, alleen of in combinatie met andere middelen, zijn gemeld bij duloxetine doseringen van bijna 2000 mg."
-    }
-  },
-  {
-    "translation": {
-      "en": "Some fatalities have occurred, primarily with mixed overdoses, but also with duloxetine alone at a dose of approximately 1000 mg.",
-      "nl": "Enkele fatale gevolgen zijn opgetreden, vooral bij gecombineerde overdoseringen maar ook met enkel duloxetine bij een dosis van ongeveer 1000 mg."
-    }
-  },
-  {
-    "translation": {
-      "en": "Signs and symptoms of overdose (mostly with mixed drugs) included serotonin syndrome, somnolence, vomiting and seizures.",
-      "nl": "Tekenen en symptomen van overdosering (vooral bij gecombineerde middelen) zijn serotonine syndroom, slapeloosheid, overgeven en toevallen."
-    }
-  },
-  {
-    "translation": {
-      "en": "No specific antidote is known for duloxetine but if serotonin syndrome ensues, specific treatment (such as with cyproheptadine and/or temperature control) may be considered.",
-      "nl": "Er is geen specifiek antidotum tegen duloxetine bekend, maar indien het serotonine syndroom optreedt, kan specifieke behandeling overwogen worden (zoals met cyproheptadine en/of temperatuur controle)."
-    }
-  },
-  {
-    "translation": {
-      "en": "A free airway should be established.",
-      "nl": "De luchtwegen dienen te worden vrijgemaakt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Monitoring of cardiac and vital signs is recommended, along with appropriate symptomatic and supportive measures.",
-      "nl": "Aangeraden wordt de hartfuncties en de vitale functies nauwlettend te controleren en tevens adequate symptomatische en ondersteunende maatregelen te nemen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Gastric lavage may be indicated if performed soon after ingestion or in symptomatic patients.",
-      "nl": "Indien dit spoedig na inslikken wordt uitgevoerd of bij symptomatische patiënten kan maagspoeling zijn aangewezen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Activated charcoal may be useful in limiting absorption.",
-      "nl": "Om de absorptie te beperken kan geactiveerde kool worden gebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine has a large volume of distribution and forced diuresis, haemoperfusion, and exchange perfusion are unlikely to be beneficial.",
-      "nl": "Duloxetine heeft een groot verdelingsvolume en het is onwaarschijnlijk dat geforceerde diurese, hemoperfusie en wisselperfusie van nut zullen zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. PHARMACOLOGICAL PROPERTIES",
-      "nl": "5. FARMACOLOGISCHE EIGENSCHAPPEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "5.1 Pharmacodynamic properties",
-      "nl": "5.1 Farmacodynamische eigenschappen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Pharmacotherapeutic group: Other antidepressants.",
-      "nl": "Farmacotherapeutische categorie: Overige antidepressiva."
-    }
-  },
-  {
-    "translation": {
-      "en": "ATC code: N06AX2 1.",
-      "nl": "ATC-code: N06AX2 1."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is a combined serotonin (5-HT) and noradrenaline (NA) reuptake inhibitor.",
-      "nl": "Duloxetine is een gecombineerde serotonine (5-HT)- en noradrenaline (NA)-heropnameremmer."
-    }
-  },
-  {
-    "translation": {
-      "en": "It weakly inhibits dopamine reuptake with no significant affinity for histaminergic, dopaminergic, cholinergic and adrenergic receptors.",
-      "nl": "Het remt de heropname van dopamine in zwakke mate en heeft geen significante affiniteit voor histaminerge, dopaminerge, cholinerge en adrenerge receptoren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine dose-dependently increases extracellular levels of serotonin and noradrenaline in various brain areas of animals.",
-      "nl": "Duloxetine verhoogt op dosisafhankelijke wijze de extracellulaire spiegels van serotonine en noradrenaline in verscheidene hersengebieden bij dieren."
-    }
-  },
-  {
-    "translation": {
       "en": "Duloxetine normalised pain thresholds in several preclinical models of neuropathic and inflammatory pain and attenuated pain behaviour in a model of persistent pain.",
       "nl": "Duloxetine normaliseert de pijndrempels in verscheidende preklinische neuropatische- en ontstekingspijn modellen en het verfijnd pijngedrag in een persistent pijnmodel."
-    }
-  },
-  {
-    "translation": {
-      "en": "The pain inhibitory action of duloxetine is believed to be a result of potentiation of descending inhibitory pain pathways within the central nervous system.",
-      "nl": "Het pijn remmend vermogen van duloxetine wordt verondersteld een resultaat te zijn van versterking van de afdalende remmende pijnbanen in het centraal zenuwstelsel."
-    }
-  },
-  {
-    "translation": {
-      "en": "Major Depressive Episodes:",
-      "nl": "Depressieve episoden:"
-    }
-  },
-  {
-    "translation": {
-      "en": "CYMBALTA was studied in a clinical programme involving 3,158 patients (1,285 patient-years of exposure) meeting DSM-IV criteria for major depression.",
-      "nl": "CYMBALTA werd onderzocht in een klinisch programma met 3.158 patiënten (blootstelling van 1.285 patiëntjaren) die beantwoordden aan de DSM-IV-criteria voor depressie."
-    }
-  },
-  {
-    "translation": {
-      "en": "The efficacy of CYMBALTA at the recommended dose of 60 mg once a day was demonstrated in three out of three randomized, double-blind, placebo-controlled, fixed dose acute studies in adult outpatients with major depressive disorder.",
-      "nl": "De werkzaamheid van CYMBALTA bij de aanbevolen dosis van 60 mg eenmaal daags werd aangetoond in drie van de drie gerandomiseerde, dubbelblinde, placebogecontroleerde, acute onderzoeken met vaste dosis bij volwassen poliklinische patiënten met depressieve stoornis."
-    }
-  },
-  {
-    "translation": {
-      "en": "Overall, CYMBALTA's efficacy has been demonstrated at daily doses between 60 and 120 mg in a total of five out of seven randomized, double-blind, placebo-controlled, fixed dose acute studies in adult outpatients with major depressive disorder.",
-      "nl": "In het algemeen werd de werkzaamheid van CYMBALTA aangetoond bij dagdoses tussen 60 en 120 mg in totaal vijf van de zeven gerandomiseerde, dubbelblinde, placebogecontroleerde, acute onderzoeken met vaste dosis bij volwassen poliklinische patiënten met depressieve stoornis."
-    }
-  },
-  {
-    "translation": {
-      "en": "CYMBALTA demonstrated statistical superiority over placebo as measured by improvement in the 17-item Hamilton Depression Rating Scale (HAM-D) total score (including both the emotional and somatic symptoms of depression).",
-      "nl": "CYMBALTA vertoonde een statistische superioriteit ten opzichte van placebo zoals gemeten door verbetering van de totale score op de Hamilton Depression Rating Scale (HAM-D) met 17 items (voor zowel de emotionele als de somatische symptomen van depressie)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Response and remission rates were also statistically significantly higher with CYMBALTA compared with placebo.",
-      "nl": "Respons- en remissiecijfers waren ook statistisch significant hoger met CYMBALTA dan met placebo."
-    }
-  },
-  {
-    "translation": {
-      "en": "Only a small proportion of patients included in pivotal clinical trials had severe depression (baseline HAM-D>25).",
-      "nl": "Slechts een klein deel van de patiënten opgenomen in klinische kernonderzoeken had ernstige depressie (baseline HAM-D>25)."
-    }
-  },
-  {
-    "translation": {
-      "en": "In a relapse prevention study, patients responding to 12-weeks of acute treatment with open-label CYMBALTA 60 mg once daily were randomised to either CYMBALTA 60 mg once daily or placebo for a further 6-months.",
-      "nl": "In een onderzoek naar recidiefpreventie werden patiënten die reageerden op 12 weken van acute behandeling met open-label 60 mg eenmaal daags CYMBALTA gerandomiseerd ingedeeld bij ofwel 60 mg eenmaal daags CYMBALTA ofwel placebo gedurende nog eens 6 maanden."
-    }
-  },
-  {
-    "translation": {
-      "en": "CYMBALTA 60 mg once daily demonstrated a statistically significant superiority compared to placebo (p=0.004) on the primary outcome measure, the prevention of depressive relapse, as measured by time to relapse.",
-      "nl": "CYMBALTA 60 mg eenmaal daags vertoonde een statistisch significante superioriteit in vergelijking met placebo (p = 0,004) wat betreft het primaire eindpunt, de preventie van recidief van depressie, zoals gemeten aan de hand van de tijdsduur tot recidief."
-    }
-  },
-  {
-    "translation": {
-      "en": "The incidence of relapse during the 6-months double-blind follow-up period was 17% and 29% for duloxetine and placebo, respectively.",
-      "nl": "De incidentie van recidief tijdens de 6 maanden durende, dubbelblinde follow-up fase was 17% en 29% voor respectievelijk duloxetine en placebo."
-    }
-  },
-  {
-    "translation": {
-      "en": "The effect of CYMBALTA 60 mg once a day in elderly depressed patients (\\u226565 years) was specifically examined in a study that showed a statistically significative difference in the reduction of the HAMD17 score for duloxetine-treated patients compared to placebo.",
-      "nl": "Het effect van CYMBALTA 60 mg eenmaal daags in oudere depressieve patiënten (\\u226565 jaar) was speciaal onderzocht in een studie die een statistisch significant verschil in reductie van de HAMD 17 score liet zien voor duloxetine behandelde patiënten in vergelijking met placebo."
     }
   },
   {
@@ -3193,50 +1159,8 @@
   },
   {
     "translation": {
-      "en": "However, data on elderly patients exposed to the maximum dose (120mg per day) are limited and thus, caution is recommended when treating this population.",
-      "nl": "Echter, gegevens van oudere patiënten die blootgesteld zijn aan de maximale dosering (120 mg per dag) zijn beperkt, waardoor voorzichtigheid is geboden bij behandeling van deze populatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Diabetic Peripheral Neuropathic Pain:",
-      "nl": "Diabetische perifere neuropathische pijn:"
-    }
-  },
-  {
-    "translation": {
-      "en": "The efficacy of duloxetine as a treatment for diabetic neuropathic pain was established in 2 randomised, 12-week, double-blind, placebo-controlled, fixed dose studies in adults (22 to 88 years) having diabetic neuropathic pain for at least 6 months.",
-      "nl": "De werkzaamheid van duloxetine voor de behandeling van diabetische perifere neuropathische pijn is vastgesteld in twee gerandomiseerde, twaalf weken durende dubbelblinde, placebo vaste dosering gecontroleerde studies in volwassenen (22 tot 88 jaar) met diabetische neuropathische pijn voor de duur van tenminste zes maanden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Patients meeting diagnostic criteria for major depressive disorder were excluded from these trials.",
-      "nl": "Patiënten gediagnosticeerd met criteria voor depressieve episoden mochten niet deelnemen aan de hiervoor genoemde studies."
-    }
-  },
-  {
-    "translation": {
       "en": "In both studies, duloxetine 60 mg once daily and 60 mg twice daily significantly reduced pain compared with placebo.",
       "nl": "In beide studies, werd voor duloxetine 60 mg eenmaal daags en 60 mg tweemaal daags een significant pijnreductie waargenomen ten opzichte van placebo."
-    }
-  },
-  {
-    "translation": {
-      "en": "The effect in some patients was apparent in the first week of treatment.",
-      "nl": "Dit effect was in sommige patiënten al aanwezig in de eerste week van behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "The difference in mean improvement between the two active treatment arms was not significant.",
-      "nl": "Het verschil in gemiddelde verbetering tussen de twee actieve behandelarmen was niet significant."
-    }
-  },
-  {
-    "translation": {
-      "en": "At least 30% reported pain reduction was recorded in approximately 65% of duloxetine treated patients versus 40% for placebo.",
-      "nl": "Pijnreductie van tenminste 30% werd gerapporteerd in ongeveer 65% van de duloxetine behandelde patiënten, en bij 40% in de placebo arm."
     }
   },
   {
@@ -3247,224 +1171,8 @@
   },
   {
     "translation": {
-      "en": "Clinical response rates (50% or greater improvement in pain) were analysed according to whether or not the patient experienced somnolence during treatment.",
-      "nl": "Klinisch respons (50% of meer verbetering in pijn) werd geanalyseerd overeenkomstig of slaperigheid wel of niet optrad bij de patiënt gedurende de behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "For patients not experiencing somnolence, clinical response was observed in 47% of patients receiving duloxetine and 27% patients on placebo.",
-      "nl": "Bij patiënten waarbij geen slaperigheid optrad was de klinische respons 47% in de duloxetine behandelde patiënten en 27% in patiënten met placebo behandeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "Clinical response rates in patients experiencing somnolence were 60% on duloxetine and 30% on placebo.",
-      "nl": "Klinisch respons in patiënten waarbij slaperigheid optrad werd waargenomen bij 60% in duloxetine behandelde patiënten en bij 30% in de placebo behandelde patiënten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Patients not demonstrating a pain reduction of 30% within 60 days of treatment were unlikely to reach this level during further treatment.",
-      "nl": "Patiënten waarbij binnen 60 dagen behandeling geen pijnreductie van 30% werd waargenomen was het onwaarschijnlijk deze pijngrens reductie te bereiken gedurende vervolg behandeling."
-    }
-  },
-  {
-    "translation": {
       "en": "Although data from a one-year open label study offer some evidence for longer-term efficacy, no conclusive efficacy data for treatments longer than 12 weeks duration are available from placebo-controlled studies.",
       "nl": "Hoewel gegevens van een één jaar openlabel studie enig bewijs geeft voor de lange termijn werkzaamheid, geen definitieve werkzaamheid gegevens omtrent behandeling langer dan 12 weken zijn beschikbaar van placebogecontroleerde studies."
-    }
-  },
-  {
-    "translation": {
-      "en": "5.2 Pharmacokinetic properties",
-      "nl": "5.2 Farmacokinetische gegevens"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is administered as a single enantiomer.",
-      "nl": "Duloxetine wordt als een enkele enantiomeer toegediend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is extensively metabolised by oxidative enzymes (CYP1A2 and the polymorphic CYP2D6), followed by conjugation.",
-      "nl": "Duloxetine wordt uitgebreid gemetaboliseerd door oxidatieve enzymen (CYP1A2 en het polymorfe CYP2D6), gevolgd door conjugatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "The pharmacokinetics of duloxetine demonstrate large intersubject variability (generally 5 0-60%), partly due to gender, age, smoking status and CYP2D6 metaboliser status.",
-      "nl": "De farmacokinetiek van duloxetine varieert sterk tussen proefpersonen (over het algemeen 50-60%), gedeeltelijk vanwege geslacht, leeftijd, wel of niet roken en de status van metabolisatie door CYP2D6."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is well absorbed after oral administration with a Cmax occurring 6 hours post dose.",
-      "nl": "Duloxetine wordt na orale toediening goed geabsorbeerd en de Cmax wordt 6 uur na dosering bereikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "The absolute oral bioavailability of duloxetine ranged from 32% to 80% (mean of 5 0%).",
-      "nl": "De absolute orale biologische beschikbaarheid van duloxetine varieerde van 32% tot 80% (gemiddeld 50%)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Food delays the time to reach the peak concentration from 6 to 10 hours and it marginally decreases the extent of absorption (approximately 11 %).",
-      "nl": "Voedsel vertraagt de benodigde tijd om de piekconcentratie te bereiken van 6 tot 10 uur en zorgt voor een marginale afname van de mate van absorptie (circa 11%)."
-    }
-  },
-  {
-    "translation": {
-      "en": "These changes do not have any clinical significance.",
-      "nl": "Deze veranderingen hebben geen klinische betekenis."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is approximately 96% bound to human plasma proteins.",
-      "nl": "Duloxetine wordt voor circa 96% aan menselijke plasma-eiwitten gebonden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine binds to both albumin and alpha-l acid glycoprotein.",
-      "nl": "Duloxetine bindt zowel aan albumine als aan alfa-1-zuur-glycoproteïne."
-    }
-  },
-  {
-    "translation": {
-      "en": "Protein binding is not affected by renal or hepatic impairment.",
-      "nl": "De eiwitbinding wordt niet beïnvloed door nier- of leverfunctiestoornissen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is extensively metabolised and the metabolites are excreted principally in urine.",
-      "nl": "Duloxetine wordt uitgebreid gemetaboliseerd en de metabolieten worden voornamelijk in urine uitgescheiden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Both cytochromes P450-2D6 and 1A2 catalyse the formation of the two major metabolites glucuronide conjugate of 4-hydroxy duloxetine and sulphate conjugate of 5hydroxy,6-methoxy duloxetine.",
-      "nl": "Zowel cytochroom P450-2D6 als 1A2 katalyseren de vorming van de twee belangrijkste metabolieten glucuronideconjugaat van 4-hydroxyduloxetine en sulfaatconjugaat van 5- hydroxy,6-methoxyduloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Based upon in vitro studies, the circulating metabolites of duloxetine are considered pharmacologically inactive.",
-      "nl": "Op basis van in vitro-onderzoeken worden de circulerende metabolieten van duloxetine als farmacologisch inactief beschouwd."
-    }
-  },
-  {
-    "translation": {
-      "en": "The pharmacokinetics of duloxetine in patients who are poor metabolisers with respect to CYP2D6 has not been specifically investigated.",
-      "nl": "De farmacokinetiek van duloxetine bij patiënten die langzame omzetters zijn met betrekking tot CYP2D6, is niet specifiek onderzocht."
-    }
-  },
-  {
-    "translation": {
-      "en": "Limited data suggest that the plasma levels of duloxetine are higher in these patients.",
-      "nl": "Beperkte data suggereren dat de plasmaspiegels van duloxetine bij deze patiënten hoger zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "The elimination half-life of duloxetine ranges from 8 to 17 hours (mean of 12 hours).",
-      "nl": "De eliminatie-halfwaardetijd van duloxetine varieert van 8 tot 17 uur (gemiddeld 12 uur)."
-    }
-  },
-  {
-    "translation": {
-      "en": "After an intravenous dose the plasma clearance of duloxetine ranges from 22 l/hr to 46 l/hr (mean of 36 l/hr).",
-      "nl": "Na een intraveneuze dosis varieert de plasmaklaring van duloxetine van 22 l/uur tot 46 l/uur (gemiddeld 36 l/uur)."
-    }
-  },
-  {
-    "translation": {
-      "en": "After an oral dose the apparent plasma clearance of duloxetine ranges from 33 to 261 l/hr (mean 101 l/hr).",
-      "nl": "Na een orale dosis varieert de schijnbare plasmaklaring van duloxetine van 33 tot 261 l/uur (gemiddeld 101 l/uur)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Special populations:",
-      "nl": "Speciale groepen patiënten:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Gender: pharmacokinetic differences have been identified between males and females (apparent plasma clearance is approximatively 50% lower in females).",
-      "nl": "Geslacht: farmacokinetische verschillen zijn geïdentificeerd tussen mannen en vrouwen (de schijnbare plasmaklaring is bij vrouwen ongeveer 50% lager)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Based upon the overlap in the range of clearance, gender-based pharmacokinetic differences do not justify the recommendation for using a lower dose for female patients.",
-      "nl": "Op basis van de overlap in de klaringsspreiding vormen farmacokinetische verschillen op grond van geslacht geen rechtvaardiging voor de aanbeveling om een lagere dosis voor vrouwelijke patiënten te gebruiken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Age: pharmacokinetic differences have been identified between younger and elderly females (\\u226565 years) (AUC increases by about 25% and half-life is about 25% longer in the elderly), although the magnitude of these changes is not sufficient to justify adjustments to the dose.",
-      "nl": "Leeftijd: hoewel er farmacokinetische verschillen zijn vastgesteld tussen jongere en oudere vrouwen (\\u2265 65 jaar) (AUC neemt toe met ongeveer 25% en de halfwaardetijd is ongeveer 25% langer bij ouderen) zijn deze verschillen niet groot genoeg om aanpassingen van de dosis te rechtvaardigen."
-    }
-  },
-  {
-    "translation": {
-      "en": "As a general recommendation, caution should be exercised when treating the elderly (see sections 4.2 and 4.4).",
-      "nl": "Als algemene aanbeveling, dient voorzichtigheid te worden betracht wanneer ouderen worden behandeld (zie de rubrieken 4.2 en 4.4)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Renal impairment: end stage renal disease (ESRD) patients receiving dialysis had 2-fold higher duloxetine Cmax and AUC values compared with healthy subjects.",
-      "nl": "Nierfunctiestoornissen: patiënten met nierziekte in het eindstadium die dialyse ondergingen, hadden 2 keer zo hoge Cmax- en AUC-waarden voor duloxetine als gezonde proefpersonen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Pharmacokinetic data on duloxetine is limited in patients with mild or moderate renal impairment.",
-      "nl": "Farmacokinetische gegevens over duloxetine zijn beperkt bij patiënten met lichte of matige nierfunctiestoornissen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Hepatic impairment: moderate liver disease (Child Pugh Class B) affected the pharmacokinetics of duloxetine.",
-      "nl": "Leverinsufficiëntie: matige leverziekte (Child-Pugh klasse B) beïnvloedde de farmacokinetiek van duloxetine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Compared with healthy subjects, the apparent plasma clearance of duloxetine was 79% lower, the apparent terminal half-life was 2.3 times longer, and the AUC was 3.7 times higher in patients with moderate liver disease.",
-      "nl": "Vergeleken met gezonde proefpersonen was de schijnbare plasmaklaring van duloxetine 79% lager, de schijnbare terminale halfwaardetijd was 2,3 keer langer en de AUC was 3,7 keer hoger bij patiënten met matige leverziekte."
-    }
-  },
-  {
-    "translation": {
-      "en": "The pharmacokinetics of duloxetine and its metabolites have not been studied in patients with mild or severe hepatic insufficiency.",
-      "nl": "De farmacokinetiek van duloxetine en zijn metabolieten is niet bestudeerd bij patiënten met lichte of ernstige leverinsufficiëntie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Nursing mothers: The disposition of duloxetine was studied in 6 lactating women who were at least 12-weeks postpartum.",
-      "nl": "Moeders die borstvoeding geven: De eigenschappen van duloxetine zijn bestudeerd bij 6 moeders die borstvoeding gaven 12 weken postpartum."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine is detected in breast milk, and steady-state concentrations in breast milk are about one-fourth those in plasma.",
-      "nl": "Duloxetine werd gedetecteerd in de moedermelk, en steady-state concentraties in moedermelk zijn ongeveer éénvierde van die in plasma."
-    }
-  },
-  {
-    "translation": {
-      "en": "The amount of duloxetine in breast milk is approximately 7 µg/day while on 40 mg twice daily dosing.",
-      "nl": "De hoeveelheid duloxetine in moedermelk is ongeveer 7 microgram/dag bij een dosering van 40 mg tweemaal daags."
     }
   },
   {
@@ -3475,164 +1183,8 @@
   },
   {
     "translation": {
-      "en": "5.3 Precinical safety data",
-      "nl": "5.3 Gegevens uit het preklinisch veiligheidsonderzoek"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine was not genotoxic in a standard battery of tests and was not carcinogenic in rats.",
-      "nl": "Duloxetine was in een standaard serie testen niet genotoxisch en was niet carcinogeen bij ratten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Multinucleated cells were seen in the liver in the absence of other histopathological changes in the rat carcinogenicity study.",
-      "nl": "In de carcinogeniteitsstudie bij ratten werden meerkernige cellen gezien in de lever in afwezigheid van andere histopathologische veranderingen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The underlying mechanism and the clinical relevance are unknown.",
-      "nl": "Het onderliggende mechanisme en de klinische relevantie zijn onbekend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Female mice receiving duloxetine for 2 years had an increased incidence of hepatocellular adenomas and carcinomas at the high dose only (144 mg/kg/day), but these were considered to be secondary to hepatic microsomal enzyme induction.",
-      "nl": "Vrouwtjesmuizen die gedurende 2 jaar duloxetine kregen toegediend, hadden alleen bij de hoge dosis (144 mg/kg/dag) een verhoogde incidentie van hepatocellulaire adenomen en carcinomen, maar aangenomen werd dat deze het gevolg waren van inductie van microsomale leverenzymen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The relevance of this mouse data to humans is unknown.",
-      "nl": "In hoeverre deze gegevens bij de muis relevant zijn voor de mens is onbekend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Female rats receiving duloxetine (45 mg/kg/day) before and during mating and early pregnancy had a decrease in maternal food consumption and body weight, oestrous cycle disruption, decreased live birth indices and progeny survival, and progeny growth retardation at systemic exposure levels estimated to be at the most at maximum clinical exposure (AUC).",
-      "nl": "Bij vrouwtjesratten die duloxetine (45 mg/kg/dag) toegediend kregen vóór en tijdens het paren en de vroege zwangerschap, nam de voedselconsumptie en het lichaamsgewicht van het moederdier af, werd de oestrus verstoord, nam het aantal levendgeboren en overlevende jongen af en was sprake van een vertraagde groei van de jongen, bij systemische blootstellingsniveaus, waarvan geschat wordt dat die ten hoogste overeenkwamen met de maximale klinische blootstelling (AUC)."
-    }
-  },
-  {
-    "translation": {
-      "en": "In an embryotoxicity study in the rabbit, a higher incidence of cardiovascular and skeletal malformations was observed at systemic exposure levels below the maximum clinical exposure (AUC).",
-      "nl": "In een embryotoxiciteitsstudie bij konijnen werd een hogere incidentie van cardiovasculaire malformaties en skeletmalformaties waargenomen bij systemische blootstellingsniveaus onder de maximale klinische blootstelling (AUC)."
-    }
-  },
-  {
-    "translation": {
-      "en": "No malformations were observed in another study testing a higher dose of a different salt of duloxetine.",
-      "nl": "Er werden geen malformaties waargenomen bij een andere studie, waarbij een hogere dosis van een verschillend zout van duloxetine werd getest."
-    }
-  },
-  {
-    "translation": {
-      "en": "In prenatal/postnatal toxicity studies in the rat, duloxetine induced adverse behavioural effects in the offspring at exposures below maximum clinical exposure (AUC).",
-      "nl": "In pre-/postnatale toxiciteitsstudies bij de rat leidde duloxetine tot afwijkende gedragseffecten bij de nakomelingen bij blootstellingsniveaus onder de maximale klinische blootstelling (AUC)."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. PHARMACEUTICAL PARTICULARS",
-      "nl": "6. FARMACEUTISCHE GEGEVENS"
-    }
-  },
-  {
-    "translation": {
-      "en": "6.1 List of excipients",
-      "nl": "6.1 Lijst van hulpstoffen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Capsule content:",
-      "nl": "In de capsule:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Hypromellose.",
-      "nl": "Hypromellose"
-    }
-  },
-  {
-    "translation": {
-      "en": "Hydroxypropyl methylcellulose acetate succinate",
-      "nl": "Hydroxypropylmethylcellulose-acetaatsuccinaat"
-    }
-  },
-  {
-    "translation": {
-      "en": "Sucrose",
-      "nl": "Sacharose"
-    }
-  },
-  {
-    "translation": {
-      "en": "Sugar spheres",
-      "nl": "Suikerbolletjes"
-    }
-  },
-  {
-    "translation": {
-      "en": "Talc",
-      "nl": "Talk"
-    }
-  },
-  {
-    "translation": {
-      "en": "Titanium dioxide (E 171)",
-      "nl": "Titaniumdioxide (E1 71)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Triethyl citrate.",
-      "nl": "Triëthylcitraat."
-    }
-  },
-  {
-    "translation": {
       "en": "Capsule Shell: 60 mg:",
       "nl": "Capsule-omhulsel: 60 mg:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Gelatin",
-      "nl": "Gelatine"
-    }
-  },
-  {
-    "translation": {
-      "en": "Sodium Lauryl Sulfate",
-      "nl": "Natriumlaurylsulfaat"
-    }
-  },
-  {
-    "translation": {
-      "en": "Titanium Dioxide (E 171)",
-      "nl": "Titaniumdioxide (E1 71)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Indigo Carmine (E132)",
-      "nl": "Indigokarmijn (E132)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Titanium Dioxide (E 171)",
-      "nl": "Titaniumdioxide (E1 71)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Propylene glycol",
-      "nl": "Propyleenglycol"
     }
   },
   {
@@ -3649,56 +1201,8 @@
   },
   {
     "translation": {
-      "en": "6.2 Incompatibilities",
-      "nl": "6.2 Gevallen van onverenigbaarheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "Not applicable.",
-      "nl": "Niet van toepassing."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.3 Shelf life",
-      "nl": "6.3 Houdbaarheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "3 years.",
-      "nl": "3 jaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.4 Special precautions for storage",
-      "nl": "6.4 Speciale voorzorgsmaatregelen bij bewaren"
-    }
-  },
-  {
-    "translation": {
-      "en": "Store in the original package.",
-      "nl": "Bewaar in de oorspronkelijke verpakking."
-    }
-  },
-  {
-    "translation": {
       "en": "Do not store above 30 C.",
       "nl": "Niet bewaren boven 30 °C."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.5 Nature and contents of container",
-      "nl": "6.5 Aard en inhoud van de verpakking"
-    }
-  },
-  {
-    "translation": {
-      "en": "Polyvinylchloride (PVC), Polyethylene (PE), and Polychlorotrifluoroethylene (PCTFE) blister sealed with an aluminum foil.",
-      "nl": "Polyvinylchloride (PVC), polyethyleen (PE) en polychlorotrifluoro-ethyleen (PCTFE) blister die is afgedicht met aluminiumfolie."
     }
   },
   {
@@ -3709,68 +1213,8 @@
   },
   {
     "translation": {
-      "en": "Not all pack sizes may be marketed.",
-      "nl": "Het kan voorkomen dat niet alle verpakkingsgrootten in de handel worden gebracht."
-    }
-  },
-  {
-    "translation": {
-      "en": "6.6 Special precautions for disposal",
-      "nl": "6.6 Speciale voorzorgsmaatregelen voor het verwijderen"
-    }
-  },
-  {
-    "translation": {
-      "en": "No special requirements.",
-      "nl": "Geen bijzondere vereisten."
-    }
-  },
-  {
-    "translation": {
-      "en": "8. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "8. NUMMER(S) VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "EU/1/04/296/002 EU/1/04/296/003 EU/ 1/04/296/004 EU/1/04/296/005 EU/1/04/296/007 EU/1/04/296/008",
       "nl": "EU/ 1/04/296/002 EU/ 1/04/296/003 EU/ 1/04/296/004 EU/ 1/04/296/005 EU/ 1/04/296/007 EU/ 1/04/296/008"
-    }
-  },
-  {
-    "translation": {
-      "en": "10. DATE OF REVISION OF THE TEXT",
-      "nl": "10. DATUM VAN HERZIENING VAN DE TEKST"
-    }
-  },
-  {
-    "translation": {
-      "en": "ANNEX II",
-      "nl": "BIJLAGE II"
-    }
-  },
-  {
-    "translation": {
-      "en": "A. MANUFACTURING AUTHORISATION HOLDER(S) RESPONSIBLE FOR BATCH RELEASE",
-      "nl": "A. HOUDER VAN DE VERGUNNING VOOR DE VERVAARDIGING VERANTWOORDELIJK VOOR VRIJGIFTE"
-    }
-  },
-  {
-    "translation": {
-      "en": "B. CONDITIONS OF THE MARKETING AUTHORISATION",
-      "nl": "B. VOORWAARDEN VERBONDEN AAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "A MANUFACTURING AUTHORISATION HOLDER(S) RESPONSIBLE FOR BATCH RELEASE",
-      "nl": "A. HOUDER VAN DE VERGUNNING VOOR DE VERVAARDIGING VERANTWOORDELIJK VOOR VRIJGIFTE"
-    }
-  },
-  {
-    "translation": {
-      "en": "Name and address of the manufacturer(s) responsible for batch release",
-      "nl": "Naam en adres van de fabrikant verantwoordelijk voor vrijgifte"
     }
   },
   {
@@ -3787,80 +1231,8 @@
   },
   {
     "translation": {
-      "en": "Madrid",
-      "nl": "Madrid"
-    }
-  },
-  {
-    "translation": {
-      "en": "Spain",
-      "nl": "Spanje"
-    }
-  },
-  {
-    "translation": {
-      "en": "B CONDITIONS OF THE MARKETING AUTHORISATION",
-      "nl": "B. VOORWAARDEN VERBONDEN AAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE IMPOSED ON THE MARKETING AUTHORISATION HOLDER",
-      "nl": "VOORWAARDEN OF BEPERKINGEN OPGELEGD AAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN TEN AANZIEN VAN DE LEVERING EN HET GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal product subject to medical prescription",
-      "nl": "Aan medisch recept onderworpen geneesmiddel."
-    }
-  },
-  {
-    "translation": {
-      "en": "CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT",
-      "nl": "VOORWAARDEN OF BEPERKINGEN MET BETREKKING TOT EEN VEILIG EN DOELTREFFEND GEBRUIK VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
-      "en": "Not applicable.",
-      "nl": "Niet van toepassing"
-    }
-  },
-  {
-    "translation": {
-      "en": "OTHER CONDITIONS",
-      "nl": "ANDERE VOORWAARDEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "ANNEX III",
-      "nl": "BIJLAGE III"
-    }
-  },
-  {
-    "translation": {
-      "en": "LABELLING AND PACKAGE LEAFLET",
-      "nl": "ETIKETTERING EN BIJSLUITER"
-    }
-  },
-  {
-    "translation": {
-      "en": "A. LABELLING",
-      "nl": "A. ETIKETTERING"
-    }
-  },
-  {
-    "translation": {
       "en": "PARTICULARS TO APPEAR ON THE OUTER PACKAGING CARTONS FOR 30 MG HARD GASTRO-RESISTANT CAPSULES",
       "nl": "GEGEVENS DIE OP DE BUITENVERPAKKING MOETEN WORDEN VERMELD: DOOSJES VOOR 30 MG HARDE MAAGSAPRESISTENTE CAPSULES"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. NAAM VAN HET GENEESMIDDEL"
     }
   },
   {
@@ -3877,32 +1249,14 @@
   },
   {
     "translation": {
-      "en": "2. STATEMENT OF ACTIVE SUBSTANCE(S)",
-      "nl": "2. GEHALTE AAN WERKZAME STOF(FEN)"
-    }
-  },
-  {
-    "translation": {
       "en": "Each capsule contains 30 mg of duloxetine as hydrochloride",
       "nl": "Elke capsule bevat 30 mg duloxetine als hydrochloride"
     }
   },
   {
     "translation": {
-      "en": "3. LIST OF EXCIPIENTS",
-      "nl": "3. LIJST VAN HULPSTOFFEN"
-    }
-  },
-  {
-    "translation": {
       "en": "Contains sucrose",
       "nl": "Bevat sacharose"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. PHARMACEUTICAL FORM AND CONTENTS",
-      "nl": "4. FARMACEUTISCHE VORM EN INHOUD"
     }
   },
   {
@@ -3913,134 +1267,14 @@
   },
   {
     "translation": {
-      "en": "5. METHOD AND ROUTE(S) OF ADMINISTRATION",
-      "nl": "5. WIJZE VAN GEBRUIK EN TOEDIENINGSWEG(EN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "Read the package leaflet before use.",
-      "nl": "Voor het gebruik de bijsluiter lezen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Oral use.",
-      "nl": "Oraal gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN",
-      "nl": "6. EEN SPECIALE WAARSCHUWING DAT HET GENEESMIDDEL BUITEN HET BEREIK EN ZICHT VAN KINDEREN DIENT TE WORDEN GEHOUDEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Houd het geneesmiddel buiten het bereik en het zicht van kinderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "7. OTHER SPECIAL WARNING(S), IF NECESSARY",
-      "nl": "7. ANDERE SPECIALE WAARSCHUWING(EN), INDIEN NODIG"
-    }
-  },
-  {
-    "translation": {
-      "en": "8. EXPIRY DATE",
-      "nl": "8. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "EXP",
-      "nl": "EXP"
-    }
-  },
-  {
-    "translation": {
-      "en": "9. SPECIAL STORAGE CONDITIONS",
-      "nl": "9. BIJZONDERE VOORZORGSMAATREGELEN VOOR DE BEWARING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Store in the original package.",
-      "nl": "Bewaar in de oorspronkelijke verpakking."
-    }
-  },
-  {
-    "translation": {
       "en": "Do not store above 30°C",
       "nl": "Niet bewaren boven 30 °C"
     }
   },
   {
     "translation": {
-      "en": "10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE",
-      "nl": "10. BIJZONDERE VOORZORGSMAATREGELEN VOOR HET VERWIJDEREN VAN NIET-GEBRUIKTE GENEESMIDDELEN OF DAARVAN AFGELEIDE AFVALSTOFFEN (INDIEN VAN TOEPASSING)"
-    }
-  },
-  {
-    "translation": {
-      "en": "11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "11. NAAM EN ADRES VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "Eli Lilly Nederland BV, Grootslag 1-5, NL-3991 RA, Houten, The Netherlands.",
       "nl": "Eli Lilly Nederland BV, Grootslag 1-5, NL-3991 RA Houten, Nederland."
-    }
-  },
-  {
-    "translation": {
-      "en": "12. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "12. NUMMER(S) VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "EU/1/04/296/001 EU/1/04/296/006 EU/1/04/296/009",
-      "nl": "EU/1/04/296/00 1 EU/ 1/04/296/006 EU/ 1/04/296/009"
-    }
-  },
-  {
-    "translation": {
-      "en": "13. BATCH NUMBER",
-      "nl": "13. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lot:",
-      "nl": "Lot:"
-    }
-  },
-  {
-    "translation": {
-      "en": "14. GENERAL CLASSIFICATION FOR SUPPLY",
-      "nl": "14. ALGEMENE INDELING VOOR DE AFLEVERING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal product subject to medical prescription.",
-      "nl": "Geneesmiddel op medisch voorschrift."
-    }
-  },
-  {
-    "translation": {
-      "en": "15. INSTRUCTIONS ON USE",
-      "nl": "15. INSTRUCTIES VOOR GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "16. INFORMATION IN BRAILLE",
-      "nl": "16. INFORMATIE OVER BRAILLE"
     }
   },
   {
@@ -4051,56 +1285,8 @@
   },
   {
     "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. NAAM VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
       "en": "CYMBALTA 30 mg hard gastro-resistant capsules Duloxetine",
       "nl": "CYMBALTA 30 mg harde maagsapresistente capsules Duloxetine"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. NAME OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "2. NAAM VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lilly",
-      "nl": "Lilly"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. EXPIRY DATE",
-      "nl": "3. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "EXP",
-      "nl": "EXP"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. BATCH NUMBER",
-      "nl": "4. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lot:",
-      "nl": "Lot"
-    }
-  },
-  {
-    "translation": {
-      "en": "5. OTHER",
-      "nl": "5. OVERIGE"
     }
   },
   {
@@ -4111,26 +1297,8 @@
   },
   {
     "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. NAAM VAN HET GENEESMIDDEL"
-    }
-  },
-  {
-    "translation": {
       "en": "CYMBALTA 60 mg, hard gastro-resistant capsules.",
       "nl": "CYMBALTA 60 mg, harde maagsapresistente capsules."
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine",
-      "nl": "Duloxetine"
-    }
-  },
-  {
-    "translation": {
-      "en": "2. STATEMENT OF ACTIVE SUBSTANCE(S)",
-      "nl": "2. GEHALTE AAN WERKZAME STOF(FEN)"
     }
   },
   {
@@ -4141,98 +1309,8 @@
   },
   {
     "translation": {
-      "en": "3. LIST OF EXCIPIENTS",
-      "nl": "3. LIJST VAN HULPSTOFFEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Contains sucrose",
-      "nl": "Bevat sacharose"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. PHARMACEUTICAL FORM AND CONTENTS",
-      "nl": "4. FARMACEUTISCHE VORM EN INHOUD"
-    }
-  },
-  {
-    "translation": {
       "en": "28, hard gastro-resistant capsules, 56, hard gastro-resistant capsules, 84, hard gastro-resistant capsules, 98, hard gastro-resistant capsules, 100, hard gastro-resistant capsules (5 cartons of 20 capsules) or 500, hard gastro-resistant capsules (25 cartons of 20 capsules).",
       "nl": "28 harde maagsapresistente capsules, 56 harde maagsapresistente capsules, 84 harde maagsapresistente capsules, 98 harde maagsapresistente capsules, 100 harde maagsapresistente capsules (5 doosjes met 20 capsules) of 500 harde maagsapresistente capsules (25 doosjes met 20 capsules)."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. METHOD AND ROUTE(S) OF ADMINISTRATION",
-      "nl": "5. WIJZE VAN GEBRUIK EN TOEDIENINGSWEG(EN)"
-    }
-  },
-  {
-    "translation": {
-      "en": "6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE REACH AND SIGHT OF CHILDREN",
-      "nl": "6. EEN SPECIALE WAARSCHUWING DAT HET GENEESMIDDEL BUITEN HET BEREIK EN ZICHT VAN KINDEREN DIENT TE WORDEN GEHOUDEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep out of the reach and sight of children.",
-      "nl": "Houd het geneesmiddel buiten het bereik en het zicht van kinderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "7. OTHER SPECIAL WARNING(S), IF NECESSARY",
-      "nl": "7. ANDERE SPECIALE WAARSCHUWING(EN), INDIEN NODIG"
-    }
-  },
-  {
-    "translation": {
-      "en": "8. EXPIRY DATE",
-      "nl": "8. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "EXP",
-      "nl": "EXP"
-    }
-  },
-  {
-    "translation": {
-      "en": "9. SPECIAL STORAGE CONDITIONS",
-      "nl": "9. BIJZONDERE VOORZORGSMAATREGELEN VOOR DE BEWARING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Store in the original package.",
-      "nl": "Bewaar in de oorspronkelijke verpakking."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not store above 30°C",
-      "nl": "Niet bewaren boven 30 °C"
-    }
-  },
-  {
-    "translation": {
-      "en": "11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "11. NAAM EN ADRES VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Eli Lilly Nederland BV, Grootslag 1-5, NL-3991 RA, Houten, The Netherlands.",
-      "nl": "Eli Lilly Nederland BV, Grootslag 1-5, NL-3991 RA Houten, Nederland."
-    }
-  },
-  {
-    "translation": {
-      "en": "12. MARKETING AUTHORISATION NUMBER(S)",
-      "nl": "12. NUMMER(S) VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
     }
   },
   {
@@ -4243,50 +1321,8 @@
   },
   {
     "translation": {
-      "en": "13. BATCH NUMBER",
-      "nl": "13. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lot:",
-      "nl": "Lot:"
-    }
-  },
-  {
-    "translation": {
-      "en": "14. GENERAL CLASSIFICATION FOR SUPPLY",
-      "nl": "14. ALGEMENE INDELING VOOR DE AFLEVERING"
-    }
-  },
-  {
-    "translation": {
-      "en": "Medicinal product subject to medical prescription.",
-      "nl": "Geneesmiddel op medisch voorschrift."
-    }
-  },
-  {
-    "translation": {
-      "en": "15. INSTRUCTIONS ON USE",
-      "nl": "15. INSTRUCTIES VOOR GEBRUIK"
-    }
-  },
-  {
-    "translation": {
-      "en": "16. INFORMATION IN BRAILLE",
-      "nl": "16. INFORMATIE OVER BRAILLE"
-    }
-  },
-  {
-    "translation": {
       "en": "CYMBALTA 60 mg",
       "nl": "CYMBALTA 60 mg"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. NAME OF THE MEDICINAL PRODUCT",
-      "nl": "1. NAAM VAN HET GENEESMIDDEL"
     }
   },
   {
@@ -4297,116 +1333,8 @@
   },
   {
     "translation": {
-      "en": "2. NAME OF THE MARKETING AUTHORISATION HOLDER",
-      "nl": "2. NAAM VAN DE HOUDER VAN DE VERGUNNING VOOR HET IN DE HANDEL BRENGEN"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lilly",
-      "nl": "Lilly"
-    }
-  },
-  {
-    "translation": {
-      "en": "3. EXPIRY DATE",
-      "nl": "3. UITERSTE GEBRUIKSDATUM"
-    }
-  },
-  {
-    "translation": {
-      "en": "EXP",
-      "nl": "EXP"
-    }
-  },
-  {
-    "translation": {
-      "en": "4. BATCH NUMBER",
-      "nl": "4. PARTIJNUMMER"
-    }
-  },
-  {
-    "translation": {
-      "en": "Lot:",
-      "nl": "Lot:"
-    }
-  },
-  {
-    "translation": {
-      "en": "5. OTHER",
-      "nl": "5. OVERIGE"
-    }
-  },
-  {
-    "translation": {
-      "en": "B. PACKAGE LEAFLET",
-      "nl": "B. BIJSLUITER"
-    }
-  },
-  {
-    "translation": {
-      "en": "PACKAGE LEAFLET : INFORMATION FOR THE USER",
-      "nl": "BIJSLUITER: INFORMATIE VOOR DE GEBRUIK(ST)ER"
-    }
-  },
-  {
-    "translation": {
-      "en": "CYMBALTA 30 mg hard gastro-resistant capsules",
-      "nl": "CYMBALTA 30 mg harde maagsapresistente capsules"
-    }
-  },
-  {
-    "translation": {
-      "en": "CYMBALTA 60 mg hard gastro-resistant capsules",
-      "nl": "CYMBALTA 60 mg harde maagsapresistente capsules"
-    }
-  },
-  {
-    "translation": {
-      "en": "Duloxetine (as hydrochloride)",
-      "nl": "Duloxetine (als hydrochloride)"
-    }
-  },
-  {
-    "translation": {
       "en": "Read all of this leaflet carefully before you start taking this medicine.",
       "nl": "Lees de hele bijsluiter aandachtig door alvorens dit geneesmiddel in te nemen."
-    }
-  },
-  {
-    "translation": {
-      "en": "- If you have any further questions, ask your doctor or pharmacist.",
-      "nl": "- Heeft u nog vragen, raadpleeg dan uw arts of apotheker."
-    }
-  },
-  {
-    "translation": {
-      "en": "- This medicine has been prescribed for you.",
-      "nl": "- Dit geneesmiddel is aan u persoonlijk voorgeschreven."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not pass it on to others.",
-      "nl": "Geef dit geneesmiddel niet door aan anderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "It may harm them, even if their symptoms are the same as yours.",
-      "nl": "Dit geneesmiddel kan schadelijk voor hen zijn, zelfs als de verschijnselen dezelfde zijn als waarvoor u het geneesmiddel heeft gekregen."
-    }
-  },
-  {
-    "translation": {
-      "en": "- If any of the side effects gets serious, or if you notice any side effects not listed in this leaflet, please tell your doctor or pharmacist.",
-      "nl": "- Wanneer één van de bijwerkingen ernstig wordt of in geval er bij u een bijwerking optreedt die niet in deze bijsluiter is vermeld, raadpleeg dan uw arts of apotheker."
-    }
-  },
-  {
-    "translation": {
-      "en": "In this leaflet:",
-      "nl": "In deze bijsluiter:"
     }
   },
   {
@@ -4429,20 +1357,8 @@
   },
   {
     "translation": {
-      "en": "4. Possible side effects",
-      "nl": "4. Mogelijke bijwerkingen"
-    }
-  },
-  {
-    "translation": {
       "en": "5 How to store CYMBALTA",
       "nl": "5. Hoe bewaart u CYMBALTA"
-    }
-  },
-  {
-    "translation": {
-      "en": "6. Further information",
-      "nl": "6. Aanvullende informatie"
     }
   },
   {
@@ -4543,12 +1459,6 @@
   },
   {
     "translation": {
-      "en": "- If you suffer from uncontrolled high blood pressure.",
-      "nl": "- Indien u lijdt aan ongecontroleerde hoge bloeddruk."
-    }
-  },
-  {
-    "translation": {
       "en": "Take special care with CYMBALTA",
       "nl": "Wees extra voorzichtig met CYMBALTA"
     }
@@ -4557,12 +1467,6 @@
     "translation": {
       "en": "- If you are taking other medicines to treat depression.",
       "nl": "- Indien u andere geneesmiddelen gebruikt voor de behandeling van depressie."
-    }
-  },
-  {
-    "translation": {
-      "en": "- You have kidney disease.",
-      "nl": "- U heeft een nierziekte."
     }
   },
   {
@@ -4591,26 +1495,8 @@
   },
   {
     "translation": {
-      "en": "- If you are younger than 18 years.",
-      "nl": "- Indien u jonger bent dan 18 jaar."
-    }
-  },
-  {
-    "translation": {
-      "en": "- If you have high blood pressure.",
-      "nl": "- Indien u een hoge bloeddruk heeft."
-    }
-  },
-  {
-    "translation": {
       "en": "CYMBALTA may cause a sensation of restlessness or an inability to sit or stand still.",
       "nl": "CYMBALTA kan een gevoel van rusteloosheid veroorzaken of een onvermogen om stil te zitten of stil te staan."
-    }
-  },
-  {
-    "translation": {
-      "en": "You should tell your doctor if this happens to you.",
-      "nl": "U dient uw arts hiervan op de hoogte te stellen indien dit gebeurt."
     }
   },
   {
@@ -4639,20 +1525,8 @@
   },
   {
     "translation": {
-      "en": "Use in children and adolescents under 18 years of age",
-      "nl": "Gebruik bij kinderen en adolescenten jonger dan 18 jaar"
-    }
-  },
-  {
-    "translation": {
       "en": "Also, the long-term safety effects concerning growth, maturation, and cognitive and behavioural development of CYMBALTA in this age group have not yet been demonstrated.",
       "nl": "Daarnaast ontbreken langetermijngegevens over de veiligheid bij kinderen en adolescenten met betrekking tot groei, maturatie en cognitieve en gedragsontwikkeling."
-    }
-  },
-  {
-    "translation": {
-      "en": "Taking other medicines",
-      "nl": "Gebruik in combinatie met andere geneesmiddelen"
     }
   },
   {
@@ -4735,18 +1609,6 @@
   },
   {
     "translation": {
-      "en": "Oral -anticoagulants: You should tell you doctor if you are taking oral -- anticoagulants (medicines which thin the blood).",
-      "nl": "Orale anticoagulantia: U dient uw arts te informeren indien u orale anticoagulantia gebruikt (middelen die het bloed dunner maken)."
-    }
-  },
-  {
-    "translation": {
-      "en": "These medicines might increase the risk of bleeding.",
-      "nl": "Deze geneesmiddelen zouden het risico op bloedingen kunnen verhogen."
-    }
-  },
-  {
-    "translation": {
       "en": "Taking CYMBALTA with food and drink",
       "nl": "Inname van CYMBALTA met voedsel en drank"
     }
@@ -4761,12 +1623,6 @@
     "translation": {
       "en": "Care should be taken if you drink alcohol while you are being treated with CYMBALTA.",
       "nl": "Voorzichtigheid is geboden als u alcohol drinkt tijdens uw behandeling met CYMBALTA."
-    }
-  },
-  {
-    "translation": {
-      "en": "Pregnancy and breast-feeding",
-      "nl": "Zwangerschap en borstvoeding"
     }
   },
   {
@@ -4791,18 +1647,6 @@
     "translation": {
       "en": "The use of CYMBALTA while breastfeeding is not recommended.",
       "nl": "Het gebruik van CYMBALTA tijdens het geven van borstvoeding wordt niet aanbevolen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Ask your doctor or pharmacist for advice before taking any medicine.",
-      "nl": "Vraag uw arts of apotheker om advies voordat u een geneesmiddel inneemt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Driving and using machines",
-      "nl": "Rijvaardigheid en het gebruik van machines"
     }
   },
   {
@@ -4843,12 +1687,6 @@
   },
   {
     "translation": {
-      "en": "You should check with your doctor or pharmacist if you are not sure.",
-      "nl": "Raadpleeg bij twijfel uw arts of uw apotheker."
-    }
-  },
-  {
-    "translation": {
       "en": "The usual dose of CYMBALTA is one capsule (60 mg duloxetine) once a day, but your doctor will prescribe the dose that is right for you.",
       "nl": "De gebruikelijke dosering van CYMBALTA is één capsule (60 mg duloxetine) eenmaal daags, maar uw arts zal de dosering voorschrijven die geschikt is voor u."
     }
@@ -4857,12 +1695,6 @@
     "translation": {
       "en": "CYMBALTA is for oral use.",
       "nl": "CYMBALTA dient via de mond te worden ingenomen."
-    }
-  },
-  {
-    "translation": {
-      "en": "You should swallow your capsule whole with a drink of water.",
-      "nl": "U dient de capsule in zijn geheel met water in te nemen."
     }
   },
   {
@@ -4957,12 +1789,6 @@
   },
   {
     "translation": {
-      "en": "4. POSSIBLE SIDE EFFECTS",
-      "nl": "4. MOGELIJKE BIJWERKINGEN"
-    }
-  },
-  {
-    "translation": {
       "en": "Like all medicines, CYMBALTA can cause side effects, although not everybody gets them.",
       "nl": "Zoals alle geneesmiddelen kan CYMBALTA bijwerkingen veroorzaken, hoewel niet iedereen ze krijgt."
     }
@@ -4977,18 +1803,6 @@
     "translation": {
       "en": "The most common side effects with CYMBALTA are feeling sick (nausea), headache, dry mouth, trouble sleeping, tiredness and diarrhoea.",
       "nl": "Tot de vaak voorkomende bijwerkingen van CYMBALTA behoren: misselijkheid, hoofdpijn, droge mond, slaapproblemen, moeheid en diarree."
-    }
-  },
-  {
-    "translation": {
-      "en": "Other common and less common side effects are listed below:",
-      "nl": "Andere voorkomende en minder vaak voorkomende bijwerkingen worden hieronder beschreven:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Infections: Throat inflammation.",
-      "nl": "Infecties: Keelontsteking"
     }
   },
   {
@@ -5023,12 +1837,6 @@
   },
   {
     "translation": {
-      "en": "You may also have a lack of appetite and weight change (loss or increase).",
-      "nl": "U kunt ook last krijgen van verminderde eetlust en verandering in gewicht (toe- of afname)."
-    }
-  },
-  {
-    "translation": {
       "en": "Less common side effects on the digestive system are burping, indigestion, gastroenteritis or bad breath.",
       "nl": "Minder vaak voorkomende bijwerkingen van het spijsverteringskanaal zijn boeren, indigestie, gastro-enteritis of slechte adem."
     }
@@ -5037,12 +1845,6 @@
     "translation": {
       "en": "Liver disorders: inflammation of the liver that may cause abdominal pain, tiredness and yellow coloration of the skin.",
       "nl": "Leveraandoeningen: Ontsteking van de lever die abdominale pijn kan veroorzaken, moeheid en gele verkleuring van de huid."
-    }
-  },
-  {
-    "translation": {
-      "en": "Ear disorders: Vertigo and ear pain.",
-      "nl": "Ooraandoeningen: Vertigo en oorpijn."
     }
   },
   {
@@ -5071,24 +1873,6 @@
   },
   {
     "translation": {
-      "en": "Bone and muscle disorders: Muscle pain, muscle tightness, twitching and contraction of the jaw muscle.",
-      "nl": "Bot- en spier aandoeningen: Spierpijn, spierstijfheid, kramp en contractie van de kaakspier."
-    }
-  },
-  {
-    "translation": {
-      "en": "Urinary system disorders: Some patients need to pass urine during the night or may have difficulty or inability to pass urine.",
-      "nl": "Urinewegaandoeningen: Sommige patiënten moeten 's nachts plassen of kunnen moeilijk of helemaal niet plassen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Some patients may have abnormal urine odour.",
-      "nl": "Sommige patiënten kunnen een abnormale geur van de urine hebben."
-    }
-  },
-  {
-    "translation": {
       "en": "General disorders: Grinding of teeth, dehydration, feeling hot/cold, thirst, throat tightness, decrease of activity of the thyroid gland, chest or stomach pain.",
       "nl": "Algemene aandoeningen: Tandenknarsen, uitdroging, warm/koud gevoel, dorst, strak gevoel bij de keel, afgenomen werking van de schildklier, pijn op de borst of in de buik."
     }
@@ -5107,18 +1891,6 @@
   },
   {
     "translation": {
-      "en": "Keep out of the reach and sight of children",
-      "nl": "Buiten het bereik en het zicht van kinderen houden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Store in the original package.",
-      "nl": "Bewaar in de oorspronkelijke verpakking."
-    }
-  },
-  {
-    "translation": {
       "en": "Do not store above 3 0°C.",
       "nl": "Niet bewaren boven 30 °C."
     }
@@ -5127,12 +1899,6 @@
     "translation": {
       "en": "Do not use CYMBALTA after the expiry date which is stated on the carton.",
       "nl": "Gebruik CYMBALTA niet meer na de vervaldatum die staat vermeld op de doos."
-    }
-  },
-  {
-    "translation": {
-      "en": "6. FURTHER INFORMATION",
-      "nl": "6. AANVULLENDE INFORMATIE"
     }
   },
   {
@@ -5149,26 +1915,8 @@
   },
   {
     "translation": {
-      "en": "The active substance is duloxetine.",
-      "nl": "Het werkzame bestanddeel is duloxetine."
-    }
-  },
-  {
-    "translation": {
       "en": "Each capsule contains 30 or 60 mg of duloxetine as duloxetine hydrochloride",
       "nl": "Elke capsule bevat 30 of 60 mg duloxetine in de vorm van duloxetinehydrochloride."
-    }
-  },
-  {
-    "translation": {
-      "en": "The other ingredients are:",
-      "nl": "De andere bestanddelen zijn:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Capsule content: hypromellose, hydroxypropyl methylcellulose acetate succinate, sucrose, sugar spheres, talc, titanium dioxide (E 171), triethyl citrate.",
-      "nl": "Capsule inhoud: hypromellose, hydroxypropylmethylcellulose-acetaatsuccinaat, sacharose, suikerbolletjes, talk, titaniumdioxide (E 171), triethylcitraat."
     }
   },
   {
@@ -5233,38 +1981,8 @@
   },
   {
     "translation": {
-      "en": "Not all pack sizes may be marketed.",
-      "nl": "Het kan voorkomen dat niet alle verpakkingsgrootten in de handel worden gebracht."
-    }
-  },
-  {
-    "translation": {
-      "en": "Marketing Authorisation Holder and Manufacturer",
-      "nl": "Registratiehouder en fabrikant"
-    }
-  },
-  {
-    "translation": {
       "en": "Marketing Authorisation Holder: Eli Lilly Nederland BV, Grootslag 1-5,NL-3991 RA Houten, The Netherlands.",
       "nl": "Registratiehouder: Eli Lilly Nederland BV, Grootslag 1-5, NL-3991 RA Houten, Nederland."
-    }
-  },
-  {
-    "translation": {
-      "en": "For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:",
-      "nl": "Neem voor alle informatie met betrekking tot dit geneesmiddel contact op met de lokale vertegenwoordiger van de houder van de vergunning voor het in de handel brengen:"
-    }
-  },
-  {
-    "translation": {
-      "en": "[[TABLE]]",
-      "nl": "[[TABLE]]"
-    }
-  },
-  {
-    "translation": {
-      "en": "This leaflet was last approved in",
-      "nl": "Deze bijsluiter is voor de laatste keer goedgekeurd op"
     }
   }
 ]

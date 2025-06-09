@@ -1,12 +1,6 @@
 [
   {
     "translation": {
-      "en": "Machine Elements",
-      "nl": "Onderdelen van de machine"
-    }
-  },
-  {
-    "translation": {
       "en": "The numbering of the device elements refers to the illustration of the machine on the graphics page.",
       "nl": "De onderdelen van het apparaat zijn genummerd zoals op de afbeelding van het apparaat op de pagina met afbeeldingen."
     }
@@ -55,12 +49,6 @@
   },
   {
     "translation": {
-      "en": "9 On/Off switch",
-      "nl": "9 Aan-/uit-schakelaar"
-    }
-  },
-  {
-    "translation": {
       "en": "10 Battery unlocking button",
       "nl": "10 Ontgrendelingsknop accu"
     }
@@ -85,18 +73,6 @@
   },
   {
     "translation": {
-      "en": "* Not all of the accessories illustrated or described are included as standard delivery.",
-      "nl": "* In de gebruiksaanwijzing afgebeeld en beschreven toebehoren wordt niet altijd standaard meegeleverd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Noise/Vibration Information",
-      "nl": "Informatie over geluid en trillingen"
-    }
-  },
-  {
-    "translation": {
       "en": "Measured values determined according to EN 60 745.",
       "nl": "Meetwaarden vastgesteld volgens EN 60 745."
     }
@@ -109,68 +85,14 @@
   },
   {
     "translation": {
-      "en": "The noise level when working can exceed 85 dB (A).",
-      "nl": "Tijdens het werken kan het geluidsniveau 85 dB (A) overschrijden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Wear hearing protection!",
-      "nl": "Draag oorbeschermers."
-    }
-  },
-  {
-    "translation": {
-      "en": "The typical hand/arm vibration is below 2.5 m/s2.",
-      "nl": "Kenmerkend is dat de trillingen van hand en arm geringer zijn dan 2,5 m/s2."
-    }
-  },
-  {
-    "translation": {
-      "en": "Intended Use",
-      "nl": "Gebruik volgens bestemming"
-    }
-  },
-  {
-    "translation": {
       "en": "The machine is intended for screwing in and loosening screws, for drilling in wood, metal, ceramic and plastic and for impact drilling in brick, concrete and stone.",
       "nl": "De machine is bestemd voor het indraaien en losdraaien van schroeven, voor het boren in hout, metaal, keramiek en kunststof en voor het klopboren in baksteen, beton en steen."
     }
   },
   {
     "translation": {
-      "en": "For Your Safety",
-      "nl": "Voor uw veiligheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "Working safely with this machine is possible only when the operating and safety information are read completely and the instructions contained therein are strictly followed.",
-      "nl": "Met de machine kan uitsluitend veilig worden gewerkt, wanneer u de gebruiksaanwijzing en de veiligheidsvoorschriften volledig leest en u zich strikt aan de gegeven aanwijzingen houdt."
-    }
-  },
-  {
-    "translation": {
-      "en": "In addition, the general safety notes in the enclosed booklet must be observed.",
-      "nl": "Houd u bovendien aan de algemene veiligheidsvoorschriften in de bijgevoegde brochure."
-    }
-  },
-  {
-    "translation": {
       "en": "* Wear safety goggles.",
       "nl": "* Draag een veiligheidsbril."
-    }
-  },
-  {
-    "translation": {
-      "en": "* For long hair, wear hair protection.",
-      "nl": "* Draag bij lang haar een haarbescherming."
-    }
-  },
-  {
-    "translation": {
-      "en": "Work only with closely fitting clothes.",
-      "nl": "Werk alleen met nauw sluitende kleding."
     }
   },
   {
@@ -189,12 +111,6 @@
     "translation": {
       "en": "Have repairs performed only by a qualified technician.",
       "nl": "Laat de reparatie uitsluitend door een vakman uitvoeren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Never open the machine yourself.",
-      "nl": "Open de machine nooit zelf."
     }
   },
   {
@@ -247,12 +163,6 @@
   },
   {
     "translation": {
-      "en": "Damaging a gas line can lead to explosion.",
-      "nl": "Beschadiging van een gasleiding kan tot een explosie leiden."
-    }
-  },
-  {
-    "translation": {
       "en": "Penetrating a water line causes property damage.",
       "nl": "Breuk van een waterleiding veroorzaakt materiële schade."
     }
@@ -261,24 +171,6 @@
     "translation": {
       "en": "* Hold the power tool securely: When tightening or releasing screws, high reaction torque can briefly occur.",
       "nl": "* Houd het gereedschap goed vast: bij het vast- of losdraaien van schroeven kunnen gedurende korte tijd grote reactiemomenten optreden."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Secure the workpiece.",
-      "nl": "* Zet het werkstuk vast."
-    }
-  },
-  {
-    "translation": {
-      "en": "A workpiece clamped with clamping devices or in a vice is held more secure than by hand.",
-      "nl": "Een met spanvoorzieningen of een bankschroef vastgehouden werkstuk wordt beter vastgehouden dan u met uw hand kunt doen."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Never allow children to use the machine.",
-      "nl": "* Laat kinderen de machine nooit gebruiken."
     }
   },
   {
@@ -439,12 +331,6 @@
   },
   {
     "translation": {
-      "en": "Starting Operation",
-      "nl": "Ingebruikneming"
-    }
-  },
-  {
-    "translation": {
       "en": "Inserting the Battery",
       "nl": "Accu plaatsen"
     }
@@ -453,12 +339,6 @@
     "translation": {
       "en": "Set the rotational direction switch 8 to the centre position = lock-off and allow the charged battery 5 to engage into the handle.",
       "nl": "Zet de draairichtingomschakelaar (8) in het midden (inschakelblokkering) en laat de opgeladen accu (5) in de greep vastklikken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Switching On and Off",
-      "nl": "In- en uitschakelen"
     }
   },
   {
@@ -483,12 +363,6 @@
     "translation": {
       "en": "Do not strain the machine so heavily that it comes to a standstill.",
       "nl": "Belast de machine niet zo sterk dat deze tot stilstand komt."
-    }
-  },
-  {
-    "translation": {
-      "en": "To switch off the machine, release the On/Off switch 9.",
-      "nl": "Als u de machine wilt uitschakelen, laat u de aan-/uit-schakelaar (9) los."
     }
   },
   {
@@ -775,12 +649,6 @@
   },
   {
     "translation": {
-      "en": "Maintenance and Cleaning",
-      "nl": "Onderhoud en reiniging"
-    }
-  },
-  {
-    "translation": {
       "en": "* Before any work on the machine itself, remove the battery.",
       "nl": "* Neem altijd voor werkzaamheden aan de machine de accu uit de machine."
     }
@@ -793,50 +661,14 @@
   },
   {
     "translation": {
-      "en": "If the machine should fail despite the care taken in manufacturing and testing procedures, repair should be carried out by an after-sales service centre for Bosch power tools.",
-      "nl": "Mocht de machine ondanks zeer zorgvuldige fabricage- en testmethoden toch defect raken, dient de reparatie door een erkende reparatieservice voor Bosch elektrisch gereedschap te worden uitgevoerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "In all correspondence and spare parts orders, please always include the 10-digit order number given on the nameplate of the machine.",
-      "nl": "Vermeld bij vragen en bestellingen van vervangingsonderdelen altijd het bestelnummer van 10 cijfers van de machine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Environmental Protection",
-      "nl": "Milieubescherming"
-    }
-  },
-  {
-    "translation": {
       "en": "Recycle raw materials instead of disposing as waste",
       "nl": "Terugwinnen van grondstoffen in plaats van het weggooien van afval"
     }
   },
   {
     "translation": {
-      "en": "The machine, accessories and packaging should be sorted for environmental-friendly recycling.",
-      "nl": "Machine, toebehoren en verpakking moeten op een voor het milieu verantwoorde manier worden hergebruikt."
-    }
-  },
-  {
-    "translation": {
       "en": "Defective or worn out batteries must be recycled according to the guidelines 91/157/EEC.",
       "nl": "Defecte en lege accu's moeten volgens richtlijn 91/157/EEG worden gerecycled."
-    }
-  },
-  {
-    "translation": {
-      "en": "Declaration of Conformity",
-      "nl": "Conformiteitsverklaring"
-    }
-  },
-  {
-    "translation": {
-      "en": "Subject to change without notice",
-      "nl": "Wijzigingen voorbehouden"
     }
   }
 ]

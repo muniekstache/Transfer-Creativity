@@ -139,12 +139,6 @@
   },
   {
     "translation": {
-      "en": "Old appliances are not worthless rubbish!",
-      "nl": "Oude apparaten zijn geen waardeloos afval!"
-    }
-  },
-  {
-    "translation": {
       "en": "Danger of death!",
       "nl": "Levensgevaar!"
     }
@@ -325,12 +319,6 @@
   },
   {
     "translation": {
-      "en": "Control panel",
-      "nl": "Bedieningspaneel"
-    }
-  },
-  {
-    "translation": {
       "en": "Touch buttons for additional options (in addition to the programme if required)",
       "nl": "Aanraakknop voor extra opties (indien gewenst, aanvullend op het gekozen programma)"
     }
@@ -453,12 +441,6 @@
     "translation": {
       "en": "All buttons are sensitive, they only need to be to be touched gently!",
       "nl": "Alle knoppen zijn gevoelig, ze hoeven slechts licht aangeraakt te worden!"
-    }
-  },
-  {
-    "translation": {
-      "en": "Display panel",
-      "nl": "Display"
     }
   },
   {
@@ -883,12 +865,6 @@
   },
   {
     "translation": {
-      "en": "Attention",
-      "nl": "Attentie"
-    }
-  },
-  {
-    "translation": {
       "en": "Loose debris (e.g. coins, paper clips, needles, nails) can damage items of clothing as well as parts of the washer-dryer (e.g. drum).",
       "nl": "Vreemde voorwerpen zoals munten , paperclips, spelden of spijkers kunnen het wasgoed of onderdelen van de wasdroger (bijv. de wastrommel) beschadigen."
     }
@@ -969,12 +945,6 @@
     "translation": {
       "en": "Sorting the laundry",
       "nl": "Wasgoed sorteren"
-    }
-  },
-  {
-    "translation": {
-      "en": "Attention",
-      "nl": "Attentie"
     }
   },
   {
@@ -1333,12 +1303,6 @@
   },
   {
     "translation": {
-      "en": "Attention",
-      "nl": "Attentie"
-    }
-  },
-  {
-    "translation": {
       "en": "Foreign objects in the drum may damage the laundry.",
       "nl": "Vreemde voorwerpen in de wastrommel kunnen het wasgoed beschadigen."
     }
@@ -1383,12 +1347,6 @@
     "translation": {
       "en": "Overloading will cause poor wash results and encourage creasing.",
       "nl": "Overbelading vermindert het wasresultaat en bevordert kreukvorming."
-    }
-  },
-  {
-    "translation": {
-      "en": "Close the washer-dryer door.",
-      "nl": "Vuldeur sluiten."
     }
   },
   {
@@ -1555,20 +1513,8 @@
   },
   {
     "translation": {
-      "en": "Pull out the detergent drawer all the way.",
-      "nl": "Wasmiddellade tot de aanslag eruit trekken."
-    }
-  },
-  {
-    "translation": {
       "en": "Pour in detergent and/or cleaning product.",
       "nl": "Vullen met wasmiddel~wasverzorgingsmiddelen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Close the detergent drawer.",
-      "nl": "Wasmiddellade sluiten."
     }
   },
   {
@@ -1705,12 +1651,6 @@
   },
   {
     "translation": {
-      "en": "Reduced spin speed.",
-      "nl": "Verlaagd Centrifugetoerental."
-    }
-  },
-  {
-    "translation": {
       "en": "Dark Wash cold-40 °C",
       "nl": "Donkere kleuren cold-40 °C"
     }
@@ -1719,12 +1659,6 @@
     "translation": {
       "en": "Dark easy-care textiles.",
       "nl": "Donker kreukherstellend textiel."
-    }
-  },
-  {
-    "translation": {
-      "en": "Reduced spin speed.",
-      "nl": "Verlaagd Centrifugetoerental."
     }
   },
   {
@@ -1741,32 +1675,14 @@
   },
   {
     "translation": {
-      "en": "Reduced spin speed.",
-      "nl": "Verlaagd Centrifugetoerental."
-    }
-  },
-  {
-    "translation": {
       "en": "SuperQuick cold-40 °C",
       "nl": "Extra snel cold-40 °C"
     }
   },
   {
     "translation": {
-      "en": "Easy-care textiles, e.g. made of cotton, linen, synthetic or blended fabrics.",
-      "nl": "Voor kreukherstellend textiel, bijv. van katoen, linnen, synthetische of gemengde weefsels."
-    }
-  },
-  {
-    "translation": {
       "en": "Short programme approx. 15 minutes suitable for refreshing.",
       "nl": "Kort programma ca. 15 minuten, geschikt voor opfrissen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Reduced spin speed.",
-      "nl": "Verlaagd Centrifugetoerental."
     }
   },
   {
@@ -1791,24 +1707,6 @@
     "translation": {
       "en": "Even suitable for washing new textiles before they are worn for the first time.",
       "nl": "Ook geschikt voor het wassen van nieuw textiel voordat het voor het eerst gedragen wordt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Wash white and coloured items separately.",
-      "nl": "Witte en gekleurde was apart wassen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not wash new coloured washing with other washing.",
-      "nl": "Nieuwe bonte was niet samen met ander wasgoed wassen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Reduced spin speed.",
-      "nl": "Verlaagd Centrifugetoerental."
     }
   },
   {
@@ -2053,12 +1951,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Programme options",
       "nl": "Speciale programma's"
     }
@@ -2133,12 +2025,6 @@
     "translation": {
       "en": "Touch the button in addition to the programme for the following combinations of load and degree of soiling:",
       "nl": "Bij de volgende combinaties van de hoeveelheid en de mate van vervuiling van het wasgoed deze toets als aanvulling op het programma indrukken:"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -2311,12 +2197,6 @@
   },
   {
     "translation": {
-      "en": "The programme starts.",
-      "nl": "Het programma start."
-    }
-  },
-  {
-    "translation": {
       "en": "The indicator light remains lit for the entire duration of the programme.",
       "nl": "Het indicatorlampje blijft gedurende de hele tijdsduur van het programma branden."
     }
@@ -2371,18 +2251,6 @@
   },
   {
     "translation": {
-      "en": "- progress bar,",
-      "nl": "- voortgangsbalk,"
-    }
-  },
-  {
-    "translation": {
-      "en": "- programme duration.",
-      "nl": "- programmaduur"
-    }
-  },
-  {
-    "translation": {
       "en": "Touch the \"Start/Pause\" button.",
       "nl": "Raak de Start/Pauze knop aan."
     }
@@ -2391,12 +2259,6 @@
     "translation": {
       "en": "The drying programme starts.",
       "nl": "Het droogprogramma start."
-    }
-  },
-  {
-    "translation": {
-      "en": "The almost empty progress bar is indicated in the display field.",
-      "nl": "De bijna lege voortgangsbalk wordt aangegeven in het displayveld."
     }
   },
   {
@@ -2421,12 +2283,6 @@
     "translation": {
       "en": "Washing Drying without interruption",
       "nl": "Wassen, drogen zonder onderbreking"
-    }
-  },
-  {
-    "translation": {
-      "en": "Turn on the tap.",
-      "nl": "Zet de kraan aan."
     }
   },
   {
@@ -2473,36 +2329,6 @@
   },
   {
     "translation": {
-      "en": "- progress bar,",
-      "nl": "- voortgangsbalk,"
-    }
-  },
-  {
-    "translation": {
-      "en": "Touch the \"Start/Pause\" button.",
-      "nl": "Raak de Start/Pauze knop aan."
-    }
-  },
-  {
-    "translation": {
-      "en": "The programme starts.",
-      "nl": "Het programma start."
-    }
-  },
-  {
-    "translation": {
-      "en": "The almost empty progress bar is indicated in the display field.",
-      "nl": "De bijna lege voortgangsbalk wordt aangegeven in het displayveld."
-    }
-  },
-  {
-    "translation": {
-      "en": "While the programme is running, the programme duration counts down and the progress bar fills up with the segments.",
-      "nl": "Wanneer het programma loopt, telt de programmaduur af en wordt de voortgangsbalk gevuld met segmenten."
-    }
-  },
-  {
-    "translation": {
       "en": "The symbols for the running programme sections appears.",
       "nl": "Het symbool voor programma actief verschijnt."
     }
@@ -2535,12 +2361,6 @@
     "translation": {
       "en": "Overview at a glance",
       "nl": "Sneloverzicht"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -2761,12 +2581,6 @@
   },
   {
     "translation": {
-      "en": "Close the washer-dryer door.",
-      "nl": "Vuldeur sluiten."
-    }
-  },
-  {
-    "translation": {
       "en": "Childproof lock",
       "nl": "Kinderbeveiliging"
     }
@@ -2829,12 +2643,6 @@
     "translation": {
       "en": "Touch the Start/Pause button.",
       "nl": "Raak de Start/Pauze knop aan."
-    }
-  },
-  {
-    "translation": {
-      "en": "The programme starts.",
-      "nl": "Het programma start."
     }
   },
   {
@@ -2971,18 +2779,6 @@
   },
   {
     "translation": {
-      "en": "Touch the Start/Pause $ button.",
-      "nl": "Raak de Start/Pauze knop aan."
-    }
-  },
-  {
-    "translation": {
-      "en": "The programme starts.",
-      "nl": "Het programma start."
-    }
-  },
-  {
-    "translation": {
       "en": "If required, re-activate the childproof lock, see page 35.",
       "nl": "Indien gewenst de kinderbeveiliging weer activeren (zie blz. 36)."
     }
@@ -3031,12 +2827,6 @@
   },
   {
     "translation": {
-      "en": "Touch the Start/Pause button.",
-      "nl": "Raak de Start/Pauze knop aan."
-    }
-  },
-  {
-    "translation": {
       "en": "If required, switch on the childproof lock again.",
       "nl": "Indien gewenst de kinderbeveiliging weer inschakelen."
     }
@@ -3051,18 +2841,6 @@
     "translation": {
       "en": "Deactivate the childproof lock.",
       "nl": "Eventueel Kinderbeveiliging deactiveren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Turn the programme selector to Off.",
-      "nl": "Programmakeuzeknop op Uit zetten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Open the washer-dryer door.",
-      "nl": "Vuldeur openen."
     }
   },
   {
@@ -3163,12 +2941,6 @@
   },
   {
     "translation": {
-      "en": "Turn the programme selector to Off.",
-      "nl": "Programmakeuzeknop op Uit zetten."
-    }
-  },
-  {
-    "translation": {
       "en": "Or",
       "nl": "Of"
     }
@@ -3241,26 +3013,8 @@
   },
   {
     "translation": {
-      "en": "If required, deactivate the childproof lock.",
-      "nl": "Eventueel Kinderbeveiliging deactiveren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Turn the programme selector to Off.",
-      "nl": "Programmakeuzeknop op Uit zetten."
-    }
-  },
-  {
-    "translation": {
       "en": "Removing the laundry",
       "nl": "Wasgoed uit de trommel halen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Open the washer-dryer door.",
-      "nl": "Vuldeur openen."
     }
   },
   {
@@ -3285,12 +3039,6 @@
     "translation": {
       "en": "Unload the laundry.",
       "nl": "Wasgoed uit de trommel halen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Attention",
-      "nl": "Attentie"
     }
   },
   {
@@ -3385,18 +3133,6 @@
   },
   {
     "translation": {
-      "en": "Touch the Start/Pause button.",
-      "nl": "Raak de Start/Pauze knop aan."
-    }
-  },
-  {
-    "translation": {
-      "en": "The programme starts.",
-      "nl": "Het programma start."
-    }
-  },
-  {
-    "translation": {
       "en": "After approx. 10 minutes, turn the programme selector to Off.",
       "nl": "Na Ca. 10 minuten de programmakeuzeknop op Uit zetten."
     }
@@ -3457,12 +3193,6 @@
   },
   {
     "translation": {
-      "en": "Touch the Start/Pause button.",
-      "nl": "Raak de Start/Pauze knop aan."
-    }
-  },
-  {
-    "translation": {
       "en": "As soon as the water runs in:",
       "nl": "Zodra het water instroomt:"
     }
@@ -3501,12 +3231,6 @@
     "translation": {
       "en": "Only use dyes that are environmentally compatible and suitable for use in washing machines.",
       "nl": "Alleen verfmiddelen gebruiken die het milieu verdragen kan en die voor de wasmachine geschikt zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "Attention",
-      "nl": "Attentie"
     }
   },
   {
@@ -3553,12 +3277,6 @@
   },
   {
     "translation": {
-      "en": "Attention",
-      "nl": "Attentie"
-    }
-  },
-  {
-    "translation": {
       "en": "Do not bleach washing in the washer-dryer.",
       "nl": "Geen wasgoed in de wasdroger ontkleuren."
     }
@@ -3571,12 +3289,6 @@
   },
   {
     "translation": {
-      "en": "Risk of electric shock!",
-      "nl": "Kans op een elektrische schok!"
-    }
-  },
-  {
-    "translation": {
       "en": "First, always disconnect the appliance from the power supply.",
       "nl": "De stekker van het apparaat altijd eerst uit het stopcontact trekken of de trekschakelaar uitschakelen."
     }
@@ -3585,12 +3297,6 @@
     "translation": {
       "en": "Never clean the appliance with a water jet.",
       "nl": "De wasdroger nooit met water schoonspuiten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Risk of explosion!",
-      "nl": "Kans op explosie!"
     }
   },
   {
@@ -3691,12 +3397,6 @@
   },
   {
     "translation": {
-      "en": "Turn the programme selector to Off.",
-      "nl": "Programmakeuzeknop op Uit zetten."
-    }
-  },
-  {
-    "translation": {
       "en": "Repeat the operation until there is no water left in the machine.",
       "nl": "Dit herhalen tot de wasdroger volledig leeg is."
     }
@@ -3793,12 +3493,6 @@
   },
   {
     "translation": {
-      "en": "Turn the programme selector to Off.",
-      "nl": "Programmakeuzeknop op Uit zetten."
-    }
-  },
-  {
-    "translation": {
       "en": "Cleaning the strainer at the water tap",
       "nl": "De zeef bij de waterkraan schoonmaken"
     }
@@ -3847,18 +3541,6 @@
   },
   {
     "translation": {
-      "en": "Turn off the tap.",
-      "nl": "Kraan dichtdraaien."
-    }
-  },
-  {
-    "translation": {
-      "en": "Attention",
-      "nl": "Attentie"
-    }
-  },
-  {
-    "translation": {
       "en": "Descaling agents contain acids which may corrode the components of the washer-dryer and discolour the laundry.",
       "nl": "Ontkalkingsmiddelen bevatten zuren die onderdelen van de wasdroger kunnen aantasten en verkleuringen in het wasgoed kunnen veroorzaken."
     }
@@ -3889,32 +3571,14 @@
   },
   {
     "translation": {
-      "en": "Turn the programme selector to Off.",
-      "nl": "Programmakeuzeknop op Uit zetten."
-    }
-  },
-  {
-    "translation": {
       "en": "Disconnect the appliance from the mains.",
       "nl": "Stekker van het apparaat uit het stopcontact trekken of de trekschakelaar uitschakelen."
     }
   },
   {
     "translation": {
-      "en": "Turn off the tap.",
-      "nl": "Kraan dichtdraaien."
-    }
-  },
-  {
-    "translation": {
       "en": "Call customer service, see page 54.",
       "nl": "Servicedienst bellen, zie blz. 54."
-    }
-  },
-  {
-    "translation": {
-      "en": "Risk of electric shock!",
-      "nl": "Kans op een elektrische schok!"
     }
   },
   {
@@ -3931,20 +3595,8 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Consumption values",
       "nl": "Verbruikswaarden"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -4023,12 +3675,6 @@
     "translation": {
       "en": "Take care when lifting it.",
       "nl": "Wees voorzichtig bij het optillen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Attention",
-      "nl": "Attentie"
     }
   },
   {
@@ -4243,12 +3889,6 @@
   },
   {
     "translation": {
-      "en": "Attention",
-      "nl": "Attentie"
-    }
-  },
-  {
-    "translation": {
       "en": "Connection on left side",
       "nl": "Aansluiting aan de linkerkant"
     }
@@ -4285,12 +3925,6 @@
   },
   {
     "translation": {
-      "en": "Attention",
-      "nl": "Attentie"
-    }
-  },
-  {
-    "translation": {
       "en": "Operate the washer-dryer with cold drinking water only.",
       "nl": "De wasdroger alleen met koud drinkwater gebruiken."
     }
@@ -4299,12 +3933,6 @@
     "translation": {
       "en": "Do not connect to the mixer tap of an unpressurised hot-water apparatus.",
       "nl": "Niet op de mengkraan van een drukloze geiser of boiler aansluiten."
-    }
-  },
-  {
-    "translation": {
-      "en": "If in doubt, have the appliance connected by a specialist.",
-      "nl": "In geval van twijfel door een vakkundig monteur laten aansluiten."
     }
   },
   {
@@ -4423,12 +4051,6 @@
   },
   {
     "translation": {
-      "en": "Attention",
-      "nl": "Attentie"
-    }
-  },
-  {
-    "translation": {
       "en": "The plug must not block the drain of the wash basin.",
       "nl": "De afvoer van de wastafel mag niet met een stop afgesloten worden."
     }
@@ -4491,12 +4113,6 @@
     "translation": {
       "en": "Connecting the power",
       "nl": "Elektrische aansluiting"
-    }
-  },
-  {
-    "translation": {
-      "en": "Caution",
-      "nl": "Attentie"
     }
   },
   {

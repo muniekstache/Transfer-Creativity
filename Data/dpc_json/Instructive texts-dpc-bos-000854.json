@@ -1,12 +1,6 @@
 [
   {
     "translation": {
-      "en": "Functional Description",
-      "nl": "Functiebeschrijving"
-    }
-  },
-  {
-    "translation": {
       "en": "Optimal working with the measuring tool is possible only when the operating instructions and information are read completely, and the instructions contained therein are strictly followed.",
       "nl": "Met het meetgereedschap kunt u alleen optimaal werken als u de gebruiksaanwijzing en de tips voor de werkzaamheden volledig leest en u de daarin aanwezige aanwijzingen strikt opvolgt."
     }
@@ -25,26 +19,8 @@
   },
   {
     "translation": {
-      "en": "Intended Use",
-      "nl": "Gebruik volgens bestemming"
-    }
-  },
-  {
-    "translation": {
       "en": "The measuring tool is intended for the detection of metals (ferrous and nonferrous metals, e.g., rebar), joists and \"live\" wires/conductors in walls, ceilings and floors.",
       "nl": "Het meetgereedschap is bestemd voor het opsporen van metaal (ijzer en non-ferrometaal, bijvoorbeeld betonwapening), houten balken en spanningvoerende leidingen in muren, plafonds en vloeren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Product Features",
-      "nl": "Afgebeelde componenten"
-    }
-  },
-  {
-    "translation": {
-      "en": "The numbering of the product features shown refers to the illustration of the measuring tool on the graphic page.",
-      "nl": "De componenten zijn genummerd zoals op de afbeelding van het meetgereedschap op de pagina met afbeeldingen."
     }
   },
   {
@@ -175,24 +151,6 @@
   },
   {
     "translation": {
-      "en": "Operation",
-      "nl": "Gebruik"
-    }
-  },
-  {
-    "translation": {
-      "en": "Inserting/Replacing the Battery",
-      "nl": "Batterijen inzetten of vervangen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Use only alkali-manganese or rechargeable batteries.",
-      "nl": "Gebruik uitsluitend alkalimangaanbatterijen of oplaadbare batterijen."
-    }
-  },
-  {
-    "translation": {
       "en": "To open the battery lid 10, press the latch 12 in the direction of the arrow and fold up the battery lid.",
       "nl": "Als u het batterijvakdeksel (10) wilt openen, drukt u op de vergrendeling (12) in de richting van de pijl en klapt u het batterijvakdeksel omhoog."
     }
@@ -237,24 +195,6 @@
     "translation": {
       "en": "The battery can corrode or discharge itself over long periods.",
       "nl": "De batterij kan, als deze lang wordt bewaard, roesten of zijn lading verliezen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Initial Operation",
-      "nl": "Ingebruikneming"
-    }
-  },
-  {
-    "translation": {
-      "en": "Protect the measuring tool against moisture and direct sun irradiation.",
-      "nl": "Bescherm het meetgereedschap tegen vocht en fel zonlicht."
-    }
-  },
-  {
-    "translation": {
-      "en": "Switching On and Off",
-      "nl": "In- en uitschakelen"
     }
   },
   {
@@ -613,12 +553,6 @@
   },
   {
     "translation": {
-      "en": "Operating Instructions",
-      "nl": "Tips voor de werkzaamheden"
-    }
-  },
-  {
-    "translation": {
       "en": "On condition of the principle, the measuring values can be impaired through certain ambient conditions.",
       "nl": "De meetresultaten kunnen afhankelijk van het principe door bepaalde omgevingsomstandigheden nadelig worden beïnvloed."
     }
@@ -715,18 +649,6 @@
   },
   {
     "translation": {
-      "en": "Maintenance and Service",
-      "nl": "Onderhoud en service"
-    }
-  },
-  {
-    "translation": {
-      "en": "Maintenance and Cleaning",
-      "nl": "Onderhoud en reiniging"
-    }
-  },
-  {
-    "translation": {
       "en": "When the measuring indicator f continuously shows an amplitude even though there is no metal object in the vicinity of the measuring tool, the measuring tool can be calibrated manually.",
       "nl": "Als de meetindicatie (f) continu uitslaat hoewel er zich geen voorwerp van metaal in de buurt van het meetgereedschap bevindt, kan het meetgereedschap handmatig worden gekalibreerd."
     }
@@ -793,74 +715,8 @@
   },
   {
     "translation": {
-      "en": "Store and transport the measuring tool only in the supplied protective case.",
-      "nl": "Bewaar en transporteer het meetgereedschap alleen in het meegeleverde beschermetui."
-    }
-  },
-  {
-    "translation": {
-      "en": "If the measuring tool should fail despite the care taken in manufacturing and testing procedures, repair should be carried out by an authorized after-sales service centre for Bosch power tools.",
-      "nl": "Mocht het meetgereedschap ondanks zorgvuldige fabricage- en testmethoden toch defect raken, dient de reparatie te worden uitgevoerd door een erkende klantenservice voor Bosch elektrische gereedschappen."
-    }
-  },
-  {
-    "translation": {
-      "en": "In all correspondence and spare parts orders, please always include the 10-digit article number given on the type plate of the measuring tool.",
-      "nl": "Vermeld bij vragen en bestellingen van vervangingsonderdelen altijd het uit tien cijfers bestaande zaaknummer volgens het typeplaatje van het meetgereedschap."
-    }
-  },
-  {
-    "translation": {
-      "en": "Service and Customer Assistance",
-      "nl": "Technische dienst en klantenservice"
-    }
-  },
-  {
-    "translation": {
-      "en": "Exploded views and information on spare parts can be found under: www.bosch-pt.com",
-      "nl": "Explosietekeningen en informatie over vervangingsonderdelen vindt u op: www.bosch-pt.com"
-    }
-  },
-  {
-    "translation": {
-      "en": "Disposal",
-      "nl": "Afvalverwijdering"
-    }
-  },
-  {
-    "translation": {
-      "en": "Battery packs/batteries:",
-      "nl": "Accu's en batterijen:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not dispose of battery packs/batteries into household waste, fire or water.",
-      "nl": "Gooi accu's of batterijen niet bij het huisvuil en evenmin in het vuur of het water."
-    }
-  },
-  {
-    "translation": {
-      "en": "Battery packs/batteries should be collected, recycled or disposed of in an environmental-friendly manner.",
-      "nl": "Accu's en batterijen moeten worden ingezameld, gerecycled of op een voor het milieu verantwoorde wijze worden afgevoerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Only for EC countries:",
-      "nl": "Alleen voor landen van de EU:"
-    }
-  },
-  {
-    "translation": {
       "en": "Batteries no longer suitable for use can be directly returned at:",
       "nl": "Volgens richtlijn 91/157/EEG moeten defecte of versleten accu's en batterijen worden gerecycled."
-    }
-  },
-  {
-    "translation": {
-      "en": "Subject to change without notice.",
-      "nl": "Wijzigingen voorbehouden."
     }
   }
 ]

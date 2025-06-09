@@ -49,38 +49,8 @@
   },
   {
     "translation": {
-      "en": "Safety and warning information",
-      "nl": "Veiligheidsbepalingen en waarschuwingen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Before you switch ON the appliance",
-      "nl": "Voordat u het apparaat in gebruik neemt"
-    }
-  },
-  {
-    "translation": {
-      "en": "Please read the operating and installation instructions carefully.",
-      "nl": "Lees de gebruiksaanwijzing en het installatievoorschrift nauwkeurig door."
-    }
-  },
-  {
-    "translation": {
       "en": "They contain important information on how to install, use and maintain the appliance.",
       "nl": "U vindt daarin belangrijke informatie over plaatsing, gebruik en onderhoud van het apparaat."
-    }
-  },
-  {
-    "translation": {
-      "en": "Keep all documentation for subsequent use or for the next owner.",
-      "nl": "Bewaar de gebruiksaanwijzing en het montagevoorschrift voor later gebruik of voor een eventuele latere bezitter."
-    }
-  },
-  {
-    "translation": {
-      "en": "Technical safety",
-      "nl": "Technische veiligheid"
     }
   },
   {
@@ -93,24 +63,6 @@
     "translation": {
       "en": "This appliance contains a small quantity of environmentally-friendly but flammable R600a refrigerant.",
       "nl": "- Het apparaat bevat een geringe hoeveelheid van het milieuvriendelijke maar brandbare koelmiddel R600a."
-    }
-  },
-  {
-    "translation": {
-      "en": "Ensure that the tubing of the refrigerant circuit is not damaged during transportation and installation.",
-      "nl": "Let erop dat de leidingen van het koelcircuit bij het transport of de installatie niet beschadigd worden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Leaking refrigerant may cause eye injuries or ignite.",
-      "nl": "Koelmiddel dat naar buiten spuit kan vlam vatten of tot oogletsel leiden."
-    }
-  },
-  {
-    "translation": {
-      "en": "If damage has occurred",
-      "nl": "Bij beschadiging"
     }
   },
   {
@@ -139,12 +91,6 @@
   },
   {
     "translation": {
-      "en": "The more refrigerant an appliance contains, the larger the room must be.",
-      "nl": "Hoe meer koelmiddel het apparaat bevat, des te groter moet de ruimte zijn waarin het apparaat wordt opgesteld."
-    }
-  },
-  {
-    "translation": {
       "en": "He room must be at least 1 m³ per 8 g of refrigerant.",
       "nl": "Per 8 g koelmiddel moet de ruimte minimaal 1 m³ groot zijn."
     }
@@ -157,20 +103,8 @@
   },
   {
     "translation": {
-      "en": "Important information when using the appliance",
-      "nl": "Bij het gebruik"
-    }
-  },
-  {
-    "translation": {
       "en": "- Never use electrical appliances inside the appliance (e.g. heaters, electric ice makers, etc.).",
       "nl": "- nooit elektrische apparaten in het apparaat gebruiken (bijv. verwarmingsapparaten, elektrische ijsbereider, etc.)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Risk of explosion!",
-      "nl": "Kans op explosie!"
     }
   },
   {
@@ -189,12 +123,6 @@
     "translation": {
       "en": "- Do not store products which contain flammable propellants (e.g. spray cans) or explosive substances in the appliance.",
       "nl": "- Geen producten met brandbare drijfgassen (bijv. spuitbussen) en geen explosieve stoffen in het apparaat opslaan."
-    }
-  },
-  {
-    "translation": {
-      "en": "Explosion hazard!",
-      "nl": "Gevaar voor explosie!"
     }
   },
   {
@@ -225,12 +153,6 @@
     "translation": {
       "en": "- Keep plastic parts and the door seal free of oil and grease.",
       "nl": "- Zorg dat de kunststofdelen en de deurafdichting niet met olie of vet in aanraking komen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Otherwise, parts and door seal will become porous.",
-      "nl": "Ze kunnen poreus worden."
     }
   },
   {
@@ -289,20 +211,8 @@
   },
   {
     "translation": {
-      "en": "You could damage the refrigerant tubing.",
-      "nl": "Hierdoor kunt u de koelleidingen beschadigen."
-    }
-  },
-  {
-    "translation": {
       "en": "Leaking refrigerant may ignite or cause eye injuries.",
       "nl": "Koelmiddel dat naar buiten spuit kan vlam vatten of tot oogletsel leiden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Children in the household",
-      "nl": "Kinderen in het huishouden"
     }
   },
   {
@@ -315,18 +225,6 @@
     "translation": {
       "en": "- If the appliance features a lack, keep the key out of the reach of children.",
       "nl": "- Bij een apparaat met deurslot: sleutel buiten het bereik van kinderen bewaren!"
-    }
-  },
-  {
-    "translation": {
-      "en": "General requirements",
-      "nl": "Algemene bepalingen"
-    }
-  },
-  {
-    "translation": {
-      "en": "The appliance is suitable",
-      "nl": "Het apparaat is geschikt"
     }
   },
   {
@@ -349,26 +247,8 @@
   },
   {
     "translation": {
-      "en": "The appliance is designed for domestic use.",
-      "nl": "Het apparaat is bestemd voor huishoudelijk gebruik."
-    }
-  },
-  {
-    "translation": {
       "en": "The appliance is suppressed according to EU Directive 89/336/EEC.",
       "nl": "Het apparaat is ontstoord volgens EU-richtlijn 89/336/EEC3."
-    }
-  },
-  {
-    "translation": {
-      "en": "The refrigerant circuit has been tested for leaks.",
-      "nl": "Het koelcircuit is op dichtheid gecontroleerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Information concerning disposal",
-      "nl": "Aanwijzingen over de afvoer"
     }
   },
   {
@@ -385,32 +265,14 @@
   },
   {
     "translation": {
-      "en": "Warning",
-      "nl": "Waarschuwing"
-    }
-  },
-  {
-    "translation": {
       "en": "Keep children away from packaging and its parts.",
       "nl": "Verpakkingsmateriaal en onderdelen ervan zijn geen speelgoed voor kinderen."
     }
   },
   {
     "translation": {
-      "en": "Danger of suffocation from folding cartons and plastic film!",
-      "nl": "Verstikkingsgevaar door opvouwbare kartonnen dozen en folie!"
-    }
-  },
-  {
-    "translation": {
       "en": "Disposal of your old appliance",
       "nl": "Afvoer van het oude apparaat"
-    }
-  },
-  {
-    "translation": {
-      "en": "Old appliances are not worthless rubbish!",
-      "nl": "Oude apparaten zijn geen waardeloos afval!"
     }
   },
   {
@@ -429,12 +291,6 @@
     "translation": {
       "en": "The directive specifies the framework for an EU-wide valid return and recycling of old appliances.",
       "nl": "Deze richtlijn geeft het kader aan voor een in de EU geldende terugname en verwerking van oude apparaten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Warning",
-      "nl": "Waarschuwing"
     }
   },
   {
@@ -567,12 +423,6 @@
     "translation": {
       "en": "15 Ice maker for production and storage of ice cubes.",
       "nl": "15 IJsbereider voor het produceren en opslaan van ijsblokjes."
-    }
-  },
-  {
-    "translation": {
-      "en": "Note",
-      "nl": "Attentie!"
     }
   },
   {
@@ -763,12 +613,6 @@
   },
   {
     "translation": {
-      "en": "Electrical connection",
-      "nl": "Elektrische aansluiting"
-    }
-  },
-  {
-    "translation": {
       "en": "Do not use an extension lead or a multi-plug socket.",
       "nl": "Geen verlengsnoer of verdeler gebruiken."
     }
@@ -801,12 +645,6 @@
     "translation": {
       "en": "If the appliance is to be operated in a non-European country, check on the rating plate whether the indicated voltage and current type correspond to the values of your mains supply.",
       "nl": "Bij apparaten die in niet-Europese landen worden gebruikt op het typeplaatje controleren of de aansluitspanning en de stroomsoort overeenkomen met de waarden van uw elektriciteitsnet."
-    }
-  },
-  {
-    "translation": {
-      "en": "The rating plate is situated in the bottom left-hand side of the appliance.",
-      "nl": "Het typeplaatje bevindt zich links onderaan in het apparaat."
     }
   },
   {
@@ -1015,12 +853,6 @@
   },
   {
     "translation": {
-      "en": "Disconnecting the appliance",
-      "nl": "Buiten werking stellen van het apparaat"
-    }
-  },
-  {
-    "translation": {
       "en": "If the appliance is not used for a prolonged period:",
       "nl": "Als het apparaat langere tijd niet wordt gebruikt:"
     }
@@ -1047,12 +879,6 @@
     "translation": {
       "en": "- Run off the remaining drinking water.",
       "nl": "- Het resterende drinkwater aftappen."
-    }
-  },
-  {
-    "translation": {
-      "en": "- Pull out the mains plug.",
-      "nl": "- Stekker uit het stopcontact trekken."
     }
   },
   {
@@ -1203,12 +1029,6 @@
     "translation": {
       "en": "- Avoid contact of oil and fat with the plastic parts and door seal.",
       "nl": "- Olie en vet mogen niet met de kunststof onderdelen en de deurafdichting in aanraking komen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Explosion hazard!",
-      "nl": "Gevaar voor explosie!"
     }
   },
   {
@@ -1549,12 +1369,6 @@
   },
   {
     "translation": {
-      "en": "Freezing capacity",
-      "nl": "Invriescapaciteit"
-    }
-  },
-  {
-    "translation": {
       "en": "You can freeze up to 10 kg of food within 24 hours.",
       "nl": "U kunt binnen 24 uur tot max. 10 kg levensmiddelen invriezen."
     }
@@ -1861,12 +1675,6 @@
   },
   {
     "translation": {
-      "en": "Note:",
-      "nl": "Aanwijzingen:"
-    }
-  },
-  {
-    "translation": {
       "en": "These will be dispensed with the first portions of crushed ice.",
       "nl": "Wateropvangschaal eruit halen en schoonmaken"
     }
@@ -1981,12 +1789,6 @@
   },
   {
     "translation": {
-      "en": "How to save energy",
-      "nl": "Tips om energie te besparen"
-    }
-  },
-  {
-    "translation": {
       "en": "If required, use an insulating plate.",
       "nl": "Gebruik eventueel een isolatieplaat."
     }
@@ -2013,12 +1815,6 @@
     "translation": {
       "en": "- Open and close the door as briefly as possible.",
       "nl": "- De deur van het apparaat zo kort mogelijk openen!"
-    }
-  },
-  {
-    "translation": {
-      "en": "Operating noises",
-      "nl": "Bedrijfsgeluiden"
     }
   },
   {
@@ -2143,26 +1939,8 @@
   },
   {
     "translation": {
-      "en": "Warning!",
-      "nl": "Waarschuwing!"
-    }
-  },
-  {
-    "translation": {
       "en": "Never touch frozen food with wet hands.",
       "nl": "De diepvrieswaren niet met natte handen aanraken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Your hands could freeze to the food.",
-      "nl": "Uw handen kunnen eraan vastvriezen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Risk of injury!",
-      "nl": "Kans op verwondingen."
     }
   },
   {
@@ -2181,12 +1959,6 @@
     "translation": {
       "en": "Steam may damage the plastic surfaces.",
       "nl": "Door de stoom kunnen de kunststof oppervlakken beschadigd worden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Eliminating minor faults yourself",
-      "nl": "Kleine storingen zelf verhelpen"
     }
   },
   {
@@ -2557,48 +2329,6 @@
   },
   {
     "translation": {
-      "en": "Possible cause: tap turned off.",
-      "nl": "Eventuele oorzaak: de kraan is dicht."
-    }
-  },
-  {
-    "translation": {
-      "en": "Remedial action: turn tap on.",
-      "nl": "Oplossing: kraan opendraaien."
-    }
-  },
-  {
-    "translation": {
-      "en": "Possible cause: water supply is interrupted.",
-      "nl": "Eventuele oorzaak: de watervoorziening is onderbroken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Water pressure too low.",
-      "nl": "De waterdruk is te laag."
-    }
-  },
-  {
-    "translation": {
-      "en": "Remedial action: inform plumber.",
-      "nl": "Oplossing: neem contact op met de installateur."
-    }
-  },
-  {
-    "translation": {
-      "en": "Possible cause: freezer compartment too warm.",
-      "nl": "Eventuele oorzaak: te warm in de diepvriesruimte."
-    }
-  },
-  {
-    "translation": {
-      "en": "Remedial action: lower temperature in the freezer compartment (see \"Setting the temperature\").",
-      "nl": "Oplossing: temperatuur in de diepvriesruimte verlagen (zie \"instellen van de temperatuur\")."
-    }
-  },
-  {
-    "translation": {
       "en": "Changing the bulb",
       "nl": "Lampjes vervangen"
     }
@@ -2649,12 +2379,6 @@
     "translation": {
       "en": "Replacement bulb max. 15W, 220-240 V AC, E14 lampholder.",
       "nl": "Max. 15 W, 220-240 V wisselstroom, fitting E14."
-    }
-  },
-  {
-    "translation": {
-      "en": "- Attach the cover.",
-      "nl": "- Afdekking monteren."
     }
   },
   {
@@ -2737,12 +2461,6 @@
   },
   {
     "translation": {
-      "en": "Installation instructions",
-      "nl": "Installatievoorschrift"
-    }
-  },
-  {
-    "translation": {
       "en": "Important note:",
       "nl": "Belangrijke aanwijzing:"
     }
@@ -2785,12 +2503,6 @@
   },
   {
     "translation": {
-      "en": "Installation location",
-      "nl": "De juiste plaats"
-    }
-  },
-  {
-    "translation": {
       "en": "Warning:",
       "nl": "Attentie!"
     }
@@ -2827,12 +2539,6 @@
   },
   {
     "translation": {
-      "en": "- 3 cm to an electric cooker.",
-      "nl": "- elektrofornuizen 3 cm"
-    }
-  },
-  {
-    "translation": {
       "en": "- 30 cm to an oil or solid-fuel cooker.",
       "nl": "- naast een CV-installatie 30 cm"
     }
@@ -2847,12 +2553,6 @@
     "translation": {
       "en": "If required, reinforce the floor (appliance is very heavy, unloaded approx. 145 kg, loaded up to 400 kg).",
       "nl": "De vloer eventueel verstevigen. (Het apparaat is erg zwaar, onbeladen ca. 145 kg, beladen max. 400 kg)."
-    }
-  },
-  {
-    "translation": {
-      "en": "To ensure that the ice maker functions correctly, the appliance must be upright.",
-      "nl": "Om de ijsbereider perfect te laten functioneren moet het apparaat loodrecht staan."
     }
   },
   {
@@ -2877,12 +2577,6 @@
     "translation": {
       "en": "To do this, pull out the ice maker.",
       "nl": "Hiertoe de ijsbereider eruit trekken."
-    }
-  },
-  {
-    "translation": {
-      "en": "Warning:",
-      "nl": "Attentie!"
     }
   },
   {
@@ -2949,12 +2643,6 @@
     "translation": {
       "en": "Unscrewing the refrigerator compartment door",
       "nl": "Deur van de koelruimte eraf schroeven"
-    }
-  },
-  {
-    "translation": {
-      "en": "Warning:",
-      "nl": "Attentie!"
     }
   },
   {
@@ -3043,62 +2731,8 @@
   },
   {
     "translation": {
-      "en": "Electrical connection",
-      "nl": "Elektrische aansluiting"
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not use an extension lead or a multi-plug socket.",
-      "nl": "Geen verlengsnoer of verdeler gebruiken."
-    }
-  },
-  {
-    "translation": {
-      "en": "This appliance must be connected to a permanently installed socket.",
-      "nl": "Voor de aansluiting van dit apparaat is een vast geïnstalleerd stopcontact nodig."
-    }
-  },
-  {
-    "translation": {
-      "en": "The plug to secure the appliance must be freely accessible.",
-      "nl": "Het stopcontact waarop het apparaat wordt aangesloten moet vrij toegankelijk zijn."
-    }
-  },
-  {
-    "translation": {
       "en": "Connect the appliance to a 220-240 V/50 Hz AC current via a plug which has been properly installed.",
       "nl": "Het apparaat uitsluitend via een volgens de voorschriften aangebracht, randgeaard stopcontact met een zekering van 10 ampère of meer, op 220-240 V/50 Hz wisselstroom aansluiten."
-    }
-  },
-  {
-    "translation": {
-      "en": "The socket must be fused with a 10 A fuse or higher.",
-      "nl": "Het stopcontact moet zijn beveiligd met een zekering van 10 A of meer."
-    }
-  },
-  {
-    "translation": {
-      "en": "If the appliance is to be operated in a non-European country, check on the rating plate whether the indicated voltage and current type correspond to the values of your mains supply.",
-      "nl": "Bij apparaten die in niet-Europese landen worden gebruikt op het typeplaatje controleren of de aansluitspanning en de stroomsoort overeenkomen met de waarden van uw elektriciteitsnet."
-    }
-  },
-  {
-    "translation": {
-      "en": "The rating plate is situated in the bottom left-hand side of the appliance.",
-      "nl": "Het typeplaatje bevindt zich links onderaan in het apparaat."
-    }
-  },
-  {
-    "translation": {
-      "en": "Any necessary exchanging of the mains lead should carried out by a specialist electrician.",
-      "nl": "Een eventueel noodzakelijke vervanging van de aansluitkabel mag alleen door een vakkundig monteur worden uitgevoerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Warning!",
-      "nl": "Waarschuwing!"
     }
   },
   {
@@ -3217,12 +2851,6 @@
   },
   {
     "translation": {
-      "en": "Note:",
-      "nl": "Aanwijzing:"
-    }
-  },
-  {
-    "translation": {
       "en": "Due to the weight of the appliance and the food load in the door, the refrigerator compartment door may incline, even if the appliance itself is level.",
       "nl": "Door het eigen gewicht en de belading van de deur met levensmiddelen kan het voorkomen dat de deur van de koelruimte overhelt, ook als het apparaat zelf waterpas staat."
     }
@@ -3283,12 +2911,6 @@
   },
   {
     "translation": {
-      "en": "Disconnecting the appliance",
-      "nl": "Buiten werking stellen van het apparaat"
-    }
-  },
-  {
-    "translation": {
       "en": "Disconnect the appliance according to the enclosed operating instructions.",
       "nl": "Het apparaat volgens de bijgesloten gebruiksaanwijzing buiten werking stellen."
     }
@@ -3297,12 +2919,6 @@
     "translation": {
       "en": "If the appliance is to be disconnected or stored at temperatures below freezing point, empty the water tank for the drinking water dispenser.",
       "nl": "Als het apparaat buiten werking wordt gesteld of bij temperaturen onder het vriespunt moet worden opgeslagen, dan moet het waterreservoir voor de drinkwaterdispenser geleegd worden."
-    }
-  },
-  {
-    "translation": {
-      "en": "- Pull out the mains plug.",
-      "nl": "- Stekker uit het stopcontact trekken."
     }
   },
   {

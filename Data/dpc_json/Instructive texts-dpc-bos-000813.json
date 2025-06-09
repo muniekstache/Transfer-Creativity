@@ -1,12 +1,6 @@
 [
   {
     "translation": {
-      "en": "Operating instructions",
-      "nl": "Gebruiksaanwijzing"
-    }
-  },
-  {
-    "translation": {
       "en": "Information concerning disposal",
       "nl": "Aanwijzingen over de afvoer"
     }
@@ -45,12 +39,6 @@
     "translation": {
       "en": "This appliance is labeled in accordance with Europe n Directive 2002/96/EG concerning used electrical and electronic appliances (waste electrical and electronic equipment 9 WEEE).",
       "nl": "Dit apparaat is gekenmerkt in overeenstemming met de Europese richtlijn 2002/96/EG betreffende afgedankt elektrische en elektronische apparatuur (waste electrical and electronic equipment - WEEE)."
-    }
-  },
-  {
-    "translation": {
-      "en": "The guideline determines the framework for the return and recycling of used appliances as applicable throughout the EU.",
-      "nl": "De richtlijn geeft het kader aan voor de in de EU geldige terugneming en verwerking van oude apparaten."
     }
   },
   {
@@ -325,12 +313,6 @@
   },
   {
     "translation": {
-      "en": "Risk of low-temperature burns!",
-      "nl": "Kans op verbranding!"
-    }
-  },
-  {
-    "translation": {
       "en": "Do not scrape off hoarfrost or stuck frozen food with a knife or pointed object.",
       "nl": "-Een laag vastgevroren diepvrieswaren niet met een mes of een scherp voorwerp afschrapen of losmaken."
     }
@@ -477,12 +459,6 @@
     "translation": {
       "en": "9 Temperature display in the freezer door*",
       "nl": "9 Temperatuurindicatie in de deur van het apparaat *"
-    }
-  },
-  {
-    "translation": {
-      "en": "Control panel",
-      "nl": "Bedieningspaneel"
     }
   },
   {
@@ -1209,12 +1185,6 @@
     "translation": {
       "en": "In a microwave",
       "nl": "-in de magnetron."
-    }
-  },
-  {
-    "translation": {
-      "en": "Note",
-      "nl": "Attentie!"
     }
   },
   {

@@ -1,74 +1,8 @@
 [
   {
     "translation": {
-      "en": "Noise/Vibration Information",
-      "nl": "Informatie over geluid en trillingen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Measured values determined according to EN 50 144.",
-      "nl": "Meetwaarden vastgesteld volgens EN 50 144."
-    }
-  },
-  {
-    "translation": {
-      "en": "Typically, the A-weighted sound pressure level of the product is 81 dB(A).",
-      "nl": "Het A-gewaardeerde geluidsdrukniveau van het apparaat bedraagt kenmerkend 81 dB(A)."
-    }
-  },
-  {
-    "translation": {
-      "en": "The noise level when working can exceed 85 dB(A).",
-      "nl": "Tijdens het werken kan het geluidsniveau 85 dB(A) overschrijden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Wear ear protection!",
-      "nl": "Draag oorbeschermers."
-    }
-  },
-  {
-    "translation": {
       "en": "The typical hand-arm vibration is below 2.5 m/s2",
       "nl": "De hand- en armtrilling is kenmerkend minder dan 2,5 m/s2."
-    }
-  },
-  {
-    "translation": {
-      "en": "Product Elements",
-      "nl": "Onderdelen van het apparaat"
-    }
-  },
-  {
-    "translation": {
-      "en": "Please open the foldout page with the illustration of the tool and leave it open while you read these operating instructions.",
-      "nl": "Vouw de uitvouwbare pagina met de afbeelding van het apparaat open en laat deze pagina opengevouwen terwijl u de gebruiksaanwijzing leest."
-    }
-  },
-  {
-    "translation": {
-      "en": "The numbering of the machine elements refers to the illustration of the machine on the graphic page.",
-      "nl": "De onderdelen van het apparaat zijn genummerd zoals op de afbeelding van het apparaat op de pagina met afbeeldingen."
-    }
-  },
-  {
-    "translation": {
-      "en": "1 Nozzle",
-      "nl": "1 Spuitopening"
-    }
-  },
-  {
-    "translation": {
-      "en": "2 Attachment knob",
-      "nl": "2 Vastzetschroef"
-    }
-  },
-  {
-    "translation": {
-      "en": "3 Regulating knob",
-      "nl": "3 Instelknop"
     }
   },
   {
@@ -79,86 +13,8 @@
   },
   {
     "translation": {
-      "en": "5 Paint container",
-      "nl": "5 Verfbeker"
-    }
-  },
-  {
-    "translation": {
-      "en": "6 Suction/pressure valve",
-      "nl": "6 Zuig-/drukventiel"
-    }
-  },
-  {
-    "translation": {
-      "en": "7 Pump unit",
-      "nl": "7 Pompgedeelte"
-    }
-  },
-  {
-    "translation": {
-      "en": "8 Piston opening",
-      "nl": "8 Zuigeropening"
-    }
-  },
-  {
-    "translation": {
-      "en": "9 Spring",
-      "nl": "9 Veer"
-    }
-  },
-  {
-    "translation": {
-      "en": "10 Pump piston",
-      "nl": "10 Pompzuiger"
-    }
-  },
-  {
-    "translation": {
-      "en": "11 Motor housing",
-      "nl": "11 Motorhuis"
-    }
-  },
-  {
-    "translation": {
-      "en": "12 Metering cup",
-      "nl": "12 Maatbeker"
-    }
-  },
-  {
-    "translation": {
-      "en": "Not all the accessories illustrated or described are included in standard delivery.",
-      "nl": "Afgebeeld en beschreven toebehoren wordt niet altijd standaard meegeleverd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Intended Use",
-      "nl": "Gebruik volgens bestemming"
-    }
-  },
-  {
-    "translation": {
       "en": "The machine is intended for the spraying of fluids such as paints, lacquers and oils as well as wood protection, impregnation, disinfection and plant protection agents.",
       "nl": "Het gereedschap is bestemd voor het verstuiven van vloeistoffen als verven, lakken, olie, houtbeschermings-, impregnerings- en desinfectiemiddelen en bestrijdingsmiddelen tegen plantenziekten."
-    }
-  },
-  {
-    "translation": {
-      "en": "For Your Safety",
-      "nl": "Voor uw veiligheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "Working safely with this machine is possible only when the operating and safety information are read completely and the instructions contained therein are strictly followed.",
-      "nl": "Veilig werken met het apparaat is alleen mogelijk indien u de gebruiksaanwijzing en de veiligheidsvoorschriften volledig leest en de daarin gegeven voorschriften strikt opvolgt."
-    }
-  },
-  {
-    "translation": {
-      "en": "In addition, the general safety notes in the enclosed booklet must be observed.",
-      "nl": "Houd u bovendien aan de algemene veiligheidsvoorschriften in de bijgevoegde brochure."
     }
   },
   {
@@ -181,26 +37,8 @@
   },
   {
     "translation": {
-      "en": "No open flames should be located in the working area.",
-      "nl": "In de werkomgeving mag zich geen open vuur bevinden."
-    }
-  },
-  {
-    "translation": {
-      "en": "No smoking.",
-      "nl": "Roken verboden!"
-    }
-  },
-  {
-    "translation": {
       "en": "* Do not spray easily combustible or explosive fluids (e.g. benzene, alcohol) or use them for cleaning.",
       "nl": "* Spuit geen licht ontvlambare of explosieve vloeistoffen zoals benzine en spiritus en gebruik deze evenmin voor de reiniging."
-    }
-  },
-  {
-    "translation": {
-      "en": "Lacquer and solvents (thinner) must have a combustion point of over 21 °C.",
-      "nl": "Lakken en oplosmiddelen (verdunner) moeten een vlampunt hebben dat boven 21 °C ligt."
     }
   },
   {
@@ -223,38 +61,8 @@
   },
   {
     "translation": {
-      "en": "Never use the machine with a damaged cable.",
-      "nl": "Gebruik het apparaat nooit met een beschadigde kabel."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Connect machines that are used in the open via a residual current device (RCD) with an actuating current of 30 mA maximum.",
-      "nl": "* Sluit gereedschap dat buitenshuis wordt gebruikt aan via een aardlekschakelaar met een inschakelstroom van maximaal 30 mA."
-    }
-  },
-  {
-    "translation": {
-      "en": "Do not operate the machine in rain or moisture.",
-      "nl": "Gebruik het gereedschap niet in de regen of in een vochtige omgeving."
-    }
-  },
-  {
-    "translation": {
       "en": "* Never direct the spray at persons or animals.",
       "nl": "* Richt de spuitstraal nooit op personen of dieren."
-    }
-  },
-  {
-    "translation": {
-      "en": "The sprayed material is emitted with high pressure.",
-      "nl": "Het spuitmateriaal komt onder hoge druk naar buiten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Danger of injury and infection!",
-      "nl": "Verwondings- en infectiegevaar!"
     }
   },
   {
@@ -277,80 +85,14 @@
   },
   {
     "translation": {
-      "en": "Before Use",
-      "nl": "Voor de ingebruikneming"
-    }
-  },
-  {
-    "translation": {
-      "en": "When buying paints, lacquers and spraying agents, pay attention to environmental compatibility (for example, marked with the blue environmental seal).",
-      "nl": "Let er bij het kopen van verven, lakken en spuitmiddelen op dat deze niet schadelijk zijn voor het milieu (bijvoorbeeld voorzien van het blauwe milieukeurmerk)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Preparing the Spray Material",
-      "nl": "Spuitmateriaal voorbereiden"
-    }
-  },
-  {
-    "translation": {
-      "en": "Most commercially available paints and lacquers are primarily suited for applying with a brush.",
-      "nl": "In de handel verkrijgbare verven en lakken zijn meestal vooral geschikt om met de kwast te worden verwerkt."
-    }
-  },
-  {
-    "translation": {
-      "en": "For spraying, they must be thinned to the required viscosity value.",
-      "nl": "Voor spuitwerkzaamheden moeten deze worden verdund tot de benodigde verdunningsgraad (viscositeitswaarde)."
-    }
-  },
-  {
-    "translation": {
-      "en": "The spray material and the thinner must be compatible.",
-      "nl": "Spuitmateriaal en verdunner moeten bij elkaar passen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Information concerning the suitable thinner (water, solvent) for each spray material is to be taken from the manufacturers information.",
-      "nl": "Informatie over de geschikte verdunner (water of oplosmiddelen) vindt u in de informatie van de fabrikant bij het spuitmateriaal."
-    }
-  },
-  {
-    "translation": {
       "en": "First, mix the spray material thoroughly and bring to a average room temperature (20-22 °C).",
       "nl": "Roer eerst het te verspuiten materiaal goed door en breng het op een gemiddelde omgevingstemperatuur (20 tot 22 °C)."
     }
   },
   {
     "translation": {
-      "en": "Measure the time required in seconds until the flow is no longer continuous.",
-      "nl": "Meet de doorlooptijd in seconden tot de vloeistof ophoudt te stromen."
-    }
-  },
-  {
-    "translation": {
       "en": "This time is called the \"DIN-seconds (DIN-s)\".",
       "nl": "Men noemt deze tijd \"DIN-seconden (DIN-s).\""
-    }
-  },
-  {
-    "translation": {
-      "en": "When the value is too high, add the thinning agent that is suitable for the spray material in steps and mix well.",
-      "nl": "Voeg bij een te hoge waarde het bij het spuitmateriaal passende verdunningsmiddel telkens in geringe hoeveelheden toe en meng goed."
-    }
-  },
-  {
-    "translation": {
-      "en": "Again measure the DIN-seconds.",
-      "nl": "Meet de DIN-seconden opnieuw."
-    }
-  },
-  {
-    "translation": {
-      "en": "Repeat the process until the value given in the table is reached.",
-      "nl": "Herhaal deze handeling tot de in de tabel aangegeven waarden worden bereikt."
     }
   },
   {
@@ -373,66 +115,6 @@
   },
   {
     "translation": {
-      "en": "Preparing the Surface to be Sprayed",
-      "nl": "Spuitoppervlak voorbereiden"
-    }
-  },
-  {
-    "translation": {
-      "en": "The surface to be sprayed must be clean, dry and free of grease.",
-      "nl": "Het spuitoppervlak moet schoon, droog en vetvrij zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "Roughen smooth surfaces and then remove the sanding dust.",
-      "nl": "Ruw een glad oppervlak eerst op en verwijder vervolgens het schuurstof."
-    }
-  },
-  {
-    "translation": {
-      "en": "The spraying mist can soil the surroundings.",
-      "nl": "De sproeinevel kan de omgeving verontreinigen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Therefore, adequately cover the surroundings of the surface to be sprayed.",
-      "nl": "Dek daarom de omgeving van het spuitoppervlak grondig af."
-    }
-  },
-  {
-    "translation": {
-      "en": "Spraying work on the banks of lakes or streams or in the surrounding areas of their immediate feeding zone is not allowed.",
-      "nl": "Spuitwerkzaamheden langs oppervlaktewater of op plaatsen in de directe omgeving daarvan zijn niet toegestaan."
-    }
-  },
-  {
-    "translation": {
-      "en": "Putting into Operation",
-      "nl": "Ingebruikneming"
-    }
-  },
-  {
-    "translation": {
-      "en": "Ensure that the mains voltage is correct!",
-      "nl": "Let op de netspanning."
-    }
-  },
-  {
-    "translation": {
-      "en": "The voltage of the power source must agree with the value given on the nameplate of the machine.",
-      "nl": "De spanning van de stroombron moet overeenkomen met de gegevens op het typeplaatje."
-    }
-  },
-  {
-    "translation": {
-      "en": "Machines designated for 230 V can also be operated with 220 V.",
-      "nl": "Met 230 V aangeduide apparaten kunnen ook worden gebruikt met een spanning van 220 V."
-    }
-  },
-  {
-    "translation": {
       "en": "To Put into Operation, turn the regulating knob 3 counterclockwise completely to the left.",
       "nl": "Als u het apparaat wilt inschakelen, drukt u de regelknop (3) tegen de wijzers van de klok in helemaal naar links."
     }
@@ -447,12 +129,6 @@
     "translation": {
       "en": "For each repeated switching on, turn the regulating knob 3 completely to the left.",
       "nl": "Draai de regelknop (3) helemaal naar links telkens voordat u het apparaat opnieuw inschakelt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Working Instructions",
-      "nl": "Tips voor de werkzaamheden"
     }
   },
   {
@@ -481,68 +157,8 @@
   },
   {
     "translation": {
-      "en": "Do not switch the machine on and off over the surface to be sprayed.",
-      "nl": "Schakel het apparaat niet boven het spuitoppervlak uit."
-    }
-  },
-  {
-    "translation": {
-      "en": "Always hold the machine upright.",
-      "nl": "Houdt het apparaat altijd rechtop."
-    }
-  },
-  {
-    "translation": {
-      "en": "As necessary, use a nozzle extension (accessory) and bend the nozzle in the desired direction.",
-      "nl": "Gebruik eventueel een mondstukverlenging (toebehoren) en buig het mondstuk in de gewenste richting."
-    }
-  },
-  {
-    "translation": {
-      "en": "Make a trial spraying onto cardboard or paper.",
-      "nl": "Spuit bij wijze van proef op karton of papier."
-    }
-  },
-  {
-    "translation": {
-      "en": "The distance of the nozzle to the work piece is dependent on the spray material (approx. 20 to 35 cm spraying distance depending on the spray cone and the desired material application).",
-      "nl": "De afstand van het mondstuk tot het werkstuk is afhankelijk van het spuitmateriaal (ca. 20 tot 35 cm spuitafstand, afhankelijk van de spuitkegel en de gewenste materiaaldekking)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Determine the appropriate distance to the surface to be sprayed in each case by a trial.",
-      "nl": "Bepaal de geschikte afstand tot het spuitoppervlak proefondervindelijk."
-    }
-  },
-  {
-    "translation": {
-      "en": "Start with a greater distance.",
-      "nl": "Begin met een vrij grote afstand."
-    }
-  },
-  {
-    "translation": {
       "en": "Take care to maintain the same distance to the surface to be sprayed and make uniform movement (see Fig.).",
       "nl": "Let op een gelijkmatige afstand tot het spuitoppervlak en een gelijkmatige beweging (zie afbeelding C)."
-    }
-  },
-  {
-    "translation": {
-      "en": "First, spray the corners or small decorative parts with short spray bursts.",
-      "nl": "Spuit eerst met kleine spuitstoten hoeken of kleine versieringen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Then perform the actual spraying procedure.",
-      "nl": "Spuit vervolgens de overige delen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Begin the spraying pass approx. 10 cm outside the surface to be sprayed and also end it approx. 10 cm beyond the surface.",
-      "nl": "Begin ca. 10 cm buiten het spuitoppervlak te spuiten en stop ook ca. 10 cm buiten het spuitoppervlak."
     }
   },
   {
@@ -559,32 +175,8 @@
   },
   {
     "translation": {
-      "en": "Then spray the surface a second time in the crosswise manner.",
-      "nl": "Spuit het oppervlak vervolgens een tweede keer in een kruisend patroon."
-    }
-  },
-  {
-    "translation": {
-      "en": "When spraying on a vertical surface, drops can form.",
-      "nl": "Bij het spuiten op verticale oppervlakken kunnen druppels ontstaan."
-    }
-  },
-  {
-    "translation": {
-      "en": "First, spray from a somewhat greater distance and allow the sprayed material to partially dry.",
-      "nl": "Spuit eerst van een iets grotere afstand en laat het spuitmateriaal drogen."
-    }
-  },
-  {
-    "translation": {
       "en": "The suction tube must always be immersed in the fluid.",
       "nl": "De sproeinevel breekt anders af en er worden dikkere druppels gespoten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Maintenance and Cleaning",
-      "nl": "Onderhoud en reiniging"
     }
   },
   {
@@ -597,12 +189,6 @@
     "translation": {
       "en": "* Always keep the machine clean so that it functions properly and accurately.",
       "nl": "* Houd het apparaat altijd schoon om goed en veilig te werken."
-    }
-  },
-  {
-    "translation": {
-      "en": "General Maintenance and Cleaning Instructions",
-      "nl": "Algemene onderhouds- en reinigingsvoorschriften"
     }
   },
   {
@@ -643,26 +229,8 @@
   },
   {
     "translation": {
-      "en": "Do not use force!",
-      "nl": "Forceer niet!"
-    }
-  },
-  {
-    "translation": {
       "en": "4. Make a tightly fitting valve ball passable through piston opening 8 with the aid of a copper or brass pin.",
       "nl": "4. Maak een klemzittende ventielkogel door de plunjeropening (8) los met behulp van een koperen of messing stift."
-    }
-  },
-  {
-    "translation": {
-      "en": "5. Place all parts in the appropriate thinning agent and clean.",
-      "nl": "5. Leg alle delen in het bijbehorende verdunningsmiddel en reinig deze."
-    }
-  },
-  {
-    "translation": {
-      "en": "Never use hard objects for cleaning!",
-      "nl": "Gebruik voor het reinigen nooit een hard voorwerp!"
     }
   },
   {
@@ -673,44 +241,8 @@
   },
   {
     "translation": {
-      "en": "6. Reassemble the parts in the reverse order.",
-      "nl": "6. Monteer de delen weer in omgekeerde volgorde."
-    }
-  },
-  {
-    "translation": {
       "en": "For malfunctions, check the nozzle 1 and the suction/pressure valve 6 and replace as necessary.",
       "nl": "Controleer bij functiestoringen de sproeier (1) en het zuig-/drukventiel (6) en vervang deze indien nodig."
-    }
-  },
-  {
-    "translation": {
-      "en": "After cleaning, briefly spray resin- and acid-free oil (for example, sewing machine oil) through the machine for corrosion protection.",
-      "nl": "Spuit het apparaat na de reiniging kort met hars- en zuurvrije olie (bijvoorbeeld naaimachineolie) door ter bescherming tegen corrosie."
-    }
-  },
-  {
-    "translation": {
-      "en": "Disposing of materials",
-      "nl": "Behandeling van afval"
-    }
-  },
-  {
-    "translation": {
-      "en": "After use and subsequent cleaning of the machine, collect the thinning and cleaning agents and dispose of in a environmentally correct manner.",
-      "nl": "Verzamel het verdunnings- en reinigingsmiddel na gebruik en reiniging van het apparaat en voer deze middelen op een voor het milieu onschadelijke wijze af."
-    }
-  },
-  {
-    "translation": {
-      "en": "Chemicals detrimental to the environment must never enter the ground, ground water or lakes and streams.",
-      "nl": "Chemicaliën die schadelijk zijn voor het milieu mogen niet in de bodem, het grondwater of in oppervlaktewater terechtkomen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Never pour material into the sewage system.",
-      "nl": "Laat nooit materiaal in de riolering terecht komen."
     }
   },
   {

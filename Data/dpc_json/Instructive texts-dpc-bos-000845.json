@@ -1,12 +1,6 @@
 [
   {
     "translation": {
-      "en": "Noise/Vibration Information",
-      "nl": "Informatie over geluid en trillingen"
-    }
-  },
-  {
-    "translation": {
       "en": "Measured values determined according to EN 60745.",
       "nl": "Meetwaarden vastgesteld volgens EN 60745."
     }
@@ -25,26 +19,8 @@
   },
   {
     "translation": {
-      "en": "The noise level when working can exceed 85 dB(A).",
-      "nl": "Tijdens het werken kan het geluidsniveau 85 dB(A) overschrijden."
-    }
-  },
-  {
-    "translation": {
-      "en": "Wear ear protection!",
-      "nl": "Draag oorbeschermers."
-    }
-  },
-  {
-    "translation": {
       "en": "The typically weighted acceleration is 6.5 m/s2.",
       "nl": "De kenmerkende gewaardeerde versnelling bedraagt 6,5 m/s2."
-    }
-  },
-  {
-    "translation": {
-      "en": "Intended Use",
-      "nl": "Gebruik volgens bestemming"
     }
   },
   {
@@ -57,18 +33,6 @@
     "translation": {
       "en": "Machines with electronic control are also suitable for polishing.",
       "nl": "Machines met elektronische regeling zijn ook geschikt voor polijsten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Product Elements",
-      "nl": "Onderdelen van de machine"
-    }
-  },
-  {
-    "translation": {
-      "en": "The numbering of the machine elements refers to the illustration of the machine on the graphic page.",
-      "nl": "De onderdelen van de machine zijn genummerd zoals op de afbeelding van de machine op de pagina met afbeeldingen."
     }
   },
   {
@@ -169,18 +133,6 @@
   },
   {
     "translation": {
-      "en": "* Not all the accessories illustrated or described are included in standard delivery.",
-      "nl": "* Afgebeeld en beschreven toebehoren wordt niet altijd standaard meegeleverd."
-    }
-  },
-  {
-    "translation": {
-      "en": "For Your Safety",
-      "nl": "Voor uw veiligheid"
-    }
-  },
-  {
-    "translation": {
       "en": "Read all instructions.",
       "nl": "Lees alle voorschriften."
     }
@@ -189,18 +141,6 @@
     "translation": {
       "en": "Failure to follow all instructions listed below may result in electric shock, fire and/or serious injury.",
       "nl": "Wanneer de volgende voorschriften niet in acht worden genomen, kan dit een elektrische schok, brand of ernstig letsel tot gevolg hebben."
-    }
-  },
-  {
-    "translation": {
-      "en": "SAVE THESE INSTRUCTIONS.",
-      "nl": "BEWAAR DEZE VOORSCHRIFTEN GOED."
-    }
-  },
-  {
-    "translation": {
-      "en": "In addition, the general safety notes in the enclosed booklet must be observed.",
-      "nl": "Houd u bovendien aan de algemene veiligheidsvoorschriften in de bijgevoegde brochure."
     }
   },
   {
@@ -271,12 +211,6 @@
   },
   {
     "translation": {
-      "en": "Asbestos is considered carcinogenic.",
-      "nl": "Asbest geldt als kankerverwekkend."
-    }
-  },
-  {
-    "translation": {
       "en": "Take care that no persons are endangered by flying sparks.",
       "nl": "* Let erop dat er geen personen door wegvliegende vonken in gevaar worden gebracht."
     }
@@ -297,18 +231,6 @@
     "translation": {
       "en": "Replacing the Sanding Sheet/ Sanding Plate",
       "nl": "Schuurblad of schuurplateau vervangen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Before any work on the machine itself, pull the mains plug.",
-      "nl": "Trek altijd voor werkzaamheden aan de machine de stekker uit het stopcontact."
-    }
-  },
-  {
-    "translation": {
-      "en": "Selecting the Sanding Sheet",
-      "nl": "Keuze van het schuurblad"
     }
   },
   {
@@ -547,48 +469,6 @@
   },
   {
     "translation": {
-      "en": "The vacuum cleaner must be suitable for the material to be worked.",
-      "nl": "De stofzuiger moet geschikt zijn voor het te bewerken materiaal."
-    }
-  },
-  {
-    "translation": {
-      "en": "When vacuuming dry dust that is especially detrimental to health or carcinogenic, use a special vacuum cleaner.",
-      "nl": "Gebruik bij het afzuigen van bijzonder gevaarlijk, kankerverwerkend, droog stof een speciale zuiger."
-    }
-  },
-  {
-    "translation": {
-      "en": "Putting into Operation",
-      "nl": "Ingebruikneming"
-    }
-  },
-  {
-    "translation": {
-      "en": "Ensure that the mains voltage is correct!",
-      "nl": "Let op de netspanning."
-    }
-  },
-  {
-    "translation": {
-      "en": "The voltage of the power source must agree with the value given on the nameplate of the machine.",
-      "nl": "De spanning van de stroombron moet overeenkomen met de gegevens op het typeplaatje."
-    }
-  },
-  {
-    "translation": {
-      "en": "Machines designated for 230 V can also be operated with 220 V.",
-      "nl": "Met 230 V aangeduide machines kunnen ook worden gebruikt met een spanning van 220 V."
-    }
-  },
-  {
-    "translation": {
-      "en": "Switching On/Off",
-      "nl": "In- en uitschakelen"
-    }
-  },
-  {
-    "translation": {
       "en": "To switch on the machine, press the on/off switch 5.",
       "nl": "Wanneer u de machine wilt inschakelen, drukt u de aan/uit-schakelaar (5) in."
     }
@@ -625,20 +505,8 @@
   },
   {
     "translation": {
-      "en": "Working Instructions",
-      "nl": "Tips voor de werkzaamheden"
-    }
-  },
-  {
-    "translation": {
       "en": "* Wait until the machine comes to a standstill before putting it down.",
       "nl": "* Wacht tot het gereedschap tot stilstand is gekomen voordat u het neerlegt."
-    }
-  },
-  {
-    "translation": {
-      "en": "* Before any work on the machine itself, pull the mains plug.",
-      "nl": "* Trek altijd voor werkzaamheden aan de machine de stekker uit het stopcontact."
     }
   },
   {
@@ -811,18 +679,6 @@
   },
   {
     "translation": {
-      "en": "Maintenance and Cleaning",
-      "nl": "Onderhoud en reiniging"
-    }
-  },
-  {
-    "translation": {
-      "en": "* Before any work on the machine itself, pull the mains plug.",
-      "nl": "* Trek altijd voor werkzaamheden aan de machine de stekker uit het stopcontact."
-    }
-  },
-  {
-    "translation": {
       "en": "Always keep the machine and the ventilation slots clean for proper and safe working.",
       "nl": "* Houd het gereedschap en de ventilatieopeningen van het gereedschap altijd schoon om goed en veilig te werken."
     }
@@ -837,18 +693,6 @@
     "translation": {
       "en": "For all inquiries and replacement parts ordering, always include the 10-place article number on the nameplate of the machine.",
       "nl": "Vermeld bij vragen en bestellingen van vervangingsonderdelen altijd het uit tien cijfers bestaande zaaknummer overeenkomstig het typeplaatje van de machine."
-    }
-  },
-  {
-    "translation": {
-      "en": "The plastic components are labelled for categorised recycling.",
-      "nl": "De kunststofdelen zijn gekenmerkt om ze per soort te kunnen recyclen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Specifications subject to change without notice",
-      "nl": "Wijzigingen voorbehouden"
     }
   }
 ]

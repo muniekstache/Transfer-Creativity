@@ -7,12 +7,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Who should read this book",
       "nl": "Voor wie is dit boek bestemd?"
     }
@@ -319,30 +313,6 @@
   },
   {
     "translation": {
-      "en": "- DB2 Runtime Client.",
-      "nl": "- DB2 Runtime Client."
-    }
-  },
-  {
-    "translation": {
-      "en": "This client is best suited for enabling applications to access DB2 servers.",
-      "nl": "Deze client is primair bedoeld om de toegang tot DB2-servers door toepassingen mogelijk te maken."
-    }
-  },
-  {
-    "translation": {
-      "en": "- DB2 Client.",
-      "nl": "- DB2 Client."
-    }
-  },
-  {
-    "translation": {
-      "en": "This client includes all the functionality found in the DB2 Runtime Client plus functionality for client-server configuration, database administration and application development.",
-      "nl": "Deze client bevat naast alle functionaliteit die beschikbaar is in de DB2 Runtime Client ook tools voor client-serverconfiguratie, databasebeheer en toepassingsontwikkeling."
-    }
-  },
-  {
-    "translation": {
       "en": "Of related interest, a separate product, DB2 Connect Personal Edition, includes all the functionality of the DB2 Client plus the capability to connect to midrange and mainframe databases.",
       "nl": "Een verwant maar afzonderlijk product is DB2 Connect Personal Edition, dat alle functionaliteit van de DB2 Client bevat, plus de mogelijkheid om verbinding te maken met databases op midrange-systemen en mainframes."
     }
@@ -559,38 +529,14 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
       "en": "- Chapter 1, \"DB2 client setup overview,\" on page 3",
       "nl": "- Hoofdstuk 1, \"Overzicht van DB2-clientinstallaties\", op pagina 3"
     }
   },
   {
     "translation": {
-      "en": "- Chapter 3, \"Methods for installing DB2 clients,\" on page 7",
-      "nl": "- Hoofdstuk 3, \"Installatiemethoden voor DB2-clients\", op pagina 7"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "- \"Configuring a DB2 client for database application development\" in Getting Started with Database Application Development",
       "nl": "- \"Configuring a DB2 client for database application development\" in de publicatie Getting Started with Database Application Development"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
     }
   },
   {
@@ -639,12 +585,6 @@
     "translation": {
       "en": "Method for common situations:",
       "nl": "Methode voor algemene situaties:"
-    }
-  },
-  {
-    "translation": {
-      "en": "The common method for installing a DB2 client is to run the install program provided on a product CD.",
-      "nl": "De algemene methode voor de installatie van een DB2-client is via het installatieprogramma dat u op de product-CD aantreft."
     }
   },
   {
@@ -787,18 +727,6 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Chapter 1, \"DB2 client setup overview,\" on page 3",
-      "nl": "- Hoofdstuk 1, \"Overzicht van DB2-clientinstallaties\", op pagina 3"
-    }
-  },
-  {
-    "translation": {
       "en": "- Chapter 10, \"Thin client topology overview (Windows),\" on page 63",
       "nl": "- Hoofdstuk 10, \"Overzicht thin client-topologie (Windows)\", op pagina 65"
     }
@@ -811,24 +739,6 @@
   },
   {
     "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"Installing DB2 clients (UNIX and Linux)\" on page 33",
-      "nl": "- \"DB2-clients installeren (UNIX and Linux)\" op pagina 34"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"Installing DB2 clients (Windows)\" on page 31",
-      "nl": "- \"DB2-clients installeren (Windows)\" op pagina 31"
-    }
-  },
-  {
-    "translation": {
       "en": "- \"Installing a DB2 product using the db2_install or doce_install command (Linux and UNIX)\" in Installation and Configuration Supplement",
       "nl": "- \"Een DB2-product installeren met de opdracht db2_install of doce_install (Linux en UNIX)\" in de publicatie Supplement voor installatie en configuratie"
     }
@@ -837,12 +747,6 @@
     "translation": {
       "en": "- \"Installing DB2 products using Microsoft Systems Management Server (SMS)\" in Installation and Configuration Supplement",
       "nl": "- \"DB2-producten installeren met Microsoft Systems Management Server (SMS)\" in de publicatie Supplement voor installatie en configuratie"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
     }
   },
   {
@@ -1369,12 +1273,6 @@
   },
   {
     "translation": {
-      "en": "The options and considerations are the following:",
-      "nl": "De volgende opties kunnen daarvoor worden overwogen:"
-    }
-  },
-  {
-    "translation": {
       "en": "- DB2 Connect Personal Edition.",
       "nl": "- DB2 Connect Personal Edition."
     }
@@ -1441,20 +1339,8 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
       "en": "- \"IBM DB2 Driver for ODBC and CLI overview\" in Call Level Interface Guide and Reference, Volume 1",
       "nl": "- \"IBM DB2 Driver for ODBC and CLI overview\" in de publicatie Call Level Interface Guide and Reference, Volume 1"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Chapter 1, \"DB2 client setup overview,\" on page 3",
-      "nl": "- Hoofdstuk 1, \"Overzicht van DB2-clientinstallaties\", op pagina 3"
     }
   },
   {
@@ -1467,12 +1353,6 @@
     "translation": {
       "en": "\"DB2 Connect scenarios\" in DB2 Connect User's Guide",
       "nl": "- \"DB2 Connect - Scenario's\" in de publicatie DB2 Connect Gebruikershandleiding"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
     }
   },
   {
@@ -1597,12 +1477,6 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Self tuning memory\" in Performance Guide",
       "nl": "\"Self tuning memory\" in de publicatie Performance Guide"
     }
@@ -1623,12 +1497,6 @@
     "translation": {
       "en": "To install a DB2 client or server product, the following operating system, hardware, and communications prerequisites must be met:",
       "nl": "Om een DB2-client- of -serverproduct wilt installeren, gelden de volgende eisen voor het besturingssysteern, de hardware en de communicatie:"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -1825,32 +1693,14 @@
   },
   {
     "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "- \"An overview of installing your DB2 product (Linux and UNIX)\" in Quick Beginnings for DB2 Servers",
       "nl": "- \"An overview of installing your DB2 product (Linux and UNIX)\" in de publicatie Quick Beginnings for DB2 Servers"
     }
   },
   {
     "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
-    }
-  },
-  {
-    "translation": {
       "en": "- \"IBM Software Development Kit for Java levels for DB2 products\" in Quick Beginnings for DB2 Servers",
       "nl": "- \"IBM Software Development Kit for Java levels for DB2 products\" in de publicatie Quick Beginnings for DB2 Servers"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"Communication protocols supported\" on page 42",
-      "nl": "- \"Ondersteunde communicatieprotocollen\" op pagina 42"
     }
   },
   {
@@ -1875,12 +1725,6 @@
     "translation": {
       "en": "To install a DB2 client or server product, the following operating system, software, and hardware prerequisites must be met:",
       "nl": "Als u een DB2-client- of -serverproduct wilt installeren, gelden de volgende eisen voor het besturingssysteem, de software en de hardware:"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -2077,32 +1921,14 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Support changes for 32-bit and 64-bit DB2 servers\" in Migration Guide",
       "nl": "\"Support changes for 32-bit and 64-bit DB2 servers\" in de publicatie Migration Guide"
     }
   },
   {
     "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"An overview of installing your DB2 product (Windows)\" in Quick Beginnings for DB2 Servers",
       "nl": "\"An overview of installing your DB2 product (Windows)\" in de publicatie Quick Beginnings for DB2 Servers"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
     }
   },
   {
@@ -2157,12 +1983,6 @@
     "translation": {
       "en": "To install a DB2 client or server product, the following distribution requirements, hardware, and communications prerequisites must be met:",
       "nl": "Om een DB2-client- of -serverproduct wilt installeren, gelden de volgende eisen voor de distributie, de hardware en de communicatie:"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -2269,54 +2089,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Software considerations:",
-      "nl": "Softwareoverwegingen:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- One of the following browsers is required to view online help and to run First Steps (db2fs):",
-      "nl": "- Een van de volgende browsers is vereist om de online Help te kunnen bekijken en de Wegwijzer te starten (db2fs):"
-    }
-  },
-  {
-    "translation": {
-      "en": "-- Mozilla 1.4 and up",
-      "nl": "-- Mozilla 1.4 en hoger"
-    }
-  },
-  {
-    "translation": {
-      "en": "-- Firefox 1.0 and up",
-      "nl": "-- Firefox 1.0 en hoger"
-    }
-  },
-  {
-    "translation": {
-      "en": "-- Netscape 7.0 and up",
-      "nl": "-- Netscape 7.0 en hoger"
-    }
-  },
-  {
-    "translation": {
       "en": "- An X Window System software capable of rendering a graphical user interface is required if you want to use the DB2 Setup wizard to install DB2 or if you want to use any DB2 graphical tools.",
       "nl": "- Er is X Window-systeemsoftware voor het genereren van een grafische gebruikersinterface vereist als u de DB2 Installatiewizard wilt gebruiken om DB2 te installeren of als u een van de grafische DB2-functies wilt gebruiken."
     }
@@ -2329,122 +2101,14 @@
   },
   {
     "translation": {
-      "en": "DB2 product installation on NFS (Network File System):",
-      "nl": "DB2-productinstallatie op NFS (Network File System):"
-    }
-  },
-  {
-    "translation": {
       "en": "The installation of DB2 products on NFS (Network File System) is not recommended.",
       "nl": "Het is niet aan te bevelen om DB2-producten op NFS (Network File System) te installeren."
     }
   },
   {
     "translation": {
-      "en": "Running DB2 products on NFS (for example, NFS mounting /opt/IBM/db2/V9.1 and then running off code that was physically installed on a remote system) requires several manual setup steps.",
-      "nl": "Voor het uitvoeren van DB2-producten op NFS (bijvoorbeeld NFS-aankoppeling van /opt/IBM/db2/V9.1 en vervolgens code uitvoeren die fysiek op een systeem op afstand is geïnstalleerd) zijn verschillende handmatige installatiestappen nodig."
-    }
-  },
-  {
-    "translation": {
-      "en": "There are also a number of potential issues with setting up NFS for DB2.",
-      "nl": "Er kan ook een aantal problemen optreden bij het instellen van NFS voor DB2."
-    }
-  },
-  {
-    "translation": {
-      "en": "These include possible problems that involve:",
-      "nl": "Er kunnen problemen ontstaan op de volgende terreinen:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Performance (impacted by network performance)",
-      "nl": "- Prestatie (beïnvloed door netwerkprestaties)"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Availability (you are allowing a single point of failure)",
-      "nl": "- Beschikbaarheid (u staat één foutpunt toe)"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Licensing (there is no checking done across machines)",
-      "nl": "- Licenties (er wordt geen controle op computers uitgevoerd)"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Diagnosing NFS errors can be difficult",
-      "nl": "- Een diagnose van NFS-fouten stellen kan moeilijk zijn"
-    }
-  },
-  {
-    "translation": {
-      "en": "As mentioned, the setup for NFS will require several manual actions including:",
-      "nl": "Zoals gezegd vereist de installatie voor NFS verschillende handmatige acties, waaronder:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Ensuring that the mount point preserve the install path",
-      "nl": "- Zorgen dat het aankoppelingspunt het installatiepad behoudt"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Permission must be controlled (for example, write permission should not be given to the mounting machine)",
-      "nl": "- Machtiging moet worden gecontroleerd (er mag bijvoorbeeld geen schrijfmachtiging worden verstrekt aan de opstartende computer)"
-    }
-  },
-  {
-    "translation": {
-      "en": "- DB2 registries have to be set up manually and maintained across all mounting machines",
-      "nl": "- DB2-registers moeten handmatig worden ingesteld en beheerd op alle startende computers"
-    }
-  },
-  {
-    "translation": {
-      "en": "- The list installed DB2 products and features command (db2ls) must be set up and maintained properly if you need to detect DB2 products and features",
-      "nl": "- De opdracht voor het weergeven van geïnstalleerde DB2-producten en -functies (db2ls) moet correct worden ingesteld en beheerd voor als u DB2-producten en -functies zoekt"
-    }
-  },
-  {
-    "translation": {
-      "en": "- More care is required when updating your DB2 product environment",
-      "nl": "- Er is meer zorg vereist bij het bijwerken van de DB2-productomgeving"
-    }
-  },
-  {
-    "translation": {
-      "en": "- More steps are required when cleaning up on the exporting machine and the mounting machine",
-      "nl": "- Er zijn meer procedurestappen vereist bij het opschonen van de exportcomputer en de opgestarte computer"
-    }
-  },
-  {
-    "translation": {
-      "en": "For detailed instructions, look for the \"Setting Up DB2 on NFS Mounted File System\" white paper which will be available soon after DB2 Version 9 is made available.",
-      "nl": "Zie voor gedetailleerde instructies de whitepaper \"Setting Up DB2 on NFS Mounted File System\" die snel na het verschijnen van DB2 Versie 9 beschikbaar is."
-    }
-  },
-  {
-    "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
       "en": "- \"Security issues when installing the DB2 database manager\" in Administration Guide: Implementation",
       "nl": "- \"Security issues when installing the DB2 database manager\" in de publicatie Administration Guide: Implementation"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
     }
   },
   {
@@ -2457,24 +2121,6 @@
     "translation": {
       "en": "- \"Preparing to install DB2 for Linux on zSeries\" in Quick Beginnings for DB2 Servers",
       "nl": "- \"Preparing to install DB2 for Linux on zSeries\" in de publicatie Quick Beginnings for DB2 Servers"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"Communication protocols supported\" on page 42",
-      "nl": "- \"Ondersteunde communicatieprotocollen\" op pagina 42"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"IBM Software Development Kit for Java levels for DB2 products\" in Quick Beginnings for DB2 Servers",
-      "nl": "- \"IBM Software Development Kit for Java levels for DB2 products\" in de publicatie Quick Beginnings for DB2 Servers"
     }
   },
   {
@@ -2821,20 +2467,8 @@
   },
   {
     "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Installing DB2 servers (Linux and UNIX)\" in Quick Beginnings for DB2 Servers",
       "nl": "\"Installing DB2 servers (Linux and UNIX)\" in de publicatie Quick Beginnings for DB2 Servers"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
     }
   },
   {
@@ -2851,20 +2485,8 @@
   },
   {
     "translation": {
-      "en": "For the most up-to-date prerequisite information, see http://www.ibm.com/software/data/db2/udb/sysreqs.html.",
-      "nl": "Zie http://www.ibm.com/software/data/db2/udb/sysreqs.html voor de meest recente informatie over de vereisten."
-    }
-  },
-  {
-    "translation": {
       "en": "To install a DB2 client or server product, the following operating system, hardware, and communications prerequisites must be met:",
       "nl": "Om een DB2-client- of -serverproduct wilt installeren, gelden de volgende eisen voor het besturingssysteem, de hardware en de communicatie:"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -2899,158 +2521,14 @@
   },
   {
     "translation": {
-      "en": "Software considerations:",
-      "nl": "Softwareoverwegingen:"
-    }
-  },
-  {
-    "translation": {
       "en": "- If you are installing the Application Development Client, you must have a C compiler to build SQL Stored Procedures.",
       "nl": "- Als u de Application Development Client installeert, moet u een C-compileerprogramma hebben om opgeslagen SQL-procedures te genereren."
     }
   },
   {
     "translation": {
-      "en": "- One of the following browsers is required to view online help and to run First Steps (db2fs):",
-      "nl": "- Een van de volgende browsers is vereist om de online Help te kunnen bekijken en de Wegwijzer te starten (db2fs):"
-    }
-  },
-  {
-    "translation": {
-      "en": "-- Mozilla 1.4 and up",
-      "nl": "-- Mozilla 1.4 en hoger"
-    }
-  },
-  {
-    "translation": {
-      "en": "-- Firefox 1.0 and up",
-      "nl": "-- Firefox 1.0 en hoger"
-    }
-  },
-  {
-    "translation": {
-      "en": "-- Netscape 7.0 and up",
-      "nl": "-- Netscape 7.0 en hoger"
-    }
-  },
-  {
-    "translation": {
-      "en": "DB2 product installation on NFS (Network File System):",
-      "nl": "DB2-productinstallatie op NFS (Network File System):"
-    }
-  },
-  {
-    "translation": {
-      "en": "The installation of DB2 products on NFS (Network File System) is not recommended.",
-      "nl": "Het is niet aan te bevelen om DB2-producten op NFS (Network File System) te installeren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Running DB2 products on NFS (for example, NFS mounting /opt/IBM/db2/V9.1 and then running off code that was physically installed on a remote system) requires several manual setup steps.",
-      "nl": "Voor het uitvoeren van DB2-producten op NFS (bijvoorbeeld NFS-aankoppeling van /opt/IBM/db2/V9.1 en vervolgens code uitvoeren die fysiek op een systeem op afstand is geïnstalleerd) zijn verschillende handmatige installatiestappen nodig."
-    }
-  },
-  {
-    "translation": {
-      "en": "There are also a number of potential issues with setting up NFS for DB2.",
-      "nl": "Er kan ook een aantal problemen optreden bij het instellen van NFS voor DB2."
-    }
-  },
-  {
-    "translation": {
-      "en": "These include possible problems that involve:",
-      "nl": "Er kunnen problemen ontstaan op de volgende terreinen:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Performance (impacted by network performance)",
-      "nl": "- Prestatie (beïnvloed door netwerkprestaties)"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Availability (you are allowing a single point of failure)",
-      "nl": "- Beschikbaarheid (u staat één foutpunt toe)"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Licensing (there is no checking done across machines)",
-      "nl": "- Licenties (er wordt geen controle op computers uitgevoerd)"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Diagnosing NFS errors can be difficult",
-      "nl": "- Een diagnose van NFS-fouten stellen kan moeilijk zijn"
-    }
-  },
-  {
-    "translation": {
-      "en": "As mentioned, the setup for NFS will require several manual actions including:",
-      "nl": "Zoals gezegd vereist de installatie voor NFS verschillende handmatige acties, waaronder:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Ensuring that the mount point preserve the install path",
-      "nl": "- Zorgen dat het aankoppelingspunt het installatiepad behoudt"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Permission must be controlled (for example, write permission should not be given to the mounting machine)",
-      "nl": "- Machtiging moet worden gecontroleerd (er mag bijvoorbeeld geen schrijfmachtiging worden verstrekt aan de opstartende computer)"
-    }
-  },
-  {
-    "translation": {
-      "en": "- DB2 registries have to be set up manually and maintained across all mounting machines",
-      "nl": "- DB2-registers moeten handmatig worden ingesteld en beheerd op alle startende computers"
-    }
-  },
-  {
-    "translation": {
-      "en": "- The list installed DB2 products and features command (db2ls) must be set up and maintained properly if you need to detect DB2 products and features",
-      "nl": "- De opdracht voor het weergeven van geïnstalleerde DB2-producten en -functies (db2ls) moet correct worden ingesteld en beheerd voor als u DB2-producten en -functies zoekt"
-    }
-  },
-  {
-    "translation": {
-      "en": "- More care is required when updating your DB2 product environment",
-      "nl": "- Er is meer zorg vereist bij het bijwerken van de DB2-productomgeving"
-    }
-  },
-  {
-    "translation": {
-      "en": "- More steps are required when cleaning up on the exporting machine and the mounting machine",
-      "nl": "- Er zijn meer procedurestappen vereist bij het opschonen van de exportcomputer en de opgestarte computer"
-    }
-  },
-  {
-    "translation": {
-      "en": "For detailed instructions, look for the \"Setting Up DB2 on NFS Mounted File System\" white paper which will be available soon after DB2 Version 9 is made available.",
-      "nl": "Zie voor gedetailleerde instructies de whitepaper \"Setting Up DB2 on NFS Mounted File System\" die snel na het verschijnen van DB2 Versie 9 beschikbaar is."
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "- \"Modifying kernel parameters (HP-UX)\" on page 25",
       "nl": "\"Kernelparameters wijzigen (HP-UX)\" op pagina 26"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
     }
   },
   {
@@ -3081,24 +2559,6 @@
     "translation": {
       "en": "You must restart your computer if you update your kernel configuration parameter values.",
       "nl": "U moet de computer opnieuw starten als u de waarden van de kernelconfiguratieparameter hebt bijgewerkt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Prerequisites:",
-      "nl": "Vereisten:"
-    }
-  },
-  {
-    "translation": {
-      "en": "You must have root authority to modify kernel parameters.",
-      "nl": "U moet beschikken over het machtigingsniveau root om kernelparameters te kunnen wijzigen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
     }
   },
   {
@@ -3157,12 +2617,6 @@
   },
   {
     "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"db2osconf - Utility for kernel parameter values command\" in Command Reference",
       "nl": "\"db2osconf - Utility for kernel parameter values command\" in de publicatie Command Reference"
     }
@@ -3181,12 +2635,6 @@
   },
   {
     "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Modifying kernel parameters (HP-UX)\" on page 25",
       "nl": "- \"Kernelparameters wijzigen (HP-UX)\" op pagina 26"
     }
@@ -3199,44 +2647,14 @@
   },
   {
     "translation": {
-      "en": "For the most up-to-date prerequisite information, see http://www.ibm.com/software/data/db2/udb/sysreqs.html.",
-      "nl": "Zie http://www.ibm.com/software/data/db2/udb/sysreqs.html voor de meest recente informatie over de vereisten."
-    }
-  },
-  {
-    "translation": {
       "en": "To install a DB2 client or server product, the following operating system, hardware, and communications prerequisites must be met:",
       "nl": "Als u een DB2-client- of -serverproduct wilt installeren, gelden de volgende eisen voor het besturingssysteem, de hardware en de communicatie:"
     }
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Kernel configuration considerations:",
-      "nl": "Overwegingen voor de kernelconfiguratie:"
-    }
-  },
-  {
-    "translation": {
-      "en": "A system restart is required if you update the kernel configuration parameters.",
-      "nl": "Het systeem moet opnieuw worden opgestart als u de kernelconfiguratieparameters bijwerkt."
-    }
-  },
-  {
-    "translation": {
       "en": "These parameters must be set before you install a DB2 client.",
       "nl": "Deze parameters moeten worden ingesteld voordat u een DB2-client installeert."
-    }
-  },
-  {
-    "translation": {
-      "en": "Software considerations:",
-      "nl": "Softwareoverwegingen:"
     }
   },
   {
@@ -3249,36 +2667,6 @@
     "translation": {
       "en": "The NAS client can be downloaded from Web site: https://www6.software.ibm.com/dl/dm/dm-nas-p.",
       "nl": "U kunt de NAS-client downloaden van de website https://www6.software.ibm.com/dl/dm/dm-nas-p."
-    }
-  },
-  {
-    "translation": {
-      "en": "- If you are installing the Application Development Client, you must have a C compiler to build SQL Stored Procedures.",
-      "nl": "- Als u de Application Development Client installeert, moet u een C-compileerprogramma hebben om opgeslagen SQL-procedures te genereren."
-    }
-  },
-  {
-    "translation": {
-      "en": "- One of the following browsers is required to view online help and to run First Steps (db2fs):",
-      "nl": "- Een van de volgende browsers is vereist om de online Help te kunnen bekijken en de Wegwijzer te starten (db2fs):"
-    }
-  },
-  {
-    "translation": {
-      "en": "-- Mozilla 1.4 and up",
-      "nl": "-- Mozilla 1.4 en hoger"
-    }
-  },
-  {
-    "translation": {
-      "en": "-- Firefox 1.0 and up",
-      "nl": "-- Firefox 1.0 en hoger"
-    }
-  },
-  {
-    "translation": {
-      "en": "-- Netscape 7.0 and up",
-      "nl": "-- Netscape 7.0 en hoger"
     }
   },
   {
@@ -3319,122 +2707,8 @@
   },
   {
     "translation": {
-      "en": "DB2 product installation on NFS (Network File System):",
-      "nl": "DB2-productinstallatie op NFS (Network File System):"
-    }
-  },
-  {
-    "translation": {
-      "en": "The installation of DB2 products on NFS (Network File System) is not recommended.",
-      "nl": "Het is niet aan te bevelen om DB2-producten op NFS (Network File System) te installeren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Running DB2 products on NFS (for example, NFS mounting /opt/IBM/db2/V9.1 and then running off code that was physically installed on a remote system) requires several manual setup steps.",
-      "nl": "Voor het uitvoeren van DB2-producten op NFS (bijvoorbeeld NFS-aankoppeling van /opt/IBM/db2/V9.1 en vervolgens code uitvoeren die fysiek op een systeem op afstand is geïnstalleerd) zijn verschillende handmatige installatiestappen nodig."
-    }
-  },
-  {
-    "translation": {
-      "en": "There are also a number of potential issues with setting up NFS for DB2.",
-      "nl": "Er kan ook een aantal problemen optreden bij het instellen van NFS voor DB2."
-    }
-  },
-  {
-    "translation": {
-      "en": "These include possible problems that involve:",
-      "nl": "Er kunnen problemen ontstaan op de volgende terreinen:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Performance (impacted by network performance)",
-      "nl": "- Prestatie (beïnvloed door netwerkprestaties)"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Availability (you are allowing a single point of failure)",
-      "nl": "- Beschikbaarheid (u staat één foutpunt toe)"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Licensing (there is no checking done across machines)",
-      "nl": "- Licenties (er wordt geen controle op computers uitgevoerd)"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Diagnosing NFS errors can be difficult",
-      "nl": "- Een diagnose van NFS-fouten stellen kan moeilijk zijn"
-    }
-  },
-  {
-    "translation": {
-      "en": "As mentioned, the setup for NFS will require several manual actions including:",
-      "nl": "Zoals gezegd vereist de installatie voor NFS verschillende handmatige acties, waaronder:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Ensuring that the mount point preserve the install path",
-      "nl": "- Zorgen dat het aankoppelingspunt het installatiepad behoudt"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Permission must be controlled (for example, write permission should not be given to the mounting machine)",
-      "nl": "- Machtiging moet worden gecontroleerd (er mag bijvoorbeeld geen schrijfmachtiging worden verstrekt aan de opstartende computer)"
-    }
-  },
-  {
-    "translation": {
-      "en": "- DB2 registries have to be set up manually and maintained across all mounting machines",
-      "nl": "- DB2-registers moeten handmatig worden ingesteld en beheerd op alle startende computers"
-    }
-  },
-  {
-    "translation": {
-      "en": "- The list installed DB2 products and features command (db2ls) must be set up and maintained properly if you need to detect DB2 products and features",
-      "nl": "- De opdracht voor het weergeven van geïnstalleerde DB2-producten en -functies (db2ls) moet correct worden ingesteld en beheerd voor als u DB2-producten en -functies zoekt"
-    }
-  },
-  {
-    "translation": {
-      "en": "- More care is required when updating your DB2 product environment",
-      "nl": "- Er is meer zorg vereist bij het bijwerken van de DB2-productomgeving"
-    }
-  },
-  {
-    "translation": {
-      "en": "- More steps are required when cleaning up on the exporting machine and the mounting machine",
-      "nl": "- Er zijn meer procedurestappen vereist bij het opschonen van de exportcomputer en de opgestarte computer"
-    }
-  },
-  {
-    "translation": {
-      "en": "For detailed instructions, look for the \"Setting Up DB2 on NFS Mounted File System\" white paper which will be available soon after DB2 Version 9 is made available.",
-      "nl": "Zie voor gedetailleerde instructies de whitepaper \"Setting Up DB2 on NFS Mounted File System\" die snel na het verschijnen van DB2 Versie 9 beschikbaar is."
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Modifying kernel parameters (Solaris Operating Environment)\" on page 28",
       "nl": "- \"Kernelparameters wijzigen (Solaris Operating Environment)\" op pagina 29"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
     }
   },
   {
@@ -3475,32 +2749,8 @@
   },
   {
     "translation": {
-      "en": "The db2osconf utility can only be run from $DB2DIR/bin, where $DB2DIR is the directory where you installed your DB2 product.",
-      "nl": "Het hulpprogramma db2osconf kan alleen worden gestart vanuit $DB2DIR/bin, waarbij $DB2DIR de directory is waarin het DB2-product is geïnstalleerd."
-    }
-  },
-  {
-    "translation": {
       "en": "You must restart your system after modifying kernel parameters.",
       "nl": "Na het wijzigen van de kernelparameters moet u het systeem opnieuw starten."
-    }
-  },
-  {
-    "translation": {
-      "en": "Prerequisites:",
-      "nl": "Vereisten:"
-    }
-  },
-  {
-    "translation": {
-      "en": "You must have root authority to modify kernel parameters.",
-      "nl": "U moet beschikken over het machtigingsniveau root om kernelparameters te kunnen wijzigen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
     }
   },
   {
@@ -3529,18 +2779,6 @@
   },
   {
     "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"db2osconf - Utility for kernel parameter values command\" in Command Reference",
-      "nl": "\"db2osconf - Utility for kernel parameter values command\" in de publicatie Command Reference"
-    }
-  },
-  {
-    "translation": {
       "en": "DB2 Connect product installation requirements for host and midrange systems",
       "nl": "DB2 Connect-installatievereisten voor hostsystemen en midrange systemen"
     }
@@ -3565,12 +2803,6 @@
   },
   {
     "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Installing DB2 clients (Windows)\" on page 31",
       "nl": "\"DB2-clients installeren (Windows)\" op pagina 31"
     }
@@ -3583,12 +2815,6 @@
   },
   {
     "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Host and iSeries support for DB2 Connect\" in Quick Beginnings for DB2 Connect Servers",
       "nl": "\"Host and iSeries support for DB2 Connect\" in de publicatie Quick Beginnings for DB2 Connect Servers"
     }
@@ -3597,12 +2823,6 @@
     "translation": {
       "en": "Chapter 6.",
       "nl": "Hoofdstuk 6."
-    }
-  },
-  {
-    "translation": {
-      "en": "Installing DB2 clients",
-      "nl": "DB2-clients installeren"
     }
   },
   {
@@ -3679,12 +2899,6 @@
   },
   {
     "translation": {
-      "en": "Prerequisites:",
-      "nl": "Vereisten:"
-    }
-  },
-  {
-    "translation": {
       "en": "A summary of the prerequisites is presented below.",
       "nl": "Hieronder vindt u een overzicht van de vereisten."
     }
@@ -3729,12 +2943,6 @@
     "translation": {
       "en": "The installation program will check these and notify you if there is a problem.",
       "nl": "Het installatieprogramma controleert deze vereisten en geeft aan als er ergens een probleem is."
-    }
-  },
-  {
-    "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
     }
   },
   {
@@ -4003,44 +3211,8 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
       "en": "- \"About the Release Notes\" in Release notes",
       "nl": "- \"About the Release Notes\" in Opmerkingen bij deze release"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"Client-to-server communications configuration overview\" on page 39",
-      "nl": "- \"Overzicht van de configuratie voor client-servercommunicatie\" op pagina 39"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Chapter 1, \"DB2 client setup overview,\" on page 3",
-      "nl": "- Hoofdstuk 1, \"Overzicht van DB2-clientinstallaties\", op pagina 3"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Chapter 3, \"Methods for installing DB2 clients,\" on page 7",
-      "nl": "- Hoofdstuk 3, \"Installatiemethoden voor DB2-clients\", op pagina 7"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Chapter 2, \"Types of clients - DB2 Runtime Client and DB2 Client,\" on page 5",
-      "nl": "- Hoofdstuk 2, \"Typen clients - DB2 Runtime Client en DB2 Client\", op pagina 5"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"Migration overview for DB2 clients\" in Migration Guide",
-      "nl": "- \"Migration overview for DB2 clients\" in de publicatie Migration Guide"
     }
   },
   {
@@ -4051,20 +3223,8 @@
   },
   {
     "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "- \"Installing DB2 servers (Windows)\" in Quick Beginnings for DB2 Servers",
       "nl": "- \"Installing DB2 servers (Windows)\" in de publicatie Quick Beginnings for DB2 Servers"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
     }
   },
   {
@@ -4099,42 +3259,6 @@
   },
   {
     "translation": {
-      "en": "The instructions apply to any DB2 client type, namely the DB2 Client and the DB2 Runtime Client.",
-      "nl": "De instructies gelden voor beide typen DB2-clients, te weten DB2 Client en DB2 Runtime Client."
-    }
-  },
-  {
-    "translation": {
-      "en": "The main procedure covers a simple, but common, case where no DB2 product is already installed.",
-      "nl": "De basisprocedure betreft de eenvoudige maar veel voorkomende situatie waarin er nog geen DB2-product is geïnstalleerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Note that:",
-      "nl": "Opmerkingen:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- If the machine already has a prior version of a client installed, you should first review topics that cover migration.",
-      "nl": "- Als op het systeem al een eerdere versie van een client is geïnstalleerd, bekijk dan eerst de documentatieonderwerpen over migratie."
-    }
-  },
-  {
-    "translation": {
-      "en": "- If the machine already has a DB2 server product installed, it is not necessary to install a client because the DB2 server provides all the capability found in DB2 clients.",
-      "nl": "- Als op het systeem al een DB2-serverproduct is geïnstalleerd, is het niet nodig om de bijbehorende client te installeren, want de DB2-server omvat alle functionaliteit die in de DB2-clients beschikbaar is."
-    }
-  },
-  {
-    "translation": {
-      "en": "- installing a national language (non-English) version.",
-      "nl": "- Installatie van een vertaalde (niet-Engelse) versie."
-    }
-  },
-  {
-    "translation": {
       "en": "- installing on a machine that has an existing DB2 Version 9 client.",
       "nl": "- Installatie op een computer met een bestaande DB2 Versie 9-client."
     }
@@ -4143,18 +3267,6 @@
     "translation": {
       "en": "- installing on a machine that has an existing pre-DB2 Version 9 client.",
       "nl": "- Installatie op een computer met een clientversie ouder dan DB2 Versie 9."
-    }
-  },
-  {
-    "translation": {
-      "en": "Prerequisites:",
-      "nl": "Vereisten:"
-    }
-  },
-  {
-    "translation": {
-      "en": "A summary of the prerequisites is presented below.",
-      "nl": "Hieronder vindt u een overzicht van de vereisten."
     }
   },
   {
@@ -4171,26 +3283,8 @@
   },
   {
     "translation": {
-      "en": "- You have located a CD or other install image that you need.",
-      "nl": "- U hebt de te gebruiken CD al klaargelegd of het benodigde installatie-image gevonden."
-    }
-  },
-  {
-    "translation": {
       "en": "- You have a user account with root authority to perform the installation.",
       "nl": "- U beschikt over een gebruikersaccount met het machtigingsniveau root om de installatie te kunnen uitvoeren."
-    }
-  },
-  {
-    "translation": {
-      "en": "- Your system meets all memory, disk space, and installation requirements.",
-      "nl": "- Het systeem voldoet aan alle eisen wat betreft beschikbaar geheugen, schijfruimte en overige installatievereisten."
-    }
-  },
-  {
-    "translation": {
-      "en": "The installation program will check these and notify you if there is a problem.",
-      "nl": "Het installatieprogramma controleert deze vereisten en geeft aan als er ergens een probleem is."
     }
   },
   {
@@ -4203,12 +3297,6 @@
     "translation": {
       "en": "This is also recommended for Linux.",
       "nl": "Dit wordt ook aanbevolen voor Linux."
-    }
-  },
-  {
-    "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
     }
   },
   {
@@ -4261,12 +3349,6 @@
   },
   {
     "translation": {
-      "en": "Help is available in the wizard to guide you through the remaining steps.",
-      "nl": "Binnen de wizard is Help-informatie beschikbaar om u door de resterende stappen te leiden."
-    }
-  },
-  {
-    "translation": {
       "en": "When installation is complete, the DB2 client is installed by default in the following directories:",
       "nl": "Wanneer de installatie is voltooid, bevindt de DB2-client zich standaard in de volgende directory:"
     }
@@ -4285,12 +3367,6 @@
   },
   {
     "translation": {
-      "en": "This installation does not include product documentation.",
-      "nl": "Deze installatie omvat geen productdocumentatie."
-    }
-  },
-  {
-    "translation": {
       "en": "See the related links for options for installing or accessing the DB2 Information Center.",
       "nl": "Zie de verwante links voor informatie over de installatie van en de toegang tot het DB2 Informatiecentrum."
     }
@@ -4299,12 +3375,6 @@
     "translation": {
       "en": "After installing your DB2 client, the next step is to configure it to access a remote DB2 server.",
       "nl": "Na de installatie van de DB2-client is de volgende stap de configuratie van de toegang tot een DB2-server op afstand."
-    }
-  },
-  {
-    "translation": {
-      "en": "Notes on national language installations:",
-      "nl": "Opmerkingen over de installatie van taalspecifieke versies:"
     }
   },
   {
@@ -4381,56 +3451,8 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"About the Release Notes\" in Release notes",
-      "nl": "- \"About the Release Notes\" in Opmerkingen bij deze release"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"Client-to-server communications configuration overview\" on page 39",
-      "nl": "- \"Overzicht van de configuratie voor client-servercommunicatie\" op pagina 39"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Chapter 1, \"DB2 client setup overview,\" on page 3",
-      "nl": "- Hoofdstuk 1, \"Overzicht van DB2-clientinstallaties\", op pagina 3"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"DB2 Information Center installation options\" in Quick Beginnings for DB2 Servers",
-      "nl": "- \"DB2 Information Center installation options\" in de publicatie Quick Beginnings for DB2 Servers"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"Migration overview for DB2 clients\" in Migration Guide",
-      "nl": "- \"Migration overview for DB2 clients\" in de publicatie Migration Guide"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "- \"Uninstalling your DB2 product (Linux and UNIX)\" in Quick Beginnings for DB2 Servers",
       "nl": "- \"Uninstalling your DB2 product (Linux and UNIX)\" in de publicatie Quick Beginnings for DB2 Servers"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
     }
   },
   {
@@ -4485,12 +3507,6 @@
     "translation": {
       "en": "Chapter 7.",
       "nl": "Hoofdstuk 7."
-    }
-  },
-  {
-    "translation": {
-      "en": "Client-to-server communications configuration overview",
-      "nl": "Overzicht van de configuratie voor client-servercommunicatie"
     }
   },
   {
@@ -4855,18 +3871,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Note:",
-      "nl": "Opmerking:"
-    }
-  },
-  {
-    "translation": {
       "en": "Profiles are used in some methods for configuring client-to-server communications.",
       "nl": "In sommige methoden worden profielen gebruikt voor de configuratie van client-servercommunicatie."
     }
@@ -4915,38 +3919,14 @@
   },
   {
     "translation": {
-      "en": "Note:",
-      "nl": "Opmerking:"
-    }
-  },
-  {
-    "translation": {
       "en": "Configuring a database connection by searching the network with the Configuration Assistant is not a recommended method for DB2 Connect customers connecting to databases on midrange or mainframe platforms.",
       "nl": "De configuratie van een databaseverbinding via het doorzoeken van het netwerk met de Configuration Assistant is niet een aanbevolen methode voor DB2 Connect-gebruikers die verbinding willen maken met databases op midrange- of mainframeplatforms."
     }
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Chapter 1, \"DB2 client setup overview,\" on page 3",
-      "nl": "- Hoofdstuk 1, \"Overzicht van DB2-clientinstallaties\", op pagina 3"
-    }
-  },
-  {
-    "translation": {
       "en": "- \"LDAP considerations for the Configuration Assistant\" on page 50",
       "nl": "- \"LDAP-overwegingen voor de Configuration Assistant\" op pagina 50"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
     }
   },
   {
@@ -4981,12 +3961,6 @@
   },
   {
     "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"db2cfexp - Connectivity configuration export tool command\" in Command Reference",
       "nl": "\"db2cfexp - Connectivity configuration export tool command\" in de publicatie Command Reference"
     }
@@ -4995,12 +3969,6 @@
     "translation": {
       "en": "\"db2cfimp - Connectivity configuration import tool command\" in Command Reference",
       "nl": "\"db2cfimp - Connectivity configuration import tool command\" in de publicatie Command Reference"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"Communication protocols supported\" on page 42",
-      "nl": "\"Ondersteunde communicatieprotocollen\" op pagina 42"
     }
   },
   {
@@ -5073,12 +4041,6 @@
     "translation": {
       "en": "To administer a Version 9 DB2 database remotely, you must connect using TCP/IP.",
       "nl": "Voor het beheer van een niet-lokale DB2-database van Versie 9 moet u gebruikmaken van TCP/IP."
-    }
-  },
-  {
-    "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
     }
   },
   {
@@ -5269,20 +4231,8 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"About the Release Notes\" in Release notes",
       "nl": "\"About the Release Notes\" in Opmerkingen bij deze release"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"Client-to-server communications configuration overview\" on page 39",
-      "nl": "\"Overzicht van de configuratie voor client-servercommunicatie\" op pagina 39"
     }
   },
   {
@@ -5341,12 +4291,6 @@
   },
   {
     "translation": {
-      "en": "Prerequisites:",
-      "nl": "Vereisten:"
-    }
-  },
-  {
-    "translation": {
       "en": "Before you configure a connection to a database manually using the Configuration Assistant (CA):",
       "nl": "Voordat u een verbinding met een database handmatig configureert via de Configuration Assistant (CA), moet u zorgen dat u:"
     }
@@ -5361,12 +4305,6 @@
     "translation": {
       "en": "If you are configuring a connection from a system that has a DB2 server or DB2 Connect server product installed, ensure that you have a user ID with SYSADM or SYSCTRL authority for the database manager instance.",
       "nl": "Als u een verbinding configureert vanaf een systeem waarop een DB2-server of een DB2 Connect-serverproduct is geïnstalleerd, over een gebruikers-ID beschikt met machtigingsniveau SYSADM of SYSCTRL voor databasebeheer."
-    }
-  },
-  {
-    "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
     }
   },
   {
@@ -5461,12 +4399,6 @@
   },
   {
     "translation": {
-      "en": "Click Next.",
-      "nl": "Klik op Next."
-    }
-  },
-  {
-    "translation": {
       "en": "9. If you are planning to use ODBC, register this database as an ODBC data source.",
       "nl": "9. Als u van plan bent gebruik te maken van ODBC, registreer de database dan als ODBC-gegevensbron."
     }
@@ -5475,12 +4407,6 @@
     "translation": {
       "en": "Ensure that ODBC is installed before performing this operation.",
       "nl": "Controleer voordat u dit doet, of ODBC is geïnstalleerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Click Next.",
-      "nl": "Klik op Next."
     }
   },
   {
@@ -5509,12 +4435,6 @@
   },
   {
     "translation": {
-      "en": "Click Next.",
-      "nl": "Klik op Next."
-    }
-  },
-  {
-    "translation": {
       "en": "12. In the Specify the security options window, specify the security option that will be used for authentication.",
       "nl": "12. Geef in het venster Specify the security options de gewenste beveiligingsinstelling voor de verificatie op."
     }
@@ -5539,20 +4459,8 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
       "en": "- \"Client-to-server communications configuration overview\" on page 39",
       "nl": "\"Overzicht van de configuratie voor client-servercommunicatie\" op pagina 39"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
     }
   },
   {
@@ -5571,12 +4479,6 @@
     "translation": {
       "en": "You can use the Configuration Assistant (CA) to search a network for databases.",
       "nl": "U kunt de Configuration Assistant (CA) gebruiken om databases op te zoeken in een netwerk."
-    }
-  },
-  {
-    "translation": {
-      "en": "Prerequisites:",
-      "nl": "Vereisten:"
     }
   },
   {
@@ -5653,26 +4555,8 @@
   },
   {
     "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
-    }
-  },
-  {
-    "translation": {
       "en": "To configure a database connection by searching the network:",
       "nl": "Om een databaseverbinding te configureren via het doorzoeken van het netwerk, gaat u als volgt te werk:"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. Log on to the system with a valid DB2 user ID.",
-      "nl": "1. Meld u bij het systeem aan met een geldig gebruikers-ID voor DB2."
-    }
-  },
-  {
-    "translation": {
-      "en": "3. On the CA menu bar, under Selected, choose Add Database Using Wizard.",
-      "nl": "3. Op de menubalk van CA kiest u onder Selected de optie Add Database Using Wizard."
     }
   },
   {
@@ -5719,12 +4603,6 @@
   },
   {
     "translation": {
-      "en": "Click Next.",
-      "nl": "Klik op Next."
-    }
-  },
-  {
-    "translation": {
       "en": "7. Type a local database alias name in the Database alias field and optionally type a comment that describes this database in the Comment field.",
       "nl": "7. Geef een lokale databasealias op in het veld Database alias en voeg desgewenst een commentaar toe met een beschrijving van de database in het veld Comment."
     }
@@ -5761,20 +4639,8 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Client-to-server communications configuration overview\" on page 39",
       "nl": "- \"Overzicht van de configuratie voor client-servercommunicatie\" op pagina 39"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
     }
   },
   {
@@ -5815,20 +4681,8 @@
   },
   {
     "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
-    }
-  },
-  {
-    "translation": {
       "en": "To create a client profile using the CA:",
       "nl": "U maakt als volgt een clientprofiel met behulp van de CA:"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. Log on to the system with a valid DB2 user ID.",
-      "nl": "1. Meld u bij het systeem aan met een geldig gebruikers-ID voor DB2."
     }
   },
   {
@@ -5877,12 +4731,6 @@
     "translation": {
       "en": "If you want to create a profile that contains all of the databases cataloged on your system without any of the configuration information for this client.",
       "nl": "Als u een profiel wilt maken dat informatie bevat over alle databases die zijn opgenomen in de systeemcatalogus, maar niet de configuratiegegevens voor deze client."
-    }
-  },
-  {
-    "translation": {
-      "en": "Type a name for your client profile and click Save.",
-      "nl": "Typ een naam voor het clientprofiel en kies Save."
     }
   },
   {
@@ -5959,24 +4807,6 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"Client-to-server communications configuration overview\" on page 39",
-      "nl": "\"Overzicht van de configuratie voor client-servercommunicatie\" op pagina 39"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Configuring database connections using a client profile with the Configuration Assistant\" on page 48",
       "nl": "\"Databaseverbindingen configureren met behulp van een clientprofiel met de Configuration Assistant\" op pagina 49"
     }
@@ -5995,26 +4825,8 @@
   },
   {
     "translation": {
-      "en": "This task is part of a larger task of setting up one or more clients using the settings from an existing client.",
-      "nl": "Deze taak is onderdeel van de omvangrijkere taak van het configureren van een of meer clients op basis van de instellingen van een bestaande client."
-    }
-  },
-  {
-    "translation": {
       "en": "These steps can be repeated for each client you want to configure.",
       "nl": "U kunt deze stappen herhalen voor elke client die u wilt configureren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. Log on to the system with a valid DB2 user ID.",
-      "nl": "1. Meld u bij het systeem aan met een geldig gebruikers-ID voor DB2."
     }
   },
   {
@@ -6037,12 +4849,6 @@
   },
   {
     "translation": {
-      "en": "All",
-      "nl": "All"
-    }
-  },
-  {
-    "translation": {
       "en": "Select this option to import everything in a client profile.",
       "nl": "Selecteer deze optie als u alle gegevens in een clientprofiel wilt importeren."
     }
@@ -6051,12 +4857,6 @@
     "translation": {
       "en": "Open the client profile you want to import.",
       "nl": "Open het clientprofiel dat u wilt importeren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Customize",
-      "nl": "Customize"
     }
   },
   {
@@ -6109,24 +4909,6 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"Client-to-server communications configuration overview\" on page 39",
-      "nl": "\"Overzicht van de configuratie voor client-servercommunicatie\" op pagina 39"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Creating a client profile using the Configuration Assistant\" on page 47",
       "nl": "\"Clientprofiel maken met de Configuration Assistant\" op pagina 48"
     }
@@ -6141,12 +4923,6 @@
     "translation": {
       "en": "Your database connection should be tested after you configure it.",
       "nl": "Nadat u een databaseverbinding hebt geconfigureerd, is het raadzaam om deze eerst te testen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
     }
   },
   {
@@ -6211,32 +4987,8 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"Client-to-server communications configuration overview\" on page 39",
-      "nl": "- \"Overzicht van de configuratie voor client-servercommunicatie\" op pagina 39"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Configuring a database connection by searching the network using the Configuration Assistant\" on page 46",
       "nl": "- \"Databaseverbinding configureren door het netwerk te doorzoeken met de Configuration Assistant\" op pagina 46"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"Configuring a database connection manually using the Configuration Assistant\" on page 45",
-      "nl": "- \"Databaseverbinding handmatig configureren met de Configuration Assistant\" op pagina 45"
     }
   },
   {
@@ -6295,18 +5047,6 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"Client-to-server communications configuration overview\" on page 39",
-      "nl": "- \"Overzicht van de configuratie voor client-servercommunicatie\" op pagina 39"
-    }
-  },
-  {
-    "translation": {
       "en": "Chapter 9.",
       "nl": "Hoofdstuk 9."
     }
@@ -6327,12 +5067,6 @@
     "translation": {
       "en": "This task describes how to configure a connection from a DB2 client to a remote database server using the command line processor (CLP).",
       "nl": "Deze taak beschrijft de configuratie vanaf de opdrachtregel van een verbinding van een DB2-client naar een databaseserver op afstand."
-    }
-  },
-  {
-    "translation": {
-      "en": "Prerequisites:",
-      "nl": "Vereisten:"
     }
   },
   {
@@ -6457,24 +5191,6 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"Client-to-server communications configuration overview\" on page 39",
-      "nl": "- \"Overzicht van de configuratie voor client-servercommunicatie\" op pagina 39"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "- \"Updating hosts and services files for TCP/IP connections\" on page 53",
       "nl": "- \"De bestanden hosts en services bijwerken voor TCP/IP-verbindingen\" op pagina 54"
     }
@@ -6501,12 +5217,6 @@
     "translation": {
       "en": "- \"Testing the client-to-server connection using the CLP\" on page 59",
       "nl": "- \"Client-serververbinding testen vanuit de opdrachtregelinterface\" op pagina 60"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
     }
   },
   {
@@ -6547,18 +5257,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "- \"Cataloging a TCP/IP node from a client using the CLP\" on page 55",
       "nl": "\"TCP/IP-knooppunt vanaf opdrachtregel toevoegen aan clientcatalogus\" op pagina 55"
     }
@@ -6585,18 +5283,6 @@
     "translation": {
       "en": "Use the following worksheet to help identify the required parameter values for configuring Named Pipes communications.",
       "nl": "Gebruik het onderstaande werkblad als hulpmiddel bij het bepalen van de waarden van de vereiste parameters voor de configuratie van Named Pipes-communicatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
     }
   },
   {
@@ -6775,30 +5461,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"Cataloging a TCP/IP node from a client using the CLP\" on page 55",
-      "nl": "\"TCP/IP-knooppunt vanaf opdrachtregel toevoegen aan clientcatalogus\" op pagina 55"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"Configuring client-to-server connections using the command line processor\" on page 51",
-      "nl": "\"Client-serververbindingen configureren met de opdrachtregelinterface (CLP)\" op pagina 51"
-    }
-  },
-  {
-    "translation": {
       "en": "Cataloging a server node from a client",
       "nl": "Een catalogus voor een serverknooppunt maken vanaf een client"
     }
@@ -6823,12 +5485,6 @@
   },
   {
     "translation": {
-      "en": "Prerequisites:",
-      "nl": "Vereisten:"
-    }
-  },
-  {
-    "translation": {
       "en": "You must have System Administrative (SYSADM) or System Controller (SYSCTRL) authority, or have the catalog_noauth option set to ON.",
       "nl": "U moet beschikken over het machtigingsniveau Systeembeheer (SYSADM) of Systeembesturing (SYSCTRL), of zorgen dat de optie catalog_noauth is ingesteld op ON."
     }
@@ -6837,12 +5493,6 @@
     "translation": {
       "en": "You cannot catalog a node using root authority.",
       "nl": "U kunt een knooppunt niet opnemen in de catalogus met het machtigingsniveau root."
-    }
-  },
-  {
-    "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
     }
   },
   {
@@ -6973,12 +5623,6 @@
   },
   {
     "translation": {
-      "en": "Example:",
-      "nl": "Voorbeeld:"
-    }
-  },
-  {
-    "translation": {
       "en": "To catalog a node that you want to call db2node on a remote server myserver.ibm.com that is using port number 50000, you would enter the following from a db2 prompt:",
       "nl": "Als u een knooppunt in de catalogus wilt opnemen met de naam db2 node op de server op afstand mijnserver.ibm.com die het poortnummer 50000 gebruikt, geeft u het volgende op achter een db2-aanwijzing:"
     }
@@ -7015,12 +5659,6 @@
   },
   {
     "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Cataloging a database from a client using the CLP\" on page 57",
       "nl": "- \"Database vanaf opdrachtregel toevoegen aan clientcatalogus\" op pagina 58"
     }
@@ -7029,12 +5667,6 @@
     "translation": {
       "en": "\"Configuring client-to-server connections using the command line processor\" on page 51",
       "nl": "- \"Client-serververbindingen configureren met de opdrachtregelinterface (CLP)\" op pagina 51"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
     }
   },
   {
@@ -7069,12 +5701,6 @@
   },
   {
     "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
-    }
-  },
-  {
-    "translation": {
       "en": "To catalog a Named Pipes node on a DB2 client, type the following command in the command line processor (CLP):",
       "nl": "Gebruik in de opdrachtregelinterface de volgende opdracht om een Named Pipes-knooppunt op te nemen in de catalogus op een DB2-client:"
     }
@@ -7093,18 +5719,6 @@
   },
   {
     "translation": {
-      "en": "db2 => terminate",
-      "nl": "db2 => terminate"
-    }
-  },
-  {
-    "translation": {
-      "en": "Example:",
-      "nl": "Voorbeeld:"
-    }
-  },
-  {
-    "translation": {
       "en": "To catalog a remote node called db2node that is located on a server called server1 in the db2 instance, use:",
       "nl": "Als u een knooppunt op afstand, db2 node, dat zich bevindt op de server server1, wilt opnemen in de catalogus van het subsysteem db2, geeft u de volgende opdracht op:"
     }
@@ -7117,44 +5731,8 @@
   },
   {
     "translation": {
-      "en": "db2 => terminate",
-      "nl": "db2 => terminate"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"Cataloging a database from a client using the CLP\" on page 57",
-      "nl": "- \"Database vanaf opdrachtregel toevoegen aan clientcatalogus\" op pagina 58"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"Configuring client-to-server connections using the command line processor\" on page 51",
-      "nl": "- \"Client-serververbindingen configureren met de opdrachtregelinterface (CLP)\" op pagina 51"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
-    }
-  },
-  {
-    "translation": {
       "en": "- \"CATALOG NAMED PIPE NODE command\" in Command Reference",
       "nl": "- \"CATALOG NAMED PIPE NODE command\" in de publicatie Command Reference"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"Named Pipes worksheet for configuring Named Pipes on the client\" on page 53",
-      "nl": "- \"Named Pipes-werkblad voor de configuratie van Named Pipes op de client\" op pagina 53"
     }
   },
   {
@@ -7191,12 +5769,6 @@
     "translation": {
       "en": "The information in the database directory, along with the information in the node directory (unless you are cataloging a local database where a node is not needed), is used on the DB2 client to establish a connection to the remote database.",
       "nl": "De informatie in de databasedirectory wordt, samen met de informatie in de knooppuntdirectory (tenzij u een lokale database aan de catalogus toevoegt waarvoor geen knooppunt nodig is), op de DB2-client gebruikt om een verbinding tot stand te brengen met de database op afstand."
-    }
-  },
-  {
-    "translation": {
-      "en": "Prerequisites:",
-      "nl": "Vereisten:"
     }
   },
   {
@@ -7267,32 +5839,8 @@
   },
   {
     "translation": {
-      "en": "-- Database name",
-      "nl": "-- Databasenaam"
-    }
-  },
-  {
-    "translation": {
       "en": "-- Drive",
       "nl": "-- Station"
-    }
-  },
-  {
-    "translation": {
-      "en": "-- Database alias",
-      "nl": "-- Databasealias"
-    }
-  },
-  {
-    "translation": {
-      "en": "-- Authentication type (optional)",
-      "nl": "-- Verificatietype (optioneel)"
-    }
-  },
-  {
-    "translation": {
-      "en": "-- Comment (optional)",
-      "nl": "-- Commentaar (optioneel)"
     }
   },
   {
@@ -7303,20 +5851,8 @@
   },
   {
     "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
-    }
-  },
-  {
-    "translation": {
       "en": "To catalog a database on the client:",
       "nl": "U voegt als volgt een database op de client toe aan de catalogus:"
-    }
-  },
-  {
-    "translation": {
-      "en": "1. Log on to the system with a valid DB2 user ID.",
-      "nl": "1. Meld u bij het systeem aan met een geldig gebruikers-ID voor DB2."
     }
   },
   {
@@ -7339,44 +5875,8 @@
   },
   {
     "translation": {
-      "en": "Run the start-up script:",
-      "nl": "Voer het opstartscript uit:"
-    }
-  },
-  {
-    "translation": {
-      "en": "For bash, Bourne or Korn shell",
-      "nl": "Voor bash-, Bourne- of Korn-shell"
-    }
-  },
-  {
-    "translation": {
-      "en": "INS THOME/sqllib/db2profile",
-      "nl": "INSTHOME/sqllib/db2profile"
-    }
-  },
-  {
-    "translation": {
-      "en": "For C shell",
-      "nl": "Voor C-shell"
-    }
-  },
-  {
-    "translation": {
       "en": "4. Start the DB2 command line processor.",
       "nl": "4. Start de opdrachtregelinterface van DB2."
-    }
-  },
-  {
-    "translation": {
-      "en": "On Windows, issue the db2cmd command from a command prompt.",
-      "nl": "Op een Windows-systeem geeft u de opdracht db2cmd op achter een opdrachtaanwijzing."
-    }
-  },
-  {
-    "translation": {
-      "en": "On UNIX, issue the db2 command from a command prompt.",
-      "nl": "Op een UNIX-systeem geeft u de opdracht db2 op achter een opdrachtaanwijzing."
     }
   },
   {
@@ -7429,12 +5929,6 @@
   },
   {
     "translation": {
-      "en": "Example:",
-      "nl": "Voorbeeld:"
-    }
-  },
-  {
-    "translation": {
       "en": "To catalog a remote database called sample so that it has the local database alias mysample, on the node db2node using authentication server, enter the following commands:",
       "nl": "Als u de database op afstand voorbeeld onder de lokale alias mijnvoorbeeld wilt opnemen in de catalogus op het knooppunt db2node met het verificatietype server, gebruikt u de volgende opdrachten:"
     }
@@ -7443,42 +5937,6 @@
     "translation": {
       "en": "db2 => catalog database sample as mysample at node db2node authentication server",
       "nl": "db2 => catalog database voorbeeld as mijnvoorbeeld at node db2node authentication server"
-    }
-  },
-  {
-    "translation": {
-      "en": "db2 => terminate",
-      "nl": "db2 => terminate"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"Configuring client-to-server connections using the command line processor\" on page 51",
-      "nl": "- \"Client-serververbindingen configureren met de opdrachtregelinterface (CLP)\" op pagina 51"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"Testing the client-to-server connection using the CLP\" on page 59",
-      "nl": "- \"Client-serververbinding testen vanuit de opdrachtregelinterface\" op pagina 60"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"Parameter values worksheet for cataloging a database\" on page 59",
-      "nl": "- \"Werkblad Parameterwaarden voor database toevoegen aan catalogus\" op pagina 60"
     }
   },
   {
@@ -7501,26 +5959,8 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Cataloging a database from a client using the CLP\" on page 57",
       "nl": "\"Database vanaf opdrachtregel toevoegen aan clientcatalogus\" op pagina 58"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"Configuring client-to-server connections using the command line processor\" on page 51",
-      "nl": "\"Client-serververbindingen configureren met de opdrachtregelinterface (CLP)\" op pagina 51"
     }
   },
   {
@@ -7533,12 +5973,6 @@
     "translation": {
       "en": "After cataloging the node and the database, you should connect to the database to test the connection.",
       "nl": "Nadat het knooppunt en de database in de catalogus zijn opgenomen, is het raadzaam om als test de verbinding met de database tot stand te brengen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Prerequisites:",
-      "nl": "Vereisten:"
     }
   },
   {
@@ -7591,12 +6025,6 @@
   },
   {
     "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
-    }
-  },
-  {
-    "translation": {
       "en": "To test the client to server connection:",
       "nl": "U test de verbinding tussen de client en de server als volgt:"
     }
@@ -7609,44 +6037,14 @@
   },
   {
     "translation": {
-      "en": "Run the start-up script:",
-      "nl": "Voer het opstartscript uit:"
-    }
-  },
-  {
-    "translation": {
-      "en": "For bash, Bourne or Korn shell",
-      "nl": "Voor bash-, Bourne- of Korn-shell"
-    }
-  },
-  {
-    "translation": {
       "en": "INSTHOME/sqllib/db2profile",
       "nl": "INSTHOME/sqllib/db2profile"
     }
   },
   {
     "translation": {
-      "en": "For C shell",
-      "nl": "Voor C-shell"
-    }
-  },
-  {
-    "translation": {
       "en": "2. Start the DB2 command line processor.",
       "nl": "2. Start de opdrachtregelinterface van DB2."
-    }
-  },
-  {
-    "translation": {
-      "en": "On Windows, issue the db2cmd command from a command prompt.",
-      "nl": "Op een Windows-systeem geeft u de opdracht db2cmd op achter een opdrachtaanwijzing."
-    }
-  },
-  {
-    "translation": {
-      "en": "On UNIX, issue the db2 command from a command prompt.",
-      "nl": "Op een UNIX-systeem geeft u de opdracht db2 op achter een opdrachtaanwijzing."
     }
   },
   {
@@ -7737,18 +6135,6 @@
     "translation": {
       "en": "When you are finished using the database connection, enter the connect reset command to end the database connection.",
       "nl": "Als u de databaseverbinding niet meer nodig hebt, verbreekt u de verbinding met de opdracht connect reset."
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"Configuring client-to-server connections using the command line processor\" on page 51",
-      "nl": "\"Client-serververbindingen configureren met de opdrachtregelinterface (CLP)\" op pagina 51"
     }
   },
   {
@@ -7885,12 +6271,6 @@
   },
   {
     "translation": {
-      "en": "Notes:",
-      "nl": "Opmerkingen:"
-    }
-  },
-  {
-    "translation": {
       "en": "1. Catalog information must be maintained on each thin-client workstation, just as if it were a regular DB2 client.",
       "nl": "1. Op elk van de thin client-werkstations moeten catalogusgegevens worden bijgehouden, net als in het geval van een gewone DB2-client."
     }
@@ -7939,26 +6319,8 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
       "en": "Chapter 3, \"Methods for installing DB2 clients,\" on page 7",
       "nl": "Hoofdstuk 3, \"Installatiemethoden voor DB2-clients\", op pagina 7"
-    }
-  },
-  {
-    "translation": {
-      "en": "Chapter 2, \"Types of clients - DB2 Runtime Client and DB2 Client,\" on page 5",
-      "nl": "Hoofdstuk 2, \"Typen clients - DB2 Runtime Client en DB2 Client\", op pagina 5"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
     }
   },
   {
@@ -7995,12 +6357,6 @@
     "translation": {
       "en": "The steps are listed below with links to additional details.",
       "nl": "Hieronder vindt u een overzicht van de benodigde stappen plus de links naar aanvullende details."
-    }
-  },
-  {
-    "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
     }
   },
   {
@@ -8049,30 +6405,6 @@
     "translation": {
       "en": "See the related link for details on DB2 Information Center installation options.",
       "nl": "Hieronder vindt u een link voor de details over installatieopties voor het DB2 Informatiecentrum."
-    }
-  },
-  {
-    "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Chapter 10, \"Thin client topology overview (Windows),\" on page 63",
-      "nl": "- Hoofdstuk 10, \"Overzicht thin client-topologie (Windows)\", op pagina 65"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"DB2 Information Center installation options\" in Quick Beginnings for DB2 Servers",
-      "nl": "- \"DB2 Information Center installation options\" in de publicatie Quick Beginnings for DB2 Servers"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
     }
   },
   {
@@ -8131,12 +6463,6 @@
   },
   {
     "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
-    }
-  },
-  {
-    "translation": {
       "en": "To install a DB2 Client or DB2 Connect Personal Edition on the code server:",
       "nl": "U installeert DB2 Client of DB2 Connect Personal Edition als volgt op de codeserver:"
     }
@@ -8173,20 +6499,8 @@
   },
   {
     "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Making the code directory available to all thin workstations (Windows)\" on page 66",
       "nl": "\"De codedirectory rechtstreeks toegankelijk maken voor alle thin client-werkstations (Windows)\" op pagina 70"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"Thin client setup overview (Windows)\" on page 65",
-      "nl": "\"Overzicht thin client-configuratie (Windows)\" op pagina 69"
     }
   },
   {
@@ -8205,12 +6519,6 @@
     "translation": {
       "en": "To load the required code from the code server, each of the target thin workstations must be able to read the directory where the DB2 client or DB2 Connect Personal Edition source code is installed.",
       "nl": "Als u de vereiste code wilt laden vanaf de codeserver, moet elk van de beoogde thin client-werkstations de directory kunnen lezen waarin de broncode van de DB2-client of DB2 Connect Personal Edition is geïnstalleerd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
     }
   },
   {
@@ -8317,32 +6625,14 @@
   },
   {
     "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Creating a thin client response file (Windows)\" on page 67",
       "nl": "\"Responsbestand maken voor thin client (Windows)\" op pagina 71"
     }
   },
   {
     "translation": {
-      "en": "\"Thin client setup overview (Windows)\" on page 65",
-      "nl": "\"Overzicht thin client-configuratie (Windows)\" op pagina 69"
-    }
-  },
-  {
-    "translation": {
       "en": "Creating a thin client response file (Windows)",
       "nl": "Responsbestand maken voor thin client (Windows)"
-    }
-  },
-  {
-    "translation": {
-      "en": "This task is part of the larger task of setting up a thin client environment.",
-      "nl": "Deze taak is onderdeel van de omvangrijkere taak van het configureren van een thin client-omgeving."
     }
   },
   {
@@ -8367,12 +6657,6 @@
     "translation": {
       "en": "You can create a response file for thin client installation by editing the sample response file provided with the DB2 product.",
       "nl": "U kunt een responsbestand voor de thin client-installatie maken door het voorbeeldresponsbestand te bewerken dat deel uitmaakt van het DB2-product."
-    }
-  },
-  {
-    "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
     }
   },
   {
@@ -8485,38 +6769,14 @@
   },
   {
     "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Mapping a network drive from each thin client to the code server (Windows)\" on page 68",
       "nl": "\"Netwerkstation op alle thin clients toewijzen aan de codeserver (Windows)\" op pagina 72"
     }
   },
   {
     "translation": {
-      "en": "\"Thin client setup overview (Windows)\" on page 65",
-      "nl": "\"Overzicht thin client-configuratie (Windows)\" op pagina 69"
-    }
-  },
-  {
-    "translation": {
       "en": "Mapping a network drive from each thin client to the code server (Windows)",
       "nl": "Netwerkstation op alle thin clients toewijzen aan de codeserver (Windows)"
-    }
-  },
-  {
-    "translation": {
-      "en": "This task is part of the larger task of setting up a thin client environment.",
-      "nl": "Deze taak is onderdeel van de omvangrijkere taak van het configureren van een thin client-omgeving."
-    }
-  },
-  {
-    "translation": {
-      "en": "Prerequisites:",
-      "nl": "Vereisten:"
     }
   },
   {
@@ -8529,12 +6789,6 @@
     "translation": {
       "en": "You have access to the code server because a locally defined user account was created on the code server.",
       "nl": "U hebt toegang tot de codeserver omdat er een lokaal gedefinieerd gebruikersaccount is gemaakt op de codeserver."
-    }
-  },
-  {
-    "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
     }
   },
   {
@@ -8587,20 +6841,8 @@
   },
   {
     "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Running the thnsetup command to set up thin clients (Windows)\" on page 68",
       "nl": "\"De opdracht thnsetup uitvoeren om thin clients te configureren (Windows)\" op pagina 73"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"Thin client setup overview (Windows)\" on page 65",
-      "nl": "\"Overzicht thin client-configuratie (Windows)\" op pagina 69"
     }
   },
   {
@@ -8623,12 +6865,6 @@
   },
   {
     "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
-    }
-  },
-  {
-    "translation": {
       "en": "Perform these steps on each workstation that you want to set up as a thin client.",
       "nl": "Voer deze stappen uit op elk werkstation dat u wilt gebruiken als thin client."
     }
@@ -8643,12 +6879,6 @@
     "translation": {
       "en": "The thnsetup command can be entered with the following parameters:",
       "nl": "De opdracht thnsetup kan worden opgegeven met de volgende parameters:"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -8679,12 +6909,6 @@
     "translation": {
       "en": "/U specifies the fully qualified response file name.",
       "nl": "/U de volledig naam van het responsbestand is."
-    }
-  },
-  {
-    "translation": {
-      "en": "This parameter is required.",
-      "nl": "Deze parameter is verplicht."
     }
   },
   {
@@ -8725,12 +6949,6 @@
   },
   {
     "translation": {
-      "en": "This parameter is required.",
-      "nl": "Deze parameter is verplicht."
-    }
-  },
-  {
-    "translation": {
       "en": "/S specifies the share name of the code server where the DB2 product was installed.",
       "nl": "/S de sharenaam is van de codeserver waarop het DB2-product is geïnstalleerd."
     }
@@ -8763,18 +6981,6 @@
     "translation": {
       "en": "The log file should state the reason for failure, as well as a message stating that the setup did not complete.",
       "nl": "Het logboekbestand bevat de oorzaak van de fout en een bericht waarin wordt aangegeven dat de installatie niet is voltooid."
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"Thin client setup overview (Windows)\" on page 65",
-      "nl": "\"Overzicht thin client-configuratie (Windows)\" op pagina 69"
     }
   },
   {
@@ -9169,12 +7375,6 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
       "en": "- \"Response file installation basics\" in Installation and Configuration Supplement",
       "nl": "\"Basisinformatie over installatie via responsbestand\" in de publicatie Supplement voor installatie en configuratie"
     }
@@ -9199,12 +7399,6 @@
   },
   {
     "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Installing a DB2 product using a response file (Windows)\" in Installation and Configuration Supplement",
       "nl": "\"DB2-product installeren via een responsbestand (Windows)\" in de publicatie Supplement voor installatie en configuratie"
     }
@@ -9213,12 +7407,6 @@
     "translation": {
       "en": "\"Response file installation of DB2 overview (Windows)\" in Installation and Configuration Supplement",
       "nl": "\"Overzicht van DB2-installatie via responsbestand (Windows)\" in de publicatie Supplement voor installatie en configuratie"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"Installing DB2 clients (Windows)\" on page 31",
-      "nl": "\"DB2-clients installeren (Windows)\" op pagina 31"
     }
   },
   {
@@ -9289,12 +7477,6 @@
   },
   {
     "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
       "en": "Here are public properties which can be specified to control the installation of a DB2 Runtime Client:",
       "nl": "Hieronder vindt u openbare eigenschappen die kunnen worden opgegeven om de installatie van DB2 Runtime Client aan te passen:"
     }
@@ -9345,42 +7527,6 @@
     "translation": {
       "en": "To install a second copy use:",
       "nl": "U installeert een tweede kopie met de opdracht:"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Chapter 3, \"Methods for installing DB2 clients,\" on page 7",
-      "nl": "- Hoofdstuk 3, \"Installatiemethoden voor DB2-clients\", op pagina 7"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Chapter 4, \"Options for connecting to DB2 databases,\" on page 9",
-      "nl": "- Hoofdstuk 4, \"Opties voor verbindingen met DB2-databases\", op pagina 9"
-    }
-  },
-  {
-    "translation": {
-      "en": "- Chapter 2, \"Types of clients - DB2 Runtime Client and DB2 Client,\" on page 5",
-      "nl": "- Hoofdstuk 2, \"Typen clients - DB2 Runtime Client en DB2 Client\", op pagina 5"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
-      "en": "- \"Installing DB2 clients (Windows)\" on page 31",
-      "nl": "- \"DB2-clients installeren (Windows)\" op pagina 31"
     }
   },
   {
@@ -9565,12 +7711,6 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
       "en": "- \"Features of the DB2 Information Center\" in Online DB2 Information Center",
       "nl": "- \"Functies van het DB2 Informatiecentrum\" in Online DB2 Informatiecentrum"
     }
@@ -9579,12 +7719,6 @@
     "translation": {
       "en": "- \"Sample files\" in Samples Topics",
       "nl": "- \"Sample files\" in Voorbeeldonderwerpen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
     }
   },
   {
@@ -9607,12 +7741,6 @@
   },
   {
     "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
-    }
-  },
-  {
-    "translation": {
       "en": "- \"DB2 technical library in hardcopy or PDF format\" on page 78",
       "nl": "- \"Technische DB2-documentatie in PDF-indeling\" op pagina 84"
     }
@@ -9621,24 +7749,6 @@
     "translation": {
       "en": "DB2 technical library in hardcopy or PDF format",
       "nl": "Technische DB2-documentatie in PDF-indeling"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
     }
   },
   {
@@ -9655,26 +7765,8 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Overview of the DB2 technical information\" on page 77",
       "nl": "\"Overzicht van de technische informatie over DB2\" op pagina 83"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"About the Release Notes\" in Release notes",
-      "nl": "\"About the Release Notes\" in Opmerkingen bij deze release"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
     }
   },
   {
@@ -9745,12 +7837,6 @@
   },
   {
     "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
-    }
-  },
-  {
-    "translation": {
       "en": "To order printed DB2 books:",
       "nl": "U kunt als volgt gedrukte exemplaren van de DB2-boeken bestellen:"
     }
@@ -9817,24 +7903,6 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"Overview of the DB2 technical information\" on page 77",
-      "nl": "\"Overzicht van de technische informatie over DB2\" op pagina 83"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related reference:",
-      "nl": "Verwante onderwerpen:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"DB2 technical library in hardcopy or PDF format\" on page 78",
       "nl": "\"Technische DB2-documentatie in PDF-indeling\" op pagina 84"
     }
@@ -9859,12 +7927,6 @@
   },
   {
     "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
-    }
-  },
-  {
-    "translation": {
       "en": "To invoke SQL state help, open the command line processor and enter:",
       "nl": "Om Help bij de SQL-status op te roepen, opent u het opdrachtvenster en typt u:"
     }
@@ -9879,12 +7941,6 @@
     "translation": {
       "en": "08 displays help for the 08 class code.",
       "nl": "08 wordt er een Help-bericht afgebeeld over klassencode 08."
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
     }
   },
   {
@@ -9919,12 +7975,6 @@
   },
   {
     "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Setting up access to DB2 contextual help and documentation\" in Administration Guide: Implementation",
       "nl": "\"Setting up access to DB2 contextual help and documentation\" in de publicatie Administration Guide: Implementation"
     }
@@ -9945,12 +7995,6 @@
     "translation": {
       "en": "If a topic has not been translated into your preferred language, the DB2 Information Center displays the topic in English.",
       "nl": "Als een onderwerp niet vertaald is in de gewenste taal, wordt het onderwerp in het DB2 Informatiecentrum afgebeeld in het Engels."
-    }
-  },
-  {
-    "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
     }
   },
   {
@@ -10021,38 +8065,14 @@
   },
   {
     "translation": {
-      "en": "2. Ensure your preferred language is specified as the first entry in the list of languages.",
-      "nl": "2. Zorg ervoor dat de gewenste taal is opgegeven als de eerste taal in de lijst van talen."
-    }
-  },
-  {
-    "translation": {
       "en": "To move a language to the top of the list, select the language and click the Move Up button until the language is first in the list of languages.",
       "nl": "Als u een taal in de lijst naar boven wilt verplaatsen, selecteert u de taal en klikt u op de knop Move Up (Omhoog) totdat de desbetreffende taal als eerste in de lijst van talen wordt afgebeeld."
     }
   },
   {
     "translation": {
-      "en": "3. Clear the browser cache and then refresh the page to display the DB2 Information Center in your preferred language.",
-      "nl": "3. Wis de browsercache en vernieuw de pagina om het DB2 Informatiecentrum af te beelden in de gewenste taal."
-    }
-  },
-  {
-    "translation": {
       "en": "On some browser and operating system combinations, you might have to also change the regional settings of your operating system to the locale and language of your choice.",
       "nl": "In bepaalde combinaties van browsers en besturingssystemen moet u mogelijk ook de landinstellingen van het besturingssysteem instellen op de gewenste locale en taal."
-    }
-  },
-  {
-    "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"Overview of the DB2 technical information\" on page 77",
-      "nl": "\"Overzicht van de technische informatie over DB2\" op pagina 83"
     }
   },
   {
@@ -10137,12 +8157,6 @@
     "translation": {
       "en": "3. Stop the stand-alone Information Center, and restart the DB2 Information Center service on your computer.",
       "nl": "3. Stop het stand-alone Informatiecentrum en start de service DB2 Informatiecentrum op uw computer."
-    }
-  },
-  {
-    "translation": {
-      "en": "Procedure:",
-      "nl": "Procedure:"
     }
   },
   {
@@ -10339,30 +8353,6 @@
   },
   {
     "translation": {
-      "en": "On Windows, click Start?",
-      "nl": "Op het besturingssysteem Windows klikt u op Start?"
-    }
-  },
-  {
-    "translation": {
-      "en": "Control Panel?",
-      "nl": "Configuratiescherm?"
-    }
-  },
-  {
-    "translation": {
-      "en": "Administrative Tools?",
-      "nl": "Systeembeheer?"
-    }
-  },
-  {
-    "translation": {
-      "en": "Services.",
-      "nl": "Services."
-    }
-  },
-  {
-    "translation": {
       "en": "Then right-click on DB2 Information Center service and select Start.",
       "nl": "Klik vervolgens met de rechtermuisknop op de service DB2 Informatiecentrum en kies Starten."
     }
@@ -10381,20 +8371,8 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"DB2 Information Center installation options\" in Quick Beginnings for DB2 Servers",
       "nl": "- \"DB2 Information Center installation options\" in de publicatie Quick Beginnings for DB2 Servers"
-    }
-  },
-  {
-    "translation": {
-      "en": "Related tasks:",
-      "nl": "Verwante taken:"
     }
   },
   {
@@ -10489,12 +8467,6 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Visual Explain overview\" in Administration Guide: Implementation",
       "nl": "\"Visual Explain overview\" in de publicatie Administration Guide: Implementation"
     }
@@ -10561,20 +8533,8 @@
   },
   {
     "translation": {
-      "en": "Related concepts:",
-      "nl": "Verwante concepten:"
-    }
-  },
-  {
-    "translation": {
       "en": "\"Introduction to problem determination\" in Troubleshooting Guide",
       "nl": "\"Introduction to problem determination\" in de publicatie Troubleshooting Guide"
-    }
-  },
-  {
-    "translation": {
-      "en": "\"Overview of the DB2 technical information\" on page 77",
-      "nl": "\"Overzicht van de technische informatie over DB2\" op pagina 83"
     }
   },
   {

@@ -13,18 +13,6 @@
   },
   {
     "translation": {
-      "en": "Operating Instructions",
-      "nl": "Gebruiksaanwijzing"
-    }
-  },
-  {
-    "translation": {
-      "en": "BOSCH",
-      "nl": "BOSCH"
-    }
-  },
-  {
-    "translation": {
       "en": "PBS 7 A",
       "nl": "PBS 7 A"
     }
@@ -33,24 +21,6 @@
     "translation": {
       "en": "PBS 7 AE",
       "nl": "PBS 7 AE"
-    }
-  },
-  {
-    "translation": {
-      "en": "Tool Specifications",
-      "nl": "Technische gegevens"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Machine Elements",
-      "nl": "Onderdelen van de machine"
     }
   },
   {
@@ -151,62 +121,8 @@
   },
   {
     "translation": {
-      "en": "* Not all of the accessories illustrated or described are included as standard delivery.",
-      "nl": "* In de gebruiksaanwijzing afgebeeld en beschreven toebehoren wordt niet altijd standaard meegeleverd."
-    }
-  },
-  {
-    "translation": {
-      "en": "Noise/Vibration Information",
-      "nl": "Informatie over geluid en trillingen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Measured values determined according to EN 50 144.",
-      "nl": "Meetwaarden vastgesteld volgens EN 50 144."
-    }
-  },
-  {
-    "translation": {
       "en": "Typically the A-weighted noise levels of the product are: sound pressure level: 89 dB (A); sound power level: 102 dB (A).",
       "nl": "Het A-gewaardeerde geluidsdrukniveau van de machine bedraagt kenmerkend: geluidsdrukniveau 89 dB (A); geluidsvermogenniveau 102 dB (A)."
-    }
-  },
-  {
-    "translation": {
-      "en": "Wear ear protection!",
-      "nl": "Draag oorbeschermers."
-    }
-  },
-  {
-    "translation": {
-      "en": "The typical hand/arm vibration is below 2.5 m/s2.",
-      "nl": "Kenmerkend is dat de trillingen van hand en arm geringer zijn dan 2,5 m/s2."
-    }
-  },
-  {
-    "translation": {
-      "en": "For Your Safety",
-      "nl": "Voor uw veiligheid"
-    }
-  },
-  {
-    "translation": {
-      "en": "In addition, the general safety notes in the enclosed booklet must be observed.",
-      "nl": "Houd u bovendien aan de algemene veiligheidsvoorschriften in de bijgevoegde brochure."
-    }
-  },
-  {
-    "translation": {
-      "en": "Before using for the first time, ask for a practical demonstration.",
-      "nl": "Laat u voor het eerste gebruik praktisch instrueren."
-    }
-  },
-  {
-    "translation": {
-      "en": "Never use the machine with a damaged cable.",
-      "nl": "Gebruik de machine nooit met een beschadigde kabel."
     }
   },
   {
@@ -241,62 +157,14 @@
   },
   {
     "translation": {
-      "en": "Bosch is only able to ensure perfect operation of the machine if the original accessories intended for it are used.",
-      "nl": "Bosch kan een juiste werking van de machine uitsluitend waarborgen wanneer voor deze machine bedoeld origineel toebehoren wordt gebruikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "Intended Use",
-      "nl": "Gebruik volgens bestemming"
-    }
-  },
-  {
-    "translation": {
       "en": "The machine is intended for dry sanding of wood, plastic, metal, filler and coated surfaces -- at high removal rates.",
       "nl": "De machine is bestemd voor het droog vlakschuren met groot afnamevermogen van hout, kunststof, metaal, plamuur en gelakte oppervlakken."
     }
   },
   {
     "translation": {
-      "en": "Dust Extraction",
-      "nl": "Stofafzuiging"
-    }
-  },
-  {
-    "translation": {
-      "en": "The dust that is produced while working can be detrimental to health, inflammable or explosive.",
-      "nl": "Stof dat tijdens de werkzaamheden ontstaat, kan schadelijk voor de gezondheid, brandbaar of explosief zijn."
-    }
-  },
-  {
-    "translation": {
-      "en": "Suitable safety measures are required.",
-      "nl": "Geschikte beschermingsmaatregelen zijn noodzakelijk."
-    }
-  },
-  {
-    "translation": {
       "en": "Examples: Some dusts are regarded as carcinogenic.",
       "nl": "Bijvoorbeeld: sommige soorten stof worden beschouwd als kankerverwekkend."
-    }
-  },
-  {
-    "translation": {
-      "en": "Use suitable dust/chip extraction and wear a dust respirator.",
-      "nl": "Gebruik een geschikte afzuiging voor stof en spanen en draag een stofmasker."
-    }
-  },
-  {
-    "translation": {
-      "en": "Dust from light alloys can burn or explode.",
-      "nl": "Stof van lichte metalen kan ontvlammen of exploderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Always keep the workplace clean, as blends of materials are particularly dangerous.",
-      "nl": "Houd de werkomgeving altijd schoon omdat materiaalmengsels bijzonder gevaarlijk zijn."
     }
   },
   {
@@ -361,12 +229,6 @@
   },
   {
     "translation": {
-      "en": "Before any work on the machine itself, pull the mains plug.",
-      "nl": "Trek altijd voor werkzaamheden aan de machine de stekker uit het stopcontact."
-    }
-  },
-  {
-    "translation": {
       "en": "Swivel out the clamping lever 12 fully.",
       "nl": "Draai de spanhendel 12 geheel naar buiten."
     }
@@ -423,12 +285,6 @@
     "translation": {
       "en": "Should the belt run still not be centered after this, the sanding belt is to be replaced.",
       "nl": "Wanneer de bandloop daarna weer niet gecentreerd is, moet de schuurband worden vervangen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Switching On and Off",
-      "nl": "In- en uitschakelen"
     }
   },
   {
@@ -589,30 +445,6 @@
   },
   {
     "translation": {
-      "en": "The threads 4 are the fastening points for the parallel guide.",
-      "nl": "De schroefdraadgaten 4 zijn bevestigingspunten voor de parallelgeleider."
-    }
-  },
-  {
-    "translation": {
-      "en": "Maintenance and Cleaning",
-      "nl": "Onderhoud en reiniging"
-    }
-  },
-  {
-    "translation": {
-      "en": "Before any work on the machine itself, pull the mains plug.",
-      "nl": "Trek altijd voor werkzaamheden aan de machine de stekker uit het stopcontact."
-    }
-  },
-  {
-    "translation": {
-      "en": "For safe and proper working, always keep the machine and the ventilation slots clean.",
-      "nl": "Houd de machine en de ventilatieopeningen altijd schoon om goed en veilig te werken."
-    }
-  },
-  {
-    "translation": {
       "en": "Remove adherent sanding dust with a point brush.",
       "nl": "Verwijder vastzittend schuurstof met een kwast."
     }
@@ -621,36 +453,6 @@
     "translation": {
       "en": "Remove the access clip 13 from time to time and clean the inside area, to ensure optimum extraction performance (see figure C).",
       "nl": "Verwijder van tijd tot tijd de afscherming 13 en maak de omgeving schoon zodat de zuigcapaciteit optimaal in stand blijft (zie afbeelding C)."
-    }
-  },
-  {
-    "translation": {
-      "en": "In all correspondence and spare parts orders, please always include the 10-digit order number given on the nameplate of the machine.",
-      "nl": "Vermeld bij vragen en bestellingen van vervangingsonderdelen altijd het bestelnummer van 10 cijfers van de machine."
-    }
-  },
-  {
-    "translation": {
-      "en": "Environmental Protection",
-      "nl": "Milieubescherming"
-    }
-  },
-  {
-    "translation": {
-      "en": "Recycle raw materials instead of disposing as waste.",
-      "nl": "Terugwinnen van grondstoffen in plaats van het weggooien van afval."
-    }
-  },
-  {
-    "translation": {
-      "en": "The plastic components are labelled for categorized recycling.",
-      "nl": "De kunststof delen zijn gekenmerkt om ze per soort te kunnen recyclen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Service and Customer Assistance",
-      "nl": "Technische dienst en klantenservice"
     }
   },
   {

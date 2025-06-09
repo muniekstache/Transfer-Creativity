@@ -1,12 +1,6 @@
 [
   {
     "translation": {
-      "en": "Instruction for use",
-      "nl": "Gebruiksaanwijzing"
-    }
-  },
-  {
-    "translation": {
       "en": "This is a Household appliance, which is not intended for commercial use.",
       "nl": "Dit apparaat is uitsluitend bedoeld voor huishoudelijk en niet voor zakelijk gebruik."
     }
@@ -55,12 +49,6 @@
   },
   {
     "translation": {
-      "en": "Keep children away from the appliance.",
-      "nl": "Houd kinderen uit de buurt van het apparaat."
-    }
-  },
-  {
-    "translation": {
       "en": "Do not use the appliance to cut frozen foods!",
       "nl": "Het apparaat mag uitsluitend worden gebruikt voor het snijden van niet-bevroren levensmiddelen."
     }
@@ -73,12 +61,6 @@
   },
   {
     "translation": {
-      "en": "Risk of electric shock!",
-      "nl": "Gevaar van een elektrische schok!"
-    }
-  },
-  {
-    "translation": {
       "en": "Do not use the device next to a sink full of water!",
       "nl": "Het apparaat niet gebruiken naast een met water gevulde afwasbak!"
     }
@@ -87,12 +69,6 @@
     "translation": {
       "en": "Clean the device thoroughly before it is used for the first time.",
       "nl": "Het apparaat grondig reinigen voor het eerste gebruik."
-    }
-  },
-  {
-    "translation": {
-      "en": "Attention!",
-      "nl": "Attentie!"
     }
   },
   {
@@ -199,20 +175,8 @@
   },
   {
     "translation": {
-      "en": "- Press ON safety device, then",
-      "nl": "- Inschakelblokkering indrukken, daarna"
-    }
-  },
-  {
-    "translation": {
       "en": "- Press the ON button until it locks into position.",
       "nl": "- inschakelknop indrukken tot deze vastklikt."
-    }
-  },
-  {
-    "translation": {
-      "en": "The ON safety device can now be released.",
-      "nl": "U kunt nu de inschakelblokkering loslaten."
     }
   },
   {
@@ -331,12 +295,6 @@
   },
   {
     "translation": {
-      "en": "Fig. 11",
-      "nl": "Afb. 11"
-    }
-  },
-  {
-    "translation": {
       "en": "- Wind up the cable and lock the plug into position.",
       "nl": "- Snoer opwikkelen en de stekker laten vastklikken."
     }
@@ -381,12 +339,6 @@
     "translation": {
       "en": "Pull the plug and remove the blade before cleaning.",
       "nl": "Voor reiniging de stekker uit het stopcontact trekken en het mes verwijderen."
-    }
-  },
-  {
-    "translation": {
-      "en": "Attention!",
-      "nl": "Attentie!"
     }
   },
   {
@@ -495,42 +447,6 @@
     "translation": {
       "en": "If the appliance fails to function properly, remove the stop plate once more and repeat the procedure.",
       "nl": "Als het niet werkt: de aanslagplaat nogmaals verwijderen en de handeling herhalen."
-    }
-  },
-  {
-    "translation": {
-      "en": "The appliance is maintenance-free.",
-      "nl": "Het apparaat is onderhoudsvrij."
-    }
-  },
-  {
-    "translation": {
-      "en": "Guarantee",
-      "nl": "Garantie"
-    }
-  },
-  {
-    "translation": {
-      "en": "The guarantee conditions for this appliance are as defined by our representative in the country in which it is sold.",
-      "nl": "Voor dit apparaat gelden de garantievoorwaarden die worden uitgegeven door de vertegenwoordiging van ons bedrijf in het land van aankoop."
-    }
-  },
-  {
-    "translation": {
-      "en": "Details regarding these conditions can be obtained from the dealer from whom the appliance was purchased.",
-      "nl": "De leverancier bij wie u het apparaat hebt gekocht, geeft u hierover graag meer informatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "The bill of sale or receipt must be produced when making any claim under the terms of this guarantee.",
-      "nl": "Om aanspraak te maken op de garantie hebt u altijd uw aankoopbewijs nodig."
-    }
-  },
-  {
-    "translation": {
-      "en": "Subject to alterations.",
-      "nl": "Wijzigingen voorbehouden."
     }
   }
 ]

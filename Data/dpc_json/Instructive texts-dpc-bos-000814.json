@@ -31,12 +31,6 @@
   },
   {
     "translation": {
-      "en": "Connect and operate the appliance only in accordance with the specifications on the rating plate.",
-      "nl": "Het apparaat uitsluitend aansluiten en gebruiken volgens de gegevens op het typeplaatje."
-    }
-  },
-  {
-    "translation": {
       "en": "Children or people whose physical, sensory or mental abilities prevent them from using the appliance safely must be kept away from the appliance.",
       "nl": "Kinderen of personen van wie de lichamelijke, sensorische of geestelijke vermogens een veilig gebruik niet toestaan, moeten uit de buurt van het apparaat worden gehouden."
     }
@@ -151,12 +145,6 @@
   },
   {
     "translation": {
-      "en": "Risk of electric shock!",
-      "nl": "Gevaar van elektrische schok!"
-    }
-  },
-  {
-    "translation": {
       "en": "Before cleaning the appliance, pull out the mains plug.",
       "nl": "Voor het reinigen de stekker uit het stopcontact trekken."
     }
@@ -205,26 +193,8 @@
   },
   {
     "translation": {
-      "en": "Guarantee",
-      "nl": "Garantie"
-    }
-  },
-  {
-    "translation": {
-      "en": "The guarantee conditions for this appliance are as defined by our representative in the country in which it is sold.",
-      "nl": "Voor dit apparaat gelden de garantievoorwaarden die worden uitgegeven door de vertegenwoordiging van ons bedrijf in het land van aankoop."
-    }
-  },
-  {
-    "translation": {
       "en": "Details regarding these conditions can be obtained from the dealer from whom the appliance was purchased.",
       "nl": "De leverancier bij wie u het apparaat hebt gekocht, geeft u hierover graag meer informatie."
-    }
-  },
-  {
-    "translation": {
-      "en": "The bill of sale or receipt must be produced when making any claim under the terms of this guarantee.",
-      "nl": "Om aanspraak te maken op de garantie hebt u altijd uw aankoopbewijs nodig."
     }
   },
   {
@@ -237,12 +207,6 @@
     "translation": {
       "en": "This appliance is labelled in accordance with European Directive 2002/96/EG concerning used electrical and electronic appliances (waste electrical and electronic equipment - WEEE).",
       "nl": "Dit apparaat is gekenmerkt in overeenstemming met de Europese richtlijn 2002/96/EG betreffende afgedankte elektrische en elektronische apparatuur (waste electrical and electronic equipment - WEEE)."
-    }
-  },
-  {
-    "translation": {
-      "en": "The guideline determines the framework for the return and recycling of used appliances as applicable throughout the EU.",
-      "nl": "De richtlijn geeft het kader aan voor de in de EU geldige terugneming en verwerking van oude apparaten."
     }
   }
 ]

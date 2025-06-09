@@ -1,12 +1,6 @@
 [
   {
     "translation": {
-      "en": "Operating instructions",
-      "nl": "Gebruiksaanwijzing"
-    }
-  },
-  {
-    "translation": {
       "en": "These operating instructions describe several models:",
       "nl": "Deze gebruiksaanwijzing beschrijft verschillende modellen:"
     }
@@ -25,38 +19,8 @@
   },
   {
     "translation": {
-      "en": "This appliance is designed for domestic and not industrial use.",
-      "nl": "Dit apparaat is bedoeld voor huishoudelijk en niet voor zakelijk gebruik."
-    }
-  },
-  {
-    "translation": {
       "en": "Use the appliance for processing normal quantities of food for domestic use.",
       "nl": "Gebruik het apparaat uitsluitend voor verwerkingshoeveelheden en -tijden die gebruikelijk zijn in het huishouden."
-    }
-  },
-  {
-    "translation": {
-      "en": "The appliance is maintenance-free.",
-      "nl": "Het apparaat is onderhoudsvrij."
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "<!TABLE!>",
-      "nl": "<!TABLE!>"
-    }
-  },
-  {
-    "translation": {
-      "en": "Risk of electric shock!",
-      "nl": "Gevaar van elektrische schok!"
     }
   },
   {
@@ -199,18 +163,6 @@
   },
   {
     "translation": {
-      "en": "Cleaning and servicing",
-      "nl": "Reinigen en onderhoud"
-    }
-  },
-  {
-    "translation": {
-      "en": "Risk of electric shock!",
-      "nl": "Gevaar van elektrische schok!"
-    }
-  },
-  {
-    "translation": {
       "en": "Before working on the appliance, always pull out the mains plug!",
       "nl": "Voor werkzaamheden aan het apparaat altijd de stekker uit het stopcontact trekken!"
     }
@@ -247,20 +199,8 @@
   },
   {
     "translation": {
-      "en": "Do not use abrasive cleaning agents.",
-      "nl": "Geen schurende reinigingsmiddelen gebruiken."
-    }
-  },
-  {
-    "translation": {
       "en": "Wipe the motor compartment with a damp cloth only.",
       "nl": "Het motorgedeelte schoonvegen met een vochtige doek."
-    }
-  },
-  {
-    "translation": {
-      "en": "If required, use a little washing-up liquid.",
-      "nl": "Zo nodig een beetje afwasmiddel gebruiken."
     }
   },
   {
@@ -379,18 +319,6 @@
   },
   {
     "translation": {
-      "en": "Troubleshooting",
-      "nl": "Hulp bij storingen"
-    }
-  },
-  {
-    "translation": {
-      "en": "Risk of electric shock!",
-      "nl": "Gevaar van elektrische schok!"
-    }
-  },
-  {
-    "translation": {
       "en": "Before rectifying a fault, pull out the mains plug!",
       "nl": "De stekker uit het stopcontact trekken voordat u een storing verhelpt!"
     }
@@ -475,12 +403,6 @@
   },
   {
     "translation": {
-      "en": "Mayonnaise",
-      "nl": "Mayonaise"
-    }
-  },
-  {
-    "translation": {
       "en": "Note: Mayonnaise can be prepared in the blender with whole eggs only.",
       "nl": "N.B.: In de mixer kan alleen mayonaise uit hele eieren worden bereid."
     }
@@ -489,12 +411,6 @@
     "translation": {
       "en": "Basic recipe:",
       "nl": "Basisrecept:"
-    }
-  },
-  {
-    "translation": {
-      "en": "1 egg",
-      "nl": "1 ei"
     }
   },
   {
@@ -751,12 +667,6 @@
   },
   {
     "translation": {
-      "en": "80 g/3 oz sugar",
-      "nl": "80 g suiker"
-    }
-  },
-  {
-    "translation": {
       "en": "Few drops of vanilla essence",
       "nl": "1 pakje vanillesuiker"
     }
@@ -865,12 +775,6 @@
   },
   {
     "translation": {
-      "en": "Guarantee",
-      "nl": "Garantie"
-    }
-  },
-  {
-    "translation": {
       "en": "The guarantee conditions for this appliance are as defined by our representative in the country in which it is sold.",
       "nl": "Voor dit apparaat gelden de garantievoorwaarden die worden uitgegeven door de vertegenwoordiging van ons bedrijf in het land van aankoop."
     }
@@ -885,12 +789,6 @@
     "translation": {
       "en": "The bill of sale or receipt must be produced when making any claim under the terms of this guarantee.",
       "nl": "Om aanspraak te maken op de garantie hebt u altijd uw aankoopbewijs nodig."
-    }
-  },
-  {
-    "translation": {
-      "en": "Subject to alterations.",
-      "nl": "Wijzigingen voorbehouden."
     }
   }
 ]
