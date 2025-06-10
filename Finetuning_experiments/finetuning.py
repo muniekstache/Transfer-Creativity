@@ -45,8 +45,6 @@ def run_finetuning_experiment():
     """
     Main function to run a single fine-tuning experiment.
     """
-    # Interactive Configuration 
-
     # Define paths to local models and data
     script_dir = Path(__file__).parent  # directory containing this script
     project_root = script_dir.parent  # Project Root
@@ -115,8 +113,8 @@ def run_finetuning_experiment():
     # Load and Prepare the Dataset
     print(f"Loading and processing dataset from: {training_file}")
     raw_dataset = load_dataset("json", data_files=training_file, split="train")
-    split_datasets = raw_dataset.train_test_split(train_size=0.9, seed=42)
-    split_datasets["validation"] = split_datasets.pop("test")
+    split_datasets = raw_dataset.train_test_split(train_size=0.9, seed=42) # creates datasetDict object
+    split_datasets["validation"] = split_datasets.pop("test") #  renam test to validation
     print(f"Dataset splits: {split_datasets}")
 
     # Tokenization
@@ -197,17 +195,17 @@ def run_finetuning_experiment():
 
     training_args = Seq2SeqTrainingArguments(
             output_dir=output_dir,
-            eval_strategy="epoch",      # Evaluate at the end of each epoch
-            save_strategy="epoch",            # Save a checkpoint at the end of each epoch
+            eval_strategy="epoch",      # evaluate at the end of each epoch
+            save_strategy="epoch",            # save a checkpoint at the end of each epoch
             learning_rate=LEARNING_RATE,
             per_device_train_batch_size=BATCH_SIZE,
             per_device_eval_batch_size=BATCH_SIZE,
             weight_decay=WEIGHT_DECAY,
-            save_total_limit=3,
+            save_total_limit=3,                 # don't want to use up massive amounts of storage
             num_train_epochs=NUM_EPOCHS,
-            predict_with_generate=True,
-            fp16=torch.cuda.is_available(),
-            load_best_model_at_end=True,      # This will load the best model at the end of training
+            predict_with_generate=True,         # required for our metrics
+            fp16=torch.cuda.is_available(),     # Use cuda when available
+            load_best_model_at_end=True,      # load the best model at the end of training
             metric_for_best_model="bleu",
             greater_is_better=True,
         )
