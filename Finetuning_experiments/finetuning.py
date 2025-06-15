@@ -72,6 +72,10 @@ def run_finetuning_experiment():
         "Instructive Corpus (Non-Creative)": {
             "path": data_path / "Instructive texts-aggregate.json",
             "name": "instructive"
+        },
+        "Journalistic Corpus (Less-creative)": {
+            "path": data_path / "Journalistic texts-aggregate.json",
+            "name": "less-creative"
         }
     }
 

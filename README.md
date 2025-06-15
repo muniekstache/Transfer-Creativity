@@ -27,7 +27,7 @@ For now only a lightweight set of Python utilities for collecting, cleaning and 
 * Python ≥ 3.9  
 * **opustools** ≥ 1 .0 (required only by `Opus_corpus_creator.py`)
 * The **DPC core dataset** (Dutch Parallel Corpus) extracted to `data/DPC/data/core/` for `dpc_corpus_creator.py`.
-* NLTK **punkt_tab** sentence tokenizer (`nltk.download('punkt_tab')` within python interpreter)
+* **SpaCy en_core_web_lg model**  sentence tokenizer (`python -m spacy download en_core_web_lg`)
 
 Install everything in one go:
 

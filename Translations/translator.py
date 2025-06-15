@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import pathlib, re, torch, pandas as pd, nltk
+import pathlib, re, torch, pandas as pd, spacy
 from transformers import MarianTokenizer, MarianMTModel
 
 
@@ -15,17 +15,23 @@ RUN_FOLDERS = [
     "en-de_v_prime_finetuned_on_instructive",
     "en-fr_v_prime_finetuned_on_creative",
     "en-fr_v_prime_finetuned_on_instructive",
+    "en-de_v_prime_finetuned_on_less-creative",
+    "en-fr_v_prime_finetuned_on_less-creative",
 ]
 
-
+print(len(RUN_FOLDERS))
 # Prepare source: paragraph list & per-paragraph sentence lists
 
 raw = STORY_FILE.read_text(encoding="utf-8")
 paragraphs = [p.strip() for p in re.split(r"\n\s*\n", raw) if p.strip()]
 
 # sentence tokeniser for English
-sent_tok = nltk.data.load("tokenizers/punkt/english.pickle")
-para_sent_src = [sent_tok.tokenize(p) for p in paragraphs]
+nlp = spacy.load("en_core_web_lg")
+    
+def split_to_sentences(paragraph):
+    return [sent.text.strip() for sent in nlp(paragraph).sents if sent.text.strip()]
+
+para_sent_src = [split_to_sentences(p) for p in paragraphs]
 flat_src_sents = [s for chunk in para_sent_src for s in chunk]
 
 
@@ -58,9 +64,17 @@ for run in RUN_FOLDERS:
         tgt_sents.extend(tok.batch_decode(out, skip_special_tokens=True))
 
     # Excel (1 sentence per row)
-    df = pd.DataFrame({"Source sentence": flat_src_sents,
-                       "Target sentence": tgt_sents})
-    xlsx = SCRIPT_DIR / f"{run}_2B0R2B.xlsx"
+    pattern = re.compile(r'^\s*(?:\*\s*){5}\s*$') # matches "* * * * *" with any spacing
+    src_keep, tgt_keep = [], []
+    for src, tgt in zip(flat_src_sents, tgt_sents):
+        if pattern.match(src):
+            continue
+        src_keep.append(src)
+        tgt_keep.append(tgt)
+    df = pd.DataFrame({"Source sentence": src_keep,
+                    "Translation sentence": tgt_keep})
+
+    xlsx = SCRIPT_DIR / f"{run}_2BR02B.xlsx"
     df.to_excel(xlsx, index=False)
     print(f"  • {xlsx.name}")
 
@@ -69,7 +83,7 @@ for run in RUN_FOLDERS:
     for chunk in para_sent_src:
         tgt_paragraphs.append(" ".join(tgt_sents[idx : idx + len(chunk)]))
         idx += len(chunk)
-    txt = SCRIPT_DIR / f"{run}_2B0R2B_nl.txt"
+    txt = SCRIPT_DIR / f"{run}_2BR02B_nl.txt"
     txt.write_text("\n\n".join(tgt_paragraphs), encoding="utf-8")
     print(f"  - {txt.name}")
 

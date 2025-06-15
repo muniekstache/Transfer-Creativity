@@ -10,9 +10,9 @@ import matplotlib.pyplot as plt
 # Which model folders to plot
 RUN_FOLDERS = [
     "en-de_v_prime_finetuned_on_creative",
-    "en-de_v_prime_finetuned_on_instructive",
+    "en-de_v_prime_finetuned_on_less-creative",
     "en-fr_v_prime_finetuned_on_creative",
-    "en-fr_v_prime_finetuned_on_instructive",
+    "en-fr_v_prime_finetuned_on_less-creative",
 ]
 
 
